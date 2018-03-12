@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="17">
+  <Chassis def="Cabin_experimental_03" pos="0.000 0.750 0.600">
+    <Part def="CarPart_WheelSmall_RS" weld_pos="0.450 0.450 -1.500" weld_rot_idx="4" dye="Dye_Black" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 0.900" dye="Dye_Black" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 -0.300" dye="Dye_Black" />
+    <Part def="CarPart_WheelSmall_RS" weld_pos="-0.450 0.450 -1.500" dye="Dye_Black" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.000 0.750 1.800" dye="Dye_Black" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 -1.500" dye="Dye_Black" />
+    <Part def="CarPart_WheelSmall_R" weld_pos="0.450 0.450 2.100" weld_rot_idx="4" />
+    <Part def="CarPart_WheelSmall_R" weld_pos="-0.450 0.450 2.100" />
+    <Part def="CarPart_VanBumper" weld_pos="0.000 0.600 -2.100" />
+    <Part def="CarPart_Grid_1" weld_pos="0.300 1.050 -0.900" weld_rot_idx="20" />
+    <Part def="CarPart_Grid_1" weld_pos="-0.300 1.050 -0.900" weld_rot_idx="17" />
+    <Part def="CarPart_Grid_4" weld_pos="0.000 0.750 -1.800" />
+    <Part def="CarPart_Grid_3" weld_pos="0.000 0.750 2.100" weld_rot_idx="2" />
+    <Part def="CarPart_Lifter" weld_pos="0.000 0.750 -0.900" weld_rot_idx="4" dye="Dye_Black" />
+    <Part def="CarPart_Grid_1" weld_pos="0.000 0.750 1.800" weld_rot_idx="4" />
+    <Part def="CarPart_Grid_3" weld_pos="-0.600 0.750 0.600" weld_rot_idx="17" />
+    <Part def="CarPart_Grid_3" weld_pos="0.600 0.750 0.600" weld_rot_idx="20" />
+  </Chassis>
+</CarDesign>

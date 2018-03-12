@@ -1,0 +1,15 @@
+LootTable.Chest_rare.Decorum_old = {}
+LootTable.Chest_rare.Decorum_old.ods_export = true
+LootTable.Chest_rare.Decorum_old.weight = 330
+LootTable.Chest_rare.Decorum_old.add_weight = 0
+LootTable.Chest_rare.Decorum_old.loot_table = true
+LootTable.Chest_rare.Rare = {}
+LootTable.Chest_rare.Rare.ods_export = true
+LootTable.Chest_rare.Rare.weight = 660
+LootTable.Chest_rare.Rare.add_weight = 0
+LootTable.Chest_rare.Rare.loot_table = true
+LootTable.Chest_rare.Epic = {}
+LootTable.Chest_rare.Epic.ods_export = true
+LootTable.Chest_rare.Epic.weight = 10
+LootTable.Chest_rare.Epic.add_weight = 0
+LootTable.Chest_rare.Epic.loot_table = true

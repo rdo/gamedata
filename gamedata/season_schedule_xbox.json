@@ -1,0 +1,4320 @@
+[
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_5",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_4",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_14",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_11",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_6",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_9",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_15",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_3",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_25",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_30",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_12",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_16",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_24",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_57",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_64",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_27",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_61",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_22",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_18",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_2",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_26",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_49",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_42",
+						"reward": "ResourcePack_Scrap_Epic125"
+					},
+					{
+						"questName": "hard_quest_1",
+						"reward": "ResourcePack_Scrap_Epic150"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2017-09-07T00:00:00Z",
+		"end": "2017-09-21T00:00:00Z",
+		"seasonNumber": 15
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_15",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_2",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_14",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_8",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_16",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_13",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_3",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_5",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_19",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_29",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_4",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_23",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_18",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_26",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_42",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_66",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_1",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_10",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_12",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_67",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_25",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_43",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_52",
+						"reward": "ResourcePack_Scrap_Epic125"
+					},
+					{
+						"questName": "hard_quest_1",
+						"reward": "ResourcePack_Scrap_Epic150"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2017-09-21T00:00:00Z",
+		"end": "2017-10-05T00:00:00Z",
+		"seasonNumber": 16
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_3",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_11",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_13",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_1",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_6",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_15",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_14",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_5",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_2",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_11",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_9",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_17",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_23",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_50",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_52",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_10",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_41",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_4",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_65",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_24",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_51",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_64",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_44",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_61",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2017-10-05T00:00:00Z",
+		"end": "2017-10-19T00:00:00Z",
+		"seasonNumber": 17
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_6",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_8",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_5",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_14",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_12",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_16",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_2",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_3",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_15",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_29",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_4",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_20",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_65",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_51",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_57",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_24",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_41",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_22",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_66",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_62",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_2",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_58",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_42",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_41",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 2
+			}
+		],
+		"start": "2017-10-19T00:00:00Z",
+		"end": "2017-11-02T00:00:00Z",
+		"seasonNumber": 18
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_2",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_5",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_4",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_3",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_1",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_8",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_7",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_13",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_20",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_4",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_6",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_25",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_26",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_42",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_58",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_2",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_41",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_68",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_23",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_63",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_43",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_50",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_3",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_41",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2017-11-02T00:00:00Z",
+		"end": "2017-11-16T00:00:00Z",
+		"seasonNumber": 19
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_10",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_4",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_1",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_2",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_6",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_13",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_11",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_3",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_1",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_27",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_30",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_14",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_10",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_25",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_67",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_68",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_21",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_65",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_57",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_51",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_24",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_64",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_17",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_21",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2017-11-16T00:00:00Z",
+		"end": "2017-11-30T00:00:00Z",
+		"seasonNumber": 20
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_15_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_9_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_3_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_8_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_2_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_10_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_9_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_4_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_11_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_27_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_44_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_42_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_49_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_2_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_66_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_22_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2017-11-30T00:00:00Z",
+		"end": "2017-12-14T00:00:00Z",
+		"seasonNumber": 21
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_16_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_14_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_15_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_2_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_12_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_3_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_9_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_25_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_6_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_19_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_29_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_2_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_12_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_67_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_3_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_43_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_52_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_10_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_50_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_68_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2017-12-14T00:00:00Z",
+		"end": "2017-12-28T00:00:00Z",
+		"seasonNumber": 22
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_11_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_5_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_14_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_12_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_7_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_21_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_14_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_2_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_27_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_67_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_12_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_23_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_50_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_64_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_27_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_17_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_24_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_65_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_44_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 2
+			}
+		],
+		"start": "2017-12-28T00:00:00Z",
+		"end": "2018-01-11T00:00:00Z",
+		"seasonNumber": 23
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_16_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_14_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_15_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_11_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_6_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_19_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_10_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_21_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_23_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_27_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_17_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_24_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_65_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_66_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_22_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_2_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_49_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_42_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-01-11T00:00:00Z",
+		"end": "2018-01-25T00:00:00Z",
+		"seasonNumber": 24
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_11_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_3_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_9_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_8_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_6_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_14_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_28_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_30_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_1_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_2_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_12_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_3_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_10_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_23_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_68_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_67_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_63_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_50_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-01-25T00:00:00Z",
+		"end": "2018-02-08T00:00:00Z",
+		"seasonNumber": 25
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_16_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_3_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_14_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_8_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_2_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_5_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_11_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_10_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_16_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_12_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_14_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_10_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_68_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_50_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_3_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_17_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_27_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_64_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_44_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_65_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_4_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-02-08T00:00:00Z",
+		"end": "2018-02-22T00:00:00Z",
+		"seasonNumber": 26
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_5_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_3_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_9_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_6_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_12_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_8_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_21_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_10_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_3_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_64_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_17_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_27_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_2_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_66_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_62_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_22_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_49_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-02-22T00:00:00Z",
+		"end": "2018-03-08T00:00:00Z",
+		"seasonNumber": 27
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_16_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_7_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_11_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_14_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_21_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_22_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_8_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_17_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_66_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_3_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_12_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_50_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_10_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_68_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_23_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_52_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_67_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-03-08T00:00:00Z",
+		"end": "2018-03-22T00:00:00Z",
+		"seasonNumber": 28
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_15_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_5_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_6_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_12_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_7_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_14_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_27_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_20_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_26_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_2_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_10_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_52_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_63_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_67_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_27_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_64_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_65_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_4_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_17_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_24_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-03-22T00:00:00Z",
+		"end": "2018-04-05T00:00:00Z",
+		"seasonNumber": 29
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_16_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_2_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_7_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_15_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_14_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_14_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_30_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_16_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_25_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_17_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_24_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_62_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_49_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_2_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_66_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_42_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-04-05T00:00:00Z",
+		"end": "2018-04-19T00:00:00Z",
+		"seasonNumber": 30
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_15_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_9_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_14_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_3_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_2_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_12_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_25_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_19_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_7_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_14_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_2_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_49_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_3_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_50_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_68_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_12_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_43_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_10_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_67_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_63_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-04-19T00:00:00Z",
+		"end": "2018-05-03T00:00:00Z",
+		"seasonNumber": 31
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_8_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_6_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_11_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_15_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_9_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_3_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_15_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_5_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_1_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_25_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_52_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_63_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_50_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_17_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_64_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_27_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_24_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_65_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_44_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-05-03T00:00:00Z",
+		"end": "2018-05-17T00:00:00Z",
+		"seasonNumber": 32
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_12_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_6_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_7_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_5_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_11_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_27_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_26_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_9_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_23_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_27_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_24_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_22_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_49_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_62_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_66_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_2_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-05-17T00:00:00Z",
+		"end": "2018-05-31T00:00:00Z",
+		"seasonNumber": 33
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_8_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_15_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_5_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_9_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_11_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_14_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_6_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_22_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_28_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_66_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_42_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_52_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_43_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_67_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_10_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_63_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_12_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_3_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_25_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-05-31T00:00:00Z",
+		"end": "2018-06-14T00:00:00Z",
+		"seasonNumber": 34
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_12_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_6_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_11_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_5_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_7_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_2_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_16_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_9_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_25_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_8_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_16_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_30_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_12_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_67_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_43_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_25_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_4_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_65_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_64_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_17_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_24_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_27_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-06-14T00:00:00Z",
+		"end": "2018-06-28T00:00:00Z",
+		"seasonNumber": 35
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_8_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_11_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_2_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_6_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_16_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_3_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_8_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_20_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_25_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_6_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_64_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_17_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_62_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_66_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_2_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_49_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_22_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-06-28T00:00:00Z",
+		"end": "2018-07-12T00:00:00Z",
+		"seasonNumber": 36
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_12_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_6_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_11_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_15_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_14_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_16_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_15_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_20_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_14_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_10_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_66_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_2_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_68_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_63_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_50_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_3_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_10_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_12_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_52_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_43_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-07-12T00:00:00Z",
+		"end": "2018-07-26T00:00:00Z",
+		"seasonNumber": 37
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_8_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_3_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_14_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_16_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_9_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_7_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_27_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_2_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_26_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_23_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_50_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_68_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_43_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_67_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_44_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_65_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_17_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_64_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_27_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_4_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-07-26T00:00:00Z",
+		"end": "2018-08-09T00:00:00Z",
+		"seasonNumber": 38
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_12_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_6_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_7_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_2_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_9_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_3_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_10_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_12_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_8_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_3_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_65_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_17_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_24_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_66_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_2_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_62_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_42_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_49_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-08-09T00:00:00Z",
+		"end": "2018-08-23T00:00:00Z",
+		"seasonNumber": 39
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_3_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_2_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_7_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_8_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_25_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_27_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_22_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_14_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_49_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_2_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_50_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_43_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_52_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_63_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_68_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_67_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_25_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_12_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-08-23T00:00:00Z",
+		"end": "2018-09-06T00:00:00Z",
+		"seasonNumber": 40
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_12_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_6_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_15_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_14_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_5_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_8_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_11_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_3_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_5_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_12_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_8_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_68_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_10_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_12_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_3_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_17_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_27_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_4_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_44_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_65_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_24_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-09-06T00:00:00Z",
+		"end": "2018-09-20T00:00:00Z",
+		"seasonNumber": 41
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_5_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_7_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_9_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_16_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_15_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_19_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_9_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_5_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_7_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_64_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_27_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_2_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_62_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_66_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_22_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_49_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-09-20T00:00:00Z",
+		"end": "2018-10-04T00:00:00Z",
+		"seasonNumber": 42
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_15_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_14_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_9_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_16_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_8_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_7_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_14_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_22_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_28_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_16_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_49_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_66_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_2_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_50_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_12_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_43_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_23_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_52_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_25_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_63_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_10_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-10-04T00:00:00Z",
+		"end": "2018-10-18T00:00:00Z",
+		"seasonNumber": 43
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_15_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_5_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_8_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_9_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_14_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_7_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_10_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_20_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_30_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_23_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_23_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_67_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_12_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_43_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_65_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_17_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_64_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_27_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_4_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_44_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-10-18T00:00:00Z",
+		"end": "2018-11-01T00:00:00Z",
+		"seasonNumber": 44
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_15_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_14_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_12_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_11_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_9_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_8_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_4_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_7_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_26_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_65_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_24_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_62_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_66_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_42_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_2_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_49_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-11-01T00:00:00Z",
+		"end": "2018-11-15T00:00:00Z",
+		"seasonNumber": 45
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_3_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_7_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_2_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_9_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_8_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_3_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_1_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_28_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_27_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_49_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_25_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_63_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_52_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_12_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_3_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_50_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_43_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_10_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-11-15T00:00:00Z",
+		"end": "2018-11-29T00:00:00Z",
+		"seasonNumber": 46
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_15_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_14_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_12_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_1_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_5_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_4_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_7_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout1",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_27_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_11_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_2_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_6_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_52_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_25_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_43_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_67_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_51_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_24_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_44_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_17_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_65_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_27_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_4_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-11-29T00:00:00Z",
+		"end": "2018-12-13T00:00:00Z",
+		"seasonNumber": 47
+	},
+	{
+		"chains": [
+			{
+				"stages": [
+					{
+						"questName": "easy_quest_6_New",
+						"reward": "ResourcePack_Scrap_Common25"
+					},
+					{
+						"questName": "easy_quest_3_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_16_New",
+						"reward": "ResourcePack_Scrap_Common50"
+					},
+					{
+						"questName": "easy_quest_5_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_11_New",
+						"reward": "ResourcePack_Scrap_Common75"
+					},
+					{
+						"questName": "easy_quest_10_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_13_New",
+						"reward": "ResourcePack_Scrap_Common150"
+					},
+					{
+						"questName": "easy_quest_8_New",
+						"reward": "ResourcePack_Scrap_Common200"
+					}
+				],
+				"groupName": "Frenzied",
+				"reward": "ResourcePack_Scrap_Common300",
+				"layout": "ChainLayout2",
+				"difficulty": 0
+			},
+			{
+				"stages": [
+					{
+						"questName": "medium_quest_10_New",
+						"reward": "ResourcePack_Scrap_Rare25"
+					},
+					{
+						"questName": "medium_quest_29_New",
+						"reward": "ResourcePack_Scrap_Rare50"
+					},
+					{
+						"questName": "medium_quest_20_New",
+						"reward": "ResourcePack_Scrap_Rare75"
+					},
+					{
+						"questName": "medium_quest_24_New",
+						"reward": "ResourcePack_Scrap_Rare100"
+					},
+					{
+						"questName": "hard_quest_57_New",
+						"reward": "ResourcePack_Scrap_Rare125"
+					},
+					{
+						"questName": "hard_quest_65_New",
+						"reward": "ResourcePack_Scrap_Rare150"
+					},
+					{
+						"questName": "hard_quest_64_New",
+						"reward": "ResourcePack_Scrap_Rare200"
+					},
+					{
+						"questName": "hard_quest_17_New",
+						"reward": "ResourcePack_Scrap_Rare250"
+					}
+				],
+				"groupName": "Scavengers",
+				"reward": "Chest_rare_weapon",
+				"layout": "ChainLayout1",
+				"difficulty": 1
+			},
+			{
+				"stages": [
+					{
+						"questName": "hard_quest_26_New",
+						"reward": "ResourcePack_Scrap_Epic5"
+					},
+					{
+						"questName": "hard_quest_62_New",
+						"reward": "ResourcePack_Scrap_Epic10"
+					},
+					{
+						"questName": "hard_quest_18_New",
+						"reward": "ResourcePack_Scrap_Epic15"
+					},
+					{
+						"questName": "hard_quest_22_New",
+						"reward": "ResourcePack_Scrap_Epic25"
+					},
+					{
+						"questName": "hard_quest_58_New",
+						"reward": "ResourcePack_Scrap_Epic50"
+					},
+					{
+						"questName": "hard_quest_66_New",
+						"reward": "ResourcePack_Scrap_Epic75"
+					},
+					{
+						"questName": "hard_quest_49_New",
+						"reward": "ResourcePack_Scrap_Epic100"
+					},
+					{
+						"questName": "hard_quest_42_New",
+						"reward": "ResourcePack_Scrap_Epic125"
+					}
+				],
+				"groupName": "Traders",
+				"reward": "Chest_epic_weapon",
+				"layout": "ChainLayout2",
+				"difficulty": 2
+			}
+		],
+		"start": "2018-12-13T00:00:00Z",
+		"end": "2018-12-27T00:00:00Z",
+		"seasonNumber": 48
+	}
+]

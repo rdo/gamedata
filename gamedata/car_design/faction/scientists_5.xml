@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="44">
+  <Chassis def="Cabin_Moonwalker" pos="0.000 0.750 -1.800">
+    <Part def="CarPart_Grid_4" weld_pos="0.000 0.750 -2.700" weld_rot_idx="4" />
+    <Part def="CarPart_Wheel_Moonwalker_S" weld_pos="0.600 0.450 -1.800" weld_rot_idx="4" />
+    <Part def="CarPart_Wheel_Moonwalker_S" weld_pos="-0.600 0.450 -1.800" />
+    <Part def="CarPart_Syfy_SniperVisor" weld_pos="-0.600 1.350 -3.300" weaponGroup="5" />
+    <Part def="CarPart_Structure_Syfy_Slope" weld_pos="-0.600 0.750 -2.700" weld_rot_idx="11" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Large" weld_pos="0.000 1.050 -3.600" weld_rot_idx="22" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Small" weld_pos="0.000 0.750 -3.300" weld_rot_idx="23" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="0.600 1.650 0.900" weld_rot_idx="18" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="-0.600 1.650 0.900" weld_rot_idx="18" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="0.900 1.650 0.000" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="-0.900 1.650 0.000" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Wide" weld_pos="0.000 1.650 1.800" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_Syfy_Box_Wide" weld_pos="-1.200 1.350 0.600" weld_rot_idx="4" />
+    <Part def="CarPart_Wheel_Moonwalker" weld_pos="-1.200 0.450 0.000" />
+    <Part def="CarPart_Structure_Syfy_Box_Wide" weld_pos="1.200 1.350 0.600" />
+    <Part def="CarPart_AviaBox4x1x4" weld_pos="0.000 1.650 0.000" />
+    <Part def="CarPart_Holder_2x2" weld_pos="0.750 1.800 1.350" weld_rot_idx="10" />
+    <Part def="CarPart_Holder_2x2" weld_pos="-0.750 1.800 1.350" weld_rot_idx="8" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Large" weld_pos="0.000 1.350 2.100" weld_rot_idx="18" />
+    <Part def="CarPart_Bumper1" weld_pos="1.200 1.800 0.600" weld_rot_idx="18" />
+    <Part def="CarPart_Bumper1" weld_pos="-1.200 1.800 0.600" weld_rot_idx="22" />
+    <Part def="CarPart_Structure_Syfy_Box_Large" weld_pos="-0.900 1.050 -0.900" weld_rot_idx="15" />
+    <Part def="CarPart_Structure_Syfy_Box_Large" weld_pos="0.900 1.050 -0.900" weld_rot_idx="15" />
+    <Part def="CarPart_Structure_Syfy_Slope" weld_pos="1.200 1.350 -0.900" weld_rot_idx="10" />
+    <Part def="CarPart_Structure_Syfy_Slope" weld_pos="-1.200 1.350 -0.900" weld_rot_idx="15" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="0.000 0.750 -1.800" weld_rot_idx="22" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="0.000 0.750 1.800" weld_rot_idx="12" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="0.000 1.050 1.800" weld_rot_idx="9" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="0.900 1.050 0.000" weld_rot_idx="5" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="-0.900 1.050 0.000" weld_rot_idx="1" />
+    <Part def="CarPart_Grid_1" weld_pos="0.000 1.050 -3.300" weld_rot_idx="6" />
+    <Part def="CarPart_Headlights2" weld_pos="0.600 1.050 -3.900" />
+    <Part def="CarPart_Brakelights1" weld_pos="-1.200 1.350 1.800" weld_rot_idx="15" />
+    <Part def="CarPart_Brakelights1" weld_pos="1.200 1.350 1.800" weld_rot_idx="10" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="0.300 1.350 -3.300" weld_rot_idx="22" />
+    <Part def="CarPart_Gun_Syfy_FusionRifle" weld_pos="-0.600 2.250 -1.500" weaponGroup="1" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="0.000 0.750 0.000" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="0.000 0.750 1.200" />
+    <Part def="CarPart_Wheel_Moonwalker" weld_pos="-1.200 0.450 1.500" />
+    <Part def="CarPart_Wheel_Moonwalker" weld_pos="1.200 0.450 0.000" weld_rot_idx="4" />
+    <Part def="CarPart_Wheel_Moonwalker" weld_pos="1.200 0.450 1.500" weld_rot_idx="4" />
+    <Part def="CarPart_PowerGiverExplosive_epic" weld_pos="-0.150 0.750 -0.300" weld_rot_idx="22" />
+    <Part def="CarPart_Radiator" weld_pos="0.000 0.750 0.300" weld_rot_idx="18" />
+    <Part def="CarPart_Gun_Syfy_Plazma" weld_pos="0.600 1.950 0.300" weaponGroup="2" />
+  </Chassis>
+</CarDesign>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="14">
+  <Chassis def="Chassis_Wyvern" pos="0.000 0.750 0.000">
+    <Part def="CarPart_Wheel_Drag" weld_pos="0.450 0.450 2.100" weld_rot_idx="4" dye="Dye_Yellow03" />
+    <Part def="CarPart_Muscle_front" weld_pos="0.000 1.050 -2.550" dye="Dye_DangerStripes" />
+    <Part def="CarPart_Engine" weld_pos="0.000 0.750 -1.800" dye="Dye_Black" />
+    <Part def="CarPart_Gun_Machinegun_epic" weld_pos="0.000 2.250 0.600" weaponGroup="1" dye="Dye_Black" />
+    <Part def="CarPart_Wheel_Drag_S" weld_pos="0.450 0.450 -1.800" weld_rot_idx="4" dye="Dye_Yellow03" />
+    <Part def="CarPart_Wheel_Drag_S" weld_pos="-0.450 0.450 -1.800" dye="Dye_Yellow03" />
+    <Part def="CarPart_ChassisLight8" weld_pos="0.000 0.750 1.200" weld_rot_idx="22" dye="Dye_Black" />
+    <Part def="CarPart_Wheel_Drag" weld_pos="-0.450 0.450 2.100" dye="Dye_Yellow03" />
+    <Part def="CarPart_Cooler_rare" weld_pos="0.000 1.050 1.800" weld_rot_idx="11" />
+    <Part def="CarPart_ChassisLight8" weld_pos="0.000 0.750 -1.200" weld_rot_idx="22" dye="Dye_Black" />
+    <Part def="CarPart_Structure_boxslope_1x2x6" weld_pos="0.750 1.350 -1.500" />
+    <Part def="CarPart_Structure_boxslope_1x2x6" weld_pos="-0.750 1.350 -1.500" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="0.600 1.350 0.000" weld_rot_idx="23" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="-0.600 1.350 0.000" weld_rot_idx="19" />
+  </Chassis>
+</CarDesign>

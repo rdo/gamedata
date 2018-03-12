@@ -1,0 +1,2772 @@
+[
+	{
+		"def": "CarPart_AutoGuidedCourseGun_epic",
+		"sellCount": 1,
+		"buyCount": 10,
+		"minSellPrice": 309999,
+		"maxBuyPrice": 120000,
+		"dealsSum": 0,
+		"price": 3960
+	},
+	{
+		"def": "CarPart_AutoGuidedCourseGun_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 23,
+		"minSellPrice": 0,
+		"maxBuyPrice": 25000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_AutoGuidedCourseGun_rare",
+		"sellCount": 1,
+		"buyCount": 9,
+		"minSellPrice": 60000,
+		"maxBuyPrice": 5100,
+		"dealsSum": 620888,
+		"price": 43379
+	},
+	{
+		"def": "CarPart_AutoGuidedCourseGun_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 8,
+		"minSellPrice": 0,
+		"maxBuyPrice": 500,
+		"dealsSum": 0,
+		"price": 150000
+	},
+	{
+		"def": "CarPart_Bag03",
+		"sellCount": 5,
+		"buyCount": 2,
+		"minSellPrice": 1799,
+		"maxBuyPrice": 21,
+		"dealsSum": 6488,
+		"price": 460
+	},
+	{
+		"def": "CarPart_Bag03_Foil",
+		"sellCount": 0,
+		"buyCount": 5,
+		"minSellPrice": 0,
+		"maxBuyPrice": 100,
+		"dealsSum": 0,
+		"price": 25000
+	},
+	{
+		"def": "CarPart_Banner_Spears",
+		"sellCount": 2,
+		"buyCount": 8,
+		"minSellPrice": 9700,
+		"maxBuyPrice": 222,
+		"dealsSum": 26998,
+		"price": 5380
+	},
+	{
+		"def": "CarPart_Banner_Spears_Foil",
+		"sellCount": 0,
+		"buyCount": 3,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Barrel",
+		"sellCount": 69,
+		"buyCount": 15,
+		"minSellPrice": 499,
+		"maxBuyPrice": 120,
+		"dealsSum": 192444,
+		"price": 108
+	},
+	{
+		"def": "CarPart_Barrel_Foil",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 500,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Booster",
+		"sellCount": 26,
+		"buyCount": 37,
+		"minSellPrice": 500,
+		"maxBuyPrice": 100,
+		"dealsSum": 204378,
+		"price": 90
+	},
+	{
+		"def": "CarPart_Booster_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Booster_epic",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 1460
+	},
+	{
+		"def": "CarPart_Booster_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2,
+		"dealsSum": 0,
+		"price": 375
+	},
+	{
+		"def": "CarPart_Booster_rare",
+		"sellCount": 2,
+		"buyCount": 6,
+		"minSellPrice": 47499,
+		"maxBuyPrice": 3501,
+		"dealsSum": 227499,
+		"price": 22000
+	},
+	{
+		"def": "CarPart_Booster_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Brace",
+		"sellCount": 3,
+		"buyCount": 10,
+		"minSellPrice": 1200,
+		"maxBuyPrice": 17,
+		"dealsSum": 11323,
+		"price": 698
+	},
+	{
+		"def": "CarPart_Brace_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 50000
+	},
+	{
+		"def": "CarPart_Brakelights1",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Brakelights1_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Brakelights2",
+		"sellCount": 0,
+		"buyCount": 12,
+		"minSellPrice": 0,
+		"maxBuyPrice": 100,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Brakelights2_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_CarHorn",
+		"sellCount": 2,
+		"buyCount": 9,
+		"minSellPrice": 2500,
+		"maxBuyPrice": 1000,
+		"dealsSum": 12152,
+		"price": 1911
+	},
+	{
+		"def": "CarPart_CarHorn_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_ChainSaw_epic",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 5400
+	},
+	{
+		"def": "CarPart_ChainSaw_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 3,
+		"minSellPrice": 0,
+		"maxBuyPrice": 10000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Cooler_epic",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 100000,
+		"price": 24599
+	},
+	{
+		"def": "CarPart_Cooler_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Cooler_rare",
+		"sellCount": 3,
+		"buyCount": 7,
+		"minSellPrice": 32944,
+		"maxBuyPrice": 5100,
+		"dealsSum": 702949,
+		"price": 26520
+	},
+	{
+		"def": "CarPart_Cooler_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 3,
+		"minSellPrice": 0,
+		"maxBuyPrice": 200,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Drill_epic",
+		"sellCount": 2,
+		"buyCount": 7,
+		"minSellPrice": 44665,
+		"maxBuyPrice": 12122,
+		"dealsSum": 335625,
+		"price": 35432
+	},
+	{
+		"def": "CarPart_Drill_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 4,
+		"minSellPrice": 0,
+		"maxBuyPrice": 600,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Eagle",
+		"sellCount": 2,
+		"buyCount": 6,
+		"minSellPrice": 5000,
+		"maxBuyPrice": 52,
+		"dealsSum": 19929,
+		"price": 3369
+	},
+	{
+		"def": "CarPart_Eagle_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Engine",
+		"sellCount": 1,
+		"buyCount": 9,
+		"minSellPrice": 49999,
+		"maxBuyPrice": 3001,
+		"dealsSum": 0,
+		"price": 210
+	},
+	{
+		"def": "CarPart_EngineMini_epic",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 6600
+	},
+	{
+		"def": "CarPart_EngineMini_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_EngineMini_rare",
+		"sellCount": 0,
+		"buyCount": 3,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2503,
+		"dealsSum": 778850,
+		"price": 30000
+	},
+	{
+		"def": "CarPart_EngineMini_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2,
+		"dealsSum": 0,
+		"price": 20610
+	},
+	{
+		"def": "CarPart_Engine_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Engine_epic",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 4690
+	},
+	{
+		"def": "CarPart_Engine_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 1000
+	},
+	{
+		"def": "CarPart_Engine_rare",
+		"sellCount": 4,
+		"buyCount": 8,
+		"minSellPrice": 60000,
+		"maxBuyPrice": 5000,
+		"dealsSum": 4106933,
+		"price": 63432
+	},
+	{
+		"def": "CarPart_Engine_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 62,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Engine_v8",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 3620
+	},
+	{
+		"def": "CarPart_Engine_v8_Foil",
+		"sellCount": 0,
+		"buyCount": 9,
+		"minSellPrice": 0,
+		"maxBuyPrice": 12999,
+		"dealsSum": 0,
+		"price": 775
+	},
+	{
+		"def": "CarPart_Exhaust2",
+		"sellCount": 7,
+		"buyCount": 6,
+		"minSellPrice": 4000,
+		"maxBuyPrice": 62,
+		"dealsSum": 72177,
+		"price": 2612
+	},
+	{
+		"def": "CarPart_Exhaust2_Foil",
+		"sellCount": 0,
+		"buyCount": 4,
+		"minSellPrice": 0,
+		"maxBuyPrice": 500,
+		"dealsSum": 0,
+		"price": 15006
+	},
+	{
+		"def": "CarPart_Exhaust3",
+		"sellCount": 22,
+		"buyCount": 9,
+		"minSellPrice": 900,
+		"maxBuyPrice": 100,
+		"dealsSum": 16596,
+		"price": 628
+	},
+	{
+		"def": "CarPart_Exhaust3_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 100,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_FenderFlare2",
+		"sellCount": 1,
+		"buyCount": 8,
+		"minSellPrice": 9999,
+		"maxBuyPrice": 101,
+		"dealsSum": 23944,
+		"price": 719
+	},
+	{
+		"def": "CarPart_FenderFlare2_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_FenderSolidOutside_rare",
+		"sellCount": 10,
+		"buyCount": 2,
+		"minSellPrice": 999,
+		"maxBuyPrice": 101,
+		"dealsSum": 17163,
+		"price": 780
+	},
+	{
+		"def": "CarPart_FenderSolidOutside_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 6,
+		"minSellPrice": 0,
+		"maxBuyPrice": 28,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Gun_BigCannon_EX",
+		"sellCount": 47,
+		"buyCount": 69,
+		"minSellPrice": 500,
+		"maxBuyPrice": 150,
+		"dealsSum": 158547,
+		"price": 106
+	},
+	{
+		"def": "CarPart_Gun_BigCannon_EX_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Gun_BigCannon_EX_epic",
+		"sellCount": 0,
+		"buyCount": 3,
+		"minSellPrice": 0,
+		"maxBuyPrice": 5000,
+		"dealsSum": 350000,
+		"price": 79360
+	},
+	{
+		"def": "CarPart_Gun_BigCannon_EX_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Gun_BigCannon_EX_rare",
+		"sellCount": 8,
+		"buyCount": 5,
+		"minSellPrice": 43700,
+		"maxBuyPrice": 8800,
+		"dealsSum": 2255777,
+		"price": 31539
+	},
+	{
+		"def": "CarPart_Gun_BigCannon_EX_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Gun_BigCannon_Free_epic",
+		"sellCount": 0,
+		"buyCount": 8,
+		"minSellPrice": 0,
+		"maxBuyPrice": 100000,
+		"dealsSum": 250000,
+		"price": 50860
+	},
+	{
+		"def": "CarPart_Gun_BigCannon_Free_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 8,
+		"minSellPrice": 0,
+		"maxBuyPrice": 10000,
+		"dealsSum": 0,
+		"price": 200000
+	},
+	{
+		"def": "CarPart_Gun_BigCannon_Free_legend",
+		"sellCount": 0,
+		"buyCount": 5,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2,
+		"dealsSum": 0,
+		"price": 28612
+	},
+	{
+		"def": "CarPart_Gun_BigCannon_Free_legend_Foil",
+		"sellCount": 0,
+		"buyCount": 6,
+		"minSellPrice": 0,
+		"maxBuyPrice": 50000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Gun_BigCannon_Free_rare",
+		"sellCount": 6,
+		"buyCount": 4,
+		"minSellPrice": 45333,
+		"maxBuyPrice": 12355,
+		"dealsSum": 3465689,
+		"price": 50262
+	},
+	{
+		"def": "CarPart_Gun_BigCannon_Free_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 150000
+	},
+	{
+		"def": "CarPart_Gun_CannonMinigun_legend",
+		"sellCount": 2,
+		"buyCount": 5,
+		"minSellPrice": 1199999,
+		"maxBuyPrice": 150000,
+		"dealsSum": 0,
+		"price": 39820
+	},
+	{
+		"def": "CarPart_Gun_CannonMinigun_legend_Foil",
+		"sellCount": 0,
+		"buyCount": 13,
+		"minSellPrice": 0,
+		"maxBuyPrice": 70000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Gun_Cannon_epic",
+		"sellCount": 0,
+		"buyCount": 26,
+		"minSellPrice": 0,
+		"maxBuyPrice": 21000,
+		"dealsSum": 238666,
+		"price": 48533
+	},
+	{
+		"def": "CarPart_Gun_Cannon_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 20000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Gun_Cannon_rare",
+		"sellCount": 6,
+		"buyCount": 12,
+		"minSellPrice": 34000,
+		"maxBuyPrice": 10005,
+		"dealsSum": 1631171,
+		"price": 30780
+	},
+	{
+		"def": "CarPart_Gun_Cannon_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 4,
+		"minSellPrice": 0,
+		"maxBuyPrice": 15000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Gun_Machinegun",
+		"sellCount": 47,
+		"buyCount": 48,
+		"minSellPrice": 700,
+		"maxBuyPrice": 150,
+		"dealsSum": 169254,
+		"price": 143
+	},
+	{
+		"def": "CarPart_Gun_Machinegun_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Gun_Machinegun_epic",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1000,
+		"dealsSum": 0,
+		"price": 8599
+	},
+	{
+		"def": "CarPart_Gun_Machinegun_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 9,
+		"minSellPrice": 0,
+		"maxBuyPrice": 10000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Gun_Machinegun_legend",
+		"sellCount": 0,
+		"buyCount": 5,
+		"minSellPrice": 0,
+		"maxBuyPrice": 9999,
+		"dealsSum": 0,
+		"price": 29889
+	},
+	{
+		"def": "CarPart_Gun_Machinegun_legend_Foil",
+		"sellCount": 0,
+		"buyCount": 6,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1000,
+		"dealsSum": 0,
+		"price": 666666
+	},
+	{
+		"def": "CarPart_Gun_Machinegun_rare",
+		"sellCount": 11,
+		"buyCount": 16,
+		"minSellPrice": 35000,
+		"maxBuyPrice": 15122,
+		"dealsSum": 3605756,
+		"price": 37780
+	},
+	{
+		"def": "CarPart_Gun_Machinegun_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 11,
+		"minSellPrice": 0,
+		"maxBuyPrice": 8000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Gun_Shotgun",
+		"sellCount": 33,
+		"buyCount": 28,
+		"minSellPrice": 430,
+		"maxBuyPrice": 120,
+		"dealsSum": 133626,
+		"price": 410
+	},
+	{
+		"def": "CarPart_Gun_Shotgun_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Gun_Shotgun_epic",
+		"sellCount": 0,
+		"buyCount": 4,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1400,
+		"dealsSum": 99900,
+		"price": 21782
+	},
+	{
+		"def": "CarPart_Gun_Shotgun_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Gun_Shotgun_legend",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 8040
+	},
+	{
+		"def": "CarPart_Gun_Shotgun_legend_Foil",
+		"sellCount": 0,
+		"buyCount": 3,
+		"minSellPrice": 0,
+		"maxBuyPrice": 500,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Gun_Shotgun_rare",
+		"sellCount": 7,
+		"buyCount": 6,
+		"minSellPrice": 33497,
+		"maxBuyPrice": 10000,
+		"dealsSum": 958278,
+		"price": 33491
+	},
+	{
+		"def": "CarPart_Gun_Shotgun_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 12410
+	},
+	{
+		"def": "CarPart_Harvester_legend",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2000,
+		"dealsSum": 0,
+		"price": 28740
+	},
+	{
+		"def": "CarPart_Harvester_legend_Foil",
+		"sellCount": 0,
+		"buyCount": 5,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Headlights",
+		"sellCount": 6,
+		"buyCount": 10,
+		"minSellPrice": 500,
+		"maxBuyPrice": 16,
+		"dealsSum": 8465,
+		"price": 300
+	},
+	{
+		"def": "CarPart_Headlights2",
+		"sellCount": 4,
+		"buyCount": 16,
+		"minSellPrice": 1000,
+		"maxBuyPrice": 22,
+		"dealsSum": 15007,
+		"price": 499
+	},
+	{
+		"def": "CarPart_Headlights2_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Headlights3",
+		"sellCount": 4,
+		"buyCount": 7,
+		"minSellPrice": 7500,
+		"maxBuyPrice": 15,
+		"dealsSum": 6326,
+		"price": 302
+	},
+	{
+		"def": "CarPart_Headlights3_Foil",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 600,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Headlights4",
+		"sellCount": 5,
+		"buyCount": 14,
+		"minSellPrice": 1498,
+		"maxBuyPrice": 16,
+		"dealsSum": 27616,
+		"price": 606
+	},
+	{
+		"def": "CarPart_Headlights4_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 450
+	},
+	{
+		"def": "CarPart_Headlights5",
+		"sellCount": 2,
+		"buyCount": 5,
+		"minSellPrice": 4999,
+		"maxBuyPrice": 280,
+		"dealsSum": 10229,
+		"price": 462
+	},
+	{
+		"def": "CarPart_Headlights5_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Headlights_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 37039
+	},
+	{
+		"def": "CarPart_HomingMissileLauncherBurstR_legend",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 38400
+	},
+	{
+		"def": "CarPart_HomingMissileLauncherBurstR_legend_Foil",
+		"sellCount": 0,
+		"buyCount": 16,
+		"minSellPrice": 0,
+		"maxBuyPrice": 50000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_HomingMissileLauncher_epic",
+		"sellCount": 0,
+		"buyCount": 6,
+		"minSellPrice": 0,
+		"maxBuyPrice": 35000,
+		"dealsSum": 350000,
+		"price": 71240
+	},
+	{
+		"def": "CarPart_HomingMissileLauncher_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 5,
+		"minSellPrice": 0,
+		"maxBuyPrice": 10000,
+		"dealsSum": 0,
+		"price": 3812
+	},
+	{
+		"def": "CarPart_Horns01",
+		"sellCount": 0,
+		"buyCount": 3,
+		"minSellPrice": 0,
+		"maxBuyPrice": 100,
+		"dealsSum": 4134,
+		"price": 410
+	},
+	{
+		"def": "CarPart_Horns01_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Lifter",
+		"sellCount": 53,
+		"buyCount": 12,
+		"minSellPrice": 445,
+		"maxBuyPrice": 80,
+		"dealsSum": 241587,
+		"price": 100
+	},
+	{
+		"def": "CarPart_Lifter_Foil",
+		"sellCount": 0,
+		"buyCount": 10,
+		"minSellPrice": 0,
+		"maxBuyPrice": 5,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_ModuleAmmoBig_epic",
+		"sellCount": 0,
+		"buyCount": 8,
+		"minSellPrice": 0,
+		"maxBuyPrice": 12000,
+		"dealsSum": 0,
+		"price": 6860
+	},
+	{
+		"def": "CarPart_ModuleAmmoBig_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_ModuleAmmo_rare",
+		"sellCount": 0,
+		"buyCount": 4,
+		"minSellPrice": 0,
+		"maxBuyPrice": 13133,
+		"dealsSum": 756892,
+		"price": 47999
+	},
+	{
+		"def": "CarPart_ModuleAmmo_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2,
+		"dealsSum": 0,
+		"price": 111112
+	},
+	{
+		"def": "CarPart_ModuleRadio",
+		"sellCount": 43,
+		"buyCount": 43,
+		"minSellPrice": 490,
+		"maxBuyPrice": 100,
+		"dealsSum": 148187,
+		"price": 40
+	},
+	{
+		"def": "CarPart_ModuleRadio_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_PowerGiverExplosive_epic",
+		"sellCount": 6,
+		"buyCount": 5,
+		"minSellPrice": 29999,
+		"maxBuyPrice": 10000,
+		"dealsSum": 1613144,
+		"price": 34920
+	},
+	{
+		"def": "CarPart_PowerGiverExplosive_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_PowerGiverExplosive_legend",
+		"sellCount": 1,
+		"buyCount": 1,
+		"minSellPrice": 1111112,
+		"maxBuyPrice": 34000,
+		"dealsSum": 430000,
+		"price": 87800
+	},
+	{
+		"def": "CarPart_PowerGiverExplosive_legend_Foil",
+		"sellCount": 0,
+		"buyCount": 8,
+		"minSellPrice": 0,
+		"maxBuyPrice": 3,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_PowerGiver_epic",
+		"sellCount": 8,
+		"buyCount": 13,
+		"minSellPrice": 50998,
+		"maxBuyPrice": 15111,
+		"dealsSum": 7397934,
+		"price": 43931
+	},
+	{
+		"def": "CarPart_PowerGiver_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 4,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_PowerGiver_legend",
+		"sellCount": 0,
+		"buyCount": 20,
+		"minSellPrice": 0,
+		"maxBuyPrice": 25000,
+		"dealsSum": 200000,
+		"price": 68900
+	},
+	{
+		"def": "CarPart_PowerGiver_legend_Foil",
+		"sellCount": 0,
+		"buyCount": 15,
+		"minSellPrice": 0,
+		"maxBuyPrice": 26000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_PowerGiver_rare",
+		"sellCount": 4,
+		"buyCount": 9,
+		"minSellPrice": 44444,
+		"maxBuyPrice": 10005,
+		"dealsSum": 1454664,
+		"price": 28006
+	},
+	{
+		"def": "CarPart_PowerGiver_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 4,
+		"minSellPrice": 0,
+		"maxBuyPrice": 400,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Quadrocopter_epic",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 5000,
+		"dealsSum": 0,
+		"price": 11667
+	},
+	{
+		"def": "CarPart_Quadrocopter_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 2700
+	},
+	{
+		"def": "CarPart_Quadrocopter_rare",
+		"sellCount": 1,
+		"buyCount": 5,
+		"minSellPrice": 55076,
+		"maxBuyPrice": 7000,
+		"dealsSum": 298920,
+		"price": 36904
+	},
+	{
+		"def": "CarPart_Quadrocopter_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_RadarBig_epic",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 6220
+	},
+	{
+		"def": "CarPart_RadarBig_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_RadarBig_rare",
+		"sellCount": 4,
+		"buyCount": 2,
+		"minSellPrice": 66199,
+		"maxBuyPrice": 8000,
+		"dealsSum": 0,
+		"price": 484
+	},
+	{
+		"def": "CarPart_RadarBig_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 667
+	},
+	{
+		"def": "CarPart_RadarSmall",
+		"sellCount": 43,
+		"buyCount": 30,
+		"minSellPrice": 500,
+		"maxBuyPrice": 50,
+		"dealsSum": 145202,
+		"price": 110
+	},
+	{
+		"def": "CarPart_RadarSmall_Foil",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 500,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_RadarSmall_epic",
+		"sellCount": 0,
+		"buyCount": 4,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2,
+		"dealsSum": 0,
+		"price": 9000
+	},
+	{
+		"def": "CarPart_RadarSmall_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_RadarSmall_rare",
+		"sellCount": 1,
+		"buyCount": 2,
+		"minSellPrice": 40000,
+		"maxBuyPrice": 3001,
+		"dealsSum": 215573,
+		"price": 31015
+	},
+	{
+		"def": "CarPart_RadarSmall_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Radiator",
+		"sellCount": 57,
+		"buyCount": 37,
+		"minSellPrice": 500,
+		"maxBuyPrice": 100,
+		"dealsSum": 197119,
+		"price": 241
+	},
+	{
+		"def": "CarPart_Radiator_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Radiator_epic",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 3473
+	},
+	{
+		"def": "CarPart_Radiator_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Radiator_rare",
+		"sellCount": 4,
+		"buyCount": 4,
+		"minSellPrice": 27798,
+		"maxBuyPrice": 3503,
+		"dealsSum": 213694,
+		"price": 29219
+	},
+	{
+		"def": "CarPart_Radiator_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 200,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_RoadsignCircle_01",
+		"sellCount": 3,
+		"buyCount": 3,
+		"minSellPrice": 999,
+		"maxBuyPrice": 26,
+		"dealsSum": 5789,
+		"price": 958
+	},
+	{
+		"def": "CarPart_RoadsignCircle_01_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_RoadsignSquare_01",
+		"sellCount": 1,
+		"buyCount": 10,
+		"minSellPrice": 42000,
+		"maxBuyPrice": 222,
+		"dealsSum": 58105,
+		"price": 10301
+	},
+	{
+		"def": "CarPart_RoadsignSquare_01_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1000,
+		"dealsSum": 0,
+		"price": 300
+	},
+	{
+		"def": "CarPart_Roundsaw_rare",
+		"sellCount": 3,
+		"buyCount": 4,
+		"minSellPrice": 18000,
+		"maxBuyPrice": 12011,
+		"dealsSum": 372021,
+		"price": 25160
+	},
+	{
+		"def": "CarPart_Roundsaw_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Skull01",
+		"sellCount": 2,
+		"buyCount": 9,
+		"minSellPrice": 820,
+		"maxBuyPrice": 100,
+		"dealsSum": 11137,
+		"price": 485
+	},
+	{
+		"def": "CarPart_Skull01_Foil",
+		"sellCount": 0,
+		"buyCount": 3,
+		"minSellPrice": 0,
+		"maxBuyPrice": 500,
+		"dealsSum": 0,
+		"price": 9000
+	},
+	{
+		"def": "CarPart_Sniper_rare",
+		"sellCount": 2,
+		"buyCount": 8,
+		"minSellPrice": 59978,
+		"maxBuyPrice": 10016,
+		"dealsSum": 1429462,
+		"price": 48583
+	},
+	{
+		"def": "CarPart_Sniper_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2500,
+		"dealsSum": 0,
+		"price": 150000
+	},
+	{
+		"def": "CarPart_SpareTire",
+		"sellCount": 1,
+		"buyCount": 4,
+		"minSellPrice": 1000,
+		"maxBuyPrice": 11,
+		"dealsSum": 10430,
+		"price": 450
+	},
+	{
+		"def": "CarPart_SpareTire_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Speakers_Big",
+		"sellCount": 3,
+		"buyCount": 8,
+		"minSellPrice": 1899,
+		"maxBuyPrice": 222,
+		"dealsSum": 7028,
+		"price": 1198
+	},
+	{
+		"def": "CarPart_Speakers_Big_Foil",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1000,
+		"dealsSum": 0,
+		"price": 100000
+	},
+	{
+		"def": "CarPart_Speakers_Small",
+		"sellCount": 10,
+		"buyCount": 3,
+		"minSellPrice": 3889,
+		"maxBuyPrice": 15,
+		"dealsSum": 2619,
+		"price": 447
+	},
+	{
+		"def": "CarPart_Speakers_Small_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_SpearExplosive",
+		"sellCount": 1,
+		"buyCount": 5,
+		"minSellPrice": 65000,
+		"maxBuyPrice": 10000,
+		"dealsSum": 142499,
+		"price": 20200
+	},
+	{
+		"def": "CarPart_SpearExplosive_Foil",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 25000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Stealth_epic",
+		"sellCount": 2,
+		"buyCount": 3,
+		"minSellPrice": 35899,
+		"maxBuyPrice": 8000,
+		"dealsSum": 136898,
+		"price": 20000
+	},
+	{
+		"def": "CarPart_Stealth_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1000,
+		"dealsSum": 0,
+		"price": 8600
+	},
+	{
+		"def": "CarPart_Stealth_legend",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 1500
+	},
+	{
+		"def": "CarPart_Stealth_legend_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_TankTrackBig_epic",
+		"sellCount": 3,
+		"buyCount": 5,
+		"minSellPrice": 49999,
+		"maxBuyPrice": 3501,
+		"dealsSum": 558222,
+		"price": 57200
+	},
+	{
+		"def": "CarPart_TankTrackBig_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 10000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_TankTrackBig_legend",
+		"sellCount": 2,
+		"buyCount": 11,
+		"minSellPrice": 59909,
+		"maxBuyPrice": 15144,
+		"dealsSum": 4894043,
+		"price": 53960
+	},
+	{
+		"def": "CarPart_TankTrackBig_legend_Foil",
+		"sellCount": 0,
+		"buyCount": 8,
+		"minSellPrice": 0,
+		"maxBuyPrice": 17500,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_TankTrack_rare",
+		"sellCount": 3,
+		"buyCount": 16,
+		"minSellPrice": 24900,
+		"maxBuyPrice": 5200,
+		"dealsSum": 729763,
+		"price": 23417
+	},
+	{
+		"def": "CarPart_TankTrack_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 19900,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_TurretDeployerMissile_epic",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 200,
+		"dealsSum": 0,
+		"price": 1881
+	},
+	{
+		"def": "CarPart_TurretDeployerMissile_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2,
+		"dealsSum": 0,
+		"price": 2120
+	},
+	{
+		"def": "CarPart_TurretDeployer_rare",
+		"sellCount": 4,
+		"buyCount": 1,
+		"minSellPrice": 24999,
+		"maxBuyPrice": 4000,
+		"dealsSum": 154094,
+		"price": 30819
+	},
+	{
+		"def": "CarPart_TurretDeployer_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 200,
+		"dealsSum": 0,
+		"price": 60000
+	},
+	{
+		"def": "CarPart_WheelBig_RS_epic",
+		"sellCount": 5,
+		"buyCount": 6,
+		"minSellPrice": 34999,
+		"maxBuyPrice": 3000,
+		"dealsSum": 138195,
+		"price": 21399
+	},
+	{
+		"def": "CarPart_WheelBig_RS_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 111112
+	},
+	{
+		"def": "CarPart_WheelBig_R_epic",
+		"sellCount": 0,
+		"buyCount": 3,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1000,
+		"dealsSum": 179996,
+		"price": 29999
+	},
+	{
+		"def": "CarPart_WheelBig_R_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 24466
+	},
+	{
+		"def": "CarPart_WheelDouble_RS_epic",
+		"sellCount": 2,
+		"buyCount": 4,
+		"minSellPrice": 59999,
+		"maxBuyPrice": 3001,
+		"dealsSum": 653825,
+		"price": 24668
+	},
+	{
+		"def": "CarPart_WheelDouble_RS_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_WheelDouble_R_epic",
+		"sellCount": 0,
+		"buyCount": 4,
+		"minSellPrice": 0,
+		"maxBuyPrice": 3601,
+		"dealsSum": 566629,
+		"price": 37999
+	},
+	{
+		"def": "CarPart_WheelDouble_R_epic_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_WheelMed_RS_rare",
+		"sellCount": 57,
+		"buyCount": 34,
+		"minSellPrice": 200,
+		"maxBuyPrice": 71,
+		"dealsSum": 150807,
+		"price": 339
+	},
+	{
+		"def": "CarPart_WheelMed_RS_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_WheelMed_R_rare",
+		"sellCount": 64,
+		"buyCount": 34,
+		"minSellPrice": 538,
+		"maxBuyPrice": 120,
+		"dealsSum": 128478,
+		"price": 204
+	},
+	{
+		"def": "CarPart_WheelMed_R_rare_Foil",
+		"sellCount": 0,
+		"buyCount": 10,
+		"minSellPrice": 0,
+		"maxBuyPrice": 5,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_WheelSmallChains",
+		"sellCount": 2,
+		"buyCount": 4,
+		"minSellPrice": 24900,
+		"maxBuyPrice": 3000,
+		"dealsSum": 52298,
+		"price": 10500
+	},
+	{
+		"def": "CarPart_WheelSmallChains_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 601
+	},
+	{
+		"def": "CarPart_WheelSmallChains_S",
+		"sellCount": 4,
+		"buyCount": 4,
+		"minSellPrice": 59996,
+		"maxBuyPrice": 3100,
+		"dealsSum": 17000,
+		"price": 3560
+	},
+	{
+		"def": "CarPart_WheelSmallChains_S_Foil",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2,
+		"dealsSum": 0,
+		"price": 251
+	},
+	{
+		"def": "CarPart_WheelSmallSpiked",
+		"sellCount": 4,
+		"buyCount": 2,
+		"minSellPrice": 50000,
+		"maxBuyPrice": 3501,
+		"dealsSum": 249438,
+		"price": 18999
+	},
+	{
+		"def": "CarPart_WheelSmallSpiked_Foil",
+		"sellCount": 0,
+		"buyCount": 6,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2500,
+		"dealsSum": 0,
+		"price": 500
+	},
+	{
+		"def": "CarPart_WheelSmallSpiked_S",
+		"sellCount": 9,
+		"buyCount": 3,
+		"minSellPrice": 25000,
+		"maxBuyPrice": 10100,
+		"dealsSum": 449460,
+		"price": 22000
+	},
+	{
+		"def": "CarPart_WheelSmallSpiked_S_Foil",
+		"sellCount": 0,
+		"buyCount": 7,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2500,
+		"dealsSum": 0,
+		"price": 4600
+	},
+	{
+		"def": "CarPart_WheelSmall_R",
+		"sellCount": 19,
+		"buyCount": 21,
+		"minSellPrice": 699,
+		"maxBuyPrice": 45,
+		"dealsSum": 25221,
+		"price": 88
+	},
+	{
+		"def": "CarPart_WheelSmall_RS",
+		"sellCount": 15,
+		"buyCount": 5,
+		"minSellPrice": 459,
+		"maxBuyPrice": 30,
+		"dealsSum": 33718,
+		"price": 117
+	},
+	{
+		"def": "CarPart_WheelSmall_RS_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 800
+	},
+	{
+		"def": "CarPart_WheelSmall_R_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "CarPart_Wing",
+		"sellCount": 2,
+		"buyCount": 5,
+		"minSellPrice": 3334,
+		"maxBuyPrice": 17,
+		"dealsSum": 17493,
+		"price": 2818
+	},
+	{
+		"def": "CarPart_Wing_Foil",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "Chassis_Basic",
+		"sellCount": 3,
+		"buyCount": 12,
+		"minSellPrice": 39498,
+		"maxBuyPrice": 9000,
+		"dealsSum": 996617,
+		"price": 37679
+	},
+	{
+		"def": "Chassis_Basic_Foil",
+		"sellCount": 0,
+		"buyCount": 15,
+		"minSellPrice": 0,
+		"maxBuyPrice": 10000,
+		"dealsSum": 0,
+		"price": 1375
+	},
+	{
+		"def": "Chassis_FordPickup",
+		"sellCount": 18,
+		"buyCount": 45,
+		"minSellPrice": 568,
+		"maxBuyPrice": 101,
+		"dealsSum": 41511,
+		"price": 214
+	},
+	{
+		"def": "Chassis_FordPickup_Foil",
+		"sellCount": 0,
+		"buyCount": 5,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1201,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "Chassis_Gazelle",
+		"sellCount": 6,
+		"buyCount": 0,
+		"minSellPrice": 59898,
+		"maxBuyPrice": 0,
+		"dealsSum": 370914,
+		"price": 27997
+	},
+	{
+		"def": "Chassis_Gazelle_Foil",
+		"sellCount": 0,
+		"buyCount": 5,
+		"minSellPrice": 0,
+		"maxBuyPrice": 3700,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "Chassis_Kamaz",
+		"sellCount": 4,
+		"buyCount": 18,
+		"minSellPrice": 66664,
+		"maxBuyPrice": 12355,
+		"dealsSum": 6220884,
+		"price": 52511
+	},
+	{
+		"def": "Chassis_Kamaz_Foil",
+		"sellCount": 0,
+		"buyCount": 16,
+		"minSellPrice": 0,
+		"maxBuyPrice": 100000,
+		"dealsSum": 0,
+		"price": 174547
+	},
+	{
+		"def": "Chassis_VWT1",
+		"sellCount": 37,
+		"buyCount": 33,
+		"minSellPrice": 499,
+		"maxBuyPrice": 75,
+		"dealsSum": 143859,
+		"price": 76
+	},
+	{
+		"def": "Chassis_VWT1_Foil",
+		"sellCount": 0,
+		"buyCount": 13,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1200,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "Chassis_Wyvern",
+		"sellCount": 5,
+		"buyCount": 7,
+		"minSellPrice": 44422,
+		"maxBuyPrice": 12222,
+		"dealsSum": 532366,
+		"price": 14160
+	},
+	{
+		"def": "Chassis_Wyvern_Foil",
+		"sellCount": 0,
+		"buyCount": 5,
+		"minSellPrice": 0,
+		"maxBuyPrice": 24500,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "Chest_Rare",
+		"sellCount": 3,
+		"buyCount": 8,
+		"minSellPrice": 180000,
+		"maxBuyPrice": 1000,
+		"dealsSum": 0,
+		"price": 2000
+	},
+	{
+		"def": "Chest_White",
+		"sellCount": 4,
+		"buyCount": 52,
+		"minSellPrice": 4500,
+		"maxBuyPrice": 1600,
+		"dealsSum": 960505,
+		"price": 1660
+	},
+	{
+		"def": "Chest_base_faction",
+		"sellCount": 0,
+		"buyCount": 28,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2100,
+		"dealsSum": 430000,
+		"price": 93579
+	},
+	{
+		"def": "Chest_frenzied_faction",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 3,
+		"dealsSum": 0,
+		"price": 11750
+	},
+	{
+		"def": "Chest_scavengers_faction",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 17940
+	},
+	{
+		"def": "Chest_traders_faction",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 12600
+	},
+	{
+		"def": "Dye_23feb2016",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 1560
+	},
+	{
+		"def": "Dye_Aircraft",
+		"sellCount": 1,
+		"buyCount": 3,
+		"minSellPrice": 55500,
+		"maxBuyPrice": 1000,
+		"dealsSum": 20000,
+		"price": 10250
+	},
+	{
+		"def": "Dye_Black",
+		"sellCount": 3,
+		"buyCount": 4,
+		"minSellPrice": 80000,
+		"maxBuyPrice": 5100,
+		"dealsSum": 17933,
+		"price": 3607
+	},
+	{
+		"def": "Dye_Blue02",
+		"sellCount": 2,
+		"buyCount": 5,
+		"minSellPrice": 5600,
+		"maxBuyPrice": 1500,
+		"dealsSum": 30600,
+		"price": 4320
+	},
+	{
+		"def": "Dye_Blue03",
+		"sellCount": 2,
+		"buyCount": 3,
+		"minSellPrice": 23999,
+		"maxBuyPrice": 3500,
+		"dealsSum": 46901,
+		"price": 7580
+	},
+	{
+		"def": "Dye_Brown01",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 200,
+		"dealsSum": 8278,
+		"price": 2016
+	},
+	{
+		"def": "Dye_Brown02",
+		"sellCount": 1,
+		"buyCount": 2,
+		"minSellPrice": 5998,
+		"maxBuyPrice": 1600,
+		"dealsSum": 14312,
+		"price": 3578
+	},
+	{
+		"def": "Dye_Carbon",
+		"sellCount": 3,
+		"buyCount": 3,
+		"minSellPrice": 50000,
+		"maxBuyPrice": 2100,
+		"dealsSum": 53501,
+		"price": 10700
+	},
+	{
+		"def": "Dye_CherryNine",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 3350
+	},
+	{
+		"def": "Dye_Chrome",
+		"sellCount": 0,
+		"buyCount": 4,
+		"minSellPrice": 0,
+		"maxBuyPrice": 25000,
+		"dealsSum": 0,
+		"price": 5401
+	},
+	{
+		"def": "Dye_Cyan01",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 3500,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "Dye_Cyan02",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 3500,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "Dye_DangerStripes",
+		"sellCount": 0,
+		"buyCount": 9,
+		"minSellPrice": 0,
+		"maxBuyPrice": 10000,
+		"dealsSum": 0,
+		"price": 5706
+	},
+	{
+		"def": "Dye_ForestCamuflage",
+		"sellCount": 0,
+		"buyCount": 3,
+		"minSellPrice": 0,
+		"maxBuyPrice": 10000,
+		"dealsSum": 50000,
+		"price": 17833
+	},
+	{
+		"def": "Dye_Gold",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 100000,
+		"dealsSum": 0,
+		"price": 5202
+	},
+	{
+		"def": "Dye_Gray",
+		"sellCount": 4,
+		"buyCount": 4,
+		"minSellPrice": 19500,
+		"maxBuyPrice": 5500,
+		"dealsSum": 8530,
+		"price": 4706
+	},
+	{
+		"def": "Dye_Green02",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "Dye_Green03",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "Dye_Green04",
+		"sellCount": 2,
+		"buyCount": 2,
+		"minSellPrice": 20000,
+		"maxBuyPrice": 200,
+		"dealsSum": 35687,
+		"price": 3540
+	},
+	{
+		"def": "Dye_GreenKhaki",
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1200,
+		"dealsSum": 0,
+		"price": 2000
+	},
+	{
+		"def": "Dye_Grey01",
+		"sellCount": 2,
+		"buyCount": 3,
+		"minSellPrice": 4000,
+		"maxBuyPrice": 300,
+		"dealsSum": 12000,
+		"price": 3000
+	},
+	{
+		"def": "Dye_Grey03",
+		"sellCount": 2,
+		"buyCount": 2,
+		"minSellPrice": 13889,
+		"maxBuyPrice": 500,
+		"dealsSum": 56656,
+		"price": 9531
+	},
+	{
+		"def": "Dye_Grid",
+		"sellCount": 3,
+		"buyCount": 4,
+		"minSellPrice": 50000,
+		"maxBuyPrice": 500,
+		"dealsSum": 44500,
+		"price": 8100
+	},
+	{
+		"def": "Dye_Khaki01",
+		"sellCount": 3,
+		"buyCount": 1,
+		"minSellPrice": 5000,
+		"maxBuyPrice": 1000,
+		"dealsSum": 22515,
+		"price": 2473
+	},
+	{
+		"def": "Dye_Khaki03",
+		"sellCount": 1,
+		"buyCount": 4,
+		"minSellPrice": 15000,
+		"maxBuyPrice": 400,
+		"dealsSum": 13600,
+		"price": 2720
+	},
+	{
+		"def": "Dye_NewYear2016",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 1000
+	},
+	{
+		"def": "Dye_Orange01",
+		"sellCount": 4,
+		"buyCount": 2,
+		"minSellPrice": 5000,
+		"maxBuyPrice": 2501,
+		"dealsSum": 3334,
+		"price": 3334
+	},
+	{
+		"def": "Dye_Orange02",
+		"sellCount": 3,
+		"buyCount": 0,
+		"minSellPrice": 20000,
+		"maxBuyPrice": 0,
+		"dealsSum": 8000,
+		"price": 4000
+	},
+	{
+		"def": "Dye_Pink01",
+		"sellCount": 2,
+		"buyCount": 2,
+		"minSellPrice": 5000,
+		"maxBuyPrice": 100,
+		"dealsSum": 0,
+		"price": 10000
+	},
+	{
+		"def": "Dye_Pink02",
+		"sellCount": 3,
+		"buyCount": 1,
+		"minSellPrice": 3000,
+		"maxBuyPrice": 200,
+		"dealsSum": 8894,
+		"price": 2965
+	},
+	{
+		"def": "Dye_Red01",
+		"sellCount": 1,
+		"buyCount": 7,
+		"minSellPrice": 100000,
+		"maxBuyPrice": 1000,
+		"dealsSum": 52678,
+		"price": 3980
+	},
+	{
+		"def": "Dye_Red03",
+		"sellCount": 1,
+		"buyCount": 4,
+		"minSellPrice": 50000,
+		"maxBuyPrice": 2500,
+		"dealsSum": 7000,
+		"price": 2333
+	},
+	{
+		"def": "Dye_Sand",
+		"sellCount": 2,
+		"buyCount": 1,
+		"minSellPrice": 10000,
+		"maxBuyPrice": 200,
+		"dealsSum": 9000,
+		"price": 7800
+	},
+	{
+		"def": "Dye_Sand02",
+		"sellCount": 2,
+		"buyCount": 2,
+		"minSellPrice": 6000,
+		"maxBuyPrice": 1000,
+		"dealsSum": 4780,
+		"price": 4927
+	},
+	{
+		"def": "Dye_SandCamuflage",
+		"sellCount": 1,
+		"buyCount": 1,
+		"minSellPrice": 100000,
+		"maxBuyPrice": 1000,
+		"dealsSum": 10000,
+		"price": 5367
+	},
+	{
+		"def": "Dye_SeaCamuflage",
+		"sellCount": 0,
+		"buyCount": 4,
+		"minSellPrice": 0,
+		"maxBuyPrice": 10000,
+		"dealsSum": 60000,
+		"price": 20033
+	},
+	{
+		"def": "Dye_SkyBlue",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "Dye_Valentine2016",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 100
+	},
+	{
+		"def": "Dye_Violet01",
+		"sellCount": 1,
+		"buyCount": 9,
+		"minSellPrice": 100000,
+		"maxBuyPrice": 1000,
+		"dealsSum": 73800,
+		"price": 8560
+	},
+	{
+		"def": "Dye_Violet02",
+		"sellCount": 4,
+		"buyCount": 1,
+		"minSellPrice": 13456,
+		"maxBuyPrice": 5100,
+		"dealsSum": 2000,
+		"price": 14625
+	},
+	{
+		"def": "Dye_WarmRed",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "Dye_Yellow01",
+		"sellCount": 1,
+		"buyCount": 3,
+		"minSellPrice": 10000,
+		"maxBuyPrice": 500,
+		"dealsSum": 0,
+		"price": 3001
+	},
+	{
+		"def": "Dye_Yellow02",
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "Dye_Yellow03",
+		"sellCount": 3,
+		"buyCount": 3,
+		"minSellPrice": 10000,
+		"maxBuyPrice": 4020,
+		"dealsSum": 23118,
+		"price": 4624
+	},
+	{
+		"def": "Dye_checker",
+		"sellCount": 0,
+		"buyCount": 6,
+		"minSellPrice": 0,
+		"maxBuyPrice": 4500,
+		"dealsSum": 11000,
+		"price": 5500
+	},
+	{
+		"def": "metal_BlackIron",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 4000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "pic_CamouflageDesert",
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 20000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "pic_Electric01",
+		"sellCount": 2,
+		"buyCount": 6,
+		"minSellPrice": 55400,
+		"maxBuyPrice": 27500,
+		"dealsSum": 95833,
+		"price": 23958
+	},
+	{
+		"def": "pic_EtnoPattern",
+		"sellCount": 0,
+		"buyCount": 3,
+		"minSellPrice": 0,
+		"maxBuyPrice": 10000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"def": "pic_Flames01",
+		"sellCount": 0,
+		"buyCount": 4,
+		"minSellPrice": 0,
+		"maxBuyPrice": 21000,
+		"dealsSum": 100333,
+		"price": 50167
+	},
+	{
+		"resType": "Scrap_Common",
+		"count": 10,
+		"sellCount": 225,
+		"buyCount": 110,
+		"minSellPrice": 560,
+		"maxBuyPrice": 300,
+		"dealsSum": 503935,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Common",
+		"count": 50,
+		"sellCount": 14,
+		"buyCount": 21,
+		"minSellPrice": 2999,
+		"maxBuyPrice": 1050,
+		"dealsSum": 167513,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Common",
+		"count": 100,
+		"sellCount": 43,
+		"buyCount": 37,
+		"minSellPrice": 5175,
+		"maxBuyPrice": 3200,
+		"dealsSum": 2118548,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Common",
+		"count": 500,
+		"sellCount": 0,
+		"buyCount": 18,
+		"minSellPrice": 0,
+		"maxBuyPrice": 15101,
+		"dealsSum": 494033,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Common",
+		"count": 1000,
+		"sellCount": 0,
+		"buyCount": 25,
+		"minSellPrice": 0,
+		"maxBuyPrice": 26001,
+		"dealsSum": 333490,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Common",
+		"count": 5000,
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 30000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Rare",
+		"count": 10,
+		"sellCount": 10,
+		"buyCount": 21,
+		"minSellPrice": 2000,
+		"maxBuyPrice": 1400,
+		"dealsSum": 449399,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Rare",
+		"count": 50,
+		"sellCount": 0,
+		"buyCount": 2,
+		"minSellPrice": 0,
+		"maxBuyPrice": 100,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Rare",
+		"count": 100,
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 28000,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Rare",
+		"count": 500,
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Rare",
+		"count": 1000,
+		"sellCount": 0,
+		"buyCount": 5,
+		"minSellPrice": 0,
+		"maxBuyPrice": 2000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Rare",
+		"count": 5000,
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Epic",
+		"count": 10,
+		"sellCount": 16,
+		"buyCount": 0,
+		"minSellPrice": 7000,
+		"maxBuyPrice": 0,
+		"dealsSum": 66100,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Epic",
+		"count": 50,
+		"sellCount": 0,
+		"buyCount": 10,
+		"minSellPrice": 0,
+		"maxBuyPrice": 500,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Epic",
+		"count": 100,
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Epic",
+		"count": 500,
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Epic",
+		"count": 1000,
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "Scrap_Epic",
+		"count": 5000,
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "Gasoline",
+		"count": 10,
+		"sellCount": 193,
+		"buyCount": 55,
+		"minSellPrice": 100,
+		"maxBuyPrice": 36,
+		"dealsSum": 60892,
+		"price": 0
+	},
+	{
+		"resType": "Gasoline",
+		"count": 50,
+		"sellCount": 10,
+		"buyCount": 15,
+		"minSellPrice": 548,
+		"maxBuyPrice": 220,
+		"dealsSum": 29676,
+		"price": 0
+	},
+	{
+		"resType": "Gasoline",
+		"count": 100,
+		"sellCount": 48,
+		"buyCount": 20,
+		"minSellPrice": 998,
+		"maxBuyPrice": 600,
+		"dealsSum": 157248,
+		"price": 0
+	},
+	{
+		"resType": "Gasoline",
+		"count": 500,
+		"sellCount": 6,
+		"buyCount": 2,
+		"minSellPrice": 5000,
+		"maxBuyPrice": 2500,
+		"dealsSum": 149955,
+		"price": 0
+	},
+	{
+		"resType": "Gasoline",
+		"count": 1000,
+		"sellCount": 2,
+		"buyCount": 9,
+		"minSellPrice": 20000,
+		"maxBuyPrice": 3000,
+		"dealsSum": 105946,
+		"price": 0
+	},
+	{
+		"resType": "Gasoline",
+		"count": 5000,
+		"sellCount": 0,
+		"buyCount": 1,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "Platinum",
+		"count": 10,
+		"sellCount": 37,
+		"buyCount": 99,
+		"minSellPrice": 4499,
+		"maxBuyPrice": 3600,
+		"dealsSum": 10380865,
+		"price": 0
+	},
+	{
+		"resType": "Platinum",
+		"count": 50,
+		"sellCount": 13,
+		"buyCount": 42,
+		"minSellPrice": 34988,
+		"maxBuyPrice": 15555,
+		"dealsSum": 2764910,
+		"price": 0
+	},
+	{
+		"resType": "Platinum",
+		"count": 100,
+		"sellCount": 1,
+		"buyCount": 12,
+		"minSellPrice": 80000,
+		"maxBuyPrice": 33333,
+		"dealsSum": 890227,
+		"price": 0
+	},
+	{
+		"resType": "Platinum",
+		"count": 500,
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "Platinum",
+		"count": 1000,
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "Platinum",
+		"count": 5000,
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "RepairKit",
+		"count": 1,
+		"sellCount": 10,
+		"buyCount": 14,
+		"minSellPrice": 9600,
+		"maxBuyPrice": 51,
+		"dealsSum": 313726,
+		"price": 0
+	},
+	{
+		"resType": "RepairKit",
+		"count": 5,
+		"sellCount": 0,
+		"buyCount": 5,
+		"minSellPrice": 0,
+		"maxBuyPrice": 1000,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "RepairKit",
+		"count": 10,
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	},
+	{
+		"resType": "RepairKit",
+		"count": 50,
+		"sellCount": 0,
+		"buyCount": 0,
+		"minSellPrice": 0,
+		"maxBuyPrice": 0,
+		"dealsSum": 0,
+		"price": 0
+	}
+]

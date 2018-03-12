@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="39">
+  <Chassis def="Chassis_Military" pos="0.016 0.750 -1.411">
+    <Part def="CarPart_ChassisBase4" weld_pos="0.616 0.750 -1.411" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.584 0.750 -1.411" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.616 0.750 -0.211" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.584 0.750 -0.211" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.616 0.750 0.989" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.584 0.750 0.989" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.616 0.750 2.189" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.584 0.750 2.189" />
+    <Part def="CarPart_TankTrackBig_legend" weld_pos="-1.034 0.450 0.389" />
+    <Part def="CarPart_TankTrackBig_legend" weld_pos="1.066 0.450 0.389" weld_rot_idx="4" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="1.516 1.050 -2.011" weld_rot_idx="7" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="1.516 1.050 2.789" weld_rot_idx="2" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="-1.484 1.050 2.789" weld_rot_idx="2" />
+    <Part def="CarPart_Military_box_4x1x8" weld_pos="-1.184 1.650 1.589" weld_rot_idx="10" />
+    <Part def="CarPart_Military_box_slope_4x1x8" weld_pos="0.016 1.050 2.789" weld_rot_idx="12" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="-1.484 1.050 -2.011" weld_rot_idx="7" />
+    <Part def="CarPart_Military_slope_2x1x8" weld_pos="1.516 1.650 -0.811" weld_rot_idx="1" />
+    <Part def="CarPart_Military_slope_2x1x8" weld_pos="1.516 1.650 1.589" weld_rot_idx="1" />
+    <Part def="CarPart_Military_slope_2x1x8" weld_pos="-1.484 1.650 1.589" weld_rot_idx="5" />
+    <Part def="CarPart_Military_box_slope_2x1x8" weld_pos="-1.184 1.950 1.589" weld_rot_idx="11" />
+    <Part def="CarPart_Military_slope_2x1x8" weld_pos="-1.484 1.650 -0.811" weld_rot_idx="5" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="-1.334 1.950 -0.211" weld_rot_idx="7" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="1.366 1.950 -0.211" weld_rot_idx="7" />
+    <Part def="CarPart_Military_box_slope_2x1x8" weld_pos="1.216 1.950 1.589" weld_rot_idx="10" />
+    <Part def="CarPart_Headlights5" weld_pos="1.366 1.650 -1.111" />
+    <Part def="CarPart_Headlights5" weld_pos="-1.334 1.650 -1.111" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="0.016 1.800 -0.211" weld_rot_idx="8" />
+    <Part def="CarPart_Military_box_slope_2x1x4" weld_pos="0.616 1.950 2.789" weld_rot_idx="8" />
+    <Part def="CarPart_Military_box_slope_2x1x4" weld_pos="-0.584 1.950 2.789" weld_rot_idx="8" />
+    <Part def="CarPart_Military_slope_thin_1x1x4" weld_pos="0.016 0.600 -2.011" weld_rot_idx="13" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="0.016 2.100 -0.211" weld_rot_idx="8" />
+    <Part def="CarPart_Military_box_4x1x8" weld_pos="1.216 1.650 1.589" weld_rot_idx="11" />
+    <Part def="CarPart_Military_slope_3ple_1x1x8" weld_pos="-1.634 1.650 1.589" weld_rot_idx="4" />
+    <Part def="CarPart_Military_slope_3ple_1x1x8" weld_pos="1.666 1.650 1.589" />
+    <Part def="CarPart_Gun_Cannon_epic" weld_pos="0.016 1.650 0.989" />
+    <Part def="CarPart_Military_box_4x1x8" weld_pos="0.016 1.350 1.589" weld_rot_idx="4" />
+    <Part def="CarPart_Cooler_epic" weld_pos="0.016 1.050 1.889" weld_rot_idx="8" />
+    <Part def="CarPart_Cooler_epic" weld_pos="0.016 1.050 0.989" weld_rot_idx="8" />
+    <Part def="CarPart_Cooler_epic" weld_pos="0.016 1.050 0.089" weld_rot_idx="8" />
+  </Chassis>
+</CarDesign>

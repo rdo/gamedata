@@ -1,0 +1,34 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="29">
+  <Chassis def="Chassis_ChevyPickup" pos="0.000 0.750 0.600" dye="pic_PresentPaper01">
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="0.450 0.450 2.400" weld_rot_idx="4" dye="pic_PresentPaper01" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="-0.450 0.450 2.400" dye="pic_PresentPaper01" />
+    <Part def="CarPart_Lifter" weld_pos="0.000 0.750 2.100" weld_rot_idx="18" dye="pic_PresentPaper01" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="0.750 1.350 2.400" weld_rot_idx="6" dye="pic_PresentPaper01" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="-0.750 1.350 2.400" weld_rot_idx="6" dye="pic_PresentPaper01" />
+    <Part def="CarPart_TruckPipeBig2x6" weld_pos="0.000 1.350 3.150" weld_rot_idx="9" dye="pic_PresentPaper01" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="0.750 0.600 2.700" weld_rot_idx="2" dye="pic_PresentPaper01" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="-0.750 0.600 2.700" weld_rot_idx="2" dye="pic_PresentPaper01" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 2.700" weld_rot_idx="22" dye="pic_PresentPaper01" />
+    <Part def="CarPart_EngineMini_rare" weld_pos="0.000 1.050 2.700" weld_rot_idx="22" dye="pic_PresentPaper01" />
+    <Part def="CarPart_TruckBarrel" weld_pos="0.000 0.750 3.000" weld_rot_idx="4" dye="pic_PresentPaper01" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 1.500" dye="pic_PresentPaper01" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 0.300" dye="pic_PresentPaper01" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.750 -0.600" dye="pic_PresentPaper01" />
+    <Part def="CarPart_Muscle_fender" weld_pos="1.050 1.050 -0.300" dye="pic_PresentPaper01" />
+    <Part def="CarPart_Muscle_fender" weld_pos="-1.050 1.050 -0.300" weld_rot_idx="4" dye="pic_PresentPaper01" />
+    <Part def="CarPart_MobEasy_SpearExplosive" weld_pos="0.000 1.200 -1.200" weld_rot_idx="23" dye="pic_PresentPaper01" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="-0.750 1.200 -1.200" weld_rot_idx="9" dye="pic_Gingerbread01" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="0.750 1.200 -1.200" weld_rot_idx="13" dye="pic_Gingerbread01" />
+    <Part def="CarPart_Mob_HeadLights2" weld_pos="0.000 1.650 0.000" dye="pic_PresentPaper01" />
+    <Part def="CarPart_Muscle_fender" weld_pos="1.050 1.050 2.400" dye="pic_PresentPaper01" />
+    <Part def="CarPart_Muscle_fender" weld_pos="-1.050 1.050 2.400" weld_rot_idx="4" dye="pic_PresentPaper01" />
+    <Part def="CarPart_TruckPipeBigSlope2x4" weld_pos="0.000 1.650 2.100" weld_rot_idx="3" dye="pic_PresentPaper01" />
+    <Part def="CarPart_TruckPipeBigSlope2x4" weld_pos="0.000 1.650 2.700" dye="pic_PresentPaper01" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="0.450 0.450 -0.300" weld_rot_idx="4" dye="pic_PresentPaper01" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.450 0.450 -0.300" dye="pic_PresentPaper01" />
+    <Part def="CarPart_Nyear_Horn" weld_pos="0.450 2.400 1.050" dye="pic_PresentPaper01" />
+    <Part def="CarPart_Nyear_Horn" weld_pos="-0.450 2.400 1.050" weld_rot_idx="4" dye="pic_PresentPaper01" />
+    <Part def="CarPart_RedNose" weld_pos="0.000 1.653 -0.600" weld_rot_idx="18" dye="pic_PresentPaper01" />
+  </Chassis>
+</CarDesign>

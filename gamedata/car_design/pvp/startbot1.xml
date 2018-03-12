@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="12">
+  <Chassis def="Chassis_Basic" pos="-0.170 0.750 -0.441" dye="Dye_Eraser">
+    <Part def="CarPart_WheelSmallSpiked_S" weld_pos="0.280 0.450 -1.341" weld_rot_idx="4" />
+    <Part def="CarPart_WheelSmallSpiked_S" weld_pos="-0.620 0.450 -1.341" />
+    <Part def="CarPart_WheelSmallSpiked" weld_pos="-0.620 0.450 1.059" />
+    <Part def="CarPart_WheelSmallSpiked" weld_pos="0.280 0.450 1.059" weld_rot_idx="4" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.170 0.750 1.059" weld_rot_idx="4" />
+    <Part def="CarPart_Skull01" weld_pos="-0.170 1.050 -1.641" weld_rot_idx="3" dye="Dye_Red03" />
+    <Part def="CarPart_Headlights" weld_pos="0.280 0.450 -1.641" />
+    <Part def="CarPart_Headlights" weld_pos="-0.620 0.450 -1.641" />
+    <Part def="CarPart_ChassisLight4" weld_pos="-0.170 0.750 0.159" weld_rot_idx="4" />
+    <Part def="CarPart_ChassisLight4" weld_pos="-0.170 0.750 -1.041" weld_rot_idx="4" />
+    <Part def="CarPart_Gun_Machinegun_Starter" weld_pos="-0.170 1.950 -0.141" />
+    <Part def="CarPart_Lifter" weld_pos="-0.170 1.350 0.759" weld_rot_idx="2" />
+  </Chassis>
+</CarDesign>

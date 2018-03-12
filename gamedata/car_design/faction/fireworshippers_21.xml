@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="21">
+  <Chassis def="Cabin_Tribal" pos="0.000 0.750 1.500">
+    <Part def="CarPart_ChassisLight2" weld_pos="0.000 0.750 2.400" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 -0.900" weld_rot_idx="22" />
+    <Part def="CarPart_Structure_diffusor" weld_pos="0.000 0.600 3.000" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_trunk" weld_pos="0.000 1.050 2.850" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_bumper2" weld_pos="0.000 0.600 -1.950" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 0.300" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 1.500" weld_rot_idx="22" />
+    <Part def="CarPart_Wheel_SawWheel_S" weld_pos="-0.450 0.450 -1.500" />
+    <Part def="CarPart_Wheel_SawWheel" weld_pos="0.450 0.450 2.100" weld_rot_idx="4" />
+    <Part def="CarPart_Wheel_SawWheel" weld_pos="-0.450 0.450 2.100" />
+    <Part def="CarPart_Structure_radiator_grill1" weld_pos="0.000 1.200 -1.800" />
+    <Part def="CarPart_Engine_v8" weld_pos="0.000 0.750 -0.900" />
+    <Part def="CarPart_Wheel_SawWheel_S" weld_pos="0.450 0.450 -1.500" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_fender3_l" weld_pos="0.600 1.050 -1.500" />
+    <Part def="CarPart_Structure_fender3_r" weld_pos="-0.600 1.050 -1.500" />
+    <Part def="CarPart_Buggy_Grid9" weld_pos="0.900 0.750 0.600" weld_rot_idx="23" />
+    <Part def="CarPart_Buggy_Grid9" weld_pos="-0.900 0.750 0.600" weld_rot_idx="19" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="1.050 0.750 0.600" />
+    <Part def="CarPart_Buggy_Grid11" weld_pos="-1.050 0.750 0.600" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="-1.050 1.050 1.200" weld_rot_idx="6" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="1.050 1.050 1.200" weld_rot_idx="6" />
+  </Chassis>
+</CarDesign>

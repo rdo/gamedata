@@ -1,0 +1,9 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="4">
+  <Chassis def="Brawl_MBP_Cabin" pos="-0.300 1.050 -1.650">
+    <Part def="CarPart_Companion_Wheel" weld_pos="-0.055 0.902 -0.972" weld_rot_idx="4" />
+    <Part def="CarPart_Companion_Wheel_S" weld_pos="-0.545 0.902 -1.964" />
+    <Part def="CarPart_Companion_Wheel_left_S" weld_pos="-0.055 0.902 -1.964" weld_rot_idx="4" />
+    <Part def="CarPart_Companion_Wheel_left" weld_pos="-0.545 0.902 -0.972" />
+  </Chassis>
+</CarDesign>

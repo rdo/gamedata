@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="42">
+  <Chassis def="Chassis_Basic" pos="0.000 0.750 0.498" dye="Dye_Eraser">
+    <Part def="CarPart_WheelBig_R_epic" weld_pos="0.150 0.450 -1.902" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_Engine_v8" weld_pos="0.000 0.750 2.298" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="0.000 0.750 1.998" weld_rot_idx="1" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="0.000 1.050 2.898" weld_rot_idx="1" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.000 1.350 2.898" weld_rot_idx="2" dye="Dye_Eraser" />
+    <Part def="CarPart_Booster_epic" weld_pos="-1.050 0.600 0.198" dye="Dye_WarmRed" />
+    <Part def="CarPart_Exhaust2" weld_pos="0.600 1.200 0.948" weld_rot_idx="2" dye="Dye_Eraser" />
+    <Part def="CarPart_Exhaust2" weld_pos="-0.600 1.200 0.948" weld_rot_idx="6" dye="Dye_Eraser" />
+    <Part def="CarPart_Exhaust2" weld_pos="0.600 1.500 1.248" weld_rot_idx="2" dye="Dye_Eraser" />
+    <Part def="CarPart_Exhaust2" weld_pos="-0.600 1.500 1.248" weld_rot_idx="6" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid9" weld_pos="1.200 1.050 0.198" weld_rot_idx="18" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid9" weld_pos="-1.200 1.050 0.198" weld_rot_idx="22" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="-0.600 1.350 0.198" weld_rot_idx="19" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="0.600 1.350 0.198" weld_rot_idx="23" dye="Dye_Eraser" />
+    <Part def="CarPart_BladeWing_epic" weld_pos="0.600 0.600 -2.802" weld_rot_idx="14" dye="Dye_WarmRed" />
+    <Part def="CarPart_BladeWing_epic" weld_pos="-0.600 0.600 -2.802" weld_rot_idx="11" dye="Dye_WarmRed" />
+    <Part def="CarPart_Drill_epic" weld_pos="0.000 1.050 -2.502" dye="Dye_WarmRed" />
+    <Part def="CarPart_BumperSpikeMini_square" weld_pos="1.500 0.750 0.498" weld_rot_idx="20" dye="Dye_Eraser" />
+    <Part def="CarPart_BumperSpikeMini_square" weld_pos="1.500 0.750 -0.102" weld_rot_idx="20" dye="Dye_Eraser" />
+    <Part def="CarPart_BumperSpikeMini_square" weld_pos="-1.500 0.750 0.498" weld_rot_idx="17" dye="Dye_Eraser" />
+    <Part def="CarPart_BumperSpikeMini_square" weld_pos="-1.500 0.750 -0.102" weld_rot_idx="17" dye="Dye_Eraser" />
+    <Part def="CarPart_BumperSpikeMini_square" weld_pos="-0.300 1.950 1.098" dye="Dye_Eraser" />
+    <Part def="CarPart_BumperSpikeMini_square" weld_pos="0.300 1.950 1.098" dye="Dye_Eraser" />
+    <Part def="CarPart_BumperSpikeMini_square" weld_pos="0.000 1.950 0.498" dye="Dye_Eraser" />
+    <Part def="CarPart_WheelBig_R_epic" weld_pos="-0.150 0.450 -1.902" dye="Dye_Eraser" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.000 0.750 -1.002" weld_rot_idx="22" dye="Dye_Eraser" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.000 0.750 -2.202" weld_rot_idx="22" dye="Dye_Eraser" />
+    <Part def="CarPart_ChassisLight8" weld_pos="0.000 0.750 0.798" weld_rot_idx="22" dye="Dye_Eraser" />
+    <Part def="CarPart_Stealth_epic" weld_pos="0.000 1.350 -1.602" dye="Dye_WarmRed" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.000 1.350 -2.802" dye="Dye_WarmRed" />
+    <Part def="CarPart_TruckBox" weld_pos="0.000 0.750 -2.202" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="0.000 1.350 3.198" weld_rot_idx="1" dye="Dye_Eraser" />
+    <Part def="CarPart_Wing" weld_pos="0.000 1.350 3.348" dye="Dye_Eraser" />
+    <Part def="CarPart_Booster_epic" weld_pos="1.050 0.600 0.198" dye="Dye_WarmRed" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.000 1.650 -2.202" dye="Dye_WarmRed" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.000 1.950 -0.402" weld_rot_idx="1" dye="Dye_WarmRed" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.000 1.650 -1.302" weld_rot_idx="22" dye="Dye_WarmRed" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.300 1.350 -1.902" dye="Dye_WarmRed" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.300 1.350 -1.902" weld_rot_idx="4" dye="Dye_WarmRed" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.000 0.750 -1.302" weld_rot_idx="22" dye="Dye_Eraser" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="0.450 0.450 1.998" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.450 0.450 1.998" dye="Dye_Eraser" />
+  </Chassis>
+</CarDesign>

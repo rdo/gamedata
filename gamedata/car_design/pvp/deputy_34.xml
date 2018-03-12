@@ -1,0 +1,82 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="77">
+  <Chassis def="Chassis_Kamaz" pos="0.000 1.050 0.300">
+    <Part def="CarPart_TruckDoor" weld_pos="1.050 1.650 -0.600" weld_rot_idx="9" />
+    <Part def="CarPart_TruckDoor" weld_pos="-1.050 1.650 -3.000" weld_rot_idx="8" />
+    <Part def="CarPart_VanBack_epic" weld_pos="0.000 2.100 -0.600" weld_rot_idx="7" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="1.050 1.650 -5.400" weld_rot_idx="9" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="-1.050 1.650 -5.400" weld_rot_idx="9" />
+    <Part def="CarPart_VanBack_epic" weld_pos="0.000 1.050 2.850" />
+    <Part def="CarPart_BladeWing_double" weld_pos="-0.600 2.250 3.000" weld_rot_idx="1" />
+    <Part def="CarPart_BladeWing_epic" weld_pos="-0.150 2.250 3.000" weld_rot_idx="1" />
+    <Part def="CarPart_BladeWing_epic" weld_pos="0.150 2.250 3.000" weld_rot_idx="1" />
+    <Part def="CarPart_BladeWing_double" weld_pos="0.600 2.250 3.000" weld_rot_idx="1" />
+    <Part def="CarPart_ArmorPlate_Thorns2" weld_pos="-0.600 1.350 3.000" weld_rot_idx="12" />
+    <Part def="CarPart_PowerGiver_legend" weld_pos="0.000 1.350 -0.600" weld_rot_idx="13" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="-0.900 1.950 1.800" weld_rot_idx="11" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="-0.900 1.950 2.400" weld_rot_idx="11" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.900 1.950 1.800" weld_rot_idx="10" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.900 1.950 2.400" weld_rot_idx="10" />
+    <Part def="CarPart_AviaWing8x1x3" weld_pos="-1.050 1.800 -4.200" weld_rot_idx="20" />
+    <Part def="CarPart_TruckPipeBig2x6" weld_pos="1.800 1.800 -1.500" weld_rot_idx="4" />
+    <Part def="CarPart_TruckPipeBig2x6" weld_pos="-1.800 1.800 -1.500" weld_rot_idx="1" />
+    <Part def="CarPart_VanRoofTent_epic" weld_pos="1.200 2.250 -1.500" weld_rot_idx="20" />
+    <Part def="CarPart_VanRoofTent_epic" weld_pos="-1.200 2.250 -1.500" weld_rot_idx="17" />
+    <Part def="CarPart_BumperTrain_rare" weld_pos="2.100 1.800 -1.500" weld_rot_idx="18" />
+    <Part def="CarPart_BumperTrain2_epic" weld_pos="0.000 0.600 -6.000" />
+    <Part def="CarPart_ChassisLight8" weld_pos="-0.600 1.050 0.600" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisLight8" weld_pos="0.600 1.050 0.600" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisLight8" weld_pos="0.600 1.050 -1.800" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisLight8" weld_pos="-0.600 1.050 -1.800" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisLight8" weld_pos="0.600 1.050 -4.200" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisLight8" weld_pos="-0.600 1.050 -4.200" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.600 1.050 -5.700" weld_rot_idx="4" />
+    <Part def="CarPart_ChassisLight2" weld_pos="-0.600 1.050 -5.700" weld_rot_idx="4" />
+    <Part def="CarPart_BladeWing_epic" weld_pos="1.050 1.950 2.700" weld_rot_idx="4" />
+    <Part def="CarPart_BladeWing_epic" weld_pos="-1.050 1.950 2.700" weld_rot_idx="4" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.900 2.850 2.100" weld_rot_idx="16" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="-0.900 2.850 2.100" weld_rot_idx="17" />
+    <Part def="CarPart_Blade_rare" weld_pos="-1.050 2.850 2.700" weld_rot_idx="1" />
+    <Part def="CarPart_Blade_rare" weld_pos="1.050 2.850 2.700" weld_rot_idx="1" />
+    <Part def="CarPart_BumperTrain_rare" weld_pos="-2.100 1.800 -1.500" weld_rot_idx="22" />
+    <Part def="CarPart_Bumper2_rare" weld_pos="1.500 2.100 -1.500" weld_rot_idx="18" />
+    <Part def="CarPart_Bumper2_rare" weld_pos="-1.500 2.100 -1.500" weld_rot_idx="22" />
+    <Part def="CarPart_TruckSlope_Fender" weld_pos="0.000 1.350 -3.600" weld_rot_idx="8" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="1.500 2.100 -4.800" weld_rot_idx="3" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="-1.500 2.100 -4.800" weld_rot_idx="3" />
+    <Part def="CarPart_WheelBig_R_epic" weld_pos="-1.050 0.750 0.600" />
+    <Part def="CarPart_TruckSlope_Fender" weld_pos="0.000 1.950 -3.600" weld_rot_idx="8" />
+    <Part def="CarPart_Avia_fender_r" weld_pos="-1.500 1.950 -0.150" />
+    <Part def="CarPart_Avia_fender_l" weld_pos="1.500 1.950 -0.150" />
+    <Part def="CarPart_WheelBig_R_epic" weld_pos="1.050 0.750 0.600" weld_rot_idx="4" />
+    <Part def="CarPart_AviaWing8x1x3" weld_pos="1.350 2.700 0.600" weld_rot_idx="20" />
+    <Part def="CarPart_ChassisLight8" weld_pos="0.000 1.050 2.400" weld_rot_idx="4" />
+    <Part def="CarPart_AviaWing8x1x3" weld_pos="-1.350 2.700 0.600" weld_rot_idx="20" />
+    <Part def="CarPart_AviaWing8x1x3" weld_pos="1.050 1.800 -4.200" weld_rot_idx="20" />
+    <Part def="CarPart_Avia_fender_l" weld_pos="-1.500 1.950 -2.850" weld_rot_idx="4" />
+    <Part def="CarPart_Avia_fender_r" weld_pos="1.500 1.950 -2.850" weld_rot_idx="4" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="-1.800 2.100 -3.900" weld_rot_idx="21" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="1.800 2.100 -3.900" weld_rot_idx="16" />
+    <Part def="CarPart_Gun_CannonMinigun_legend" weld_pos="0.000 2.250 -1.500" weaponGroup="1" />
+    <Part def="CarPart_RadarBig_epic" weld_pos="0.000 2.850 2.100" />
+    <Part def="CarPart_Cooler_epic" weld_pos="0.000 1.050 -2.700" weld_rot_idx="22" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.600 1.650 -2.700" weld_rot_idx="10" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="-0.600 1.650 -2.700" weld_rot_idx="11" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.000 1.950 -2.700" />
+    <Part def="CarPart_Engine_rare" weld_pos="0.000 1.800 1.950" weld_rot_idx="2" />
+    <Part def="CarPart_ArmorPlate_Thorns2" weld_pos="0.000 1.350 3.000" weld_rot_idx="12" />
+    <Part def="CarPart_ArmorPlate_Thorns2" weld_pos="0.600 1.350 3.000" weld_rot_idx="12" />
+    <Part def="CarPart_AviaBox4x1x4" weld_pos="0.000 2.550 2.100" />
+    <Part def="CarPart_AviaBox4x1x4" weld_pos="-0.600 1.650 2.100" weld_rot_idx="17" />
+    <Part def="CarPart_AviaBox4x1x4" weld_pos="0.600 1.650 2.100" weld_rot_idx="20" />
+    <Part def="CarPart_Gun_Machinegun_epic" weld_pos="0.000 1.350 -4.200" weaponGroup="1" />
+    <Part def="CarPart_TruckSlope_Fender" weld_pos="0.000 1.350 -5.100" weld_rot_idx="9" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="-1.050 0.750 2.400" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="1.050 0.750 2.400" weld_rot_idx="4" />
+    <Part def="CarPart_WheelBig_R_epic" weld_pos="1.050 0.750 -3.000" weld_rot_idx="4" />
+    <Part def="CarPart_WheelBig_R_epic" weld_pos="1.050 0.750 -4.800" weld_rot_idx="4" />
+    <Part def="CarPart_WheelBig_R_epic" weld_pos="-1.050 0.750 -3.300" />
+    <Part def="CarPart_WheelBig_R_epic" weld_pos="-1.050 0.750 -5.100" />
+    <Part def="CarPart_Grid_2" weld_pos="0.000 1.050 -4.500" />
+  </Chassis>
+</CarDesign>

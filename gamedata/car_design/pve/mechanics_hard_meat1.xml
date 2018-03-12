@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="28">
+  <Chassis def="Chassis_ChevyPickup" pos="0.000 0.750 -0.900" dye="Dye_Eraser">
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.000 0.750 -0.300" dye="Dye_Eraser" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.750 -1.200" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="0.750 1.350 1.500" weld_rot_idx="6" dye="Dye_Eraser" />
+    <Part def="CarPart_VanBumper" weld_pos="0.000 0.900 -2.700" />
+    <Part def="CarPart_TruckPipeBig2x6" weld_pos="0.000 1.350 2.250" weld_rot_idx="8" />
+    <Part def="CarPart_ArmorPlate_VanCover_rare" weld_pos="-0.900 1.350 2.400" weld_rot_idx="12" />
+    <Part def="CarPart_Holder_4x2" weld_pos="0.750 1.200 0.600" weld_rot_idx="22" />
+    <Part def="CarPart_Holder_4x2" weld_pos="-0.750 1.200 0.600" weld_rot_idx="18" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="-0.750 1.350 1.500" weld_rot_idx="6" dye="Dye_Eraser" />
+    <Part def="CarPart_ArmorPlate_VanCover_rare" weld_pos="0.900 1.350 2.400" weld_rot_idx="12" />
+    <Part def="CarPart_FenderFlare2" weld_pos="0.900 0.750 1.500" />
+    <Part def="CarPart_FenderFlare2" weld_pos="-0.900 0.750 1.500" weld_rot_idx="4" />
+    <Part def="CarPart_Roadsign_01" weld_pos="0.000 0.750 1.500" weld_rot_idx="8" />
+    <Part def="CarPart_Holder_2x2" weld_pos="-0.750 0.900 0.450" weld_rot_idx="10" />
+    <Part def="CarPart_Holder_2x2" weld_pos="0.750 0.900 0.450" weld_rot_idx="8" />
+    <Part def="CarPart_Radiator" weld_pos="0.000 1.350 0.900" weld_rot_idx="12" />
+    <Part def="CarPart_Gun_Cannon_epic" weld_pos="0.000 1.650 0.900" />
+    <Part def="CarPart_Wheel_Drag" weld_pos="0.450 0.450 1.500" weld_rot_idx="4" />
+    <Part def="CarPart_Wheel_Drag" weld_pos="-0.450 0.450 1.500" />
+    <Part def="CarPart_WheelSmallChains_S" weld_pos="0.450 0.450 -1.800" weld_rot_idx="4" />
+    <Part def="CarPart_WheelSmallChains_S" weld_pos="-0.450 0.450 -1.800" />
+    <Part def="CarPart_Exhaust2" weld_pos="-0.900 0.600 0.150" weld_rot_idx="4" />
+    <Part def="CarPart_Exhaust2" weld_pos="0.900 0.600 0.150" />
+    <Part def="CarPart_VanTopEdge_epic" weld_pos="-0.900 0.750 -0.600" weld_rot_idx="5" />
+    <Part def="CarPart_VanTopEdge_epic" weld_pos="0.900 0.750 -0.600" weld_rot_idx="1" />
+    <Part def="CarPart_Bumper1" weld_pos="0.000 0.600 -2.700" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 -2.100" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 0.900" />
+  </Chassis>
+</CarDesign>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="51" isLeviathan="true">
+  <Chassis def="Chassis_Spider" pos="0.600 1.650 -2.400" dye="pic_XmasTree01">
+    <Part def="CarPart_MechaLeg" weld_pos="1.650 1.350 -2.100" weld_rot_idx="4" dye="pic_XmasTree01" />
+    <Part def="CarPart_MechaLeg" weld_pos="1.650 1.350 0.300" weld_rot_idx="4" dye="pic_XmasTree01" />
+    <Part def="CarPart_MechaLeg" weld_pos="-0.450 1.350 -2.100" dye="pic_XmasTree01" />
+    <Part def="CarPart_MechaLeg" weld_pos="-0.450 1.350 0.300" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_box_4x1x8" weld_pos="1.800 2.250 -0.600" weld_rot_idx="11" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_box_4x1x8" weld_pos="-0.600 2.250 -0.600" weld_rot_idx="10" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_door_slope_4x1x4" weld_pos="1.500 2.250 -2.400" weld_rot_idx="14" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_door_slope_4x1x4" weld_pos="-0.300 2.250 -2.400" weld_rot_idx="11" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_box_slope_4x1x8" weld_pos="0.600 2.850 -1.500" weld_rot_idx="22" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_box_slope_4x1x8" weld_pos="0.600 2.850 0.300" weld_rot_idx="18" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_tower_slope_4x3x2" weld_pos="1.500 2.250 0.600" weld_rot_idx="8" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_tower_slope_4x3x2" weld_pos="-0.300 2.250 0.600" weld_rot_idx="12" dye="pic_XmasTree01" />
+    <Part def="CarPart_BumperTrain2_epic" weld_pos="0.600 1.500 0.900" weld_rot_idx="1" dye="pic_XmasTree01" />
+    <Part def="CarPart_BumperTrain2_epic" weld_pos="0.600 1.500 -2.700" weld_rot_idx="5" dye="pic_Gingerbread01" />
+    <Part def="CarPart_Military_slope_dble_2x1x2" weld_pos="1.500 2.850 -2.400" weld_rot_idx="4" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_slope_dble_2x1x2" weld_pos="-0.300 2.850 -2.400" weld_rot_idx="22" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="-0.900 1.950 0.300" dye="pic_Gingerbread01" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="-0.900 1.950 -2.100" weld_rot_idx="4" dye="pic_Gingerbread01" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="2.100 1.950 -2.100" weld_rot_idx="4" dye="pic_Gingerbread01" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="2.100 1.950 0.300" dye="pic_Gingerbread01" />
+    <Part def="CarPart_TruckBox" weld_pos="1.500 2.850 -0.600" dye="pic_XmasTree01" />
+    <Part def="CarPart_TruckBox" weld_pos="-0.300 2.850 -0.600" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_box_slope_2x1x8" weld_pos="0.600 2.850 1.200" weld_rot_idx="18" dye="pic_XmasTree01" />
+    <Part def="CarPart_ChassisBase2" weld_pos="1.500 1.650 -0.900" weld_rot_idx="22" dye="pic_XmasTree01" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.300 1.650 -0.900" weld_rot_idx="22" dye="pic_XmasTree01" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.300 1.650 0.300" weld_rot_idx="22" dye="pic_XmasTree01" />
+    <Part def="CarPart_ChassisBase2" weld_pos="1.500 1.650 0.300" weld_rot_idx="22" dye="pic_XmasTree01" />
+    <Part def="CarPart_ChassisBase2" weld_pos="1.500 1.650 -2.100" weld_rot_idx="22" dye="pic_XmasTree01" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.300 1.650 -2.100" weld_rot_idx="22" dye="pic_XmasTree01" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.600 1.650 -2.400" weld_rot_idx="4" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_box_4x1x8" weld_pos="0.600 1.350 -0.300" dye="pic_Gingerbread01" />
+    <Part def="CarPart_Drill_epic" weld_pos="0.300 1.650 -1.800" weld_rot_idx="3" dye="pic_XmasTree01" />
+    <Part def="CarPart_Drill_epic" weld_pos="0.900 1.650 -1.800" weld_rot_idx="3" dye="pic_XmasTree01" />
+    <Part def="CarPart_TruckPipeBig2x6" weld_pos="-0.750 2.550 -0.900" weld_rot_idx="11" dye="pic_Gingerbread01" />
+    <Part def="CarPart_TruckPipeBig2x6" weld_pos="1.950 2.550 -0.900" weld_rot_idx="11" dye="pic_Gingerbread01" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="1.950 2.250 -2.250" weld_rot_idx="4" dye="pic_Gingerbread01" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="1.950 2.250 0.450" dye="pic_Gingerbread01" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="-0.750 2.250 0.450" dye="pic_Gingerbread01" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="-0.750 2.250 -2.250" weld_rot_idx="4" dye="pic_Gingerbread01" />
+    <Part def="CarPart_Nyear_Robotsanta" weld_pos="0.600 3.150 0.300" dye="pic_XmasTree01" />
+    <Part def="CarPart_Grid_2" weld_pos="0.600 2.250 0.000" weld_rot_idx="2" dye="pic_PresentPaper01" />
+    <Part def="Brawl_NewYear_Engine" weld_pos="0.600 2.250 0.600" weld_rot_idx="2" />
+    <Part def="Brawl_NewYear_WeakSpot" weld_pos="0.600 1.950 1.200" weld_rot_idx="12" dye="pic_PresentPaper01" />
+    <Part def="CarPart_Mob_HomingMissileLauncher_epic" weld_pos="0.900 2.250 -1.200" weld_rot_idx="2" weaponGroup="2" />
+    <Part def="CarPart_Gun_CannonMinigun_legend" weld_pos="0.600 3.150 -2.700" weaponGroup="1" dye="pic_PresentPaper01" />
+    <Part def="CarPart_Mob_HomingMissileLauncher_epic" weld_pos="0.900 2.250 0.000" weld_rot_idx="7" weaponGroup="2" />
+    <Part def="CarPart_Mob_HomingMissileLauncher_epic" weld_pos="0.300 2.250 0.000" weld_rot_idx="7" weaponGroup="2" />
+    <Part def="CarPart_Mob_HomingMissileLauncher_epic" weld_pos="0.300 2.250 -1.200" weld_rot_idx="2" weaponGroup="2" />
+    <Part def="Brawl_NewYear_WeakSpot" weld_pos="0.600 2.550 1.200" weld_rot_idx="8" dye="pic_PresentPaper01" />
+    <Part def="Brawl_NewYear_WeakSpot" weld_pos="0.300 3.150 -2.700" weld_rot_idx="1" dye="pic_PresentPaper01" />
+    <Part def="Brawl_NewYear_WeakSpot" weld_pos="0.900 3.150 -2.700" weld_rot_idx="5" dye="pic_PresentPaper01" />
+  </Chassis>
+</CarDesign>

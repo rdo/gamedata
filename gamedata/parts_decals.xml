@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<DecalsLibrary>
+  <Decal Name="default" AlbedoTexture="textures\default.dds" />
+  <Decal Name="mask1" AlbedoTexture="textures\stickers\mask1.dds" />
+  <Decal Name="mask2" AlbedoTexture="textures\stickers\mask2.dds" />
+  <Decal Name="fire1" AlbedoTexture="textures\stickers\fire1.dds" />
+  <Decal Name="fire2" AlbedoTexture="textures\stickers\fire2.dds" />
+  <Decal Name="santa" AlbedoTexture="textures\stickers\santa.dds" />
+  <Decal Name="eagle" AlbedoTexture="textures\stickers\eagle.dds" />
+  <Decal Name="ufostop" AlbedoTexture="textures\stickers\ufostop.dds" />
+  <Decal Name="redstar" AlbedoTexture="textures\stickers\redstar.dds" /> 
+  <Decal Name="snake01" AlbedoTexture="textures\stickers\snake01.dds" /> 
+  <Decal Name="snake02" AlbedoTexture="textures\stickers\snake02.dds" /> 
+  
+  <Decal Name="nyear2018_bullfinch" AlbedoTexture="textures\stickers\new_year2018\bullfinch.dds" />
+  <Decal Name="nyear2018_deer" AlbedoTexture="textures\stickers\new_year2018\deer.dds" />
+  <Decal Name="nyear2018_defeat_list" AlbedoTexture="textures\stickers\new_year2018\defeat_list.dds" />
+  <Decal Name="nyear2018_feltboots" AlbedoTexture="textures\stickers\new_year2018\feltboots.dds" />
+  <Decal Name="nyear2018_snowflake_asid" AlbedoTexture="textures\stickers\new_year2018\snowflake_asid.dds" />
+  <Decal Name="nyear2018_snowflake_fall" AlbedoTexture="textures\stickers\new_year2018\snowflake_fall.dds" />
+  <Decal Name="nyear2018_tachanka" AlbedoTexture="textures\stickers\new_year2018\tachanka.dds" />
+  <Decal Name="nyear2018_deer2" AlbedoTexture="textures\stickers\new_year2018\deer2.dds" />
+  <Decal Name="nyear2018_grenade_bow" AlbedoTexture="textures\stickers\new_year2018\grenade_bow.dds" />
+  <Decal Name="nyear2018_grenade_fir" AlbedoTexture="textures\stickers\new_year2018\grenade_fir.dds" />
+  <Decal Name="nyear2018_lollipop_exhaust" AlbedoTexture="textures\stickers\new_year2018\lollipop_exhaust.dds" />
+  <Decal Name="nyear2018_ammobox" AlbedoTexture="textures\stickers\new_year2018\ammobox.dds" />
+  <Decal Name="nyear2018_machinegun" AlbedoTexture="textures\stickers\new_year2018\machinegun.dds" />
+  <Decal Name="nyear2018_mask1" AlbedoTexture="textures\stickers\new_year2018\mask1.dds" />
+  <Decal Name="nyear2018_bomb" AlbedoTexture="textures\stickers\new_year2018\bomb.dds" />
+  <Decal Name="nyear2018_deer_mg" AlbedoTexture="textures\stickers\new_year2018\deer_mg.dds" />
+  <Decal Name="nyear2018_snowman_scaven" AlbedoTexture="textures\stickers\new_year2018\snowman_scaven.dds" />
+  <Decal Name="nyear2018_snowman_eng" AlbedoTexture="textures\stickers\new_year2018\snowman_eng.dds" />
+  <Decal Name="nyear2018_snowman_lunatic" AlbedoTexture="textures\stickers\new_year2018\snowman_lunatic.dds" />
+  <Decal Name="nyear2018_snowman_nomad" AlbedoTexture="textures\stickers\new_year2018\snowman_nomad.dds" />
+  <Decal Name="nyear2018_moonsanta" AlbedoTexture="textures\stickers\new_year2018\moonsanta.dds" />
+  <Decal Name="nyear2018_cookie" AlbedoTexture="textures\stickers\new_year2018\cookie.dds" />
+  <Decal Name="nyear2018_magicancat" AlbedoTexture="textures\stickers\new_year2018\magicancat.dds" />
+  <Decal Name="nyear2018_bow" AlbedoTexture="textures\stickers\new_year2018\bow.dds" />
+  <Decal Name="nyear2018_croissant" AlbedoTexture="textures\stickers\new_year2018\croissant.dds" />
+  <Decal Name="nyear2018_deer_back" AlbedoTexture="textures\stickers\new_year2018\deer_back.dds" />
+
+  <Decal Name="china_fu" AlbedoTexture="textures\stickers\chinese_new_year2018\fu.dds" />
+  
+  <Decal Name="japan_spring" AlbedoTexture="textures\stickers\japan\spring.dds" />
+  
+  <Decal Name="tribal01" AlbedoTexture="textures\stickers\factions\tribal01.dds" />
+  <Decal Name="tribal02" AlbedoTexture="textures\stickers\factions\tribal02.dds" />
+  <Decal Name="tribal03" AlbedoTexture="textures\stickers\factions\tribal03.dds" />
+  <Decal Name="tribal04" AlbedoTexture="textures\stickers\factions\tribal04.dds" />
+  <Decal Name="tribal05" AlbedoTexture="textures\stickers\factions\tribal05.dds" />
+  <Decal Name="tribal06" AlbedoTexture="textures\stickers\factions\tribal06.dds" />
+  <Decal Name="tribal07" AlbedoTexture="textures\stickers\factions\tribal07.dds" />
+  <Decal Name="tribal08" AlbedoTexture="textures\stickers\factions\tribal08.dds" />
+
+  <Decal Name="engineer01" AlbedoTexture="textures\stickers\factions\engineer01.dds" />
+  
+  <Decal Name="thailand_bankgarno" AlbedoTexture="textures\stickers\thailand\bankgarno.dds" />
+  <Decal Name="thailand_edwin_official" AlbedoTexture="textures\stickers\thailand\edwin_off.dds" />
+  <Decal Name="thailand_game_tv" AlbedoTexture="textures\stickers\thailand\gametv.dds" />
+  <Decal Name="thailand_ice_bar_ber" AlbedoTexture="textures\stickers\thailand\icebarber.dds" />
+  <Decal Name="thailand_jameindy" AlbedoTexture="textures\stickers\thailand\jameindy.dds" />
+  <Decal Name="thailand_kfc" AlbedoTexture="textures\stickers\thailand\kfc.dds" />
+  <Decal Name="thailand_laze_fat_boy" AlbedoTexture="textures\stickers\thailand\lazefatboy.dds" />
+  <Decal Name="thailand_maser_gamer" AlbedoTexture="textures\stickers\thailand\masergamer.dds" />
+  <Decal Name="thailand_nicky_tv" AlbedoTexture="textures\stickers\thailand\nickytv.dds" />
+  <Decal Name="thailand_nontakan_ns" AlbedoTexture="textures\stickers\thailand\nontakanns.dds" />
+  <Decal Name="thailand_nu_hand_p" AlbedoTexture="textures\stickers\thailand\nuhandp.dds" />
+  <Decal Name="thailand_online_station" AlbedoTexture="textures\stickers\thailand\onlinestation.dds" />
+  <Decal Name="thailand_ouixz" AlbedoTexture="textures\stickers\thailand\ouixz.dds" />
+  <Decal Name="thailand_peak" AlbedoTexture="textures\stickers\thailand\peak.dds" />
+  <Decal Name="thailand_progress_89" AlbedoTexture="textures\stickers\thailand\progress89.dds" />
+  <Decal Name="thailand_shabetz" AlbedoTexture="textures\stickers\thailand\shabetz.dds" />
+  <Decal Name="thailand_titiwatgamer" AlbedoTexture="textures\stickers\thailand\titiwatgamer.dds" />
+  <Decal Name="thailand_tmp" AlbedoTexture="textures\stickers\thailand\tmp.dds" />
+  <Decal Name="thailand_vag_tv" AlbedoTexture="textures\stickers\thailand\vagtv.dds" />
+  <Decal Name="thailand_zhuge_liangz_tv01" AlbedoTexture="textures\stickers\thailand\zhugeliangztv01.dds" />
+  <Decal Name="thailand_zhuge_liangz_tv02" AlbedoTexture="textures\stickers\thailand\zhugeliangztv02.dds" />
+
+  <Decal Name="entack" AlbedoTexture="textures\stickers\partners\entack.dds" />
+  <Decal Name="play_hard" AlbedoTexture="textures\stickers\partners\playhard.dds" />
+  <Decal Name="tt_esports" AlbedoTexture="textures\stickers\partners\ttesports.dds" />
+  <Decal Name="tt_premium" AlbedoTexture="textures\stickers\partners\ttpremium.dds" />
+
+  <Decal Name="hand_wrench" AlbedoTexture="textures\stickers\handwrench.dds" />
+  
+  <Decal Name="fire_14feb" AlbedoTexture="textures\stickers\fire_14feb.dds" />
+
+  <Decal Name="burn_them_down" AlbedoTexture="textures\stickers\23feb\burn_them_down.dds" />
+  <Decal Name="craft_ride_destroy" AlbedoTexture="textures\stickers\23feb\craft_ride_destroy.dds" />
+  <Decal Name="wolf_knife" AlbedoTexture="textures\stickers\23feb\wolf_knife.dds" />
+  <Decal Name="bear01" AlbedoTexture="textures\stickers\23feb\bear01.dds" />
+  <Decal Name="bear02" AlbedoTexture="textures\stickers\23feb\bear02.dds" />
+  <Decal Name="eagle_tank" AlbedoTexture="textures\stickers\23feb\eagle_tank.dds" />
+  <Decal Name="wolf01" AlbedoTexture="textures\stickers\23feb\wolf01.dds" />
+  <Decal Name="wolf02" AlbedoTexture="textures\stickers\23feb\wolf02.dds" />
+  <Decal Name="star01" AlbedoTexture="textures\stickers\23feb\star01.dds" />
+
+  <Decal Name="cat01" AlbedoTexture="textures\stickers\8march\cat01.dds" />
+  <Decal Name="heart01" AlbedoTexture="textures\stickers\8march\heart01.dds" />
+  <Decal Name="heart02" AlbedoTexture="textures\stickers\8march\heart02.dds" />
+  <Decal Name="rose01" AlbedoTexture="textures\stickers\8march\rose01.dds" />
+  <Decal Name="rose02" AlbedoTexture="textures\stickers\8march\rose02.dds" />
+
+  <Decal Name="ambulance01" AlbedoTexture="textures\stickers\ambulance01.dds" />
+  <Decal Name="ambulance02" AlbedoTexture="textures\stickers\ambulance02.dds" />
+  <Decal Name="ambulance03" AlbedoTexture="textures\stickers\ambulance03.dds" />
+  <Decal Name="ambulance04" AlbedoTexture="textures\stickers\ambulance04.dds" />
+  
+  <Decal Name="japan_contest2018_boar" AlbedoTexture="textures\stickers\japan_contest2018\boar.dds" />
+  <Decal Name="japan_contest2018_rocket_girl" AlbedoTexture="textures\stickers\japan_contest2018\rocket_girl.dds" />
+  <Decal Name="japan_contest2018_samurai_duck" AlbedoTexture="textures\stickers\japan_contest2018\samurai_duck.dds" />
+
+  <Decal Name="hog01" AlbedoTexture="textures\stickers\hog01.dds" />
+</DecalsLibrary>

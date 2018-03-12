@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="36">
+  <Chassis def="Chassis_VWT1" pos="-0.069 0.750 0.867" dye="Dye_Cyan02">
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.069 0.750 1.467" dye="Dye_Eraser" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.069 0.750 0.267" dye="Dye_Eraser" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.069 0.750 -0.933" dye="Dye_Eraser" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.069 0.750 2.367" dye="Dye_Eraser" />
+    <Part def="CarPart_VanRoofTent_epic" weld_pos="-0.069 2.550 3.567" dye="Dye_Cyan02" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.069 0.750 3.267" dye="Dye_Eraser" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.831 0.750 3.267" weld_rot_idx="22" dye="Dye_Eraser" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.969 0.750 3.267" weld_rot_idx="22" dye="Dye_Eraser" />
+    <Part def="CarPart_TankTrack_rare" weld_pos="-1.119 0.450 2.667" />
+    <Part def="CarPart_TankTrack_rare" weld_pos="0.981 0.450 2.967" weld_rot_idx="4" />
+    <Part def="CarPart_VanSide_epic" weld_pos="-0.819 0.750 3.567" weld_rot_idx="4" dye="Dye_Cyan02" />
+    <Part def="CarPart_VanSide_epic" weld_pos="0.681 0.750 3.567" dye="Dye_Cyan02" />
+    <Part def="CarPart_VanSideTent_epic" weld_pos="0.531 1.950 3.567" weld_rot_idx="10" dye="Dye_Cyan02" />
+    <Part def="CarPart_VanSideTent_epic" weld_pos="0.531 1.950 2.367" weld_rot_idx="10" dye="Dye_Cyan02" />
+    <Part def="CarPart_VanSideTent_epic" weld_pos="-0.669 1.950 2.367" weld_rot_idx="11" dye="Dye_Cyan02" />
+    <Part def="CarPart_VanSideTent_epic" weld_pos="-0.669 1.950 3.567" weld_rot_idx="11" dye="Dye_Cyan02" />
+    <Part def="CarPart_VanRoofTent_epic" weld_pos="-0.069 2.550 2.367" dye="Dye_Cyan02" />
+    <Part def="CarPart_VanSide_epic" weld_pos="0.681 0.750 2.367" dye="Dye_Cyan02" />
+    <Part def="CarPart_VanSide_epic" weld_pos="-0.819 0.750 2.367" weld_rot_idx="4" dye="Dye_Cyan02" />
+    <Part def="CarPart_ModuleAmmo_rare" weld_pos="-0.069 1.050 2.067" weld_rot_idx="12" />
+    <Part def="CarPart_VanSide_epic" weld_pos="-0.069 0.750 1.917" weld_rot_idx="18" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.969 0.750 -0.633" weld_rot_idx="22" dye="Dye_Eraser" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.831 0.750 -0.633" weld_rot_idx="22" dye="Dye_Eraser" />
+    <Part def="CarPart_TankTrack_rare" weld_pos="0.981 0.450 -0.633" weld_rot_idx="4" />
+    <Part def="CarPart_TankTrack_rare" weld_pos="-1.119 0.450 -0.633" dye="Dye_Eraser" />
+    <Part def="CarPart_BumperTrain_rare" weld_pos="-0.069 0.600 -1.533" weld_rot_idx="5" />
+    <Part def="CarPart_VanSide_epic" weld_pos="-0.069 0.450 4.017" weld_rot_idx="22" dye="Dye_Cyan02" />
+    <Part def="CarPart_Gun_Cannon_epic" weld_pos="-0.069 0.750 -0.633" />
+    <Part def="CarPart_Gun_Machinegun_rare" weld_pos="-0.069 2.550 1.167" />
+    <Part def="CarPart_ArmorPlate1_rare" weld_pos="0.531 1.050 4.167" weld_rot_idx="12" />
+    <Part def="CarPart_ArmorPlate1_rare" weld_pos="-0.669 1.050 4.167" weld_rot_idx="12" />
+    <Part def="CarPart_VanDoor_epic" weld_pos="0.831 1.350 0.867" weld_rot_idx="7" dye="Dye_Cyan02" />
+    <Part def="CarPart_VanDoor_epic" weld_pos="-0.969 1.350 0.867" weld_rot_idx="3" dye="Dye_Cyan02" />
+    <Part def="CarPart_VanTopEdge_epic" weld_pos="0.831 0.750 -0.633" />
+    <Part def="CarPart_VanTopEdge_epic" weld_pos="-0.969 0.750 -0.633" weld_rot_idx="4" />
+    <Part def="CarPart_PowerGiverExplosive_epic" weld_pos="-0.069 0.750 2.817" />
+  </Chassis>
+</CarDesign>

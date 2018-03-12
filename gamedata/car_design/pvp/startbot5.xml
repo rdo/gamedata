@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="13">
+  <Chassis def="Chassis_Basic" pos="0.000 0.900 1.950" dye="Dye_SandCamuflage">
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.900 1.650" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.900 2.850" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_ModuleRadio" weld_pos="0.000 1.800 3.300" weld_rot_idx="18" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_Bumper1" weld_pos="0.000 0.750 -0.450" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="0.450 0.600 3.450" weld_rot_idx="4" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="-0.450 0.600 3.450" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.000 1.200 -0.450" weld_rot_idx="7" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_TruckSide" weld_pos="0.000 1.050 0.750" weld_rot_idx="9" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_TruckSide" weld_pos="0.000 1.350 0.750" weld_rot_idx="9" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_WheelSmallSpiked_S" weld_pos="0.450 0.600 0.150" weld_rot_idx="4" />
+    <Part def="CarPart_WheelSmallSpiked_S" weld_pos="-0.450 0.600 0.150" />
+    <Part def="CarPart_Gun_Shotgun" weld_pos="0.000 2.100 2.550" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.900 0.450" dye="Dye_SandCamuflage" />
+  </Chassis>
+</CarDesign>

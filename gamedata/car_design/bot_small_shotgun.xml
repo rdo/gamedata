@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="20">
+  <Chassis def="Chassis_FordPickup" pos="0.000 0.900 0.750" dye="Dye_Sand">
+    <Part def="CarPart_WheelSmall_S_Starter" weld_pos="-0.150 0.600 -0.450" dye="Dye_Gold" />
+    <Part def="CarPart_WheelSmall_S_Starter" weld_pos="0.150 0.600 -0.450" weld_rot_idx="4" dye="Dye_Gold" />
+    <Part def="CarPart_WheelSmall_Starter" weld_pos="-0.150 0.600 2.550" dye="Dye_Gold" />
+    <Part def="CarPart_WheelSmall_Starter" weld_pos="0.150 0.600 2.550" weld_rot_idx="4" dye="Dye_Gold" />
+    <Part def="CarPart_FenderSolid" weld_pos="-0.750 0.900 2.550" weld_rot_idx="4" dye="Dye_Gold" />
+    <Part def="CarPart_FenderSolid" weld_pos="0.750 0.900 2.550" dye="Dye_Gold" />
+    <Part def="CarPart_BumperSpike_rare" weld_pos="0.000 0.750 -1.350" dye="Dye_Gold" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.900 2.850" weld_rot_idx="22" dye="Dye_Gold" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.900 1.650" weld_rot_idx="22" dye="Dye_Gold" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.900 0.450" weld_rot_idx="22" dye="Dye_Gold" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.900 -0.750" weld_rot_idx="22" dye="Dye_Gold" />
+    <Part def="CarPart_Gun_Shotgun" weld_pos="0.000 2.100 1.050" dye="Dye_Gold" />
+    <Part def="CarPart_ArmorPlate_Square" weld_pos="-0.600 1.200 -1.050" weld_rot_idx="13" dye="Dye_Gold" />
+    <Part def="CarPart_ArmorPlate_Square" weld_pos="0.000 1.200 -1.050" weld_rot_idx="13" dye="Dye_Gold" />
+    <Part def="CarPart_ArmorPlate_Square" weld_pos="0.600 1.200 -1.050" weld_rot_idx="13" dye="Dye_Gold" />
+    <Part def="CarPart_Lifter" weld_pos="0.000 1.200 1.950" weld_rot_idx="22" />
+    <Part def="CarPart_AviaBox2x1x2" weld_pos="0.300 0.900 1.950" weld_rot_idx="16" dye="Dye_Gold" />
+    <Part def="CarPart_AviaBox2x1x2" weld_pos="-0.300 0.900 1.950" weld_rot_idx="17" dye="Dye_Gold" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.000 0.900 2.250" weld_rot_idx="22" dye="Dye_Gold" />
+    <Part def="CarPart_AviaSlope2x1x4" weld_pos="0.000 0.900 3.150" weld_rot_idx="18" dye="Dye_Gold" />
+  </Chassis>
+</CarDesign>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="44">
+  <Chassis def="Cabin_Satellite" pos="0.000 1.350 -0.750">
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 1.350 -1.200" />
+    <Part def="CarPart_Structure_Syfy_Box_Wide" weld_pos="0.900 2.250 1.800" />
+    <Part def="CarPart_Structure_Syfy_Box_Wide" weld_pos="-0.900 2.250 1.800" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="-0.300 2.550 1.800" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="0.300 2.550 1.800" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 1.350 0.000" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="0.600 1.650 2.400" weld_rot_idx="14" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="-0.600 1.650 2.400" weld_rot_idx="15" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Large" weld_pos="0.000 2.250 3.300" weld_rot_idx="18" />
+    <Part def="CarPart_Hover_rare" weld_pos="-0.750 1.350 0.900" />
+    <Part def="CarPart_Hover_rare" weld_pos="0.750 1.350 0.900" weld_rot_idx="4" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.000 1.350 1.200" />
+    <Part def="CarPart_Hover_rare" weld_pos="-0.750 1.350 2.400" />
+    <Part def="CarPart_Hover_rare" weld_pos="0.750 1.350 2.400" weld_rot_idx="4" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.300 1.650 1.200" weld_rot_idx="20" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.300 1.650 2.400" weld_rot_idx="20" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="-0.300 1.650 1.200" weld_rot_idx="17" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="-0.300 1.650 2.400" weld_rot_idx="17" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.000 1.350 2.400" />
+    <Part def="CarPart_Structure_Syfy_Slope" weld_pos="0.900 1.650 0.000" weld_rot_idx="13" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="0.600 1.650 1.200" weld_rot_idx="14" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="-0.600 1.650 1.200" weld_rot_idx="15" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Small" weld_pos="-0.900 2.550 1.800" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Small" weld_pos="0.900 2.550 1.800" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Wide" weld_pos="0.000 2.550 3.000" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Wide" weld_pos="0.000 2.550 0.600" />
+    <Part def="CarPart_Structure_Syfy_Box_Large" weld_pos="0.900 1.650 0.300" weld_rot_idx="1" />
+    <Part def="CarPart_Holder_2x2" weld_pos="0.750 2.100 0.450" />
+    <Part def="CarPart_Holder_2x2" weld_pos="-0.750 2.100 0.450" />
+    <Part def="CarPart_Structure_Syfy_Box_Large" weld_pos="-0.900 1.650 0.300" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_Syfy_Slope" weld_pos="-0.900 1.650 0.000" weld_rot_idx="9" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Wide" weld_pos="0.000 1.350 3.000" weld_rot_idx="6" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="0.000 1.050 2.700" weld_rot_idx="23" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Large" weld_pos="0.000 1.350 -2.400" weld_rot_idx="22" />
+    <Part def="CarPart_Structure_Syfy_Slope" weld_pos="-0.600 1.650 -2.400" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_Syfy_Slope" weld_pos="0.600 1.650 -2.400" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_Syfy_Box_Large" weld_pos="0.000 1.950 -2.400" weld_rot_idx="21" />
+    <Part def="CarPart_Structure_Syfy_Slope" weld_pos="0.000 2.250 -2.400" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_Syfy_Box_Large" weld_pos="0.900 1.350 -1.800" weld_rot_idx="1" />
+    <Part def="CarPart_Structure_Syfy_Box_Large" weld_pos="-0.900 1.350 -1.800" weld_rot_idx="4" />
+    <Part def="CarPart_Hover_rare" weld_pos="-0.450 1.350 -0.900" />
+    <Part def="CarPart_Hover_rare" weld_pos="0.450 1.350 -0.900" weld_rot_idx="4" />
+    <Part def="CarPart_Gun_Syfy_Tesla" weld_pos="0.000 2.850 1.800" weaponGroup="2" />
+    <Part def="CarPart_Gun_Syfy_ParticleBeam" weld_pos="0.000 2.550 -0.600" weaponGroup="1" />
+  </Chassis>
+</CarDesign>

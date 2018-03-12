@@ -1,0 +1,34 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="29">
+  <Chassis def="Cabin_Moonwalker" pos="0.000 1.350 -1.800" dye="Dye_White">
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 1.350 -1.200" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Box_Large" weld_pos="0.900 2.250 -0.300" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Box_Large" weld_pos="-0.900 2.250 -0.300" weld_rot="0.000 0.000 1.000 0.000" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Box_Wide" weld_pos="0.900 2.250 1.200" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Box_Wide" weld_pos="-0.900 2.250 1.200" weld_rot="0.000 1.000 0.000 0.000" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Slope" weld_pos="-0.900 2.550 -0.300" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Slope" weld_pos="0.900 2.550 -0.300" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="0.000 2.250 2.400" weld_rot="0.500 0.500 -0.500 -0.500" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="-0.300 2.550 1.200" weld_rot="0.000 1.000 0.000 0.000" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="0.300 2.550 1.200" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Small" weld_pos="-0.900 2.550 1.200" weld_rot="0.000 1.000 0.000 0.000" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Small" weld_pos="0.900 2.550 1.200" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Wide" weld_pos="0.000 2.550 0.000" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="0.000 2.550 2.100" weld_rot="0.000 -0.707 0.000 0.707" dye="Dye_White" />
+    <Part def="CarPart_Hover_rare" weld_pos="-0.450 1.350 -1.200" dye="Dye_White" />
+    <Part def="CarPart_Hover_rare" weld_pos="0.450 1.350 -1.200" weld_rot="0.000 1.000 0.000 0.000" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Large" weld_pos="0.000 2.250 2.700" weld_rot="0.707 0.000 0.707 0.000" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="-0.600 1.650 0.000" weld_rot="0.707 0.707 0.000 0.000" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="-0.600 1.650 1.200" weld_rot="0.707 0.707 0.000 0.000" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="0.600 1.650 0.000" weld_rot="0.000 0.000 0.707 0.707" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="0.600 1.650 1.200" weld_rot="0.000 0.000 0.707 0.707" dye="Dye_White" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 1.350 0.000" dye="Dye_White" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 1.350 1.200" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="0.000 1.350 2.100" weld_rot="0.707 0.000 0.707 0.000" dye="Dye_White" />
+    <Part def="CarPart_Hover_rare" weld_pos="0.450 1.350 1.800" weld_rot="0.000 1.000 0.000 0.000" dye="Dye_White" />
+    <Part def="CarPart_Hover_rare" weld_pos="-0.450 1.350 1.800" dye="Dye_White" />
+    <Part def="CarPart_Cooler_rare" weld_pos="0.000 1.650 2.100" weld_rot="0.000 -0.707 0.000 0.707" dye="Dye_White" />
+    <Part def="CarPart_Gun_Syfy_FusionRifle" weld_pos="0.000 2.850 1.200" weaponGroup="1" dye="Dye_White" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="0.000 1.650 2.400" weld_rot="0.500 -0.500 -0.500 0.500" dye="Dye_White" />
+  </Chassis>
+</CarDesign>

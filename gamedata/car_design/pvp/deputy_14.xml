@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="53">
+  <Chassis def="Chassis_FordPickup" pos="-0.069 0.750 0.867" dye="Dye_Grey03">
+    <Part def="CarPart_TruckSlope" weld_pos="1.131 0.750 1.767" weld_rot_idx="6" dye="Dye_Black" />
+    <Part def="CarPart_TruckSide" weld_pos="0.681 0.450 1.767" weld_rot_idx="3" dye="Dye_Black" />
+    <Part def="CarPart_TruckSide" weld_pos="-0.819 0.450 1.767" weld_rot_idx="7" dye="Dye_Black" />
+    <Part def="CarPart_TruckSide" weld_pos="1.131 1.500 3.267" weld_rot_idx="9" dye="Dye_Grey03" />
+    <Part def="CarPart_TruckSide" weld_pos="-1.269 1.500 3.267" weld_rot_idx="9" dye="Dye_Grey03" />
+    <Part def="CarPart_TruckSlope" weld_pos="-1.269 0.750 1.767" weld_rot_idx="6" dye="Dye_Black" />
+    <Part def="CarPart_BladeWing_epic" weld_pos="0.681 1.050 -0.933" dye="Dye_DangerStripes" />
+    <Part def="CarPart_BladeWing_epic" weld_pos="-0.819 1.050 -0.933" dye="Dye_DangerStripes" />
+    <Part def="CarPart_TruckSide" weld_pos="0.681 1.650 3.567" weld_rot_idx="3" dye="Dye_Grey03" />
+    <Part def="CarPart_TruckSide" weld_pos="-0.819 1.650 3.567" weld_rot_idx="7" dye="Dye_Grey03" />
+    <Part def="CarPart_TruckBox" weld_pos="0.531 1.650 2.067" weld_rot_idx="20" dye="Dye_Grey03" />
+    <Part def="CarPart_TruckBox" weld_pos="-0.669 1.650 2.067" weld_rot_idx="17" dye="Dye_Grey03" />
+    <Part def="CarPart_TruckBox" weld_pos="1.131 1.350 2.067" weld_rot_idx="9" dye="Dye_Grey03" />
+    <Part def="CarPart_TruckBox" weld_pos="-1.269 1.350 2.067" weld_rot_idx="9" dye="Dye_Grey03" />
+    <Part def="CarPart_Gun_BigCannon_Free_rare" weld_pos="-0.069 1.650 2.667" />
+    <Part def="CarPart_Exhaust2" weld_pos="0.531 1.200 1.917" weld_rot_idx="2" />
+    <Part def="CarPart_Exhaust2" weld_pos="-0.669 1.200 1.917" weld_rot_idx="6" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="-0.069 1.050 -0.933" weld_rot_idx="13" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.069 0.750 -0.633" />
+    <Part def="CarPart_TruckSideSquare" weld_pos="-0.069 1.350 3.267" weld_rot_idx="2" />
+    <Part def="CarPart_TruckSlope2" weld_pos="1.131 1.050 1.767" weld_rot_idx="9" />
+    <Part def="CarPart_TruckSlope2" weld_pos="-1.269 1.050 1.767" weld_rot_idx="13" />
+    <Part def="CarPart_TruckSlope" weld_pos="1.131 1.650 2.367" weld_rot_idx="18" />
+    <Part def="CarPart_TruckSlope" weld_pos="1.131 1.650 2.967" weld_rot_idx="18" />
+    <Part def="CarPart_TruckSlope" weld_pos="-1.269 1.650 2.967" weld_rot_idx="22" />
+    <Part def="CarPart_TruckSlope" weld_pos="-1.269 1.650 2.367" weld_rot_idx="22" />
+    <Part def="CarPart_WheelDouble_R_epic" weld_pos="-0.519 0.450 2.667" />
+    <Part def="CarPart_WheelDouble_R_epic" weld_pos="0.381 0.450 2.667" weld_rot_idx="4" />
+    <Part def="CarPart_FenderFlare2" weld_pos="1.431 0.750 -0.333" />
+    <Part def="CarPart_FenderFlare2" weld_pos="-1.569 0.750 -0.333" weld_rot_idx="4" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-1.569 0.750 2.667" weld_rot_idx="4" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="1.431 0.750 2.667" />
+    <Part def="CarPart_ArmorPlate_VanCover_rare" weld_pos="-1.269 1.350 3.267" weld_rot_idx="12" />
+    <Part def="CarPart_ArmorPlate_VanCover_rare" weld_pos="1.131 1.350 3.267" weld_rot_idx="12" />
+    <Part def="CarPart_Wing" weld_pos="-0.069 1.950 3.417" />
+    <Part def="CarPart_SpareTire" weld_pos="-0.069 1.350 3.567" weld_rot_idx="6" />
+    <Part def="CarPart_WheelSmallChains_S" weld_pos="-0.519 0.450 -0.333" />
+    <Part def="CarPart_WheelSmallChains_S" weld_pos="0.381 0.450 -0.333" weld_rot_idx="4" />
+    <Part def="CarPart_Headlights" weld_pos="1.431 1.500 2.067" weld_rot_idx="14" />
+    <Part def="CarPart_Headlights" weld_pos="-1.569 1.500 2.067" weld_rot_idx="11" />
+    <Part def="CarPart_TruckSlope_Fender" weld_pos="-1.269 1.050 -0.333" weld_rot_idx="4" />
+    <Part def="CarPart_TruckSlope_Fender" weld_pos="1.131 1.050 -0.333" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.069 0.750 0.267" weld_rot_idx="4" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="-0.069 0.750 2.067" weld_rot_idx="22" />
+    <Part def="CarPart_ModuleAmmo_rare" weld_pos="-0.069 1.050 1.767" weld_rot_idx="8" />
+    <Part def="CarPart_TruckSideSquare" weld_pos="-0.069 0.750 2.667" />
+    <Part def="CarPart_TruckSideSquare" weld_pos="-0.069 1.050 2.667" />
+    <Part def="CarPart_TruckSideSquare" weld_pos="-0.069 1.350 2.667" />
+    <Part def="CarPart_Buggy_Grid9" weld_pos="1.131 0.450 1.167" weld_rot_idx="23" />
+    <Part def="CarPart_Buggy_Grid9" weld_pos="-1.269 0.450 1.167" weld_rot_idx="19" />
+    <Part def="CarPart_Brakelights2" weld_pos="1.131 1.800 3.267" weld_rot_idx="1" />
+    <Part def="CarPart_Brakelights2" weld_pos="-1.269 1.800 3.267" weld_rot_idx="4" />
+    <Part def="CarPart_Roundsaw_rare" weld_pos="-0.069 0.450 -0.933" weld_rot_idx="5" />
+  </Chassis>
+</CarDesign>

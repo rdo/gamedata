@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="58">
+  <Chassis def="Chassis_Spider" pos="-0.300 1.650 -1.500" dye="Pic_Trypophobia01">
+    <Part def="CarPart_ChassisTruck6" weld_pos="-0.300 1.650 -1.200" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="-0.300 1.650 0.000" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_MechaLeg" weld_pos="0.450 1.350 -1.200" weld_rot_idx="4" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_MechaLeg" weld_pos="-1.050 1.350 -1.200" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.300 1.650 1.200" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_MechaLeg" weld_pos="0.150 1.350 1.800" weld_rot_idx="4" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.300 1.650 2.100" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_TruckSide" weld_pos="-0.900 2.400 1.200" weld_rot_idx="10" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="-1.200 2.250 -1.500" weld_rot_idx="15" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="-0.300 1.050 -1.950" weld_rot_idx="22" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="0.450 2.250 2.100" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="-1.050 2.250 2.100" weld_rot_idx="4" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Military_box_slope_2x1x4" weld_pos="-0.300 2.850 1.200" weld_rot_idx="22" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Military_door_slope_4x1x4" weld_pos="-0.300 2.250 3.300" weld_rot_idx="2" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Military_slope_3ple_1x1x8" weld_pos="0.450 2.850 2.100" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Military_slope_3ple_1x1x8" weld_pos="-1.050 2.850 2.100" weld_rot_idx="4" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Military_tower_slope_6x1x6" weld_pos="-0.300 3.150 2.100" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Brakelights2" weld_pos="-1.050 2.250 3.300" weld_rot_idx="10" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Brakelights2" weld_pos="0.450 2.250 3.300" weld_rot_idx="10" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Headlights2" weld_pos="0.600 1.350 -2.100" weld_rot_idx="14" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Headlights2" weld_pos="-1.200 1.350 -2.100" weld_rot_idx="11" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Exhaust2" weld_pos="-1.200 2.700 1.950" weld_rot_idx="6" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Exhaust2" weld_pos="0.600 2.700 1.950" weld_rot_idx="2" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Military_box_slope_2x1x4" weld_pos="-0.300 1.650 3.300" weld_rot_idx="19" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_MechaLeg" weld_pos="-0.750 1.350 1.800" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Gun_Cannon_rare" weld_pos="-0.900 2.850 -0.300" weaponGroup="1" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Gun_Cannon_rare" weld_pos="0.300 2.850 -0.300" weaponGroup="1" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.300 1.650 2.700" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Military_door_slope_4x1x4" weld_pos="-0.300 2.250 3.000" weld_rot_idx="7" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Military_box_slope_2x1x4" weld_pos="-0.300 1.350 -2.400" weld_rot_idx="13" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="-1.050 1.650 -2.400" weld_rot_idx="5" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="0.450 1.650 -2.400" weld_rot_idx="5" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Military_slope_3ple_1x1x8" weld_pos="-0.300 1.050 -1.950" weld_rot_idx="23" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Military_slope_thin_1x1x4" weld_pos="-0.300 1.200 -2.100" weld_rot_idx="9" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Gun_Cannon_rare" weld_pos="-0.300 3.450 2.100" weaponGroup="1" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Avia_lafet" weld_pos="-0.300 2.550 2.100" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_PowerGiver_epic" weld_pos="-0.300 1.950 0.600" weld_rot_idx="10" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_TruckSide" weld_pos="0.450 1.950 -0.300" weld_rot_idx="2" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_TruckSide" weld_pos="-1.050 1.950 -0.300" weld_rot_idx="6" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Military_slope_3ple_1x1x8" weld_pos="0.450 2.250 2.100" weld_rot_idx="1" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Military_slope_3ple_1x1x8" weld_pos="-1.050 2.250 2.100" weld_rot_idx="5" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Military_box_slope_2x1x4" weld_pos="-0.300 2.850 3.000" weld_rot_idx="18" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_ArmorPlate_VanCover_rare" weld_pos="0.300 1.650 3.000" weld_rot_idx="14" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_ArmorPlate_VanCover_rare" weld_pos="-0.900 1.650 3.000" weld_rot_idx="15" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="0.750 1.950 1.800" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Military_slope_3ple_1x1x8" weld_pos="1.050 2.250 1.800" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Military_slope_3ple_1x1x8" weld_pos="1.050 2.250 1.800" weld_rot_idx="1" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="-1.350 1.950 1.800" weld_rot_idx="4" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Military_slope_3ple_1x1x8" weld_pos="-1.650 2.250 1.800" weld_rot_idx="4" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Military_slope_3ple_1x1x8" weld_pos="-1.500 2.100 1.800" weld_rot_idx="15" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Military_door_slope_4x1x4" weld_pos="-0.300 2.550 0.300" weld_rot_idx="4" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.600 2.250 0.300" weld_rot_idx="14" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_TruckSlope" weld_pos="-1.200 2.250 0.300" weld_rot_idx="11" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_TruckSide" weld_pos="-0.900 2.400 -0.300" weld_rot_idx="8" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_TruckSide" weld_pos="0.300 2.400 -0.300" weld_rot_idx="8" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="0.600 2.250 -1.500" weld_rot_idx="10" dye="Pic_Trypophobia01" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="0.300 2.700 0.000" weld_rot_idx="10" dye="Pic_SpiderWeb02" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="-0.900 2.700 0.000" weld_rot_idx="15" dye="Pic_SpiderWeb02" />
+  </Chassis>
+</CarDesign>

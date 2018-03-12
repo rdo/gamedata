@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<SSAOSettings>
+  <HBAO>
+    <Preset Name="#SETTING_medium" UseHalfRes="true" Radius="1.500000" Bias="0.200000" PowerExponent="2.300000" SmallScaleAO="0.700000" LargeScaleAO="1.300000" DepthStorage="1" DepthClampMode="1">
+      <Blur Enable="1" Radius="4" Sharpness="12.000000">
+        <SharpnessProfile Enable="0" ForegroundSharpnessScale="4.000000" ForegroundViewDepth="0.000000" BackgroundViewDepth="1.000000" />
+      </Blur>
+      <DepthThreshold Enable="0" MaxViewDepth="0.000000" Sharpness="100.000000" />
+      <ForegroundAO Enable="1" ViewDepth="8.000000" />
+      <BackgroundAO Enable="1" ViewDepth="10.000000" />
+    </Preset>
+    <Preset Name="#SETTING_high" Radius="1.500000" Bias="0.200000" PowerExponent="2.300000" SmallScaleAO="0.700000" LargeScaleAO="1.300000" DepthStorage="1" DepthClampMode="1">
+      <Blur Enable="1" Radius="4" Sharpness="12.000000">
+        <SharpnessProfile Enable="0" ForegroundSharpnessScale="4.000000" ForegroundViewDepth="0.000000" BackgroundViewDepth="1.000000" />
+      </Blur>
+      <DepthThreshold Enable="0" MaxViewDepth="0.000000" Sharpness="100.000000" />
+      <ForegroundAO Enable="1" ViewDepth="8.000000" />
+      <BackgroundAO Enable="1" ViewDepth="10.000000" />
+    </Preset>
+  </HBAO>
+  <ASSAO>
+    <Preset Name="#SETTING_low" UseHalfRes="true" Radius="3.000000" ShadowMultiplier="1.000000" ShadowPower="1.500000" ShadowClamp="1.000000" HorizonAngleThreshold="0.070000" FadeOutFrom="50.000000" FadeOutTo="300.000000" QualityLevel="0" AdaptiveQualityLimit="1.000000" BlurPassCount="2" Sharpness="0.700000" TemporalSupersamplingAngleOffset="1.000000" TemporalSupersamplingRadiusOffset="1.300000" DetailShadowStrength="1.000000" SkipHalfPixelsOnLowQualityLevel="1" />
+    <Preset Name="#SETTING_high" Radius="3.000000" ShadowMultiplier="1.000000" ShadowPower="1.500000" ShadowClamp="0.980000" HorizonAngleThreshold="0.070000" FadeOutFrom="50.000000" FadeOutTo="300.000000" QualityLevel="2" AdaptiveQualityLimit="0.450000" BlurPassCount="2" Sharpness="0.980000" TemporalSupersamplingAngleOffset="0.000000" TemporalSupersamplingRadiusOffset="1.000000" DetailShadowStrength="0.500000" SkipHalfPixelsOnLowQualityLevel="0" />
+  </ASSAO>
+</SSAOSettings>

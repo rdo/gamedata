@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="18">
+  <Chassis def="Chassis_FordPickup" pos="0.000 0.750 0.900" dye="Dye_Eraser">
+    <Part def="CarPart_FenderSolid" weld_pos="-0.750 0.750 2.700" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_FenderSolid" weld_pos="0.750 0.750 2.700" dye="Dye_Eraser" />
+    <Part def="CarPart_Bumper1" weld_pos="0.000 0.600 -0.900" dye="Dye_Eraser" />
+    <Part def="CarPart_FenderFlare2" weld_pos="-0.900 0.450 -0.300" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_FenderFlare2" weld_pos="-0.900 0.450 2.700" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_FenderFlare2" weld_pos="0.900 0.450 2.700" dye="Dye_Eraser" />
+    <Part def="CarPart_FenderFlare2" weld_pos="0.900 0.450 -0.300" dye="Dye_Eraser" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.000 1.050 3.300" weld_rot_idx="2" dye="Dye_Eraser" />
+    <Part def="CarPart_WheelSmallSpiked_S" weld_pos="-0.450 0.450 -0.300" dye="Dye_Eraser" />
+    <Part def="CarPart_WheelSmallSpiked_S" weld_pos="0.450 0.450 -0.300" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_WheelSmallSpiked" weld_pos="0.450 0.450 2.700" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_WheelSmallSpiked" weld_pos="-0.450 0.450 2.700" dye="Dye_Eraser" />
+    <Part def="CarPart_Gun_Cannon_rare" weld_pos="0.000 1.950 1.200" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.750 3.000" />
+    <Part def="CarPart_VanBumper" weld_pos="0.000 0.900 -0.900" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="0.000 0.750 0.300" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 2.100" />
+    <Part def="CarPart_Grid_2" weld_pos="0.000 1.350 2.700" weld_rot_idx="1" />
+  </Chassis>
+</CarDesign>

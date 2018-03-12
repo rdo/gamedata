@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="17">
+  <Chassis def="Cabin_Tribal" pos="0.000 1.350 1.800">
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 1.350 0.600" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 1.350 -0.600" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 1.350 1.800" />
+    <Part def="CarPart_Structure_fender3_r" weld_pos="-0.600 1.350 -1.200" />
+    <Part def="CarPart_Structure_hood_half" weld_pos="-0.300 1.950 -0.600" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_hood_half" weld_pos="0.300 1.950 -0.600" />
+    <Part def="CarPart_Structure_fender3_l" weld_pos="0.600 1.350 -1.200" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.000 1.350 2.700" />
+    <Part def="CarPart_Wheel_SawWheel_S" weld_pos="0.450 1.050 -1.200" weld_rot_idx="4" />
+    <Part def="CarPart_Wheel_SawWheel_S" weld_pos="-0.450 1.050 -1.200" />
+    <Part def="CarPart_Structure_radiator_grill1" weld_pos="0.000 1.800 -1.500" />
+    <Part def="CarPart_Structure_bumper2" weld_pos="0.000 1.200 -1.350" />
+    <Part def="CarPart_Wheel_MonsterTruck" weld_pos="0.600 1.050 2.400" weld_rot_idx="4" />
+    <Part def="CarPart_Wheel_MonsterTruck" weld_pos="-0.600 1.050 2.400" />
+    <Part def="CarPart_Structure_trunk" weld_pos="0.000 1.650 3.150" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_diffusor" weld_pos="0.000 1.200 3.300" weld_rot_idx="4" />
+    <Part def="CarPart_Gun_Harpoon" weld_pos="0.000 2.550 1.500" weaponGroup="1" />
+  </Chassis>
+  <Decal def="Decal_nyear2018_magicancat" pos="1.090 1.701 0.474" rot="1.565 0.866 3.133" scale="2.140" />
+</CarDesign>

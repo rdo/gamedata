@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="15">
+  <Chassis def="Cabin_Buggy_Small" pos="0.000 0.750 0.600" dye="Dye_White">
+    <Part def="CarPart_Gun_Shotgun" weld_pos="0.000 1.950 1.200" weaponGroup="1" dye="Dye_Eraser" />
+    <Part def="CarPart_EngineMini_rare" weld_pos="0.000 1.050 2.100" dye="Dye_White" />
+    <Part def="CarPart_ChassisLight6" weld_pos="0.000 0.750 2.100" dye="Dye_Grey03" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.000 0.750 0.900" weld_rot_idx="22" dye="Dye_Grey03" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.000 0.750 -0.300" weld_rot_idx="22" dye="Dye_Grey03" />
+    <Part def="CarPart_Buggy_Grid7" weld_pos="0.000 1.050 -0.600" dye="Dye_White" />
+    <Part def="CarPart_ModuleRadio" weld_pos="0.000 0.900 -0.600" weld_rot_idx="8" dye="Dye_White" />
+    <Part def="CarPart_Exhaust3" weld_pos="0.000 1.200 2.700" weld_rot_idx="18" dye="Dye_White" />
+    <Part def="CarPart_WheelSmall_S_Starter" weld_pos="0.150 0.450 -0.600" weld_rot_idx="4" />
+    <Part def="CarPart_WheelSmall_S_Starter" weld_pos="-0.150 0.450 -0.600" />
+    <Part def="CarPart_WheelSmall_Starter" weld_pos="-0.750 0.450 2.100" />
+    <Part def="CarPart_WheelSmall_Starter" weld_pos="0.750 0.450 2.100" weld_rot_idx="4" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.000 1.650 2.100" weld_rot_idx="23" />
+    <Part def="CarPart_Buggy_Grid7" weld_pos="0.000 1.650 1.800" weld_rot_idx="4" />
+    <Part def="CarPart_Buggy_Grid10" weld_pos="0.000 1.050 3.000" weld_rot_idx="1" />
+  </Chassis>
+</CarDesign>

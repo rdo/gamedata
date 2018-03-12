@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="22">
+  <Chassis def="Chassis_FordPickup" pos="0.000 0.750 0.900" dye="Dye_Eraser">
+    <Part def="CarPart_Bumper1" weld_pos="0.000 0.600 -0.900" dye="Dye_Eraser" />
+    <Part def="CarPart_VanBumper" weld_pos="0.000 0.900 -0.900" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="0.750 1.350 2.400" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid9" weld_pos="0.000 1.950 1.800" weld_rot_idx="2" dye="Dye_Eraser" />
+    <Part def="CarPart_Barrel" weld_pos="0.000 1.200 2.100" dye="Dye_Red01" />
+    <Part def="CarPart_Headlights4" weld_pos="0.000 1.950 1.800" dye="Dye_Eraser" />
+    <Part def="CarPart_Barrel" weld_pos="-0.600 1.200 2.100" dye="Dye_Red01" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="-0.750 1.050 2.400" weld_rot_idx="6" dye="Dye_Eraser" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="0.750 1.050 2.400" weld_rot_idx="6" dye="Dye_Eraser" />
+    <Part def="CarPart_Bumper1" weld_pos="0.000 1.200 3.000" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="0.000 1.350 3.000" weld_rot_idx="4" />
+    <Part def="CarPart_Gun_Cannon_rare" weld_pos="-0.300 1.650 0.000" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.000 0.750 0.900" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.750 1.800" weld_rot_idx="4" />
+    <Part def="CarPart_WheelSmallSpiked_S" weld_pos="-0.450 0.450 -0.300" />
+    <Part def="CarPart_WheelSmallSpiked_S" weld_pos="0.450 0.450 -0.300" weld_rot_idx="4" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 -0.300" />
+    <Part def="CarPart_WheelSmallSpiked" weld_pos="0.450 0.450 2.700" weld_rot_idx="4" />
+    <Part def="CarPart_WheelSmallSpiked" weld_pos="-0.450 0.450 2.700" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 2.700" weld_rot_idx="22" />
+    <Part def="CarPart_Buggy_Grid11" weld_pos="-0.750 1.350 2.400" weld_rot_idx="4" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.000 1.050 2.400" weld_rot_idx="2" />
+  </Chassis>
+</CarDesign>

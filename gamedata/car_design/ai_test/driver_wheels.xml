@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="7">
+  <Chassis def="Chassis_FordPickup" pos="-0.169 0.750 0.209">
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.169 0.750 -0.991" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.169 0.750 0.209" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.169 0.750 1.409" />
+    <Part def="CarPart_WheelDouble_RS_epic" weld_pos="0.281 0.450 -0.991" weld_rot_idx="4" />
+    <Part def="CarPart_WheelDouble_RS_epic" weld_pos="-0.619 0.450 -0.991" />
+    <Part def="CarPart_WheelDouble_R_epic" weld_pos="-0.619 0.450 1.409" />
+    <Part def="CarPart_WheelDouble_R_epic" weld_pos="0.281 0.450 1.409" weld_rot_idx="4" />
+  </Chassis>
+</CarDesign>

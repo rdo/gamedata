@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="5">
+  <Chassis def="Cabin_Companion" pos="-0.294 1.050 -1.738">
+    <Part def="CarPart_Companion_Wheel" weld_pos="-0.049 0.902 -1.060" weld_rot_idx="4" />
+    <Part def="CarPart_Companion_Wheel_S" weld_pos="-0.539 0.902 -2.052" />
+    <Part def="CarPart_Companion_Wheel_left_S" weld_pos="-0.049 0.902 -2.052" weld_rot_idx="4" />
+    <Part def="CarPart_Companion_Wheel_left" weld_pos="-0.539 0.902 -1.060" />
+    <Part def="CarPart_Gun_Machinegun_Companion" weld_pos="-0.294 1.481 -1.588" />
+  </Chassis>
+</CarDesign>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="38">
+  <Chassis def="Chassis_Panzer" pos="0.000 0.750 -0.600" dye="pic_AlienSkin">
+    <Part def="CarPart_TankTrackBig_legend" weld_pos="-0.750 0.450 0.000" dye="pic_AlienSkin" />
+    <Part def="CarPart_TruckSlope2" weld_pos="-0.300 0.750 -1.500" weld_rot_idx="5" dye="metal_AlienColor" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.600 0.750 -1.500" weld_rot_idx="5" dye="metal_AlienColor" />
+    <Part def="CarPart_Gun_BigCannon_Free_epic" weld_pos="0.000 1.950 -0.300" weaponGroup="2" dye="pic_AlienSkin" />
+    <Part def="CarPart_Sniper_rare" weld_pos="0.900 1.650 -1.200" weaponGroup="5" dye="pic_AlienSkin" />
+    <Part def="CarPart_Exhaust2" weld_pos="1.050 1.650 1.050" weld_rot_idx="8" dye="metal_AlienColor" />
+    <Part def="CarPart_Exhaust2" weld_pos="-1.050 1.650 1.050" weld_rot_idx="8" dye="metal_AlienColor" />
+    <Part def="CarPart_PowerGiver_rare" weld_pos="0.000 1.200 1.500" weld_rot_idx="3" dye="pic_AlienSkin" />
+    <Part def="CarPart_Barrel" weld_pos="0.450 1.950 2.700" weld_rot_idx="20" dye="pic_AlienSkin" />
+    <Part def="CarPart_Barrel" weld_pos="-0.450 1.950 2.700" weld_rot_idx="20" dye="pic_AlienSkin" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="1.200 1.350 2.100" weld_rot_idx="18" dye="pic_AlienSkin" />
+    <Part def="CarPart_VanSide_epic" weld_pos="1.500 1.500 1.200" weld_rot_idx="11" dye="pic_AlienSkin" />
+    <Part def="CarPart_VanSide_epic" weld_pos="1.500 1.500 0.000" weld_rot_idx="11" dye="pic_AlienSkin" />
+    <Part def="CarPart_VanSide_epic" weld_pos="1.500 1.500 -1.200" weld_rot_idx="11" dye="pic_AlienSkin" />
+    <Part def="CarPart_TruckSlope" weld_pos="1.200 1.350 -2.100" dye="pic_AlienSkin" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="-1.200 1.350 2.100" weld_rot_idx="18" dye="pic_AlienSkin" />
+    <Part def="CarPart_VanSide_epic" weld_pos="-1.500 1.500 1.200" weld_rot_idx="10" dye="pic_AlienSkin" />
+    <Part def="CarPart_VanSide_epic" weld_pos="-1.500 1.500 0.000" weld_rot_idx="10" dye="pic_AlienSkin" />
+    <Part def="CarPart_VanSide_epic" weld_pos="-1.500 1.500 -1.200" weld_rot_idx="10" dye="pic_AlienSkin" />
+    <Part def="CarPart_TruckSlope" weld_pos="-1.200 1.350 -2.100" dye="pic_AlienSkin" />
+    <Part def="CarPart_Headlights2" weld_pos="-1.200 1.650 -1.500" dye="metal_AlienColor" />
+    <Part def="CarPart_Bag03" weld_pos="-1.050 1.650 0.450" dye="metal_AlienColor" />
+    <Part def="CarPart_Bag03" weld_pos="1.050 1.650 0.450" dye="metal_AlienColor" />
+    <Part def="CarPart_TankTrackBig_legend" weld_pos="0.750 0.450 0.000" weld_rot_idx="4" dye="pic_AlienSkin" />
+    <Part def="CarPart_TruckSlope" weld_pos="-0.600 1.050 1.800" weld_rot_idx="6" dye="metal_AlienColor" />
+    <Part def="CarPart_TruckSlope2" weld_pos="-0.900 1.950 1.500" weld_rot_idx="22" dye="pic_AlienSkin" />
+    <Part def="CarPart_TruckSlope" weld_pos="-0.600 1.650 2.100" weld_rot_idx="9" dye="pic_AlienSkin" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.600 1.650 2.100" weld_rot_idx="13" dye="pic_AlienSkin" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.000 1.650 2.100" weld_rot_idx="3" dye="pic_AlienSkin" />
+    <Part def="CarPart_TruckSlope2" weld_pos="0.900 1.950 1.500" weld_rot_idx="18" dye="pic_AlienSkin" />
+    <Part def="CarPart_TruckSide2" weld_pos="0.000 2.100 2.100" weld_rot_idx="9" dye="pic_AlienSkin" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.600 1.050 1.800" weld_rot_idx="6" dye="metal_AlienColor" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.000 1.050 1.800" weld_rot_idx="6" dye="metal_AlienColor" />
+    <Part def="CarPart_Gun_Machinegun" weld_pos="-0.900 1.650 -1.200" weaponGroup="1" dye="metal_AlienColor" />
+    <Part def="CarPart_TruckSlope2" weld_pos="0.000 1.950 0.900" weld_rot_idx="7" dye="pic_AlienSkin" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.000 0.750 0.000" weld_rot_idx="4" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.000 0.750 1.200" weld_rot_idx="4" />
+    <Part def="CarPart_Bag03" weld_pos="1.050 1.650 -0.450" dye="metal_AlienColor" />
+  </Chassis>
+</CarDesign>

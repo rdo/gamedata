@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="21">
+  <Chassis def="Cabin_Buggy_Small" pos="0.000 0.750 0.738" dye="Dye_White">
+    <Part def="CarPart_ChassisLight8" weld_pos="0.000 0.750 -0.162" weld_rot_idx="22" dye="Dye_Cyan02" />
+    <Part def="CarPart_ChassisLight8" weld_pos="0.000 0.750 2.238" weld_rot_idx="22" dye="Dye_Cyan02" />
+    <Part def="CarPart_SpareTire" weld_pos="0.000 1.050 3.438" weld_rot_idx="6" dye="Dye_White" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.600 1.050 2.838" dye="Dye_White" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.600 1.050 2.838" weld_rot_idx="4" dye="Dye_White" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="0.450 0.450 -0.762" weld_rot_idx="4" dye="Dye_Cyan02" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.450 0.450 -0.762" dye="Dye_Cyan02" />
+    <Part def="CarPart_Bumper2_rare" weld_pos="0.000 0.900 -1.362" dye="Dye_White" />
+    <Part def="CarPart_BumperSpike_rare" weld_pos="0.000 0.600 -1.362" dye="Dye_Cyan02" />
+    <Part def="CarPart_Gun_Shotgun_rare" weld_pos="0.300 1.950 1.638" dye="Dye_White" />
+    <Part def="CarPart_Buggy_Grid5" weld_pos="0.000 0.750 -0.762" dye="Dye_White" />
+    <Part def="CarPart_Wheel_Drag" weld_pos="-0.450 0.450 2.838" dye="Dye_Cyan02" />
+    <Part def="CarPart_Wheel_Drag" weld_pos="0.450 0.450 2.838" weld_rot_idx="4" dye="Dye_Cyan02" />
+    <Part def="CarPart_Gun_Shotgun_epic" weld_pos="-0.300 1.950 1.938" dye="Dye_White" />
+    <Part def="CarPart_EngineMini_rare" weld_pos="-0.300 1.050 2.838" weld_rot_idx="4" dye="Dye_White" />
+    <Part def="CarPart_EngineMini_rare" weld_pos="0.300 1.050 2.838" weld_rot_idx="4" dye="Dye_White" />
+    <Part def="CarPart_Grid_2" weld_pos="0.000 1.350 2.238" weld_rot_idx="9" dye="Dye_White" />
+    <Part def="CarPart_Grid_2" weld_pos="0.000 1.350 1.638" weld_rot_idx="8" dye="Dye_White" />
+    <Part def="CarPart_Buggy_Grid10" weld_pos="0.000 1.350 3.138" weld_rot_idx="4" dye="Dye_White" />
+    <Part def="CarPart_Grid_1" weld_pos="0.000 1.350 2.538" dye="Dye_White" />
+    <Part def="CarPart_Grid_1" weld_pos="0.000 1.650 2.538" dye="Dye_White" />
+  </Chassis>
+</CarDesign>

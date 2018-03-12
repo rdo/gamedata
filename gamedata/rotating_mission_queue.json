@@ -1,0 +1,244 @@
+{
+	"rotationInterval": 7200000,
+	"seed": 5556677,
+	"missionOptions": [{
+			"link": {
+				"mission": "Mission_MetaPve_Easy1",
+				"queue": "MetaPve_Easy1"
+			},
+			"difficulty": 0,
+			"botLists": ["psycho", "nomads", "scavengers"],
+			"mapOptions": [{
+					"mapName": "bridge",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace"]
+				},
+				{
+					"mapName": "castle",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace"]
+				},
+				{
+					"mapName": "riverport",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace"]
+				},
+				{
+					"mapName": "rockcity",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace", "Pve_Siege"]
+				},
+				{
+					"mapName": "miners_way",
+					"gameplays": ["Pve_Convoy"]
+				},
+				{
+					"mapName": "cemetery_highway",
+					"gameplays": ["Pve_Convoy"]
+				},
+				{
+					"mapName": "iron_way",
+					"gameplays": ["Pve_Convoy"]
+				}
+			]
+		},
+		{
+			"link": {
+				"mission": "Mission_MetaPve_Easy2",
+				"queue": "MetaPve_Easy2"
+			},
+			"difficulty": 0,
+			"botLists": ["psycho", "nomads", "scavengers"],
+			"mapOptions": [{
+					"mapName": "bridge",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace"]
+				},
+				{
+					"mapName": "castle",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace"]
+				},
+				{
+					"mapName": "riverport",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace"]
+				},
+				{
+					"mapName": "rockcity",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace", "Pve_Siege"]
+				},
+				{
+					"mapName": "miners_way",
+					"gameplays": ["Pve_Convoy"]
+				},
+				{
+					"mapName": "cemetery_highway",
+					"gameplays": ["Pve_Convoy"]
+				},
+				{
+					"mapName": "iron_way",
+					"gameplays": ["Pve_Convoy"]
+				}
+			]
+		},
+		{
+			"link": {
+				"mission": "Mission_MetaPve_Medium",
+				"queue": "MetaPve_Medium1"
+			},
+			"difficulty": 1,
+			"botLists": ["psycho", "nomads", "scavengers"],
+			"mapOptions": [{
+					"mapName": "bridge",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace", "Pve_TowerDefense"]
+				},
+				{
+					"mapName": "castle",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace", "Pve_TowerDefense"]
+				},
+				{
+					"mapName": "riverport",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace", "Pve_TowerDefense"]
+				},
+				{
+					"mapName": "rockcity",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace", "Pve_Siege", "Pve_TowerDefense"]
+				},
+				{
+					"mapName": "miners_way",
+					"gameplays": ["Pve_Convoy", "Pve_Chase"]
+				},
+				{
+					"mapName": "cemetery_highway",
+					"gameplays": ["Pve_Convoy", "Pve_Chase"]
+				},
+				{
+					"mapName": "iron_way",
+					"gameplays": ["Pve_Convoy", "Pve_Chase"]
+				}
+			]
+		},
+		{
+			"link": {
+				"mission": "Mission_MetaPve_Hard",
+				"queue": "MetaPve_Hard1"
+			},
+			"difficulty": 2,
+			"botLists": ["psycho", "nomads", "scavengers"],
+			"mapOptions": [{
+					"mapName": "bridge",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace", "Pve_TowerDefense"]
+				},
+				{
+					"mapName": "castle",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace", "Pve_TowerDefense"]
+				},
+				{
+					"mapName": "riverport",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace", "Pve_TowerDefense"]
+				},
+				{
+					"mapName": "rockcity",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace", "Pve_Siege", "Pve_TowerDefense"]
+				},
+				{
+					"mapName": "miners_way",
+					"gameplays": ["Pve_Convoy", "Pve_Chase"]
+				},
+				{
+					"mapName": "cemetery_highway",
+					"gameplays": ["Pve_Convoy", "Pve_Chase"]
+				},
+				{
+					"mapName": "iron_way",
+					"gameplays": ["Pve_Convoy", "Pve_Chase"]
+				}
+			]
+		},
+		{
+			"link": {
+				"mission": "Mission_MetaPve_Hard_Scrap_Epic",
+				"queue": "MetaPve_Hard2"
+			},
+			"difficulty": 2,
+			"botLists": ["psycho", "nomads", "scavengers"],
+			"mapOptions": [{
+					"mapName": "bridge",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace", "Pve_TowerDefense"]
+				},
+				{
+					"mapName": "castle",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace", "Pve_TowerDefense"]
+				},
+				{
+					"mapName": "riverport",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace", "Pve_TowerDefense"]
+				},
+				{
+					"mapName": "rockcity",
+					"gameplays": ["Pve_Defense", "Pve_FuelRace", "Pve_Siege", "Pve_TowerDefense"]
+				},
+				{
+					"mapName": "miners_way",
+					"gameplays": ["Pve_Convoy", "Pve_Chase"]
+				},
+				{
+					"mapName": "cemetery_highway",
+					"gameplays": ["Pve_Convoy", "Pve_Chase"]
+				},
+				{
+					"mapName": "iron_way",
+					"gameplays": ["Pve_Convoy", "Pve_Chase"]
+				}
+			]
+		}
+	],
+	"globalMapOptions": [{
+			"mapName": "arizona_castle",
+			"gameplays": ["Pve_Defense", "Pve_FuelRace"]
+		},
+		{
+			"mapName": "arizona_silo",
+			"gameplays": ["Pve_FuelRace"]
+		},
+		{
+			"mapName": "cityruin",
+			"gameplays": ["Pve_Defense", "Pve_FuelRace"]
+		},
+		{
+			"mapName": "powerplant",
+			"gameplays": ["Pve_Defense", "Pve_FuelRace"]
+		},
+		{
+			"mapName": "rockcity_2bases",
+			"gameplays": ["Pve_Defense", "Pve_FuelRace"]
+		},
+		{
+			"mapName": "factory",
+			"gameplays": ["Pve_FuelRace", "Pve_Siege"]
+		},
+		{
+			"mapName": "frenzied_track",
+			"gameplays": ["Pve_FuelRace"]
+		},
+		{
+			"mapName": "port",
+			"gameplays": ["Pve_Heist", "Pve_Siege"]
+		},
+		{
+			"mapName": "lost_coast",
+			"gameplays": ["Pve_Heist"]
+		},
+		{
+			"mapName": "refinery",
+			"gameplays": ["Pve_Heist", "Pve_FuelRace"]
+		}
+	],
+	"schedule": [{
+		"link": {
+			"mission": "Mission_MetaPve_Hard_Scrap_Epic",
+			"queue": "MetaPve_Hard2"
+		},
+		"options": {
+			"gameplay": "Pve_Heist",
+			"botList": "nomads",
+			"mapName": "lost_coast"
+		},
+		"start": "2017-09-09T00:00Z",
+		"end": "2017-10-09T00:00Z"
+	}]
+}

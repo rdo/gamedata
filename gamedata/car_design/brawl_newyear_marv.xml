@@ -1,0 +1,40 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="35">
+  <Chassis def="Chassis_ChevyPickup" pos="0.300 0.750 -1.200" dye="Dye_NewYear2016">
+    <Part def="CarPart_ChassisTruck8" weld_pos="0.300 0.750 -1.500" weld_rot_idx="22" dye="Dye_NewYear2016" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="0.300 0.750 0.900" weld_rot_idx="22" dye="Dye_NewYear2016" />
+    <Part def="CarPart_WheelDouble_RS_epic" weld_pos="0.750 0.450 -2.100" weld_rot_idx="4" dye="Dye_NewYear2016" />
+    <Part def="CarPart_WheelDouble_RS_epic" weld_pos="-0.150 0.450 -2.100" dye="Dye_NewYear2016" />
+    <Part def="CarPart_WheelDouble_RS_epic" weld_pos="-0.150 0.450 0.900" dye="Dye_NewYear2016" />
+    <Part def="CarPart_WheelDouble_RS_epic" weld_pos="0.750 0.450 0.900" weld_rot_idx="4" dye="Dye_NewYear2016" />
+    <Part def="CarPart_FenderSolid" weld_pos="-0.450 0.750 0.900" dye="Dye_NewYear2016" />
+    <Part def="CarPart_FenderSolid" weld_pos="1.050 0.750 0.900" weld_rot_idx="4" dye="Dye_NewYear2016" />
+    <Part def="CarPart_FenderSolid" weld_pos="1.050 0.750 2.700" weld_rot_idx="4" dye="Dye_NewYear2016" />
+    <Part def="CarPart_WheelDouble_R_epic" weld_pos="0.750 0.450 2.700" weld_rot_idx="4" dye="Dye_NewYear2016" />
+    <Part def="CarPart_WheelDouble_RS_epic" weld_pos="-0.150 0.450 2.700" dye="Dye_NewYear2016" />
+    <Part def="CarPart_FenderSolid" weld_pos="-0.450 0.750 2.700" dye="Dye_NewYear2016" />
+    <Part def="CarPart_Military_slope_thin_1x1x4" weld_pos="1.350 1.050 1.800" dye="Dye_NewYear2016" />
+    <Part def="CarPart_Military_slope_thin_1x1x4" weld_pos="1.350 1.050 0.000" dye="Dye_NewYear2016" />
+    <Part def="CarPart_Military_slope_thin_1x1x4" weld_pos="-0.750 1.050 1.800" weld_rot_idx="4" dye="Dye_NewYear2016" />
+    <Part def="CarPart_Military_slope_thin_1x1x4" weld_pos="-0.750 1.050 0.000" weld_rot_idx="4" dye="Dye_NewYear2016" />
+    <Part def="CarPart_Military_slope_thin_1x1x4" weld_pos="1.350 1.350 3.300" weld_rot_idx="2" dye="Dye_NewYear2016" />
+    <Part def="CarPart_Military_slope_thin_1x1x4" weld_pos="-0.600 1.350 3.450" weld_rot_idx="17" dye="Dye_NewYear2016" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.300 0.750 2.700" dye="Dye_NewYear2016" />
+    <Part def="CarPart_Mob_MineLauncher_Multi" weld_pos="0.302 0.750 3.000" weld_rot_idx="4" weaponGroup="1" dye="pic_PresentPaper01" />
+    <Part def="CarPart_BumperSpike_rare" weld_pos="0.300 0.600 -2.700" />
+    <Part def="CarPart_Nyear_Horn" weld_pos="0.750 2.400 -0.750" />
+    <Part def="CarPart_Nyear_Horn" weld_pos="-0.150 2.400 -0.750" weld_rot_idx="4" />
+    <Part def="CarPart_RedNose" weld_pos="0.300 1.653 -2.400" weld_rot_idx="22" />
+    <Part def="Brawl_NewYear_WeakBarrel" weld_pos="-0.300 1.650 0.450" weld_rot_idx="2" />
+    <Part def="CarPart_Grid_1" weld_pos="-0.300 1.650 0.600" weld_rot_idx="21" />
+    <Part def="CarPart_VanBack_epic" weld_pos="0.300 2.100 1.800" weld_rot_idx="6" dye="Dye_NewYear2016" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="1.050 1.350 2.400" dye="Dye_NewYear2016" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="-0.450 1.350 2.400" weld_rot_idx="4" dye="Dye_NewYear2016" />
+    <Part def="CarPart_Grid_1" weld_pos="0.300 1.050 0.900" />
+    <Part def="CarPart_VanBack_epic" weld_pos="0.300 2.100 1.800" weld_rot_idx="3" dye="Dye_NewYear2016" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.300 1.650 1.200" weld_rot_idx="6" />
+    <Part def="Brawl_NewYear_Gun_Machinegun_Corner" weld_pos="0.900 1.350 0.600" weld_rot_idx="18" weaponGroup="1" dye="pic_PresentPaper01" />
+    <Part def="CarPart_TruckSide" weld_pos="0.900 1.650 1.050" weld_rot_idx="21" dye="Dye_NewYear2016" />
+    <Part def="CarPart_Lifter" weld_pos="0.300 0.750 2.100" weld_rot_idx="22" />
+  </Chassis>
+</CarDesign>

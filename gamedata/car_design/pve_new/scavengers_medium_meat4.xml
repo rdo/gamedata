@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="23">
+  <Chassis def="Cabin_ArmoredPickup" pos="0.000 0.750 -0.300">
+    <Part def="CarPart_ChassisTruck8" weld_pos="0.000 0.750 -0.300" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 1.500" />
+    <Part def="CarPart_Lifter" weld_pos="0.000 0.750 1.200" />
+    <Part def="CarPart_TruckSlopeReverse" weld_pos="0.000 0.750 -2.400" weld_rot_idx="9" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.750 -1.800" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.900 0.750 1.500" weld_rot_idx="4" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.900 0.750 1.500" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.000 1.050 -2.100" weld_rot_idx="3" />
+    <Part def="CarPart_TruckSlope" weld_pos="-0.900 1.050 -2.100" weld_rot_idx="13" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.900 1.050 -2.100" weld_rot_idx="9" />
+    <Part def="CarPart_ArmorPlate_VanCover_rare" weld_pos="-0.600 1.050 2.100" weld_rot_idx="12" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.000 1.050 1.800" weld_rot_idx="2" />
+    <Part def="CarPart_VanBodySide_epic" weld_pos="0.600 1.200 1.500" weld_rot_idx="9" />
+    <Part def="CarPart_VanBodySide_epic" weld_pos="-0.600 1.200 1.500" weld_rot_idx="9" />
+    <Part def="CarPart_ArmorPlate_VanCover_rare" weld_pos="0.600 1.050 2.100" weld_rot_idx="12" />
+    <Part def="CarPart_Brakelights1" weld_pos="-0.600 1.350 0.600" weld_rot_idx="4" />
+    <Part def="CarPart_Brakelights1" weld_pos="0.600 1.350 0.600" weld_rot_idx="4" />
+    <Part def="CarPart_Headlights4" weld_pos="0.000 1.050 -2.400" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="0.450 0.450 1.500" weld_rot_idx="4" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="-0.450 0.450 1.500" />
+    <Part def="CarPart_WheelSmall_RS" weld_pos="-0.450 0.450 -1.500" />
+    <Part def="CarPart_WheelSmall_RS" weld_pos="0.450 0.450 -1.500" weld_rot_idx="4" />
+    <Part def="CarPart_Gun_Machinegun_rare" weld_pos="0.000 1.950 0.000" weaponGroup="1" />
+  </Chassis>
+</CarDesign>

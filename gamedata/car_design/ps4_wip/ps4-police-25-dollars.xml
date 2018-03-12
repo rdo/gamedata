@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="23">
+  <Chassis def="Cabin_Riviera" pos="0.000 0.750 0.020" dye="metal_PoliceWhite">
+    <Part def="CarPart_ChassisTruck8" weld_pos="0.000 0.750 0.020" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 1.820" />
+    <Part def="CarPart_hotrod_fender_left" weld_pos="0.750 0.750 -1.630" dye="metal_PoliceBlack" />
+    <Part def="CarPart_hotrod_fender_right" weld_pos="-0.750 0.750 -1.630" dye="metal_PoliceBlack" />
+    <Part def="CarPart_hotrod_hood" weld_pos="0.000 1.350 -1.480" dye="metal_PoliceBlack" />
+    <Part def="CarPart_hotrod_rear_fender_right" weld_pos="-0.750 0.750 1.820" dye="metal_PoliceBlack" />
+    <Part def="CarPart_hotrod_rear_fender_left" weld_pos="0.750 0.750 1.820" dye="metal_PoliceBlack" />
+    <Part def="CarPart_hotrod_grilles" weld_pos="0.000 0.750 -2.230" dye="metal_PoliceBlack" />
+    <Part def="CarPart_hotrod_trunk" weld_pos="0.000 1.050 2.420" dye="metal_PoliceBlack" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 -1.780" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="0.450 0.450 1.520" weld_rot_idx="4" dye="metal_PoliceWhite" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="-0.450 0.450 1.520" dye="metal_PoliceWhite" />
+    <Part def="CarPart_WheelSmallSpiked_S" weld_pos="0.450 0.450 -1.780" weld_rot_idx="4" dye="metal_PoliceWhite" />
+    <Part def="CarPart_WheelSmallSpiked_S" weld_pos="-0.450 0.450 -1.780" dye="metal_PoliceWhite" />
+    <Part def="CarPart_VanBumper" weld_pos="0.000 0.600 -2.380" />
+    <Part def="CarPart_Engine" weld_pos="0.300 1.050 -1.480" weld_rot_idx="11" />
+    <Part def="CarPart_Bumper1" weld_pos="0.000 0.600 2.420" weld_rot_idx="4" />
+    <Part def="CarPart_AviaSlope2x1x4" weld_pos="0.000 1.050 2.420" weld_rot_idx="19" dye="metal_PoliceBlack" />
+    <Part def="CarPart_PoliceLights" weld_pos="0.000 1.950 0.020" dye="metal_PoliceWhite" />
+    <Part def="CarPart_Avia_lafet" weld_pos="0.000 1.650 1.520" dye="metal_PoliceBlack" />
+    <Part def="CarPart_Footstep" weld_pos="0.600 0.600 0.020" weld_rot_idx="18" />
+    <Part def="CarPart_Footstep" weld_pos="-0.600 0.600 0.020" weld_rot_idx="22" />
+    <Part def="CarPart_Gun_Cannon_rare" weld_pos="0.000 2.250 1.220" dye="metal_PoliceBlack" />
+  </Chassis>
+</CarDesign>

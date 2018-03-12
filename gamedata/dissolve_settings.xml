@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<DissolveSetting>
+  <Default colorX="0.047059" colorY="0.043137" colorZ="0.043137" colorW="1.019000" removeTime="15.000000" invisibleRemoveTime="2.000000" fadeDuration="2.000000" />
+  <Burn colorX="1.000000" colorY="0.086274" colorZ="0.011765" colorW="7.071000" removeTime="0.600000" invisibleRemoveTime="0.100000" fadeDuration="0.600000" />
+  <BurnHeavy colorX="1.000000" colorY="0.086274" colorZ="0.011765" colorW="7.039000" removeTime="7.000000" invisibleRemoveTime="2.000000" fadeDuration="2.200000" />
+  <Shell colorX="0.039216" colorY="0.039216" colorZ="0.039216" colorW="1.000000" removeTime="3.000000" invisibleRemoveTime="0.500000" fadeDuration="0.100000" />
+</DissolveSetting>

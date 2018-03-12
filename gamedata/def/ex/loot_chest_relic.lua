@@ -1,0 +1,10 @@
+LootTable.Chest_relic.Rare = {}
+LootTable.Chest_relic.Rare.ods_export = true
+LootTable.Chest_relic.Rare.weight = 990
+LootTable.Chest_relic.Rare.add_weight = 0
+LootTable.Chest_relic.Rare.loot_table = true
+LootTable.Chest_relic.Relict = {}
+LootTable.Chest_relic.Relict.ods_export = true
+LootTable.Chest_relic.Relict.weight = 10
+LootTable.Chest_relic.Relict.add_weight = 0
+LootTable.Chest_relic.Relict.loot_table = true

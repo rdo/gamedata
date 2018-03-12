@@ -1,0 +1,79 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="74">
+  <Chassis def="Chassis_Kamaz:TonnageMul" pos="0.000 1.050 -0.335" dye="pic_AlienSkin">
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.600 1.050 -1.235" weld_rot_idx="22" dye="pic_AlienSkin" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="-0.600 1.050 -1.235" weld_rot_idx="22" dye="pic_AlienSkin" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="0.000 1.050 0.865" dye="pic_AlienSkin" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.600 1.050 2.065" dye="pic_AlienSkin" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.600 1.050 2.065" dye="pic_AlienSkin" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="1.050 0.750 2.965" weld_rot_idx="4" dye="pic_AlienSkin" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="-1.050 0.750 2.965" dye="pic_AlienSkin" />
+    <Part def="CarPart_PowerGiver_legend" weld_pos="0.000 1.350 0.865" weld_rot_idx="12" dye="pic_AlienSkin" />
+    <Part def="CarPart_BumperTrain2_epic" weld_pos="0.000 2.100 -1.535" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="1.200 2.250 -0.935" weld_rot_idx="10" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="1.200 2.250 -0.335" weld_rot_idx="10" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="1.200 2.250 0.265" weld_rot_idx="10" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="1.200 1.950 1.165" weld_rot_idx="20" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="1.200 1.950 2.065" weld_rot_idx="14" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="1.200 1.950 2.665" weld_rot_idx="14" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="1.200 1.950 3.265" weld_rot_idx="14" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-1.500 1.950 3.265" weld_rot_idx="14" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-1.200 2.250 -0.935" weld_rot_idx="11" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-1.200 2.250 -0.335" weld_rot_idx="11" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-1.200 2.250 0.265" weld_rot_idx="11" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-1.200 1.950 1.165" weld_rot_idx="21" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-1.500 1.950 2.065" weld_rot_idx="14" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-1.500 1.950 2.665" weld_rot_idx="14" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="-0.600 2.250 2.665" weld_rot_idx="4" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="-0.600 1.650 3.265" weld_rot_idx="6" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="0.600 1.650 3.265" weld_rot_idx="6" dye="pic_AlienSkin" />
+    <Part def="CarPart_VanTop_epic" weld_pos="-0.600 1.650 2.965" weld_rot_idx="8" dye="pic_AlienSkin" />
+    <Part def="CarPart_VanTop_epic" weld_pos="0.600 1.650 2.965" weld_rot_idx="8" dye="pic_AlienSkin" />
+    <Part def="CarPart_TruckSideSquare" weld_pos="0.600 1.650 2.665" weld_rot_idx="8" dye="pic_AlienSkin" />
+    <Part def="CarPart_TruckSideSquare" weld_pos="-0.600 1.650 2.665" weld_rot_idx="8" dye="pic_AlienSkin" />
+    <Part def="CarPart_Bumper1" weld_pos="-0.900 3.000 -0.935" dye="pic_AlienSkin" />
+    <Part def="CarPart_Bumper1" weld_pos="0.900 3.000 -0.935" dye="pic_AlienSkin" />
+    <Part def="CarPart_ArmorPlate_Square" weld_pos="-1.500 2.550 -0.335" weld_rot_idx="15" dye="pic_AlienSkin" />
+    <Part def="CarPart_ArmorPlate_Square" weld_pos="1.500 2.550 -0.335" weld_rot_idx="14" dye="pic_AlienSkin" />
+    <Part def="CarPart_Brakelights1" weld_pos="0.900 0.750 3.865" weld_rot_idx="4" dye="pic_AlienSkin" />
+    <Part def="CarPart_Brakelights1" weld_pos="-0.900 0.750 3.865" weld_rot_idx="4" dye="pic_AlienSkin" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.600 1.050 3.265" dye="pic_AlienSkin" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.600 1.050 3.265" dye="pic_AlienSkin" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-1.500 1.350 2.965" weld_rot_idx="4" dye="pic_AlienSkin" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="1.500 1.350 2.965" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="-0.600 2.250 -1.535" weld_rot_idx="8" dye="pic_AlienSkin" />
+    <Part def="CarPart_Engine:DetailHealth" weld_pos="0.000 1.350 -1.235" weld_rot_idx="9" dye="pic_AlienSkin" />
+    <Part def="CarPart_ArmorPlate_Square" weld_pos="1.500 1.950 -0.335" weld_rot_idx="14" dye="pic_AlienSkin" />
+    <Part def="CarPart_ArmorPlate_Square" weld_pos="-1.500 1.950 -0.335" weld_rot_idx="15" dye="pic_AlienSkin" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="1.050 0.750 -1.535" weld_rot_idx="4" dye="pic_AlienSkin" />
+    <Part def="CarPart_AutoGuidedCourseGun_rare" weld_pos="0.900 5.550 -0.035" dye="pic_AlienSkin" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="-1.050 0.750 -1.535" dye="pic_AlienSkin" />
+    <Part def="CarPart_ModuleAmmo_rare:DetailHealth" weld_pos="-0.600 1.950 2.365" weld_rot_idx="8" dye="pic_AlienSkin" />
+    <Part def="CarPart_ModuleAmmo_rare:DetailHealth" weld_pos="0.600 1.950 2.365" weld_rot_idx="8" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="0.600 2.550 1.465" weld_rot_idx="4" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="0.600 2.250 2.665" weld_rot_idx="4" dye="pic_AlienSkin" />
+    <Part def="CarPart_Wing" weld_pos="0.900 2.550 3.115" dye="pic_AlienSkin" />
+    <Part def="CarPart_Wing" weld_pos="-0.900 2.550 3.115" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="-0.600 2.550 1.465" weld_rot_idx="4" dye="pic_AlienSkin" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="0.900 1.650 1.465" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="0.600 2.250 -1.535" weld_rot_idx="8" dye="pic_AlienSkin" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="1.050 0.750 0.865" weld_rot_idx="4" dye="pic_AlienSkin" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="1.500 1.350 0.865" dye="pic_AlienSkin" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="-1.050 0.750 0.865" dye="pic_AlienSkin" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-1.500 1.350 0.865" weld_rot_idx="4" dye="pic_AlienSkin" />
+    <Part def="CarPart_ArmorPlate1_rare" weld_pos="-0.600 1.650 3.565" weld_rot_idx="12" dye="pic_AlienSkin" />
+    <Part def="CarPart_ArmorPlate1_rare" weld_pos="0.600 1.650 3.565" weld_rot_idx="12" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid5" weld_pos="0.600 3.750 -0.035" weld_rot_idx="20" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid5" weld_pos="0.600 4.950 -0.035" weld_rot_idx="16" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid5" weld_pos="0.000 3.750 -0.035" weld_rot_idx="7" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid5" weld_pos="0.000 4.950 -0.335" weld_rot_idx="6" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid5" weld_pos="-0.600 3.750 -0.035" weld_rot_idx="17" dye="pic_AlienSkin" />
+    <Part def="CarPart_Buggy_Grid5" weld_pos="-0.600 4.950 -0.035" weld_rot_idx="21" dye="pic_AlienSkin" />
+    <Part def="CarPart_AutoGuidedCourseGun_rare" weld_pos="0.000 5.550 -0.035" dye="pic_AlienSkin" />
+    <Part def="CarPart_AutoGuidedCourseGun_rare" weld_pos="-0.900 5.550 -0.035" dye="pic_AlienSkin" />
+    <Part def="CarPart_BumperTrain2_epic" weld_pos="0.000 0.900 -2.135" dye="pic_AlienSkin" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="0.300 1.650 1.465" dye="pic_AlienSkin" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="-0.300 1.650 1.465" dye="pic_AlienSkin" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="-0.900 1.650 1.465" dye="pic_AlienSkin" />
+  </Chassis>
+</CarDesign>

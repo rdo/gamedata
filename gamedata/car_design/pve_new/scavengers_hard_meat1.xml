@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="23">
+  <Chassis def="Chassis_Rage" pos="0.000 0.750 -0.300">
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 1.200" dye="Dye_BlackScratch" />
+    <Part def="CarPart_FenderSolid" weld_pos="-0.750 1.050 1.500" dye="Dye_Rusted" />
+    <Part def="CarPart_FenderSolid" weld_pos="0.750 1.050 1.500" weld_rot_idx="4" dye="Dye_Rusted" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.000 1.050 2.100" weld_rot_idx="2" dye="Dye_Rusted" />
+    <Part def="CarPart_FenderSolid" weld_pos="-1.050 1.050 1.500" weld_rot_idx="4" dye="Dye_Rusted" />
+    <Part def="CarPart_FenderSolid" weld_pos="1.050 1.050 1.500" dye="Dye_Rusted" />
+    <Part def="CarPart_Bumper2_rare" weld_pos="0.000 0.600 -2.400" />
+    <Part def="CarPart_Bumper2_rare" weld_pos="0.000 1.200 -2.100" />
+    <Part def="CarPart_WheelDouble_R_epic" weld_pos="0.450 0.450 1.500" weld_rot_idx="4" />
+    <Part def="CarPart_WheelDouble_R_epic" weld_pos="-0.450 0.450 1.500" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.450 0.450 -1.500" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="0.450 0.450 -1.500" weld_rot_idx="4" />
+    <Part def="CarPart_TruckSlope2" weld_pos="-0.900 1.050 0.000" weld_rot_idx="17" />
+    <Part def="CarPart_TruckSlope2" weld_pos="0.900 1.050 0.000" weld_rot_idx="20" />
+    <Part def="CarPart_Radiator" weld_pos="0.000 0.750 0.900" weld_rot_idx="22" />
+    <Part def="CarPart_Radiator" weld_pos="0.000 1.350 0.900" weld_rot_idx="22" />
+    <Part def="CarPart_TruckSlope" weld_pos="-0.900 1.650 0.900" weld_rot_idx="22" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.900 1.650 0.900" weld_rot_idx="18" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="0.000 0.750 0.000" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 -1.200" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.750 -2.100" />
+    <Part def="CarPart_Gun_Machinegun_epic" weld_pos="0.000 1.950 0.900" weaponGroup="1" />
+    <Part def="CarPart_AviaSlope2x1x4" weld_pos="0.000 0.750 2.100" weld_rot_idx="19" />
+  </Chassis>
+</CarDesign>

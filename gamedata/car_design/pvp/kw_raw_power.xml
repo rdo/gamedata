@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="47">
+  <Chassis def="Chassis_Small" pos="0.428 0.750 -1.738" dye="Dye_Yellow01">
+    <Part def="CarPart_ChassisBase4" weld_pos="0.428 0.750 -1.438" dye="Dye_Black" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.428 0.750 -2.638" dye="Dye_Black" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.128 0.750 -0.238" weld_rot_idx="22" dye="Dye_Black" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.728 0.750 -0.238" weld_rot_idx="22" dye="Dye_Black" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.428 0.750 -3.538" dye="Dye_Black" />
+    <Part def="CarPart_BumperSpike_rare" weld_pos="0.428 0.600 -3.838" dye="Dye_DangerStripes" />
+    <Part def="CarPart_WheelSmall_RS" weld_pos="0.878 0.450 -2.938" weld_rot_idx="4" dye="Dye_Crimson01" />
+    <Part def="CarPart_WheelSmall_RS" weld_pos="-0.022 0.450 -2.938" dye="Dye_Crimson01" />
+    <Part def="CarPart_Gun_Machinegun" weld_pos="-0.172 1.650 -2.938" dye="Dye_checker" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="1.328 0.750 -2.938" dye="Dye_Chrome" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.472 0.750 -2.938" weld_rot_idx="4" dye="Dye_Chrome" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="-0.022 0.450 0.362" dye="Dye_Crimson01" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="0.878 0.450 0.362" weld_rot_idx="4" dye="Dye_Crimson01" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.428 0.750 0.662" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Headlights2" weld_pos="-0.172 1.050 -3.538" />
+    <Part def="CarPart_Headlights2" weld_pos="1.028 1.050 -3.538" />
+    <Part def="CarPart_FenderSolid" weld_pos="1.178 0.750 0.362" dye="Dye_Black" />
+    <Part def="CarPart_FenderSolid" weld_pos="-0.322 0.750 0.362" weld_rot_idx="4" dye="Dye_Black" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.472 0.750 0.362" weld_rot_idx="4" dye="Dye_Chrome" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="1.328 0.750 0.362" dye="Dye_Chrome" />
+    <Part def="CarPart_Headlights5" weld_pos="-0.622 1.350 -1.138" dye="Dye_Gold" />
+    <Part def="CarPart_Exhaust2" weld_pos="-0.472 0.600 -2.188" weld_rot_idx="6" />
+    <Part def="CarPart_Exhaust2" weld_pos="1.328 0.600 -2.188" weld_rot_idx="2" />
+    <Part def="CarPart_Headlights5" weld_pos="1.478 1.350 -1.138" dye="Dye_Gold" />
+    <Part def="CarPart_PowerGiverExplosive_epic" weld_pos="0.578 1.050 -0.838" weld_rot_idx="8" />
+    <Part def="CarPart_Cooler_rare" weld_pos="0.428 1.050 0.362" weld_rot_idx="22" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="0.428 1.350 0.062" weld_rot_idx="22" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="0.428 1.350 0.662" weld_rot_idx="22" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.728 1.650 -0.538" weld_rot_idx="4" dye="Dye_DangerStripes" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.128 1.650 -0.538" weld_rot_idx="4" dye="Dye_DangerStripes" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.428 1.350 -0.538" />
+    <Part def="CarPart_AviaBox2x1x2" weld_pos="1.328 1.050 -1.138" weld_rot_idx="16" dye="Dye_Black" />
+    <Part def="CarPart_AviaBox2x1x2" weld_pos="-0.472 1.050 -1.138" weld_rot_idx="17" dye="Dye_Black" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="-0.472 1.050 -0.838" weld_rot_idx="6" dye="Dye_Black" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="1.328 1.050 -0.838" weld_rot_idx="2" dye="Dye_Black" />
+    <Part def="CarPart_AviaSlope2x1x1" weld_pos="-0.322 1.350 -0.538" weld_rot_idx="18" />
+    <Part def="CarPart_AviaSlope2x1x1" weld_pos="1.028 0.600 -2.038" weld_rot_idx="16" dye="Dye_Grey03" />
+    <Part def="CarPart_AviaBox4x1x4" weld_pos="0.428 1.050 0.962" weld_rot_idx="2" dye="Dye_Yellow03" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="-0.472 1.050 1.262" weld_rot_idx="6" dye="Dye_DangerStripes" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="1.328 1.050 1.262" weld_rot_idx="2" dye="Dye_DangerStripes" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.428 1.050 -3.538" weld_rot_idx="7" />
+    <Part def="CarPart_Buggy_Grid7" weld_pos="-0.172 1.050 -3.838" weld_rot_idx="5" />
+    <Part def="CarPart_Buggy_Grid7" weld_pos="1.028 1.050 -3.838" weld_rot_idx="5" />
+    <Part def="CarPart_AviaSlope2x1x1" weld_pos="-0.172 0.600 -2.038" weld_rot_idx="17" dye="Dye_Grey03" />
+    <Part def="CarPart_Gun_Machinegun_rare" weld_pos="0.428 1.950 -1.438" />
+    <Part def="CarPart_Gun_Machinegun" weld_pos="1.028 1.650 -2.938" dye="Dye_checker" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.428 1.050 1.262" weld_rot_idx="2" dye="Dye_DangerStripes" />
+  </Chassis>
+</CarDesign>

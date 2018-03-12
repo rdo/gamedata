@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="66">
+  <Chassis def="Chassis_Basic" pos="0.000 0.750 0.585">
+    <Part def="CarPart_TankTrackBig_epic" weld_pos="-0.750 0.450 2.685" />
+    <Part def="CarPart_AutoGuidedCourseGun_epic" weld_pos="0.000 2.250 1.185" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="0.000 1.950 1.185" weld_rot_idx="4" />
+    <Part def="CarPart_ChassisLight2" weld_pos="-0.600 0.750 0.585" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.600 0.750 0.585" weld_rot_idx="22" />
+    <Part def="CarPart_PowerGiverExplosive_legend" weld_pos="-0.300 0.450 1.185" weld_rot_idx="14" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="-0.750 1.350 -0.015" />
+    <Part def="CarPart_Headlights4" weld_pos="0.000 1.950 0.585" />
+    <Part def="CarPart_Bag03" weld_pos="0.600 2.100 1.035" weld_rot_idx="10" />
+    <Part def="CarPart_Bag03" weld_pos="-0.600 2.100 1.035" weld_rot_idx="11" />
+    <Part def="CarPart_Engine_v8" weld_pos="0.000 0.750 -1.215" />
+    <Part def="CarPart_Grid_3" weld_pos="1.200 0.750 0.585" weld_rot_idx="23" />
+    <Part def="CarPart_Grid_3" weld_pos="-1.200 0.750 0.585" weld_rot_idx="19" />
+    <Part def="CarPart_ChassisLight2" weld_pos="-0.600 0.750 1.785" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.600 0.750 1.785" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 -0.615" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.000 0.750 -1.515" />
+    <Part def="CarPart_Grid_1" weld_pos="0.600 1.650 1.185" weld_rot_idx="20" />
+    <Part def="CarPart_Grid_1" weld_pos="-0.600 1.050 1.185" weld_rot_idx="17" />
+    <Part def="CarPart_Grid_1" weld_pos="0.600 1.050 1.185" weld_rot_idx="20" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="-0.750 1.050 -0.615" weld_rot_idx="3" />
+    <Part def="CarPart_Buggy_Grid11" weld_pos="0.750 1.350 -0.015" />
+    <Part def="CarPart_Holder_2x2" weld_pos="0.750 1.200 -1.665" weld_rot_idx="6" />
+    <Part def="CarPart_ChassisLight6" weld_pos="0.000 0.750 2.985" />
+    <Part def="CarPart_TankTrackBig_epic" weld_pos="0.750 0.450 2.685" weld_rot_idx="4" />
+    <Part def="CarPart_Harvester_legend" weld_pos="0.000 1.050 -1.815" />
+    <Part def="CarPart_Holder_2x2" weld_pos="-0.750 1.200 -1.665" weld_rot_idx="6" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="0.750 1.050 -0.615" weld_rot_idx="3" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="0.900 0.600 -0.015" weld_rot_idx="9" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="-0.600 0.600 -0.315" weld_rot_idx="11" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="0.000 1.350 3.285" weld_rot_idx="2" />
+    <Part def="CarPart_Buggy_Grid10" weld_pos="0.000 0.750 3.585" weld_rot_idx="6" />
+    <Part def="CarPart_ModuleAmmo_rare" weld_pos="0.000 0.750 2.085" weld_rot_idx="22" />
+    <Part def="CarPart_ModuleAmmo_rare" weld_pos="0.000 1.050 2.085" weld_rot_idx="22" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="-0.900 1.350 2.685" weld_rot_idx="20" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="0.900 1.350 2.685" weld_rot_idx="17" />
+    <Part def="CarPart_Buggy_Grid9" weld_pos="0.600 1.350 3.585" weld_rot_idx="10" />
+    <Part def="CarPart_Buggy_Grid9" weld_pos="-0.600 1.350 3.585" weld_rot_idx="15" />
+    <Part def="CarPart_Grid_1" weld_pos="-0.600 1.650 1.185" weld_rot_idx="17" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="1.200 1.050 2.685" weld_rot_idx="18" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-1.200 1.050 2.685" weld_rot_idx="18" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="-1.200 1.200 3.285" weld_rot_idx="8" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="1.200 1.200 3.285" weld_rot_idx="12" />
+    <Part def="CarPart_Buggy_Grid5" weld_pos="0.000 1.950 2.385" weld_rot_idx="4" />
+    <Part def="CarPart_Buggy_Grid7" weld_pos="0.000 1.950 3.285" weld_rot_idx="4" />
+    <Part def="CarPart_BigBag" weld_pos="-0.900 1.650 2.835" weld_rot_idx="11" />
+    <Part def="CarPart_LeatherBag" weld_pos="1.200 1.350 2.685" />
+    <Part def="CarPart_Exhaust2" weld_pos="-0.600 1.200 1.935" weld_rot_idx="4" />
+    <Part def="CarPart_Exhaust2" weld_pos="0.600 1.200 1.935" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="0.900 1.200 1.785" weld_rot_idx="14" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="-0.900 1.200 1.785" weld_rot_idx="11" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.900 0.750 -1.215" weld_rot_idx="4" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.900 0.750 -1.215" />
+    <Part def="CarPart_Brakelights1" weld_pos="-0.900 0.750 3.585" weld_rot_idx="1" />
+    <Part def="CarPart_Brakelights1" weld_pos="0.900 0.750 3.585" weld_rot_idx="1" />
+    <Part def="CarPart_ArmorPlate_VanCover_rare" weld_pos="0.900 1.050 0.285" weld_rot_idx="14" />
+    <Part def="CarPart_SpareTire" weld_pos="0.000 1.650 3.585" weld_rot_idx="6" />
+    <Part def="CarPart_Holder_2x2" weld_pos="1.050 0.600 1.335" weld_rot_idx="12" />
+    <Part def="CarPart_Holder_2x2" weld_pos="-1.050 0.600 1.335" weld_rot_idx="15" />
+    <Part def="CarPart_Holder_2x2" weld_pos="0.750 1.200 0.135" weld_rot_idx="6" />
+    <Part def="CarPart_Holder_2x2" weld_pos="-0.750 1.200 0.135" weld_rot_idx="6" />
+    <Part def="CarPart_ArmorPlate_VanCover_rare" weld_pos="-0.900 1.050 0.285" weld_rot_idx="15" />
+    <Part def="CarPart_WheelSmallChains_S" weld_pos="-0.450 0.450 -1.215" />
+    <Part def="CarPart_WheelSmallChains_S" weld_pos="0.450 0.450 -1.215" weld_rot_idx="4" />
+    <Part def="CarPart_Gun_Shotgun_rare" weld_pos="0.000 1.650 -1.215" />
+    <Part def="CarPart_ModuleAmmo_rare" weld_pos="0.000 1.350 2.085" weld_rot_idx="22" />
+  </Chassis>
+</CarDesign>

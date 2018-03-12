@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="40">
+  <Chassis def="Chassis_ChevyPickup" pos="-0.300 0.750 3.600" dye="pic_XmasTree01">
+    <Part def="CarPart_ChassisTruck8" weld_pos="-0.300 0.750 2.400" weld_rot_idx="4" dye="pic_XmasTree01" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="-0.300 0.750 3.600" weld_rot_idx="4" dye="pic_XmasTree01" />
+    <Part def="CarPart_TankTrackBig_legend" weld_pos="-1.350 0.450 4.200" dye="pic_XmasTree01" />
+    <Part def="CarPart_TankTrackBig_legend" weld_pos="0.750 0.450 4.200" weld_rot_idx="4" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="-1.950 1.350 4.800" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="1.350 1.350 4.800" weld_rot_idx="4" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="1.050 1.350 4.800" weld_rot_idx="4" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="-1.650 1.950 4.800" weld_rot_idx="1" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_box_slope_2x1x8" weld_pos="0.600 1.950 4.800" weld_rot_idx="10" dye="pic_XmasTree01" />
+    <Part def="CarPart_Military_box_slope_2x1x8" weld_pos="-1.200 1.950 4.800" weld_rot_idx="11" dye="pic_XmasTree01" />
+    <Part def="CarPart_TruckSlope4" weld_pos="-1.200 1.350 6.300" weld_rot_idx="2" dye="pic_XmasTree01" />
+    <Part def="CarPart_TruckSlope4" weld_pos="0.600 1.350 6.300" weld_rot_idx="2" dye="pic_XmasTree01" />
+    <Part def="CarPart_TruckSide" weld_pos="-0.300 1.050 4.950" weld_rot_idx="21" dye="pic_XmasTree01" />
+    <Part def="Brawl_NewYear_WeakBarrel" weld_pos="-0.300 1.200 5.700" weld_rot_idx="22" dye="pic_XmasTree01" />
+    <Part def="CarPart_Nyear_Horn" weld_pos="0.150 2.400 4.050" dye="Dye_Eraser" />
+    <Part def="CarPart_Nyear_Horn" weld_pos="-0.750 2.400 4.050" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_RedNose" weld_pos="-0.300 1.653 2.400" weld_rot_idx="22" dye="pic_XmasTree01" />
+    <Part def="CarPart_AviaBox2x1x2" weld_pos="-0.900 1.650 5.700" weld_rot_idx="1" dye="pic_XmasTree01" />
+    <Part def="CarPart_AviaBox2x1x2" weld_pos="-0.900 1.350 5.700" weld_rot_idx="1" dye="pic_XmasTree01" />
+    <Part def="CarPart_AviaBox2x1x2" weld_pos="-0.900 1.050 5.700" weld_rot_idx="1" dye="pic_XmasTree01" />
+    <Part def="CarPart_AviaBox2x1x2" weld_pos="0.300 1.650 5.700" weld_rot_idx="1" dye="pic_XmasTree01" />
+    <Part def="CarPart_AviaBox2x1x2" weld_pos="0.300 1.350 5.700" weld_rot_idx="1" dye="pic_XmasTree01" />
+    <Part def="CarPart_AviaBox2x1x2" weld_pos="0.300 1.050 5.700" weld_rot_idx="1" dye="pic_XmasTree01" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="-0.300 0.750 6.000" weld_rot_idx="4" dye="pic_XmasTree01" />
+    <Part def="CarPart_Grid_2" weld_pos="-0.300 1.350 6.000" weld_rot_idx="8" dye="pic_PresentPaper01" />
+    <Part def="CarPart_Grid_2" weld_pos="-0.300 1.350 6.300" weld_rot_idx="2" dye="pic_PresentPaper01" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="0.150 1.950 6.300" dye="pic_XmasTree01" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="-0.750 1.950 6.300" dye="pic_XmasTree01" />
+    <Part def="CarPart_Radiator_epic" weld_pos="-0.300 1.650 5.400" weld_rot_idx="18" dye="pic_XmasTree01" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="0.300 1.950 5.400" dye="pic_XmasTree01" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="-0.300 1.950 5.400" dye="pic_XmasTree01" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="-0.900 1.950 5.400" dye="pic_XmasTree01" />
+    <Part def="CarPart_BumperTrain2_epic" weld_pos="-0.300 0.600 1.800" dye="pic_XmasTree01" />
+    <Part def="CarPart_TruckSlope" weld_pos="-1.800 1.650 6.000" weld_rot_idx="2" dye="pic_XmasTree01" />
+    <Part def="CarPart_TruckSlope" weld_pos="1.200 1.650 6.000" weld_rot_idx="2" dye="pic_XmasTree01" />
+    <Part def="Brawl_NewYear_Gun_Machinegun_Corner" weld_pos="1.200 1.350 3.000" weaponGroup="1" dye="pic_PresentPaper01" />
+    <Part def="Brawl_NewYear_Gun_Machinegun_Corner" weld_pos="-1.800 1.950 3.000" weld_rot_idx="5" weaponGroup="1" dye="pic_PresentPaper01" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.900 0.750 4.800" />
+    <Part def="CarPart_Lifter" weld_pos="0.300 1.050 5.100" weld_rot_idx="16" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.750 4.800" weld_rot_idx="22" />
+  </Chassis>
+</CarDesign>

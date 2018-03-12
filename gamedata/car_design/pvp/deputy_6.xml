@@ -1,0 +1,70 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="65">
+  <Chassis def="Chassis_Basic" pos="-0.121 0.750 -0.808" dye="Dye_Eraser">
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.121 0.750 0.992" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.121 0.750 -2.608" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.721 0.750 -1.408" weld_rot_idx="22" />
+    <Part def="CarPart_Engine_v8" weld_pos="-0.121 0.750 -2.608" dye="Dye_Chrome" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="-1.021 1.350 -0.208" weld_rot_idx="10" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-1.021 1.050 -1.408" weld_rot_idx="20" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="-0.871 1.050 -2.608" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="-0.871 1.350 -1.408" dye="Dye_Carbon" />
+    <Part def="CarPart_Bumper2_rare" weld_pos="-0.121 0.600 -3.808" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-0.121 1.050 -3.208" weld_rot_idx="3" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="-0.121 1.050 -3.508" weld_rot_idx="3" dye="Dye_Eraser" />
+    <Part def="CarPart_Headlights4" weld_pos="-0.121 1.050 -3.508" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="0.479 1.350 -0.208" weld_rot_idx="10" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.479 1.050 -1.408" weld_rot_idx="16" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="0.629 1.050 -2.608" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="0.629 1.350 -1.408" dye="Dye_Eraser" />
+    <Part def="CarPart_Headlights5" weld_pos="0.629 0.750 -3.508" />
+    <Part def="CarPart_Headlights5" weld_pos="-0.871 0.750 -3.508" />
+    <Part def="CarPart_Buggy_Grid9" weld_pos="0.779 1.650 -0.208" weld_rot_idx="20" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.779 1.050 -1.108" weld_rot_idx="16" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid7" weld_pos="0.779 1.050 -2.008" weld_rot_idx="14" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="0.929 1.350 0.092" weld_rot_idx="1" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-1.321 1.050 -1.108" weld_rot_idx="16" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid7" weld_pos="-1.021 1.050 -2.008" weld_rot_idx="11" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="-1.171 1.350 0.092" weld_rot_idx="1" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid9" weld_pos="-1.021 1.650 -0.208" weld_rot_idx="17" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.779 1.350 0.992" weld_rot_idx="21" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="0.629 0.750 1.592" weld_rot_idx="3" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="-0.871 1.050 1.292" weld_rot_idx="5" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="0.779 1.350 0.992" weld_rot_idx="18" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="-1.021 1.350 0.992" weld_rot_idx="22" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-1.021 1.350 0.992" weld_rot_idx="20" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="0.629 1.650 0.992" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="-0.871 1.650 0.992" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="-0.721 1.950 -0.208" weld_rot_idx="22" />
+    <Part def="CarPart_Headlights" weld_pos="0.629 1.950 -0.808" dye="Dye_Eraser" />
+    <Part def="CarPart_Headlights" weld_pos="-0.871 1.950 -0.808" />
+    <Part def="CarPart_SpareTire" weld_pos="-0.121 1.350 2.192" weld_rot_idx="6" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid7" weld_pos="-0.721 0.750 -3.508" weld_rot_idx="19" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.179 0.450 -3.508" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.571 0.450 -2.908" dye="Dye_Chrome" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="0.329 0.450 -2.908" weld_rot_idx="4" dye="Dye_Chrome" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="-0.571 0.450 0.992" dye="Dye_Chrome" />
+    <Part def="CarPart_Horns01" weld_pos="-0.121 1.350 -3.358" dye="Dye_Red03" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="0.329 0.450 0.992" weld_rot_idx="4" dye="Dye_Chrome" />
+    <Part def="CarPart_Buggy_Grid10" weld_pos="-0.121 1.050 1.892" weld_rot_idx="1" dye="Dye_Eraser" />
+    <Part def="CarPart_SpearExplosive" weld_pos="-1.171 1.350 -1.708" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-0.121 1.050 1.892" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid10" weld_pos="-0.121 1.350 1.892" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="-0.121 1.350 0.992" weld_rot_idx="4" />
+    <Part def="CarPart_SpearExplosive" weld_pos="0.929 1.350 -1.708" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="0.479 1.950 -0.208" weld_rot_idx="18" />
+    <Part def="CarPart_Gun_Cannon_rare" weld_pos="-0.121 1.950 -0.208" />
+    <Part def="CarPart_ChainSaw_epic" weld_pos="-1.321 1.050 -0.658" weld_rot_idx="22" dye="Dye_Red03" />
+    <Part def="CarPart_ChainSaw_epic" weld_pos="1.079 1.050 -0.658" weld_rot_idx="18" dye="Dye_Red03" />
+    <Part def="CarPart_RoadsignCircle_01" weld_pos="1.079 1.050 -1.408" />
+    <Part def="CarPart_RoadsignSquare_01" weld_pos="-1.321 1.050 -1.408" weld_rot_idx="4" />
+    <Part def="CarPart_Bag03" weld_pos="-0.871 1.800 1.592" weld_rot_idx="6" />
+    <Part def="CarPart_Brakelights1" weld_pos="0.479 1.050 1.592" weld_rot_idx="10" />
+    <Part def="CarPart_Brakelights1" weld_pos="-0.721 1.050 1.592" weld_rot_idx="15" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.479 0.750 -1.408" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.721 0.750 -0.208" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.479 0.750 -0.208" weld_rot_idx="22" />
+    <Part def="CarPart_PowerGiverExplosive_legend" weld_pos="-0.121 0.150 -0.508" />
+    <Part def="CarPart_Lifter" weld_pos="-0.121 0.750 1.292" weld_rot_idx="22" />
+  </Chassis>
+</CarDesign>

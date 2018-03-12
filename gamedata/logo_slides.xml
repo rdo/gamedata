@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<!-- Xml config format:
+--------------------------------------------------------------------------------
+<slides>
+	// each slide consists of:
+	// texture name, time to show in sec, sound to play when slide starts to fade in
+
+	// first slide
+	<picture filename="textures/slides/logo1" time_to_show="8" sound="awesome_audio_effect" />
+	...
+	// video playback
+	<video filename="textures/video/intro1" />
+	...
+	// last slide
+	<picture filename="textures/slides/logoN" time_to_show="8" />
+</slides>
+-------------------------------------------------------------------------------->
+
+<slides stop_prev_sound="false">
+	<video   file="video/splash_1.ogv" />
+	<picture file="ui/textures/start_screen" time_to_show="3" />
+</slides>

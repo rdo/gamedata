@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="6">
+  <Chassis def="Chassis_Basic" pos="0.043 0.750 -0.353">
+    <Part def="CarPart_ChassisBase4" weld_pos="0.043 0.750 -1.253" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.043 0.750 -0.053" />
+    <Part def="CarPart_WheelSmall_RS" weld_pos="0.493 0.450 -1.553" weld_rot_idx="4" />
+    <Part def="CarPart_WheelSmall_RS" weld_pos="-0.407 0.450 -1.553" />
+    <Part def="CarPart_WheelSmall_R" weld_pos="-0.407 0.450 0.547" />
+    <Part def="CarPart_WheelSmall_R" weld_pos="0.493 0.450 0.547" weld_rot_idx="4" />
+  </Chassis>
+</CarDesign>

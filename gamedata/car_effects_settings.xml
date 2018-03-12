@@ -1,0 +1,6 @@
+﻿<?xml version="1.0"?>
+<CarEffectsSetting>
+  <AimDisable colorR="0.074510" colorG="0.356863" colorB="1.000000" multiplier="0.080000" width="0.319000" fresnel="2.000000" animTime="1.000000" animPattern="zzhhzzhhrrolm" fadeTime="1.000000" />
+  <Calcination colorR="2.176471" colorG="0.117647" colorB="0.019608" multiplier="0.200000" width="3.200000" fresnel="1.543000" animTime="0.000000" animPattern="" fadeTime="3.000000" />
+  <Invulnerability colorR="0.698039" colorG="0.843137" colorB="1.000000" multiplier="0.030000" width="6.216000" fresnel="1.111000" animTime="0.600000" animPattern="ahza" fadeTime="1.000000" />
+</CarEffectsSetting>

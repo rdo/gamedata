@@ -1,0 +1,14 @@
+LootTable.Chest_online_14h.RareWeapon_2h = {}
+LootTable.Chest_online_14h.RareWeapon_2h.ods_export = true
+LootTable.Chest_online_14h.RareWeapon_2h.weight = 6600
+LootTable.Chest_online_14h.RareWeapon_2h.add_weight = 0
+LootTable.Chest_online_14h.RareWeapon_2h.loot_table = true
+LootTable.Chest_online_14h.EpicWeapon_2h = {}
+LootTable.Chest_online_14h.EpicWeapon_2h.ods_export = true
+LootTable.Chest_online_14h.EpicWeapon_2h.weight = 1400
+LootTable.Chest_online_14h.EpicWeapon_2h.add_weight = 0
+LootTable.Chest_online_14h.EpicWeapon_2h.loot_table = true
+LootTable.Chest_online_14h["CarPart_Banner_Base_minor::259200"] = {}
+LootTable.Chest_online_14h["CarPart_Banner_Base_minor::259200"].ods_export = true
+LootTable.Chest_online_14h["CarPart_Banner_Base_minor::259200"].weight = 2000
+LootTable.Chest_online_14h["CarPart_Banner_Base_minor::259200"].add_weight = 0

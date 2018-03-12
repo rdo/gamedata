@@ -1,0 +1,1 @@
+This repo hold crossout gamedata extracted files for versioning and game balance changes history

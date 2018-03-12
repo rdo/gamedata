@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="61">
+  <Chassis def="Chassis_Military" pos="-0.171 0.750 -1.317" dye="Dye_ForestCamuflage">
+    <Part def="CarPart_ChassisTruck8" weld_pos="-0.171 0.750 -3.117" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="-0.171 0.750 -1.917" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="-0.171 0.750 1.683" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_box_slope_4x1x8" weld_pos="-0.171 1.650 -0.117" weld_rot_idx="8" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_door_slope_4x1x4" weld_pos="1.029 1.650 -0.717" weld_rot_idx="16" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_box_slope_2x1x4" weld_pos="1.029 1.350 -1.917" weld_rot_idx="14" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_box_slope_2x1x4" weld_pos="-1.371 1.350 -1.917" weld_rot_idx="15" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="-1.671 1.650 -1.917" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="1.329 1.650 -1.917" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_box_slope_2x1x4" weld_pos="-0.771 1.350 -2.817" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_box_slope_2x1x4" weld_pos="0.429 0.750 -3.417" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_box_4x1x8" weld_pos="-0.171 1.050 -3.117" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_box_slope_2x1x4" weld_pos="-0.771 0.750 -3.417" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_WheelMilitary_S" weld_pos="-1.221 0.450 -3.117" dye="Dye_Chrome" />
+    <Part def="CarPart_WheelMilitary_S" weld_pos="0.879 0.450 -1.617" weld_rot_idx="4" dye="Dye_Chrome" />
+    <Part def="CarPart_WheelMilitary" weld_pos="-1.221 0.450 -0.117" dye="Dye_Chrome" />
+    <Part def="CarPart_WheelMilitary" weld_pos="-1.221 0.450 1.383" dye="Dye_Chrome" />
+    <Part def="CarPart_WheelMilitary_S" weld_pos="0.879 0.450 -3.117" weld_rot_idx="4" dye="Dye_Chrome" />
+    <Part def="CarPart_WheelMilitary" weld_pos="0.879 0.450 -0.117" weld_rot_idx="4" dye="Dye_Chrome" />
+    <Part def="CarPart_WheelMilitary" weld_pos="0.879 0.450 1.383" weld_rot_idx="4" dye="Dye_Chrome" />
+    <Part def="CarPart_Military_box_slope_2x1x4" weld_pos="0.429 1.350 -2.817" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="0.879 0.750 1.383" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="0.879 1.350 1.383" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="-1.221 0.750 1.383" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_box_1x2x8" weld_pos="-1.221 1.350 1.383" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_box_slope_4x1x8" weld_pos="-0.171 1.350 2.583" weld_rot_idx="8" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_WheelMilitary_S" weld_pos="-1.221 0.450 -1.617" dye="Dye_Chrome" />
+    <Part def="CarPart_JunkBumper" weld_pos="-0.171 0.600 -3.717" dye="Dye_Chrome" />
+    <Part def="CarPart_Exhaust2" weld_pos="0.879 1.950 1.533" weld_rot_idx="8" dye="Dye_Chrome" />
+    <Part def="CarPart_Exhaust2" weld_pos="-1.221 1.950 1.533" weld_rot_idx="8" dye="Dye_Chrome" />
+    <Part def="CarPart_Headlights" weld_pos="0.879 0.450 -3.717" />
+    <Part def="CarPart_Headlights" weld_pos="-1.221 0.450 -3.717" />
+    <Part def="CarPart_Headlights2" weld_pos="-1.371 1.050 -3.717" />
+    <Part def="CarPart_Headlights2" weld_pos="1.029 1.050 -3.717" />
+    <Part def="CarPart_LightsRear1" weld_pos="-1.221 0.900 2.883" weld_rot_idx="4" />
+    <Part def="CarPart_LightsRear1" weld_pos="0.879 0.900 2.883" weld_rot_idx="4" />
+    <Part def="CarPart_LightsRear1" weld_pos="0.579 0.900 2.883" weld_rot_idx="4" />
+    <Part def="CarPart_LightsRear1" weld_pos="-0.921 0.900 2.883" weld_rot_idx="4" />
+    <Part def="CarPart_Military_box_slope_2x1x8" weld_pos="1.629 1.350 -1.317" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_box_slope_2x1x8" weld_pos="1.629 1.350 1.083" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_box_slope_2x1x8" weld_pos="-1.971 1.350 -1.317" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_box_slope_2x1x8" weld_pos="-1.971 1.350 1.083" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="-1.671 1.050 2.283" weld_rot_idx="2" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="1.329 1.350 -3.117" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="1.329 1.050 2.283" weld_rot_idx="2" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="-1.671 1.350 -3.117" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Engine_avia_front" weld_pos="-0.171 1.650 1.983" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_door_slope_4x1x4" weld_pos="-1.371 1.650 -0.717" weld_rot_idx="21" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_PowerGiverExplosive_legend" weld_pos="-0.171 0.150 -0.417" weld_rot_idx="4" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.729 0.750 -0.717" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-1.071 0.750 -0.717" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-1.071 0.750 0.483" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.729 0.750 0.483" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.171 0.750 0.783" weld_rot_idx="4" />
+    <Part def="CarPart_Cooler_epic" weld_pos="-0.171 1.650 0.783" weld_rot_idx="1" />
+    <Part def="CarPart_Cooler_epic" weld_pos="0.429 1.650 0.783" weld_rot_idx="1" />
+    <Part def="CarPart_Military_box_4x1x8" weld_pos="-0.171 1.950 0.783" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Military_tower_slope_6x1x6" weld_pos="-0.771 2.250 0.483" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Gun_Shotgun_legend" weld_pos="-0.771 2.550 0.483" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Gun_Shotgun_legend" weld_pos="0.429 2.250 -0.717" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Cooler_epic" weld_pos="-0.771 1.650 0.783" weld_rot_idx="1" />
+  </Chassis>
+</CarDesign>

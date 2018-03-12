@@ -1,0 +1,28 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="23">
+  <Chassis def="Chassis_FordPickup_Alpha" pos="0.000 0.750 -0.446" dye="mat_KhakiDark01">
+    <Part def="CarPart_FenderSolid" weld_pos="-0.750 0.750 1.354" weld_rot_idx="4" dye="mat_KhakiDark01" />
+    <Part def="CarPart_FenderSolid" weld_pos="0.750 0.750 1.354" dye="mat_KhakiDark01" />
+    <Part def="CarPart_Lifter" weld_pos="0.000 0.750 0.754" weld_rot_idx="22" dye="mat_KhakiDark01" />
+    <Part def="CarPart_VanSide_epic" weld_pos="0.000 0.750 2.104" weld_rot_idx="18" dye="mat_KhakiDark01" />
+    <Part def="CarPart_Gun_Machinegun" weld_pos="0.000 1.650 -1.646" dye="mat_KhakiDark01" />
+    <Part def="CarPart_JunkBumper" weld_pos="0.000 0.900 -2.246" dye="Dye_Eraser" />
+    <Part def="CarPart_Exhaust2" weld_pos="0.900 0.900 0.304" dye="mat_KhakiDark01" />
+    <Part def="CarPart_Bumper1" weld_pos="0.600 1.500 1.354" weld_rot_idx="18" dye="mat_KhakiDark01" />
+    <Part def="CarPart_Bumper1" weld_pos="-0.600 1.500 1.354" weld_rot_idx="22" dye="mat_KhakiDark01" />
+    <Part def="CarPart_SpareTire" weld_pos="0.000 1.350 2.254" weld_rot_idx="6" dye="mat_KhakiDark01" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 -1.346" dye="mat_KhakiDark01" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 -0.146" dye="mat_KhakiDark01" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 1.054" dye="mat_KhakiDark01" />
+    <Part def="CarPart_Gun_Machinegun" weld_pos="0.600 1.950 -0.146" dye="mat_KhakiDark01" />
+    <Part def="CarPart_Gun_Machinegun" weld_pos="-0.600 1.950 -0.146" dye="mat_KhakiDark01" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="0.450 0.450 -1.646" weld_rot_idx="4" dye="mat_KhakiDark01" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="0.450 0.450 1.354" weld_rot_idx="4" dye="mat_KhakiDark01" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.450 0.450 -1.646" dye="mat_KhakiDark01" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="-0.450 0.450 1.354" dye="mat_KhakiDark01" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.900 0.750 1.354" dye="mat_KhakiDark01" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.900 0.750 -1.646" dye="mat_KhakiDark01" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.900 0.750 -1.646" weld_rot_idx="4" dye="mat_KhakiDark01" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.900 0.750 1.354" weld_rot_idx="4" dye="mat_KhakiDark01" />
+  </Chassis>
+</CarDesign>

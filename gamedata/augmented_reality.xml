@@ -1,0 +1,4 @@
+﻿<?xml version="1.0"?>
+<AugmentedReality>
+  <ArtillerySettings aimColorX="1.000000" aimColorY="1.000000" aimColorZ="1.000000" aimColorW="0.470588" aimRadius="15.000000" trajectoryColorX="1.000000" trajectoryColorY="1.000000" trajectoryColorZ="1.000000" trajectoryColorW="0.235294" trajectoryStartWidth="0.020000" trajectoryEndWidth="0.300000" />
+</AugmentedReality>

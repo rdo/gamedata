@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="39">
+  <Chassis def="Brawl_Chassis_Carjack" pos="0.000 0.750 0.300" dye="pic_ScaryFaces01">
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 1.500" dye="pic_ScaryFaces01" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.000 0.750 -1.800" dye="pic_ScaryFaces01" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.000 0.750 -0.900" weld_rot_idx="22" dye="pic_ScaryFaces01" />
+    <Part def="Brawl_WheelMed_RS" weld_pos="-0.450 0.450 -1.800" dye="pic_TaxiScratch" />
+    <Part def="Brawl_WheelMed_RS" weld_pos="0.450 0.450 -1.800" weld_rot_idx="4" dye="pic_TaxiScratch" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.900 0.750 -1.800" dye="Dye_Rusted" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.900 0.750 -1.800" weld_rot_idx="4" dye="Dye_Rusted" />
+    <Part def="CarPart_Exhaust2" weld_pos="-0.450 0.750 2.250" weld_rot_idx="12" dye="Dye_Rusted" />
+    <Part def="CarPart_Exhaust2" weld_pos="0.450 0.750 2.250" weld_rot_idx="12" dye="Dye_Rusted" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="0.750 1.050 2.400" weld_rot_idx="3" dye="Dye_Rusted" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="-0.750 1.050 2.400" weld_rot_idx="3" dye="Dye_Rusted" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.900 0.750 2.100" weld_rot_idx="4" dye="Dye_Rusted" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.900 0.750 2.100" dye="Dye_Rusted" />
+    <Part def="CarPart_EngineMini_rare" weld_pos="0.000 1.050 -1.500" dye="pic_TaxiScratch" />
+    <Part def="CarPart_JunkBumper" weld_pos="0.000 0.900 -2.400" dye="Dye_Rusted" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 0.300" dye="pic_ScaryFaces01" />
+    <Part def="Brawl_Booster" weld_pos="0.600 1.350 -2.100" weaponGroup="2" dye="pic_TaxiScratch" />
+    <Part def="Brawl_Booster" weld_pos="-0.600 1.350 -2.100" weaponGroup="2" dye="pic_TaxiScratch" />
+    <Part def="Brawl_Booster" weld_pos="0.300 1.050 1.800" weaponGroup="2" dye="pic_TaxiScratch" />
+    <Part def="Brawl_Booster" weld_pos="-0.300 1.050 1.800" weaponGroup="2" dye="pic_TaxiScratch" />
+    <Part def="CarPart_Pumpkin" weld_pos="0.000 1.950 0.600" dye="Dye_Rusted" />
+    <Part def="CarPart_CarHorn_Helloween1" weld_pos="0.000 1.350 -1.950" dye="pic_ScaryFaces01" />
+    <Part def="CarPart_Buggy_Grid11" weld_pos="0.300 0.600 -0.900" weld_rot_idx="14" dye="pic_TaxiScratch" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="-0.300 0.600 -0.900" weld_rot_idx="11" dye="pic_TaxiScratch" />
+    <Part def="CarPart_Radiator_grilles" weld_pos="0.000 1.350 2.550" weld_rot_idx="4" dye="Dye_Rusted" />
+    <Part def="CarPart_Buggy_Grid7" weld_pos="0.000 0.750 2.400" weld_rot_idx="1" dye="pic_ScaryFaces01" />
+    <Part def="CarPart_Structure_hood_half" weld_pos="0.900 0.750 0.300" dye="Dye_Rusted" />
+    <Part def="CarPart_Structure_hood_half" weld_pos="-0.900 0.750 0.300" weld_rot_idx="4" dye="Dye_Rusted" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="-0.900 0.900 -0.300" weld_rot_idx="13" dye="Dye_Rusted" />
+    <Part def="CarPart_Holder_2x2" weld_pos="-0.750 0.900 1.050" weld_rot_idx="8" dye="Dye_Rusted" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="-0.600 1.050 0.300" weld_rot_idx="22" dye="pic_TaxiScratch" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="0.600 1.050 0.300" weld_rot_idx="18" dye="pic_TaxiScratch" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="0.900 0.900 -0.300" weld_rot_idx="9" dye="Dye_Rusted" />
+    <Part def="CarPart_Holder_2x2" weld_pos="0.750 0.900 1.050" weld_rot_idx="12" dye="Dye_Rusted" />
+    <Part def="CarPart_Structure_Syfy_Slope" weld_pos="0.000 1.350 -1.200" weld_rot_idx="4" dye="pic_ScaryFaces01" />
+    <Part def="CarPart_TruckPipe1x2x1" weld_pos="0.750 1.200 1.200" weld_rot_idx="2" dye="Dye_Rusted" />
+    <Part def="CarPart_TruckPipe1x2x1" weld_pos="-0.750 1.200 1.200" weld_rot_idx="2" dye="Dye_Rusted" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="0.450 0.450 2.100" weld_rot_idx="4" dye="pic_TaxiScratch" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="-0.450 0.450 2.100" dye="pic_TaxiScratch" />
+  </Chassis>
+</CarDesign>

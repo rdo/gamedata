@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="40">
+  <Chassis def="Chassis_FordPickup" pos="0.000 0.750 -0.247" dye="Dye_BlackScratch">
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 -1.147" dye="Dye_BlackScratch" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 1.553" dye="Dye_BlackScratch" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.750 -2.047" weld_rot_idx="4" dye="Dye_BlackScratch" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.450 0.450 -1.447" dye="Dye_BlackScratch" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="0.450 0.450 -1.447" weld_rot_idx="4" dye="Dye_BlackScratch" />
+    <Part def="CarPart_FenderSolid" weld_pos="0.750 1.050 1.553" dye="Dye_BlackScratch" />
+    <Part def="CarPart_FenderSolid" weld_pos="-0.750 1.050 1.553" weld_rot_idx="4" dye="Dye_BlackScratch" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.600 0.750 0.353" weld_rot_idx="22" dye="Dye_BlackScratch" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.600 0.750 0.353" weld_rot_idx="22" dye="Dye_BlackScratch" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="-0.900 0.600 0.053" weld_rot_idx="11" dye="Dye_BlackScratch" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="0.900 0.600 0.053" weld_rot_idx="14" dye="Dye_BlackScratch" />
+    <Part def="CarPart_FenderSolid" weld_pos="0.000 1.050 2.603" weld_rot_idx="18" dye="Dye_BlackScratch" />
+    <Part def="CarPart_Bumper1" weld_pos="0.000 1.200 2.753" weld_rot_idx="1" dye="Dye_BlackScratch" />
+    <Part def="CarPart_ArmorPlate_Plank" weld_pos="0.900 1.500 0.053" weld_rot_idx="20" dye="Dye_BlackScratch" />
+    <Part def="CarPart_ArmorPlate_Plank" weld_pos="-0.900 1.500 0.053" weld_rot_idx="17" dye="Dye_BlackScratch" />
+    <Part def="CarPart_BladeWing_epic" weld_pos="-0.600 0.600 -2.347" weld_rot_idx="11" dye="Dye_Gray" />
+    <Part def="CarPart_BladeWing_epic" weld_pos="0.600 0.600 -2.347" weld_rot_idx="14" dye="Dye_Gray" />
+    <Part def="CarPart_Radiator" weld_pos="0.000 0.750 1.553" weld_rot_idx="22" dye="Dye_BlackScratch" />
+    <Part def="CarPart_WheelDouble_R_epic" weld_pos="0.450 0.450 1.553" weld_rot_idx="4" dye="Dye_BlackScratch" />
+    <Part def="CarPart_WheelDouble_R_epic" weld_pos="-0.450 0.450 1.553" dye="Dye_BlackScratch" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="0.000 1.350 1.853" weld_rot_idx="4" dye="Dye_Gray" />
+    <Part def="CarPart_Brakelights1" weld_pos="-0.600 1.050 2.753" weld_rot_idx="1" dye="Dye_BlackScratch" />
+    <Part def="CarPart_Brakelights1" weld_pos="0.600 1.050 2.753" weld_rot_idx="1" dye="Dye_BlackScratch" />
+    <Part def="CarPart_LeatherBag" weld_pos="0.900 1.050 0.353" weld_rot_idx="10" dye="Dye_BlackScratch" />
+    <Part def="CarPart_Bag03" weld_pos="-0.900 1.200 0.203" weld_rot_idx="15" dye="Dye_BlackScratch" />
+    <Part def="CarPart_Bag03" weld_pos="-0.900 0.900 0.203" weld_rot_idx="15" dye="Dye_BlackScratch" />
+    <Part def="CarPart_Roadsign_01" weld_pos="0.000 0.750 2.453" weld_rot_idx="8" dye="Dye_BlackScratch" />
+    <Part def="CarPart_Exhaust2" weld_pos="0.750 1.650 0.803" weld_rot_idx="8" dye="Dye_Aircraft" />
+    <Part def="CarPart_Exhaust2" weld_pos="-0.750 1.650 0.803" weld_rot_idx="8" dye="Dye_Aircraft" />
+    <Part def="CarPart_Radiator" weld_pos="0.000 0.750 2.153" weld_rot_idx="22" dye="Dye_BlackScratch" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.900 0.750 1.553" dye="Dye_Aircraft" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.900 0.750 1.553" weld_rot_idx="4" dye="Dye_Aircraft" />
+    <Part def="CarPart_BumperTrain_rare" weld_pos="0.000 1.200 -2.047" dye="Dye_BlackScratch" />
+    <Part def="CarPart_Brace" weld_pos="0.300 1.950 0.953" weld_rot_idx="18" />
+    <Part def="CarPart_Brace" weld_pos="-0.300 1.950 0.953" weld_rot_idx="18" />
+    <Part def="CarPart_Headlights4" weld_pos="0.000 1.950 0.653" />
+    <Part def="CarPart_Gun_GrenadeLauncher_Auto" weld_pos="-0.600 1.950 0.053" />
+    <Part def="CarPart_Gun_GrenadeLauncher_Auto" weld_pos="0.600 1.950 0.053" />
+    <Part def="CarPart_EngineMini_rare" weld_pos="-0.300 1.350 0.953" weld_rot_idx="2" />
+    <Part def="CarPart_EngineMini_rare" weld_pos="0.300 1.350 0.953" weld_rot_idx="2" />
+  </Chassis>
+</CarDesign>

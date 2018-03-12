@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="28">
+  <Chassis def="Chassis_Basic" pos="0.000 0.900 1.950" dye="Dye_SandCamuflage">
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.900 1.650" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.900 2.850" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.450 0.600 0.450" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="0.450 0.600 0.450" weld_rot_idx="4" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.900 0.750" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.900 0.150" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="1.200 0.750 1.650" weld_rot_idx="16" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="-1.200 0.750 1.650" weld_rot_idx="21" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_ModuleRadio" weld_pos="0.000 1.800 3.300" weld_rot_idx="18" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_Bumper1" weld_pos="0.000 0.750 -0.450" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_Gun_Machinegun_rare" weld_pos="0.000 1.500 0.450" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="1.200 0.750 2.250" weld_rot_idx="16" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="-1.200 0.750 2.250" weld_rot_idx="21" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="0.450 0.600 3.450" weld_rot_idx="4" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="-0.450 0.600 3.450" />
+    <Part def="CarPart_Gun_Machinegun" weld_pos="-0.900 2.100 2.550" />
+    <Part def="CarPart_Gun_Machinegun" weld_pos="0.900 2.100 2.550" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.000 1.200 -0.450" weld_rot_idx="7" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_TruckSide" weld_pos="0.000 1.050 0.750" weld_rot_idx="9" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_TruckSide" weld_pos="0.000 1.350 0.750" weld_rot_idx="9" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="0.300 0.900 0.150" weld_rot_idx="18" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="-0.300 0.900 0.150" weld_rot_idx="22" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_TruckSide" weld_pos="0.900 0.750 2.550" weld_rot_idx="9" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_TruckSide" weld_pos="-0.900 0.750 2.550" weld_rot_idx="9" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_TruckBox" weld_pos="-0.600 1.800 2.550" weld_rot_idx="17" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_TruckBox" weld_pos="-0.900 1.800 2.550" weld_rot_idx="17" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_TruckBox" weld_pos="0.600 1.800 2.550" weld_rot_idx="20" dye="Dye_SandCamuflage" />
+    <Part def="CarPart_TruckBox" weld_pos="0.900 1.800 2.550" weld_rot_idx="20" dye="Dye_SandCamuflage" />
+  </Chassis>
+</CarDesign>

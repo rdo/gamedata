@@ -1,0 +1,17 @@
+LootTable.Chest_online_2h_gold.Common = {}
+LootTable.Chest_online_2h_gold.Common.ods_export = true
+LootTable.Chest_online_2h_gold.Common.weight = 9000
+LootTable.Chest_online_2h_gold.Common.add_weight = 0
+LootTable.Chest_online_2h_gold.Common.loot_table = true
+LootTable.Chest_online_2h_gold["CarPart_Banner_Base_minor::259200"] = {}
+LootTable.Chest_online_2h_gold["CarPart_Banner_Base_minor::259200"].ods_export = true
+LootTable.Chest_online_2h_gold["CarPart_Banner_Base_minor::259200"].weight = 600
+LootTable.Chest_online_2h_gold["CarPart_Banner_Base_minor::259200"].add_weight = 0
+LootTable.Chest_online_2h_gold.MoneyPack_20 = {}
+LootTable.Chest_online_2h_gold.MoneyPack_20.ods_export = true
+LootTable.Chest_online_2h_gold.MoneyPack_20.weight = 200
+LootTable.Chest_online_2h_gold.RareWeapon_bound = {}
+LootTable.Chest_online_2h_gold.RareWeapon_bound.ods_export = true
+LootTable.Chest_online_2h_gold.RareWeapon_bound.weight = 200
+LootTable.Chest_online_2h_gold.RareWeapon_bound.add_weight = 0
+LootTable.Chest_online_2h_gold.RareWeapon_bound.loot_table = true

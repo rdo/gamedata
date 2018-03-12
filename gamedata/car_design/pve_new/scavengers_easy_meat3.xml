@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="13">
+  <Chassis def="Cabin_ArmoredPickup" pos="0.000 0.750 -0.300">
+    <Part def="CarPart_WheelSmall_RS" weld_pos="-0.450 0.450 -1.500" />
+    <Part def="CarPart_WheelSmall_RS" weld_pos="0.450 0.450 -1.500" weld_rot_idx="4" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="0.000 0.750 -0.300" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 1.500" />
+    <Part def="CarPart_Gun_Machinegun" weld_pos="0.000 1.650 -1.500" weaponGroup="1" />
+    <Part def="CarPart_FenderSolid" weld_pos="0.750 0.750 1.500" />
+    <Part def="CarPart_WheelSmall_R" weld_pos="0.450 0.450 1.500" weld_rot_idx="4" />
+    <Part def="CarPart_FenderSolid" weld_pos="-0.750 0.750 1.500" weld_rot_idx="4" />
+    <Part def="CarPart_WheelSmall_R" weld_pos="-0.450 0.450 1.500" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.750 -1.800" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="0.750 1.650 1.200" weld_rot_idx="2" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="-0.750 1.650 1.200" weld_rot_idx="2" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="0.000 0.750 -2.100" weld_rot_idx="13" />
+  </Chassis>
+</CarDesign>

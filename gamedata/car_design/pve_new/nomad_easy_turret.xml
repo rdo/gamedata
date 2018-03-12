@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="21">
+  <Chassis def="Cabin_Riviera" pos="0.000 0.750 0.900" dye="metal_KnightIron">
+    <Part def="CarPart_hotrod_fender_left" weld_pos="0.750 0.750 -0.750" dye="metal_KnightIron" />
+    <Part def="CarPart_hotrod_fender_right" weld_pos="-0.750 0.750 -0.750" dye="metal_KnightIron" />
+    <Part def="CarPart_FenderSolid" weld_pos="0.750 1.050 2.700" dye="Dye_Grid" />
+    <Part def="CarPart_FenderSolid" weld_pos="-0.750 1.050 2.700" weld_rot_idx="4" dye="Dye_Grid" />
+    <Part def="CarPart_BumperSpike_rare" weld_pos="0.000 0.600 -1.200" dye="Dye_Black" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="0.000 0.900 -1.200" weld_rot_idx="7" dye="Dye_Eraser" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="0.900 0.900 1.800" weld_rot_idx="16" dye="Dye_Black" />
+    <Part def="CarPart_BumperSpike_rare" weld_pos="0.900 0.600 0.900" weld_rot_idx="18" dye="Dye_Black" />
+    <Part def="CarPart_BumperSpike_rare" weld_pos="-0.900 0.600 0.900" weld_rot_idx="22" dye="Dye_Black" />
+    <Part def="CarPart_Engine_epic" weld_pos="0.000 0.750 -0.600" dye="Dye_Eraser" />
+    <Part def="CarPart_TurretDeployer_rare" weld_pos="0.000 0.750 2.400" weld_rot_idx="4" dye="Dye_Grid" />
+    <Part def="CarPart_WheelSmall_RS" weld_pos="-0.450 0.450 -0.900" />
+    <Part def="CarPart_WheelSmall_RS" weld_pos="0.450 0.450 -0.900" weld_rot_idx="4" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="0.450 0.450 2.700" weld_rot_idx="4" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="-0.450 0.450 2.700" />
+    <Part def="CarPart_Buggy_Grid9" weld_pos="0.000 0.750 3.000" weld_rot_idx="6" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="-0.900 0.900 1.800" weld_rot_idx="21" dye="Dye_Black" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 -0.600" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.000 0.750 0.300" />
+    <Part def="CarPart_ChassisLight6" weld_pos="0.000 0.750 1.200" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 2.400" />
+  </Chassis>
+</CarDesign>

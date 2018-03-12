@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="12">
+  <Chassis def="Chassis_Small" pos="0.000 0.750 -0.446">
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 0.454" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 -0.746" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 1.654" />
+    <Part def="CarPart_WheelSmall_S_Starter" weld_pos="0.450 0.450 -1.646" weld_rot_idx="4" />
+    <Part def="CarPart_WheelSmall_Starter" weld_pos="0.450 0.450 1.354" weld_rot_idx="4" />
+    <Part def="CarPart_WheelSmall_S_Starter" weld_pos="-0.450 0.450 -1.646" />
+    <Part def="CarPart_WheelSmall_Starter" weld_pos="-0.450 0.450 1.354" />
+    <Part def="CarPart_FenderSolid" weld_pos="-0.750 0.750 1.354" weld_rot_idx="4" />
+    <Part def="CarPart_FenderSolid" weld_pos="0.750 0.750 1.354" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.750 -1.646" />
+    <Part def="CarPart_Lifter" weld_pos="0.000 0.750 0.754" weld_rot_idx="22" />
+    <Part def="CarPart_VanSide_epic" weld_pos="0.000 0.750 2.104" weld_rot_idx="18" />
+  </Chassis>
+</CarDesign>

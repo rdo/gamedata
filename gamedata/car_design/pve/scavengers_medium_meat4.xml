@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="25">
+  <Chassis def="Chassis_Rage" pos="-0.069 0.750 -0.333">
+    <Part def="CarPart_ChassisTruck8" weld_pos="-0.069 0.750 -0.333" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisBase4" weld_pos="-0.069 0.750 1.467" />
+    <Part def="CarPart_Lifter" weld_pos="-0.069 0.750 1.167" />
+    <Part def="CarPart_TruckSlopeReverse" weld_pos="-0.069 0.750 -2.433" weld_rot_idx="9" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.069 0.750 -1.833" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.969 0.750 1.467" weld_rot_idx="4" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.831 0.750 1.467" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="-0.069 1.050 -2.133" weld_rot_idx="3" />
+    <Part def="CarPart_TruckSlope" weld_pos="-0.969 1.050 -2.133" weld_rot_idx="13" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.831 1.050 -2.133" weld_rot_idx="9" />
+    <Part def="CarPart_Gun_Machinegun_epic" weld_pos="-0.069 1.950 0.267" />
+    <Part def="CarPart_ArmorPlate_VanCover_rare" weld_pos="-0.669 1.050 2.067" weld_rot_idx="12" />
+    <Part def="CarPart_TruckSlope" weld_pos="-0.069 1.050 1.767" weld_rot_idx="2" />
+    <Part def="CarPart_VanBodySide_epic" weld_pos="0.531 1.200 1.467" weld_rot_idx="9" />
+    <Part def="CarPart_VanBodySide_epic" weld_pos="-0.669 1.200 1.467" weld_rot_idx="9" />
+    <Part def="CarPart_ArmorPlate_VanCover_rare" weld_pos="0.531 1.050 2.067" weld_rot_idx="12" />
+    <Part def="CarPart_Brakelights1" weld_pos="-0.669 1.350 1.167" weld_rot_idx="4" />
+    <Part def="CarPart_Brakelights1" weld_pos="0.531 1.350 1.167" weld_rot_idx="4" />
+    <Part def="CarPart_Headlights4" weld_pos="-0.069 1.050 -2.433" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.531 1.350 0.867" weld_rot_idx="4" />
+    <Part def="CarPart_TruckSlope" weld_pos="-0.669 1.350 0.867" weld_rot_idx="4" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="0.381 0.450 1.467" weld_rot_idx="4" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="-0.519 0.450 1.467" />
+    <Part def="CarPart_WheelSmall_RS" weld_pos="-0.519 0.450 -1.533" />
+    <Part def="CarPart_WheelSmall_RS" weld_pos="0.381 0.450 -1.533" weld_rot_idx="4" />
+  </Chassis>
+</CarDesign>

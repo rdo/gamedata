@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="47">
+  <Chassis def="Chassis_Basic" pos="0.000 0.750 0.792">
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.000 1.050 2.892" weld_rot_idx="7" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.000 1.050 2.892" weld_rot_idx="2" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.000 1.650 2.892" weld_rot_idx="1" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="0.900 0.450 -1.758" weld_rot_idx="18" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="-0.900 0.450 -1.758" weld_rot_idx="22" />
+    <Part def="CarPart_SpareTire" weld_pos="0.000 1.650 3.192" weld_rot_idx="6" />
+    <Part def="CarPart_Engine_v8" weld_pos="0.000 0.750 -1.008" />
+    <Part def="CarPart_Gun_Shotgun_epic" weld_pos="0.000 2.550 2.292" />
+    <Part def="CarPart_Headlights" weld_pos="0.300 1.200 -1.608" weld_rot_idx="14" />
+    <Part def="CarPart_Headlights" weld_pos="-0.300 1.200 -1.608" weld_rot_idx="11" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.000 0.750 2.292" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 -1.008" weld_rot_idx="22" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="0.750 1.050 -0.408" weld_rot_idx="3" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="0.000 1.050 -1.608" weld_rot_idx="7" />
+    <Part def="CarPart_Avia_lafet" weld_pos="0.000 1.950 2.592" />
+    <Part def="CarPart_Buggy_Grid5" weld_pos="0.000 1.950 1.392" />
+    <Part def="CarPart_Bumper2_rare" weld_pos="0.000 0.600 -1.908" />
+    <Part def="CarPart_Horns01" weld_pos="0.000 2.100 0.792" weld_rot_idx="3" />
+    <Part def="CarPart_FenderSolid" weld_pos="0.750 1.050 2.292" />
+    <Part def="CarPart_FenderSolid" weld_pos="-0.750 1.050 2.292" weld_rot_idx="4" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.900 0.750 2.292" weld_rot_idx="4" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.900 0.750 2.292" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="-0.750 1.350 0.792" weld_rot_idx="3" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="-0.750 1.050 -0.408" weld_rot_idx="3" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.900 0.750 -0.708" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.900 0.750 -0.708" weld_rot_idx="4" />
+    <Part def="CarPart_Holder_2x2" weld_pos="-0.750 1.200 -1.458" weld_rot_idx="1" />
+    <Part def="CarPart_Holder_2x2" weld_pos="0.750 1.200 -1.458" weld_rot_idx="1" />
+    <Part def="CarPart_Headlights5" weld_pos="0.750 1.350 -0.108" />
+    <Part def="CarPart_Headlights5" weld_pos="-0.750 1.350 -0.108" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="0.750 1.350 0.792" weld_rot_idx="7" />
+    <Part def="CarPart_BigBag" weld_pos="0.900 1.350 0.942" weld_rot_idx="10" />
+    <Part def="CarPart_LeatherBag" weld_pos="-0.900 1.350 1.092" weld_rot_idx="11" />
+    <Part def="CarPart_Exhaust2" weld_pos="0.600 0.600 0.042" weld_rot_idx="2" />
+    <Part def="CarPart_Exhaust2" weld_pos="-0.600 0.600 0.042" weld_rot_idx="6" />
+    <Part def="CarPart_Brakelights1" weld_pos="0.600 1.350 3.192" weld_rot_idx="10" />
+    <Part def="CarPart_Brakelights1" weld_pos="-0.600 1.350 3.192" weld_rot_idx="15" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.300 0.750 0.192" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.300 0.750 1.392" weld_rot_idx="22" />
+    <Part def="CarPart_PowerGiverExplosive_legend" weld_pos="0.000 0.450 0.492" weld_rot_idx="15" />
+    <Part def="CarPart_Gun_Shotgun_epic" weld_pos="0.000 1.650 -0.708" />
+    <Part def="CarPart_Cooler_epic" weld_pos="0.000 0.750 2.292" weld_rot_idx="22" />
+    <Part def="CarPart_SpearExplosive" weld_pos="-0.750 1.650 0.492" />
+    <Part def="CarPart_WheelSmallChains_S" weld_pos="0.450 0.450 -0.708" weld_rot_idx="4" />
+    <Part def="CarPart_WheelSmallChains_S" weld_pos="-0.450 0.450 -0.708" />
+    <Part def="CarPart_WheelSmallChains" weld_pos="-0.450 0.450 2.292" />
+    <Part def="CarPart_WheelSmallChains" weld_pos="0.450 0.450 2.292" weld_rot_idx="4" />
+  </Chassis>
+</CarDesign>

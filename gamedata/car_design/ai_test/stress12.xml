@@ -1,0 +1,64 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="57">
+  <Chassis def="Chassis_Wyvern" pos="0.000 0.750 0.300" dye="Dye_ForestCamuflage">
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 2.700" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_PowerGiver_epic" weld_pos="0.000 1.050 2.400" weld_rot_idx="10" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_AviaWing8x1x3" weld_pos="-1.050 1.200 -0.900" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_AviaWing8x1x3" weld_pos="-1.050 1.200 1.500" weld_rot_idx="19" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="-0.600 1.950 0.300" weld_rot_idx="17" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="-0.600 1.950 -0.900" weld_rot_idx="17" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_AviaWing8x1x3" weld_pos="1.050 1.200 -0.900" weld_rot_idx="23" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_AviaWing8x1x3" weld_pos="1.050 1.200 1.500" weld_rot_idx="18" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="0.600 1.950 -0.900" weld_rot_idx="20" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="0.600 1.950 0.300" weld_rot_idx="20" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="0.600 1.950 1.500" weld_rot_idx="20" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="0.000 2.550 -0.600" weld_rot_idx="1" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="0.000 2.250 2.400" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.000 1.050 3.300" weld_rot_idx="6" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.000 2.250 -1.500" weld_rot_idx="20" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.000 2.550 2.700" weld_rot_idx="8" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="0.000 1.950 3.000" weld_rot_idx="2" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.000 2.250 -1.500" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_RoadsignSquare_01" weld_pos="-0.300 0.750 3.600" weld_rot_idx="12" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.000 2.250 -1.500" weld_rot_idx="21" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 1.500" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 0.300" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 -0.900" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.900 0.750 -0.900" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.900 0.750 2.700" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_ChassisLight2" weld_pos="-0.900 0.750 2.700" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_ChassisLight2" weld_pos="-0.900 0.750 -0.900" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="1.050 0.450 -0.900" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="1.050 0.450 0.900" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.900 0.750 0.900" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-1.050 0.450 0.900" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-1.050 0.450 -0.900" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.900 0.750 0.900" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Exhaust3" weld_pos="0.750 1.650 3.300" weld_rot_idx="16" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Exhaust3" weld_pos="-0.750 1.650 3.300" weld_rot_idx="17" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="-0.600 1.950 1.500" weld_rot_idx="17" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_CarHorn_Funny" weld_pos="0.450 1.650 3.300" weld_rot_idx="2" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_RoadsignSquare_01" weld_pos="0.300 0.750 3.600" weld_rot_idx="12" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Roadsign_02" weld_pos="-0.600 2.250 3.300" weld_rot_idx="8" />
+    <Part def="CarPart_Roadsign_01" weld_pos="0.600 2.250 3.300" weld_rot_idx="8" />
+    <Part def="CarPart_RoadsignSquare_01" weld_pos="0.000 1.650 3.300" weld_rot_idx="12" dye="Dye_Yellow03" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="1.050 0.450 2.700" weld_rot_idx="4" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="-1.050 0.450 2.700" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.000 2.550 -0.600" weld_rot_idx="8" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="-0.600 1.950 2.700" weld_rot_idx="17" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Blade_rare" weld_pos="0.900 1.200 -2.100" weld_rot_idx="14" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Blade_rare" weld_pos="-0.900 1.200 -2.100" weld_rot_idx="11" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_ModuleAmmo_rare" weld_pos="0.000 1.350 2.400" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="0.600 1.950 2.700" weld_rot_idx="20" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.000 2.550 -0.600" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.900 2.550 -1.200" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-0.900 2.550 -1.200" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Skull01" weld_pos="0.000 1.650 -0.900" weld_rot_idx="3" />
+    <Part def="CarPart_Headlights4" weld_pos="0.000 0.450 -1.500" />
+    <Part def="CarPart_Gun_Shotgun_rare" weld_pos="1.200 2.850 -1.200" weaponGroup="1" />
+    <Part def="CarPart_Gun_Machinegun_rare:BulletDamage" weld_pos="-1.200 2.850 -1.200" weaponGroup="1" />
+    <Part def="CarPart_Gun_SniperCrossbow_C2_China_Douyu" weld_pos="0.000 2.550 2.100" weaponGroup="1" />
+  </Chassis>
+  <Decal def="Decal_thailand_nontakan_ns" pos="1.072 2.032 -0.378" rot="1.696 0.933 3.343" />
+  <Decal def="Decal_thailand_vag_tv" pos="0.101 2.756 3.577" rot="0.868 0.680 2.162" />
+</CarDesign>
