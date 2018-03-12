@@ -84,12 +84,15 @@ Materials.Metal_Car.particlebeam_shot = {
   bindEffect = true
 }
 Materials.Metal_Car.plazma_shot = {
-  sound = "sound/hit/plazma_common"
+  sound = "sound/hit/plazma_common",
+  particle_effect = "particles/materials/hit_plazmaball_metal",
+  bindEffect = false
 }
 Materials.Metal_Car.fusion_shot = {
   sound = "sound/hit/fusion_common",
+  combine_sounds = true,
   particle_effect = "particles/materials/hit_plazma_metal",
-  combine_sounds = true
+  bindEffect = true
 }
 Materials.Metal_Car.railgun_china_shot = {
   sound = "sound/hit/20mm_bullet_car",
@@ -189,12 +192,15 @@ Materials.Metal_barrel.particlebeam_shot = {
   bindEffect = true
 }
 Materials.Metal_barrel.plazma_shot = {
-  sound = "sound/hit/plazma_common"
+  sound = "sound/hit/plazma_common",
+  particle_effect = "particles/materials/hit_plazmaball_metal",
+  bindEffect = false
 }
 Materials.Metal_barrel.fusion_shot = {
   sound = "sound/hit/fusion_common",
+  combine_sounds = true,
   particle_effect = "particles/materials/hit_plazma_metal",
-  combine_sounds = true
+  bindEffect = true
 }
 Materials.Metal_barrel.railgun_china_shot = {
   sound = "sound/hit/20mm_bullet_car",
@@ -291,11 +297,14 @@ Materials.Explosive_wheel.particlebeam_shot = {
   bindEffect = true
 }
 Materials.Explosive_wheel.plazma_shot = {
-  sound = "sound/hit/plazma_common"
+  sound = "sound/hit/plazma_common",
+  particle_effect = "particles/materials/hit_plazmaball_metal",
+  bindEffect = false
 }
 Materials.Explosive_wheel.fusion_shot = {
   sound = "sound/hit/fusion_common",
   particle_effect = "particles/materials/hit_plazma_metal",
+  bindEffect = true,
   combine_sounds = true
 }
 Materials.Explosive_wheel.railgun_china_shot = {
@@ -305,7 +314,7 @@ Materials.Explosive_wheel.railgun_china_shot = {
 }
 Materials.Explosive_wheel.harpoon_shot = {
   sound = "sound/hit/harpoon_car",
-  particle_effect = "particles/materials/metal/hit_metal_mid"
+  particle_effect = "particles/materials/metal/hit_metal_big"
 }
 Materials.Metal_CarArmor = sys.new(Materials.Default)
 Materials.Metal_CarArmor.desc = "car armor"
@@ -393,11 +402,14 @@ Materials.Metal_CarArmor.particlebeam_shot = {
   bindEffect = true
 }
 Materials.Metal_CarArmor.plazma_shot = {
-  sound = "sound/hit/plazma_common"
+  sound = "sound/hit/plazma_common",
+  particle_effect = "particles/materials/hit_plazmaball_metal",
+  bindEffect = false
 }
 Materials.Metal_CarArmor.fusion_shot = {
   sound = "sound/hit/fusion_common",
   particle_effect = "particles/materials/hit_plazma_metal",
+  bindEffect = true,
   combine_sounds = true
 }
 Materials.Metal_CarArmor.railgun_china_shot = {
@@ -421,9 +433,9 @@ Materials.Energy_Shield.scratch_sound = "sound/collision/scratch_stone"
 Materials.Energy_Shield.leg_step_sound = "sound/legs/legs_common"
 Materials.Energy_Shield.grenade_shot = {
   sound = "sound/hit/grenade_stone",
+  combine_sounds = true,
   particle_effect = "particles/perks/hit_mortar_scifi",
-  bindEffect = true,
-  combine_sounds = true
+  bindEffect = true
 }
 Materials.Energy_Shield.rocket_shot = {
   sound = "sound/hit/rocket_stone",
@@ -497,8 +509,8 @@ Materials.Energy_Shield.plazma_shot = {
 }
 Materials.Energy_Shield.fusion_shot = {
   sound = "sound/hit/fusion_common",
-  particle_effect = "particles/perks/hit_bullet20mm_scifi",
-  combine_sounds = true
+  combine_sounds = true,
+  particle_effect = "particles/perks/hit_bullet20mm_scifi"
 }
 Materials.Energy_Shield.railgun_china_shot = {
   sound = "sound/hit/20mm_bullet_ground",
@@ -592,11 +604,13 @@ Materials.Metal_Base.particlebeam_shot = {
   particle_effect = "particles/materials/hit_beam_metal"
 }
 Materials.Metal_Base.plazma_shot = {
-  sound = "sound/hit/plazma_common"
+  sound = "sound/hit/plazma_common",
+  particle_effect = "particles/materials/hit_plazmaball_metal"
 }
 Materials.Metal_Base.fusion_shot = {
   sound = "sound/hit/fusion_common",
   particle_effect = "particles/materials/hit_plazma_metal",
+  combine_sounds = true,
   combine_sounds = true
 }
 Materials.Metal_Base.railgun_china_shot = {
@@ -667,19 +681,19 @@ Materials.Wood_Base.flame_shot = {
 }
 Materials.Wood_Base.teslagun_shot = {
   loop_sound = "sound/hit/tesla_common",
-  particle_effect = "particles/materials/hit_teslagun_metal"
+  particle_effect = "particles/materials/hit_teslagun_wood"
 }
 Materials.Wood_Base.particlebeam_shot = {
   sound = "sound/hit/laser_common",
-  particle_effect = "particles/materials/hit_beam_ground"
+  particle_effect = "particles/materials/hit_beam"
 }
 Materials.Wood_Base.plazma_shot = {
   sound = "sound/hit/plazma_common",
-  particle_effect = "particles/materials/wood/hit_wood_big"
+  particle_effect = "particles/materials/hit_plazmaball_env"
 }
 Materials.Wood_Base.fusion_shot = {
   sound = "sound/hit/fusion_common",
-  particle_effect = "particles/materials/wood/hit_wood_mid",
+  particle_effect = "particles/materials/hit_plazma_wood2",
   combine_sounds = true
 }
 Materials.Wood_Base.railgun_china_shot = {
@@ -768,20 +782,20 @@ Materials.Stone_Base.flame_shot = {
 }
 Materials.Stone_Base.teslagun_shot = {
   loop_sound = "sound/hit/tesla_common",
-  particle_effect = "particles/materials/hit_teslagun_metal"
+  particle_effect = "particles/materials/hit_teslagun_env"
 }
 Materials.Stone_Base.particlebeam_shot = {
   sound = "sound/hit/laser_common",
-  particle_effect = "particles/materials/hit_beam_metal"
+  particle_effect = "particles/materials/hit_beam_stone"
 }
 Materials.Stone_Base.plazma_shot = {
   sound = "sound/hit/plazma_common",
-  particle_effect = "particles/materials/stone/hit_stone_big"
+  particle_effect = "particles/materials/hit_plazmaball_env"
 }
 Materials.Stone_Base.fusion_shot = {
   sound = "sound/hit/fusion_common",
-  particle_effect = "particles/materials/stone/hit_stone_mid",
-  combine_sounds = true
+  combine_sounds = true,
+  particle_effect = "particles/materials/hit_plazma_stone"
 }
 Materials.Stone_Base.railgun_china_shot = {
   sound = "sound/hit/20mm_bullet_ground",
@@ -869,20 +883,20 @@ Materials.Stone_Midland.flame_shot = {
 }
 Materials.Stone_Midland.teslagun_shot = {
   loop_sound = "sound/hit/tesla_common",
-  particle_effect = "particles/materials/hit_teslagun_metal"
+  particle_effect = "particles/materials/hit_teslagun_env"
 }
 Materials.Stone_Midland.particlebeam_shot = {
   sound = "sound/hit/laser_common",
-  particle_effect = "particles/materials/hit_beam_metal"
+  particle_effect = "particles/materials/hit_beam_stone"
 }
 Materials.Stone_Midland.plazma_shot = {
   sound = "sound/hit/plazma_common",
-  particle_effect = "particles/materials/stone/hit_stone_big_midland"
+  particle_effect = "particles/materials/hit_plazmaball_env"
 }
 Materials.Stone_Midland.fusion_shot = {
   sound = "sound/hit/fusion_common",
-  particle_effect = "particles/materials/stone/hit_stone_mid_midland",
-  combine_sounds = true
+  combine_sounds = true,
+  particle_effect = "particles/materials/hit_plazma_stone"
 }
 Materials.Stone_Midland.railgun_china_shot = {
   sound = "sound/hit/20mm_bullet_ground",
@@ -931,21 +945,18 @@ Materials.Rubber_Base.big_rocket_shot = {
 }
 Materials.Rubber_Base.bullet_shot = {
   sound = "sound/hit/mg_bullet_stone",
-  particle_effect = "particles/materials/rubber/hit_rubber_small",
-  ricochet = false,
-  bindEffect = true
+  particle_effect = "particles/materials/hit_bullet_rubber",
+  ricochet = true
 }
 Materials.Rubber_Base.shotgun_garbage = {
   sound = "sound/hit/mg_bullet_stone",
-  particle_effect = "particles/materials/rubber/hit_rubber_mid",
-  ricochet = false,
-  bindEffect = true
+  particle_effect = "particles/materials/hit_bullet20mm_rubber",
+  ricochet = true
 }
 Materials.Rubber_Base.bullet20mm_shot = {
   sound = "sound/hit/20mm_bullet_ground",
-  particle_effect = "particles/materials/rubber/hit_rubber_mid",
-  ricochet = false,
-  bindEffect = true
+  particle_effect = "particles/materials/hit_bullet20mm_rubber",
+  ricochet = true
 }
 Materials.Rubber_Base.bullet100mm_shot = {
   sound = "sound/hit/100mm_stone",
@@ -961,53 +972,43 @@ Materials.Rubber_Base.mortar_shot = {
 }
 Materials.Rubber_Base.cannon_minigun_shot = {
   sound = "sound/hit/mg_bullet_stone",
-  particle_effect = "particles/materials/rubber/hit_rubber_mid",
-  ricochet = false,
-  bindEffect = true
+  particle_effect = "particles/materials/hit_bullet20mm_rubber",
+  ricochet = true
 }
 Materials.Rubber_Base.crossbow_shot = {
   sound = "sound/hit/20mm_bullet_ground",
-  particle_effect = "particles/materials/rubber/hit_rubber_mid",
-  ricochet = false,
-  bindEffect = true
+  particle_effect = "particles/materials/hit_bullet20mm_rubber"
 }
 Materials.Rubber_Base.railgun_shot = {
   sound = "sound/hit/20mm_bullet_ground",
-  particle_effect = "particles/materials/rubber/hit_rubber_mid",
-  ricochet = false,
-  bindEffect = true
+  particle_effect = "particles/materials/hit_bullet20mm_rubber"
 }
 Materials.Rubber_Base.flame_shot = {
   particle_effect = "particles/materials/flamethrower_wood_hit"
 }
 Materials.Rubber_Base.teslagun_shot = {
   loop_sound = "sound/hit/tesla_common",
-  particle_effect = "particles/materials/hit_teslagun_metal"
+  particle_effect = "particles/materials/hit_teslagun_env"
 }
 Materials.Rubber_Base.particlebeam_shot = {
   sound = "sound/hit/laser_common",
-  particle_effect = "particles/materials/hit_beam_metal"
+  particle_effect = "particles/materials/hit_beam_stone"
 }
 Materials.Rubber_Base.plazma_shot = {
   sound = "sound/hit/plazma_common",
-  particle_effect = "particles/materials/rubber/hit_rubber_mid"
+  particle_effect = "particles/materials/hit_plazmaball_env"
 }
 Materials.Rubber_Base.fusion_shot = {
   sound = "sound/hit/fusion_common",
-  particle_effect = "particles/materials/rubber/hit_rubber_mid",
-  combine_sounds = true
+  combine_sounds = true,
+  particle_effect = "particles/materials/hit_plazma_rubber"
 }
 Materials.Rubber_Base.railgun_china_shot = {
   sound = "sound/hit/20mm_bullet_ground",
-  particle_effect = "particles/materials/rubber/hit_rubber_mid",
-  ricochet = false,
-  bindEffect = true
+  particle_effect = "particles/constructor_china/hit_railgun_allmat"
 }
 Materials.Rubber_Base.harpoon_shot = {
-  sound = "sound/hit/harpoon_car",
-  particle_effect = "particles/materials/rubber/hit_rubber_mid",
-  ricochet = false,
-  bindEffect = true
+  sound = "sound/hit/harpoon_car"
 }
 Materials.Brick_Base = sys.new(Materials.Default)
 Materials.Brick_Base.desc = "brick base"
@@ -1090,19 +1091,19 @@ Materials.Brick_Base.flame_shot = {
 }
 Materials.Brick_Base.teslagun_shot = {
   loop_sound = "sound/hit/tesla_common",
-  particle_effect = "particles/materials/hit_teslagun_metal"
+  particle_effect = "particles/materials/hit_teslagun_env"
 }
 Materials.Brick_Base.particlebeam_shot = {
   sound = "sound/hit/laser_common",
-  particle_effect = "particles/materials/hit_beam_metal"
+  particle_effect = "particles/materials/hit_beam_stone"
 }
 Materials.Brick_Base.plazma_shot = {
   sound = "sound/hit/plazma_common",
-  particle_effect = "particles/materials/stone/hit_stone_big_brick"
+  particle_effect = "particles/materials/hit_plazmaball_env"
 }
 Materials.Brick_Base.fusion_shot = {
   sound = "sound/hit/fusion_common",
-  particle_effect = "particles/materials/stone/hit_stone_mid_brick",
+  particle_effect = "particles/materials/hit_plazma_stone",
   combine_sounds = true
 }
 Materials.Brick_Base.railgun_china_shot = {
@@ -1195,19 +1196,19 @@ Materials.Ground_Base.flame_shot = {
 }
 Materials.Ground_Base.teslagun_shot = {
   loop_sound = "sound/hit/tesla_common",
-  particle_effect = "particles/materials/hit_teslagun_metal"
+  particle_effect = "particles/materials/hit_teslagun_env"
 }
 Materials.Ground_Base.particlebeam_shot = {
   sound = "sound/hit/laser_common",
-  particle_effect = "particles/materials/hit_beam_ground"
+  particle_effect = "particles/materials/hit_beam"
 }
 Materials.Ground_Base.plazma_shot = {
   sound = "sound/hit/plazma_common",
-  particle_effect = "particles/materials/hit_plazmaball_ground"
+  particle_effect = "particles/materials/hit_plazmaball_env"
 }
 Materials.Ground_Base.fusion_shot = {
   sound = "sound/hit/fusion_common",
-  particle_effect = "particles/materials/ground/hit_ground_mid",
+  particle_effect = "particles/materials/hit_plazma_ground",
   combine_sounds = true
 }
 Materials.Ground_Base.railgun_china_shot = {
@@ -1300,19 +1301,19 @@ Materials.Ground_Arizona.flame_shot = {
 }
 Materials.Ground_Arizona.teslagun_shot = {
   loop_sound = "sound/hit/tesla_common",
-  particle_effect = "particles/materials/hit_teslagun_metal"
+  particle_effect = "particles/materials/hit_teslagun_sand"
 }
 Materials.Ground_Arizona.particlebeam_shot = {
   sound = "sound/hit/laser_common",
-  particle_effect = "particles/materials/hit_beam_ground"
+  particle_effect = "particles/materials/hit_beam"
 }
 Materials.Ground_Arizona.plazma_shot = {
   sound = "sound/hit/plazma_common",
-  particle_effect = "particles/materials/hit_plazmaball_ground"
+  particle_effect = "particles/materials/hit_plazmaball_env"
 }
 Materials.Ground_Arizona.fusion_shot = {
   sound = "sound/hit/fusion_common",
-  particle_effect = "particles/materials/ground/hit_ground_mid_arizona",
+  particle_effect = "particles/materials/hit_plazma_sand",
   combine_sounds = true
 }
 Materials.Ground_Arizona.railgun_china_shot = {
@@ -1405,19 +1406,19 @@ Materials.Ground_Arizona_Soil.flame_shot = {
 }
 Materials.Ground_Arizona_Soil.teslagun_shot = {
   loop_sound = "sound/hit/tesla_common",
-  particle_effect = "particles/materials/hit_teslagun_metal"
+  particle_effect = "particles/materials/hit_teslagun_sand"
 }
 Materials.Ground_Arizona_Soil.particlebeam_shot = {
   sound = "sound/hit/laser_common",
-  particle_effect = "particles/materials/hit_beam_ground"
+  particle_effect = "particles/materials/hit_beam"
 }
 Materials.Ground_Arizona_Soil.plazma_shot = {
   sound = "sound/hit/plazma_common",
-  particle_effect = "particles/materials/hit_plazmaball_ground"
+  particle_effect = "particles/materials/hit_plazmaball_env"
 }
 Materials.Ground_Arizona_Soil.fusion_shot = {
   sound = "sound/hit/fusion_common",
-  particle_effect = "particles/materials/ground/hit_ground_mid_arizona_soil",
+  particle_effect = "particles/materials/hit_plazma_sand",
   combine_sounds = true
 }
 Materials.Ground_Arizona_Soil.railgun_china_shot = {
@@ -1510,19 +1511,19 @@ Materials.Ground_Cracked.flame_shot = {
 }
 Materials.Ground_Cracked.teslagun_shot = {
   loop_sound = "sound/hit/tesla_common",
-  particle_effect = "particles/materials/hit_teslagun_metal"
+  particle_effect = "particles/materials/hit_teslagun_sand"
 }
 Materials.Ground_Cracked.particlebeam_shot = {
   sound = "sound/hit/laser_common",
-  particle_effect = "particles/materials/hit_beam_ground"
+  particle_effect = "particles/materials/hit_beam"
 }
 Materials.Ground_Cracked.plazma_shot = {
   sound = "sound/hit/plazma_common",
-  particle_effect = "particles/materials/hit_plazmaball_ground"
+  particle_effect = "particles/materials/hit_plazmaball_env"
 }
 Materials.Ground_Cracked.fusion_shot = {
   sound = "sound/hit/fusion_common",
-  particle_effect = "particles/materials/ground/hit_ground_mid_cracked",
+  particle_effect = "particles/materials/hit_plazma_sand",
   combine_sounds = true
 }
 Materials.Ground_Cracked.railgun_china_shot = {
@@ -1615,15 +1616,15 @@ Materials.Sand_Base.flame_shot = {
 }
 Materials.Sand_Base.teslagun_shot = {
   loop_sound = "sound/hit/tesla_common",
-  particle_effect = "particles/materials/hit_teslagun_metal"
+  particle_effect = "particles/materials/hit_teslagun_sand"
 }
 Materials.Sand_Base.particlebeam_shot = {
   sound = "sound/hit/laser_common",
-  particle_effect = "particles/materials/hit_beam_metal"
+  particle_effect = "particles/materials/hit_beam_stone"
 }
 Materials.Sand_Base.plazma_shot = {
   sound = "sound/hit/plazma_common",
-  particle_effect = "particles/materials/hit_plazmaball_ground"
+  particle_effect = "particles/materials/hit_plazmaball_env"
 }
 Materials.Sand_Base.fusion_shot = {
   sound = "sound/hit/fusion_common",
@@ -1713,7 +1714,7 @@ Materials.Mud_Base.flame_shot = {
 }
 Materials.Mud_Base.teslagun_shot = {
   loop_sound = "sound/hit/tesla_common",
-  particle_effect = "particles/materials/hit_teslagun_metal"
+  particle_effect = "particles/materials/hit_teslagun_env"
 }
 Materials.Mud_Base.particlebeam_shot = {
   sound = "sound/hit/laser_common",
@@ -1721,7 +1722,7 @@ Materials.Mud_Base.particlebeam_shot = {
 }
 Materials.Mud_Base.plazma_shot = {
   sound = "sound/hit/plazma_common",
-  particle_effect = "particles/materials/hit_plazmaball_ground"
+  particle_effect = "particles/materials/hit_plazmaball_env"
 }
 Materials.Mud_Base.fusion_shot = {
   sound = "sound/hit/fusion_common",
@@ -1742,13 +1743,13 @@ Materials.Water.phys = phys_mats.mud
 Materials.Water.dbg_color = "168 0 255"
 Materials.Water.tire_sound = "sound/wheels/water_roll"
 Materials.Water.metal_tire_sound = "sound/wheels/water_roll"
-Materials.Water.wheels_effect = "particles/materials/water/wheel_water"
-Materials.Water.hover_effect = "particles/materials/water/hover_water"
-Materials.Water.leg_step_effect = "particles/materials/water/leg_water"
+Materials.Water.wheels_effect = "particles/materials/wheel_water"
+Materials.Water.hover_effect = "particles/materials/hover_water"
+Materials.Water.leg_step_effect = "particles/materials/leg_water"
 Materials.Water.leg_step_sound = "sound/legs/legs_water"
 Materials.Water.grenade_shot = {
   sound = "sound/hit/grenade_water",
-  particle_effect = "particles/materials/water/explosion_water_mid",
+  particle_effect = "particles/materials/hit_grenade_water",
   combine_sounds = true
 }
 Materials.Water.rocket_shot = {
@@ -1779,7 +1780,7 @@ Materials.Water.bullet120mm_shot = {
 }
 Materials.Water.mortar_shot = {
   sound = "sound/hit/mortar_water",
-  particle_effect = "particles/materials/water/hit_water_big"
+  particle_effect = "particles/materials/hit_mortar_water"
 }
 Materials.Water.cannon_minigun_shot = {
   sound = "sound/hit/mg_bullet_water",
@@ -1791,11 +1792,11 @@ Materials.Water.crossbow_shot = {
 }
 Materials.Water.railgun_shot = {
   sound = "sound/hit/20mm_bullet_water",
-  particle_effect = "particles/materials/water/hit_water_big"
+  particle_effect = "particles/materials/water/hit_water_mid"
 }
 Materials.Water.teslagun_shot = {
   loop_sound = "sound/hit/tesla_common",
-  particle_effect = "particles/materials/hit_teslagun_metal"
+  particle_effect = "particles/materials/hit_teslagun_water"
 }
 Materials.Water.particlebeam_shot = {
   sound = "sound/hit/laser_common",
@@ -1803,18 +1804,20 @@ Materials.Water.particlebeam_shot = {
 }
 Materials.Water.plazma_shot = {
   sound = "sound/hit/plazma_common",
-  particle_effect = "particles/materials/water/explosion_water_mid"
+  particle_effect = "particles/materials/hit_plazmaball_water"
 }
 Materials.Water.fusion_shot = {
   sound = "sound/hit/fusion_common",
-  particle_effect = "particles/materials/water/explosion_water_small",
+  particle_effect = "particles/materials/hit_plazma_water",
   combine_sounds = true
 }
 Materials.Water.railgun_china_shot = {
   sound = "sound/hit/20mm_bullet_water",
-  particle_effect = "particles/materials/water/hit_water_big"
+  particle_effect = "particles/materials/water/hit_water_mid"
 }
-Materials.Water.flame_shot = {}
+Materials.Water.flame_shot = {
+  particle_effect = "particles/materials/flamethrower_water_hit"
+}
 Materials.Water.harpoon_shot = {
   sound = "sound/hit/20mm_bullet_water",
   particle_effect = "particles/materials/water/hit_water_mid"
@@ -1825,13 +1828,13 @@ Materials.Acid.phys = phys_mats.mud
 Materials.Acid.dbg_color = "168 0 255"
 Materials.Acid.tire_sound = "sound/wheels/water_roll"
 Materials.Acid.metal_tire_sound = "sound/wheels/water_roll"
-Materials.Acid.wheels_effect = "particles/materials/water/wheel_water_acid"
-Materials.Acid.leg_step_effect = "particles/materials/water/leg_water_acid"
+Materials.Acid.wheels_effect = "particles/materials/wheel_ground"
+Materials.Acid.leg_step_effect = "particles/materials/leg_acid"
 Materials.Acid.leg_step_sound = "sound/legs/legs_water"
-Materials.Acid.hover_effect = "particles/materials/water/hover_water_acid"
+Materials.Acid.hover_effect = "particles/materials/hover_acid"
 Materials.Acid.grenade_shot = {
   sound = "sound/hit/grenade_water",
-  particle_effect = "particles/materials/water/explosion_water_mid_acid",
+  particle_effect = "particles/materials/hit_grenade_acid",
   combine_sounds = true
 }
 Materials.Acid.rocket_shot = {
@@ -1842,43 +1845,43 @@ Materials.Acid.big_rocket_shot = {
 }
 Materials.Acid.bullet_shot = {
   sound = "sound/hit/mg_bullet_water",
-  particle_effect = "particles/materials/water/hit_water_small_acid"
+  particle_effect = "particles/materials/hit_bullet_acid"
 }
 Materials.Acid.shotgun_garbage = {
   sound = "sound/hit/mg_bullet_water",
-  particle_effect = "particles/materials/water/hit_water_mid_acid"
+  particle_effect = "particles/materials/hit_bullet_acid"
 }
 Materials.Acid.bullet20mm_shot = {
   sound = "sound/hit/mg_bullet_water",
-  particle_effect = "particles/materials/water/hit_water_mid_acid"
+  particle_effect = "particles/materials/hit_bullet20mm_acid"
 }
 Materials.Acid.bullet100mm_shot = {
   sound = "sound/hit/100mm_water",
-  particle_effect = "particles/materials/water/hit_water_big_acid"
+  particle_effect = "particles/materials/hit_cannon_acid"
 }
 Materials.Acid.bullet120mm_shot = {
   sound = "sound/hit/100mm_water",
-  particle_effect = "particles/materials/water/hit_water_big_acid"
+  particle_effect = "particles/materials/hit_bullet120mm_acid"
 }
 Materials.Acid.mortar_shot = {
   sound = "sound/hit/mortar_water",
-  particle_effect = "particles/materials/water/hit_water_big_acid"
+  particle_effect = "particles/materials/hit_mortar_acid"
 }
 Materials.Acid.cannon_minigun_shot = {
   sound = "sound/hit/mg_bullet_water",
-  particle_effect = "particles/materials/water/hit_water_mid_acid"
+  particle_effect = "particles/materials/hit_cannon_acid"
 }
 Materials.Acid.crossbow_shot = {
   sound = "sound/hit/20mm_bullet_water",
-  particle_effect = "particles/materials/water/hit_water_mid_acid"
+  particle_effect = "particles/materials/hit_crossbow_acid"
 }
 Materials.Acid.railgun_shot = {
   sound = "sound/hit/20mm_bullet_water",
-  particle_effect = "particles/materials/water/hit_water_big_acid"
+  particle_effect = "particles/materials/hit_bullet20mm_acid"
 }
 Materials.Acid.teslagun_shot = {
   loop_sound = "sound/hit/tesla_common",
-  particle_effect = "particles/materials/hit_teslagun_metal"
+  particle_effect = "particles/materials/hit_teslagun_acid"
 }
 Materials.Acid.particlebeam_shot = {
   sound = "sound/hit/laser_common",
@@ -1886,21 +1889,23 @@ Materials.Acid.particlebeam_shot = {
 }
 Materials.Acid.plazma_shot = {
   sound = "sound/hit/plazma_common",
-  particle_effect = "particles/materials/water/explosion_water_mid_acid"
+  particle_effect = "particles/materials/hit_plazmaball_water"
 }
 Materials.Acid.fusion_shot = {
   sound = "sound/hit/fusion_common",
-  particle_effect = "particles/materials/water/explosion_water_small_acid",
+  particle_effect = "particles/materials/hit_plazma_water",
   combine_sounds = true
 }
 Materials.Acid.railgun_china_shot = {
   sound = "sound/hit/20mm_bullet_water",
-  particle_effect = "particles/materials/water/hit_water_big_acid"
+  particle_effect = "particles/materials/hit_bullet20mm_acid"
 }
-Materials.Acid.flame_shot = {}
+Materials.Acid.flame_shot = {
+  particle_effect = "particles/materials/flamethrower_water_hit"
+}
 Materials.Acid.harpoon_shot = {
   sound = "sound/hit/20mm_bullet_water",
-  particle_effect = "particles/materials/water/hit_water_mid_acid"
+  particle_effect = "particles/materials/hit_bullet20mm_acid"
 }
 Materials.MudWater = sys.new(Materials.Default)
 Materials.MudWater.dbg_color = "168 0 255"
@@ -1916,6 +1921,3 @@ Materials.Bullet_Shell_medium = sys.new(Materials.Default)
 Materials.Bullet_Shell_medium.desc = "bullet shell medium"
 Materials.Bullet_Shell_medium.collision_sound = "sound/collision/medium_bullet_stone"
 Materials.Bullet_Shell_medium.shell_car_collision_sound = "sound/collision/medium_bullet_car"
-Materials.Ball = sys.new(Materials.Rubber_Base)
-Materials.Ball.desc = "ball"
-Materials.Ball.phys = phys_mats.ball

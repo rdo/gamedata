@@ -76,11 +76,6 @@
   <Decal Name="thailand_zhuge_liangz_tv01" AlbedoTexture="textures\stickers\thailand\zhugeliangztv01.dds" />
   <Decal Name="thailand_zhuge_liangz_tv02" AlbedoTexture="textures\stickers\thailand\zhugeliangztv02.dds" />
 
-  <Decal Name="entack" AlbedoTexture="textures\stickers\partners\entack.dds" />
-  <Decal Name="play_hard" AlbedoTexture="textures\stickers\partners\playhard.dds" />
-  <Decal Name="tt_esports" AlbedoTexture="textures\stickers\partners\ttesports.dds" />
-  <Decal Name="tt_premium" AlbedoTexture="textures\stickers\partners\ttpremium.dds" />
-
   <Decal Name="hand_wrench" AlbedoTexture="textures\stickers\handwrench.dds" />
   
   <Decal Name="fire_14feb" AlbedoTexture="textures\stickers\fire_14feb.dds" />
@@ -110,5 +105,4 @@
   <Decal Name="japan_contest2018_rocket_girl" AlbedoTexture="textures\stickers\japan_contest2018\rocket_girl.dds" />
   <Decal Name="japan_contest2018_samurai_duck" AlbedoTexture="textures\stickers\japan_contest2018\samurai_duck.dds" />
 
-  <Decal Name="hog01" AlbedoTexture="textures\stickers\hog01.dds" />
 </DecalsLibrary>

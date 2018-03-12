@@ -11,7 +11,6 @@ Quest.PremiumQuest = {
   value = 10,
   gamemodes = "all_pve;all_pvp",
   ui_image = "quest_PREMIUM",
-  ui_desc = "#PremiumQuest_Desc",
   money = 2000
 }
 Quest.NewYearQuest = {
@@ -65,8 +64,7 @@ SeasonalPatterns.Frenzied = {
     name = "ChainTitle1",
     ui_desc = "#ChainDesc1",
     ui_desc_long = "#ChainLongEasyDesc",
-    ui_image = "frac_Frenzied",
-    pve_pvp_equal = true
+    ui_image = "frac_Frenzied"
   },
   {
     layouts = {
@@ -111,8 +109,7 @@ SeasonalPatterns.Frenzied = {
     name = "ChainTitle2",
     ui_desc = "#ChainDesc2",
     ui_desc_long = "#ChainLongEasyDesc",
-    ui_image = "frac_Frenzied",
-    pve_pvp_equal = true
+    ui_image = "frac_Frenzied"
   },
   {
     layouts = {
@@ -194,8 +191,7 @@ SeasonalPatterns.Traders = {
     name = "ChainTitle1",
     ui_desc = "#ChainDesc1",
     ui_desc_long = "#ChainLongEasyDesc",
-    ui_image = "frac_Traders",
-    pve_pvp_equal = true
+    ui_image = "frac_Traders"
   },
   {
     layouts = {
@@ -240,8 +236,7 @@ SeasonalPatterns.Traders = {
     name = "ChainTitle2",
     ui_desc = "#ChainDesc2",
     ui_desc_long = "#ChainLongEasyDesc",
-    ui_image = "frac_Traders",
-    pve_pvp_equal = true
+    ui_image = "frac_Traders"
   },
   {
     layouts = {
@@ -323,8 +318,7 @@ SeasonalPatterns.Scavengers = {
     name = "ChainTitle1",
     ui_desc = "#ChainDesc1",
     ui_desc_long = "#ChainLongEasyDesc",
-    ui_image = "frac_Scavengers",
-    pve_pvp_equal = true
+    ui_image = "frac_Scavengers"
   },
   {
     layouts = {
@@ -369,8 +363,7 @@ SeasonalPatterns.Scavengers = {
     name = "ChainTitle2",
     ui_desc = "#ChainDesc2",
     ui_desc_long = "#ChainLongEasyDesc",
-    ui_image = "frac_Scavengers",
-    pve_pvp_equal = true
+    ui_image = "frac_Scavengers"
   },
   {
     layouts = {

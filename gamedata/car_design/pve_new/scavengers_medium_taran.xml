@@ -1,11 +1,16 @@
 ﻿<?xml version="1.0"?>
-<CarDesign numParts="21">
+<CarDesign numParts="26">
   <Chassis def="Chassis_Rage" pos="0.000 0.750 -0.300">
-    <Part def="CarPart_ChassisTruck8" weld_pos="0.000 0.750 -0.900" weld_rot_idx="22" />
-    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.600 0.450 1.500" weld_rot_idx="4" />
     <Part def="CarPart_Holder_4x3_rare" weld_pos="0.450 1.050 1.200" weld_rot_idx="6" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="0.000 0.750 -0.900" weld_rot_idx="22" />
     <Part def="CarPart_Holder_4x3_rare" weld_pos="-0.450 1.050 1.200" weld_rot_idx="6" />
-    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.600 0.450 1.500" />
+    <Part def="CarPart_TruckSlope2" weld_pos="0.000 1.350 1.800" weld_rot_idx="2" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.900 0.450 1.500" weld_rot_idx="4" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="0.450 1.650 1.200" weld_rot_idx="2" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="-0.450 1.650 1.200" weld_rot_idx="2" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="0.750 1.050 1.200" weld_rot_idx="6" />
+    <Part def="CarPart_Holder_4x3_rare" weld_pos="-0.750 1.050 1.200" weld_rot_idx="6" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.900 0.450 1.500" />
     <Part def="CarPart_Drill_epic" weld_pos="0.000 0.750 -2.100" weld_rot_idx="5" />
     <Part def="CarPart_TruckSlope4" weld_pos="0.000 1.350 -2.700" />
     <Part def="CarPart_TruckSlope4" weld_pos="0.600 1.050 -2.700" />
@@ -19,8 +24,8 @@
     <Part def="CarPart_WheelSmall_R" weld_pos="-0.450 0.450 1.500" />
     <Part def="CarPart_WheelSmall_R" weld_pos="0.450 0.450 1.500" weld_rot_idx="4" />
     <Part def="CarPart_TruckSlope2" weld_pos="0.000 0.750 2.100" weld_rot_idx="3" />
-    <Part def="CarPart_Brakelights2" weld_pos="0.300 1.200 1.800" weld_rot_idx="1" />
-    <Part def="CarPart_Brakelights2" weld_pos="-0.300 1.200 1.800" weld_rot_idx="4" />
+    <Part def="CarPart_Brakelights2" weld_pos="0.750 1.050 1.800" weld_rot_idx="10" />
+    <Part def="CarPart_Brakelights2" weld_pos="-0.750 1.050 1.800" weld_rot_idx="10" />
     <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 0.900" />
   </Chassis>
 </CarDesign>

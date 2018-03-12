@@ -357,7 +357,7 @@ Def.PvE_Siege_Turret_Nurs = {
   death_sound = "sound/pve/turret_death",
   score_reward_kill = 13,
   hud_type = "common",
-  blast_damage = 40,
+  blast_damage = 50,
   blast_radius = 3,
   blast_impulse = 1000,
   blast_resist = -30
@@ -387,7 +387,7 @@ Def.PvE_Siege_Turret_BigCannon = {
   death_sound = "sound/pve/turret_death",
   score_reward_kill = 13,
   hud_type = "common",
-  blast_damage = 35,
+  blast_damage = 45,
   blast_radius = 3,
   blast_impulse = 1200,
   blast_resist = -30
@@ -579,11 +579,8 @@ Def.Gameplay_RoundSuddenDeathArea = {
   in_editor = false,
   radius = 500,
   damage = 1,
-  storm_effect = "particles/axis",
-  storm_effect_interval = 20,
-  storm_effect2 = "particles/gameplay/storm_wall",
-  storm_effect2_depth = 10,
-  storm_effect2_interval = 100,
+  storm_effect = "particles/gameplay/storm_wall",
+  storm_effect_interval = 100,
   storm_area_effect = "particles/gameplay/storm_areal",
   storm_sound = "sound/ambient/sandstorm/sandstorm_loop",
   storm_sound_offset = 50,
@@ -1118,12 +1115,6 @@ Def.Gameplay_OilEvac_Capture = {
   hud_type = "tower_capture",
   vision_always = true
 }
-Def.Gameplay_TurretSpawnSpot = {
-  class = "SpawnSpot",
-  editor_model = "models/gameplay/turrets/missile_turret",
-  in_editor = true,
-  tag = "turret"
-}
 Def.Gameplay_LostVikings_CarRepair = {
   class = "XoBaseEntity",
   in_editor = false,
@@ -1359,45 +1350,27 @@ Def.Gameplay_Gates_HangarGates = {
     }
   }
 }
-Def.Gameplay_Gates_IronGatesFrame = {
-  in_editor = false,
-  model = "models/gameplay/gates/metal_gates_frame",
-  physics = {static = true, material = "Metal_Base"}
-}
 Def.Gameplay_Gates_IronGates = {
   class = "GateEntity",
   in_editor = true,
   model = "models/gameplay/gates/gates_01",
-  children = {
-    {
-      def = "Gameplay_Gates_IronGatesFrame"
-    }
-  },
+  physics = {static = true, material = "Metal_Base"},
   additional_physics = {
     {
-      box_min = Vec3(-5, 0, -0.5),
-      box_max = Vec3(5, 9.5, 0.5),
+      box_min = Vec3(-2, 0, -0.5),
+      box_max = Vec3(8, 9.5, 0.5),
       bone = "shutter_01"
     },
     {
-      box_min = Vec3(-5, 0, -0.5),
-      box_max = Vec3(5, 9.5, 0.5),
+      box_min = Vec3(-7.5, 0, -0.5),
+      box_max = Vec3(2.5, 9.5, 0.5),
       bone = "shutter_02"
     },
     {
-      box_min = Vec3(-21, -10, -0.5),
-      box_max = Vec3(21, 50, 0.5),
+      box_min = Vec3(-12, -10, -0.5),
+      box_max = Vec3(12, 50, 0.5),
       car_clip = true,
       disable_on_open = true
-    }
-  },
-  broken_parts = {
-    {
-      model = "models/gameplay/gates/gates_01",
-      physics = false,
-      pos = vecs.v000,
-      ttl = 3,
-      dissolve_burn_heavy = true
     }
   }
 }
@@ -1413,16 +1386,4 @@ Def.Gameplay_Gates_StoneGates = {
       bone = "shutter_01"
     }
   }
-}
-Def.Gameplay_Ball1 = {
-  class = "BaseEntity",
-  model = "models/gameplay/ball/ball1",
-  physics = {material = "Ball", mass = 100},
-  block_los = false
-}
-Def.Gameplay_Ball2 = {
-  class = "BaseEntity",
-  model = "models/gameplay/ball/ball2",
-  physics = {material = "Ball", mass = 200},
-  block_los = false
 }

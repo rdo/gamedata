@@ -1,138 +1,4 @@
 UiShopItems = {
-  Promo_flags = {
-    bundleName = "Promo_flags",
-    ui_name = "#Promo_flags_Name",
-    ui_desc = "#Promo_flags_Desc",
-    ui_icon = "bundle_1",
-    sortId = 90,
-    hidden = true,
-    platforms = {
-      GAIJIN = {
-        id = "5B23A554-69DB-4C87-86CA-5F2F0C124D0A"
-      }
-    }
-  },
-  Promo_signs_1 = {
-    bundleName = "Promo_signs_1",
-    ui_name = "#Promo_signs_1_Name",
-    ui_desc = "#Promo_signs_1_Desc",
-    ui_icon = "bundle_1",
-    sortId = 90,
-    hidden = true,
-    platforms = {
-      GAIJIN = {
-        id = "B0167856-3F55-4882-BEB3-371A26A5849C"
-      }
-    }
-  },
-  Promo_signs_2 = {
-    bundleName = "Promo_signs_2",
-    ui_name = "#Promo_signs_2_Name",
-    ui_desc = "#Promo_signs_2_Desc",
-    ui_icon = "bundle_1",
-    sortId = 90,
-    hidden = true,
-    platforms = {
-      GAIJIN = {
-        id = "A0722250-56AD-41FC-B7BE-95B5C2404D4C"
-      }
-    }
-  },
-  Promo_decorum_1 = {
-    bundleName = "Promo_decorum_1",
-    ui_name = "#Promo_decorum_1_Name",
-    ui_desc = "#Promo_decorum_1_Desc",
-    ui_icon = "bundle_1",
-    sortId = 90,
-    hidden = true,
-    platforms = {
-      GAIJIN = {
-        id = "AC1E7250-6A59-46C5-8660-142C0E6CC742"
-      }
-    }
-  },
-  Promo_decorum_2 = {
-    bundleName = "Promo_decorum_2",
-    ui_name = "#Promo_decorum_2_Name",
-    ui_desc = "#Promo_decorum_2_Desc",
-    ui_icon = "bundle_1",
-    sortId = 90,
-    hidden = true,
-    platforms = {
-      GAIJIN = {
-        id = "A2046236-3F57-4564-92B0-65C64A5578B2"
-      }
-    }
-  },
-  Promo_decals_firestarters = {
-    bundleName = "Promo_decals_firestarters",
-    ui_name = "#Promo_decals_firestarters_Name",
-    ui_desc = "#Promo_decals_firestarters_Desc",
-    ui_icon = "bundle_1",
-    sortId = 90,
-    hidden = true,
-    platforms = {
-      GAIJIN = {
-        id = "74589699-7178-479C-9506-C4E655CB6769"
-      }
-    }
-  },
-  Promo_signs_3 = {
-    bundleName = "Promo_signs_3",
-    ui_name = "#Promo_signs_3_Name",
-    ui_desc = "#Promo_signs_3_Desc",
-    ui_icon = "bundle_1",
-    sortId = 90,
-    hidden = true,
-    platforms = {
-      GAIJIN = {
-        id = "49A27F7B-68B2-4A41-80B6-049C205915EB"
-      }
-    }
-  },
-  Bundle_Boar = {
-    bundleName = "Bundle_Boar",
-    ui_name = "#Bundle_Boar_Name",
-    ui_desc = "#Bundle_Boar_Desc",
-    ui_icon = "Bundle_Boar",
-    ui_icon_big = "Bundle_Boar_big",
-    sortId = 82,
-    hidden = false,
-    platforms = {
-      GAIJIN = {
-        id = "95592080-45F7-45FC-BADB-288728E9DF34",
-        store_link = "https://store.gaijin.net/story.php?id=6078"
-      },
-      STEAM = {
-        id = "812760",
-        store_link = "http://store.steampowered.com/app/812760/"
-      },
-      PS4_EU = {
-        id = "86E9F839-3C5D-4F12-8D5C-024B46F81767"
-      },
-      PS4_US = {
-        id = "90C9A5DC-8C44-4165-9D2D-294FA324ED36"
-      },
-      PS4_JP = {
-        id = "C030ECE6-B8A4-4B10-8BE3-1F4C5143B096"
-      },
-      XBOX_ONE = {
-        id = "70616456-839D-4B7E-8322-181EC90AC3E2"
-      }
-    }
-  },
-  Bundle_Boar_womoney = {
-    bundleName = "Bundle_Boar_womoney",
-    ui_name = "#Bundle_Boar_womoney_Name",
-    ui_desc = "#Bundle_Boar_womoney_Desc",
-    ui_icon = "Bundle_Boar_womoney",
-    sortId = 82,
-    hidden = true,
-    platforms = {
-      PW = {id = "fake"},
-      TDP = {id = "fake"}
-    }
-  },
   Bundle_Ambulance = {
     bundleName = "Bundle_Ambulance",
     ui_name = "#Bundle_Ambulance_Name",
@@ -196,64 +62,6 @@ UiShopItems = {
       TDP = {id = "fake"}
     }
   },
-  Premium_7d = {
-    ui_name = "#Premium_7d_Name",
-    ui_desc = "#Premium_7d_Desc",
-    ui_icon = "Premium_7d",
-    premiumQuestText = "#Premium_Quest_Text",
-    sortId = 10,
-    hasPremium = true,
-    hidden = true,
-    platforms = {
-      GAIJIN = {
-        id = "9A123D40-0E80-40E6-BD48-2FE2925D8D3C",
-        store_link = "https://store.gaijin.net/story.php?id=6096"
-      },
-      PS4_EU = {
-        id = "05A645DD-35A0-4F92-8E89-E0EFF4403A71"
-      },
-      PS4_US = {
-        id = "6077CDFA-EC77-4ACA-AECE-05C4E6D0BB4A"
-      },
-      PS4_JP = {
-        id = "5C34C887-954D-48BA-8DE0-4F2F6B7E4C12"
-      },
-      XBOX_ONE = {
-        id = "580DC9D7-6CB9-4F9E-802D-41965F95E58A"
-      },
-      PW = {id = "fake"},
-      TDP = {id = "fake"}
-    }
-  },
-  Premium_1d = {
-    ui_name = "#Premium_1d_Name",
-    ui_desc = "#Premium_1d_Desc",
-    ui_icon = "Premium_1d",
-    premiumQuestText = "#Premium_Quest_Text",
-    sortId = 10,
-    hasPremium = true,
-    hidden = true,
-    platforms = {
-      GAIJIN = {
-        id = "5F1E4A53-A726-4ED8-920D-DEB04AC91775",
-        store_link = "https://store.gaijin.net/story.php?id=6095"
-      },
-      PS4_EU = {
-        id = "E1EDB38F-A1C8-42C8-84D5-3677A15ECEF5"
-      },
-      PS4_US = {
-        id = "A5774A35-380F-49B9-BD9F-78BFD21FA161"
-      },
-      PS4_JP = {
-        id = "740514E1-6AF6-42EA-A917-A22CAD8E9DDE"
-      },
-      XBOX_ONE = {
-        id = "EB0F6F67-A4D3-45D1-B989-1E27B7BE0B8E"
-      },
-      PW = {id = "fake"},
-      TDP = {id = "fake"}
-    }
-  },
   Bundle_Landing_cabin = {
     bundleName = "Bundle_Landing_cabin",
     ui_name = "#Bundle_Landing_cabin_Name",
@@ -309,6 +117,7 @@ UiShopItems = {
       XBOX_ONE = {
         id = "48E90359-DF77-4417-9B20-8FB6B66155F2"
       },
+      PW = {id = "fake"},
       XBOX_ONE_CERT = {
         id = "48E90359-DF77-4417-9B20-8FB6B66155F2"
       }
@@ -323,8 +132,7 @@ UiShopItems = {
     sortId = 84,
     hidden = false,
     platforms = {
-      TDP = {id = "fake"},
-      PW = {id = "fake"}
+      TDP = {id = "fake"}
     }
   },
   Bundle_Xmas17 = {
@@ -355,7 +163,8 @@ UiShopItems = {
       },
       XBOX_ONE = {
         id = "FAA95107-2B1B-4ED9-94B4-0F76BEEF6B39"
-      }
+      },
+      PW = {id = "fake"}
     }
   },
   Bundle_Xmas17_womoney = {
@@ -370,8 +179,7 @@ UiShopItems = {
       XBOX_ONE_CERT = {
         id = "58DC92F4-1687-4015-A4D4-D3104AE59CBA"
       },
-      TDP = {id = "fake"},
-      PW = {id = "fake"}
+      TDP = {id = "fake"}
     }
   },
   Bundle_Xmas17_mini_bound = {
@@ -585,7 +393,8 @@ UiShopItems = {
       },
       XBOX_ONE_CERT = {
         id = "D58777E4-4DC5-445F-8007-D3B27CD0A759"
-      }
+      },
+      PW = {id = "fake"}
     }
   },
   Starter_pack_womoney = {
@@ -600,8 +409,7 @@ UiShopItems = {
       XBOX_ONE_CERT = {
         id = "92118C27-83E1-4366-9E26-C03D9961C551"
       },
-      TDP = {id = "fake"},
-      PW = {id = "fake"}
+      TDP = {id = "fake"}
     }
   },
   Bundle_cbt_1_womoney = {
@@ -616,8 +424,7 @@ UiShopItems = {
       XBOX_ONE_CERT = {
         id = "AA856A2B-CD62-454B-BE37-069EEA83DACA"
       },
-      TDP = {id = "fake"},
-      PW = {id = "fake"}
+      TDP = {id = "fake"}
     }
   },
   Bundle_cbt_2_womoney = {
@@ -632,8 +439,7 @@ UiShopItems = {
       XBOX_ONE_CERT = {
         id = "9D08B8EA-424E-4E8C-B65F-59A1A983C883"
       },
-      TDP = {id = "fake"},
-      PW = {id = "fake"}
+      TDP = {id = "fake"}
     }
   },
   Bundle_cbt_3_womoney = {
@@ -648,8 +454,7 @@ UiShopItems = {
       XBOX_ONE_CERT = {
         id = "9CEB48B2-4621-4020-8844-36C5D8537D1C"
       },
-      TDP = {id = "fake"},
-      PW = {id = "fake"}
+      TDP = {id = "fake"}
     }
   },
   Bundle_cbt_4_womoney = {
@@ -664,8 +469,7 @@ UiShopItems = {
       XBOX_ONE_CERT = {
         id = "B6BF41FD-C0E3-4C72-82E2-C0B85236A878"
       },
-      TDP = {id = "fake"},
-      PW = {id = "fake"}
+      TDP = {id = "fake"}
     }
   },
   XBOX_Exclusive_pack_womoney = {
@@ -679,8 +483,7 @@ UiShopItems = {
       XBOX_ONE_CERT = {
         id = "DB77E6B0-B3A0-4566-BCDD-12FCAA17E14C"
       },
-      TDP = {id = "fake"},
-      PW = {id = "fake"}
+      TDP = {id = "fake"}
     }
   },
   Bundle_cbt_1_founders = {
@@ -1023,8 +826,7 @@ UiShopItems = {
     ui_icon_big = "bundle_wasteland_racer_big",
     sortId = 105,
     platforms = {
-      TDP = {id = "fake"},
-      PW = {id = "fake"}
+      TDP = {id = "fake"}
     }
   },
   Bundle_steam_25_obt = {
@@ -1082,8 +884,7 @@ UiShopItems = {
       XBOX_ONE_CERT = {
         id = "6DDE01F2-12B3-4F44-9B55-589F3434F5A5"
       },
-      TDP = {id = "fake"},
-      PW = {id = "fake"}
+      TDP = {id = "fake"}
     }
   },
   Bundle_Scientist = {
@@ -1114,7 +915,8 @@ UiShopItems = {
       },
       XBOX_ONE = {
         id = "693F7C6E-371F-4CAD-B262-03AD0AF2F7C9"
-      }
+      },
+      PW = {id = "fake"}
     }
   },
   Bundle_Scientist_womoney = {
@@ -1129,8 +931,7 @@ UiShopItems = {
       XBOX_ONE_CERT = {
         id = "0A11528F-895B-4F6A-B9BA-DEF82E6F0B78"
       },
-      TDP = {id = "fake"},
-      PW = {id = "fake"}
+      TDP = {id = "fake"}
     }
   },
   Bundle_Military = {
@@ -1160,7 +961,8 @@ UiShopItems = {
       },
       XBOX_ONE = {
         id = "20F1105D-4CB2-4B80-88BB-1E40A7578121"
-      }
+      },
+      PW = {id = "fake"}
     }
   },
   Bundle_Military_womoney = {
@@ -1174,8 +976,7 @@ UiShopItems = {
       XBOX_ONE_CERT = {
         id = "2A89AA81-F62A-474F-B270-A2A6EFCC9D98"
       },
-      TDP = {id = "fake"},
-      PW = {id = "fake"}
+      TDP = {id = "fake"}
     }
   },
   Bundle_Military_bound = {
@@ -1246,8 +1047,7 @@ UiShopItems = {
     ui_icon = "bundle_law_wasteland_womoney",
     sortId = 107,
     platforms = {
-      TDP = {id = "fake"},
-      PW = {id = "fake"}
+      TDP = {id = "fake"}
     }
   },
   XBOX_Gold_pack = {

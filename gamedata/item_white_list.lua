@@ -36,12 +36,5 @@ ItemWhiteList = {
   "CarPart_Fireworks_Valentine",
   "Decal_japan_contest2018_boar",
   "Decal_japan_contest2018_rocket_girl",
-  "Decal_japan_contest2018_samurai_duck",
-  "pic_JailScratches01_Piece",
-  "CarPart_Roadsign_01_Piece",
-  "pic_SchoolDesk01_Piece",
-  "CarPart_Roadsign_04_Piece",
-  "CarPart_Skull01_Piece",
-  "CarPart_Roadsign_06_Piece",
-  "CarPart_Roadsign_11_Piece"
+  "Decal_japan_contest2018_samurai_duck"
 }

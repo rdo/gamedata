@@ -32,7 +32,6 @@ land_mining
 	uv ( 0.0000 0.0000 1.0000 1.0000 )
 	material bump
 	specular_color ( 0 0 0 )
-	gloss 102
 	default_size 16.000000
 }
 
@@ -75,8 +74,7 @@ land_garbage01
 	uv ( 0.0000 0.0000 1.0000 1.0000 )
 	material bump
 	specular_color ( 0 0 0 )
-	gloss 255
-	default_size 22.000000
+	default_size 2.000000
 }
 
 land_road01
@@ -141,17 +139,6 @@ land_road6
 	material bump
 	specular_color ( 0 0 0 )
 	default_size 2.000000
-}
-
-land_road7
-{
-	albedo_texture "textures\decals\land_road7_a"
-	normal_texture "textures\decals\land_road7_n"
-	gloss_texture "textures\decals\land_road7_g"
-	uv ( 0.0000 0.0000 1.0000 1.0000 )
-	material bump
-	specular_color ( 0 0 0 )
-	default_size 16.000000
 }
 
 land_rock
@@ -331,8 +318,7 @@ land_tires
 	gloss_texture "textures\decals\land_tires_g"
 	uv ( 0.0000 0.0000 1.0000 1.0000 )
 	material bump
-	specular_color ( 0 0 0 )
-	default_size 1.000000
+	default_size 5.000000
 }
 
 newyear2016_confetti
@@ -894,27 +880,5 @@ signs_graffiti07
 	material bump
 	specular_color ( 0 0 0 )
 	default_size 2.000000
-}
-
-signs_graffiti08
-{
-	albedo_texture "textures\decals\graffiti\crossout_graf_a"
-	normal_texture "textures\decals\graffiti\crossout_graf_n"
-	gloss_texture "textures\decals\graffiti\crossout_graf_g"
-	uv ( 0.0000 0.5100 1.0000 0.4800 )
-	material bump
-	specular_color ( 0 0 0 )
-	default_size 4.000000
-}
-
-signs_graffiti09
-{
-	albedo_texture "textures\decals\graffiti\crossout_graf_a"
-	normal_texture "textures\decals\graffiti\crossout_graf_n"
-	gloss_texture "textures\decals\graffiti\crossout_graf_g"
-	uv ( 0.0000 0.0100 1.0000 0.4900 )
-	material bump
-	specular_color ( 0 0 0 )
-	default_size 4.000000
 }
 

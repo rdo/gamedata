@@ -66,6 +66,11 @@ Spell.Brawl_MBP_Repair = {
   target = "SELF",
   influence_param = 60
 }
+Spell.Brawl_MBP_Refill = {
+  influence = "REFILL_AMMO",
+  target = "SELF",
+  influence_param = 1
+}
 Spell.Slow_CargoHolder = {
   target = "SELF",
   aura = "SLOW_MOVEMENT",

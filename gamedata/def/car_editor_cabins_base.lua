@@ -528,24 +528,6 @@ Def.Chassis_tribal_hog_Base = {
   low_gear_min_point = 0.01,
   susp_hit_snd = "sound/suspension/common",
   model = "models/constructor/cabins/ford_pickup/pickup",
-  physics = {material = "Metal_Car", mass = 750},
-  collision_damage = 2
-}
-Def.Chassis_Mi24_Base = {
-  inherit = "Car_Base",
-  motor_sound = "sound/engine/sputnik/sputnik_engine",
-  revs_sound_low = "sound/engine/sputnik/revs_low",
-  revs_sound_low_rpm = 0.5,
-  revs_sound_stoppable = "true",
-  legs_motor_sound = "sound/engine/sputnik/sputnik_engine",
-  liftingjack_sound = "sound/special/liftingjack",
-  horn_snd = "sound/horn/buggy",
-  susp_hit_snd = "sound/suspension/common",
-  low_gear_ratio = 0.01,
-  switch_up_start_point = 1.1,
-  low_gear_min_point = 0.01,
-  susp_hit_snd = "sound/suspension/common",
-  model = "models/constructor/cabins/ford_pickup/pickup",
   physics = {material = "Metal_Car", mass = 750}
 }
 Def.Cabin_experimental_01_base = {

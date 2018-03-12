@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<CarDesign numParts="31">
+<CarDesign numParts="32">
   <Chassis def="Chassis_Rage" pos="0.000 0.750 -0.300">
     <Part def="CarPart_ChassisTruck8" weld_pos="0.000 0.750 -0.300" weld_rot_idx="22" />
     <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 1.500" />
@@ -17,10 +17,11 @@
     <Part def="CarPart_TruckSlope" weld_pos="-0.900 1.050 -2.100" weld_rot_idx="13" />
     <Part def="CarPart_TruckSlope" weld_pos="0.900 1.050 -2.100" weld_rot_idx="9" />
     <Part def="CarPart_Radiator" weld_pos="-0.300 1.650 1.200" weld_rot_idx="10" />
-    <Part def="CarPart_Gun_Machinegun_epic" weld_pos="0.000 1.950 0.600" weaponGroup="1" />
+    <Part def="CarPart_Gun_Machinegun_epic" weld_pos="0.000 1.950 0.600" />
     <Part def="CarPart_FenderFlare2" weld_pos="0.000 1.950 0.300" weld_rot_idx="9" />
     <Part def="CarPart_FenderFlare2" weld_pos="0.000 1.350 -1.800" weld_rot_idx="9" />
     <Part def="CarPart_ArmorPlate_VanCover_rare" weld_pos="-0.600 1.050 2.100" weld_rot_idx="12" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.000 1.050 1.800" weld_rot_idx="2" />
     <Part def="CarPart_VanBodySide_epic" weld_pos="0.600 1.200 1.500" weld_rot_idx="9" />
     <Part def="CarPart_VanBodySide_epic" weld_pos="-0.600 1.200 1.500" weld_rot_idx="9" />
     <Part def="CarPart_ArmorPlate_VanCover_rare" weld_pos="0.600 1.050 2.100" weld_rot_idx="12" />
@@ -30,7 +31,7 @@
     <Part def="CarPart_TruckSlope" weld_pos="-0.600 1.650 0.900" weld_rot_idx="4" />
     <Part def="CarPart_Brakelights1" weld_pos="-0.600 1.350 1.800" weld_rot_idx="4" />
     <Part def="CarPart_Brakelights1" weld_pos="0.600 1.350 1.800" weld_rot_idx="4" />
-    <Part def="CarPart_Buggy_Grid1" weld_pos="0.600 1.650 1.200" weld_rot_idx="19" />
-    <Part def="CarPart_Buggy_Grid1" weld_pos="-0.600 1.650 1.200" weld_rot_idx="19" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.600 1.350 1.200" weld_rot_idx="22" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="-0.600 1.350 1.200" weld_rot_idx="22" />
   </Chassis>
 </CarDesign>

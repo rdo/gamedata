@@ -209,11 +209,7 @@ Avatars.Mask_Ambulance = {
 }
 Avatars.Mask_Soldier_1 = {
   ui_icon = "avatar_soldier_01",
-  sortId = 766
-}
-Avatars.Mask_Boar = {
-  ui_icon = "avatar_soldier_01",
-  sortId = 766
+  sortId = 900
 }
 Avatars.Mask_1 = {
   ui_icon = "avatar_Mask_12",

@@ -49,9 +49,3 @@ phys_mats.sand = {
   wheelShakeHeight = 0.1,
   wheelShakeInterval = 2
 }
-phys_mats.ball = {
-  friction = 0.6,
-  restitution = 5,
-  surfaceType = 0,
-  rolling_friction = 0
-}

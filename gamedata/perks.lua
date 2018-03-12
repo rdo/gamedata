@@ -274,14 +274,6 @@ Perk.Technology_Cabin = {
   ui_icon = "perk_star",
   ui_desc = "#PERK_Technology_DESC"
 }
-Perk.Collision_Cabin = {
-  mechanics = "ELECTRO_RAM",
-  perk_param = 100,
-  perk_damage_mul = 1,
-  max_stack = 3,
-  ui_icon = "perk_star",
-  ui_desc = "#PERK_Collision_DESC"
-}
 Perk.Technology_Cabin_Fusion = {
   skill_cooldown_mul = -0.2,
   ui_icon = "perk_star",

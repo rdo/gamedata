@@ -382,7 +382,7 @@
   <item modelName="models\constructor\modules\scntst_reloader\reloader" dx="0.000000" dy="0.100000" dz="0.400000" dist="0.000000" dYaw="1" dPitch="0" dRoll="0" />
   <item modelName="models\constructor\modules\scntst_device1\scntst_device1" dx="0.000000" dy="0.100000" dz="0.250000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
   <item modelName="models\constructor\modules\scntst_visor\scntst_visor" dx="0.000000" dy="0.150000" dz="0.400000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
-  <item modelName="models\weapons\fusiongun\fusiongun" dx="0.080000" dy="0.050000" dz="-0.800000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
+  <item modelName="models\weapons\fusiongun\fusiongun" dx="0.000000" dy="0.050000" dz="0.000000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
   <item modelName="models\weapons\tesla_gun\tesla_gun" dx="0.100000" dy="0.250000" dz="-0.400000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
   <item modelName="models\weapons\plasma_launcher\plasma_launcher" dx="0.150000" dy="0.100000" dz="-1.000000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
   <item modelName="models\constructor\modules\scntst_drone\scntst_drone_base" dx="0.000000" dy="0.150000" dz="-0.600000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
@@ -424,17 +424,9 @@
   <item modelName="models\constructor\chassis\wheels\tribal_big1\tribal_big1" dx="-0.150000" dy="0.150000" dz="-0.600000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
   <item modelName="models\constructor\modules\tribal_engine\tribal_engine" dx="-0.050000" dy="0.250000" dz="-0.400000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
   <item modelName="models\constructor\modules\tribal_calciner\tribal_calciner" dx="0.050000" dy="0.100000" dz="0.000000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
-  <item modelName="models\constructor\cabins\tribal_cab1\tribal_cab1" dx="0.000000" dy="0.300000" dz="-0.800000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
-  <item modelName="models\constructor\chassis\tracks\shneck\shneck" dx="0.300000" dy="0.200000" dz="-2.000000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
-  <item modelName="models\weapons\trible_crossbow\trible_crossbow" dx="0.050000" dy="0.200000" dz="-2.800000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
-  <item modelName="models\weapons\wheel_launcher\wheel_launcher" dx="0.000000" dy="0.150000" dz="-0.700000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
+  <item modelName="models\constructor\cabins\tribal_cab1\tribal_cab1" dx="0.000000" dy="0.100000" dz="0.000000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
+  <item modelName="models\constructor\chassis\tracks\shneck\shneck" dx="0.200000" dy="-0.050000" dz="0.000000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
+  <item modelName="models\weapons\trible_crossbow\trible_crossbow" dx="0.000000" dy="0.200000" dz="-2.200000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
+  <item modelName="models\weapons\wheel_launcher\wheel_launcher" dx="0.000000" dy="0.150000" dz="-0.600000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
   <item modelName="models\weapons\catapult\catapult" dx="0.000000" dy="0.150000" dz="-0.400000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
-  <item modelName="models\weapons\tribal_trashgun\tribal_trashgun" dx="0.050000" dy="0.100000" dz="-0.800000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
-  <item modelName="models\weapons\tribal_harpoon\tribal_harpoon" dx="0.050000" dy="0.100000" dz="-1.000000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
-  <item modelName="models\weapons\flmthrow_course\flmthrow_course" dx="0.050000" dy="0.100000" dz="-0.800000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
-  <item modelName="models\constructor\cabins\chevy_pickup\chevy" dx="0.000000" dy="0.350000" dz="-1.200000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
-  <item modelName="models\constructor\cabins\tribal_cabdrill\tribal_cabdrill" dx="0.050000" dy="0.150000" dz="-1.000000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
-  <item modelName="models\constructor\cabins\tribal_cabdrone\tribal_cabdrone" dx="0.000000" dy="0.250000" dz="-0.800000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
-  <item modelName="models\constructor\cabins\arm_spider\arm_spider" dx="-0.100000" dy="0.250000" dz="-0.400000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
-  <item modelName="models\constructor\cabins\peterbilt_xmas\peterbilt_xmas" dx="0.000000" dy="0.350000" dz="-0.800000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
 </itemsNode>

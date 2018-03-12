@@ -125,15 +125,6 @@ Def.CarPart_Gun_Cannon_Epic_Base = {
   muzzleflash = "Lights_GunMuzzle",
   shell_def = "Shell_Medium"
 }
-Def.CarPart_Gun_Cannon_Legend_Base = {
-  physics = {material = "Metal_Car"},
-  shot_once_sound = "sound/weapon/cannon/25mm_shot",
-  shot_effect = "particles/weapons/machinegun/muzzle_auto_cannon",
-  muzzleflash = "Lights_GunMuzzle",
-  shell_def = "Shell_Medium",
-  slow_fire_rate = 100,
-  speedup_time = 3
-}
 Def.CarPart_Gun_Cannon_Minigun_Base = {
   physics = {material = "Metal_Car"},
   shot_loop_sound = "sound/weapon/mc/mc_shot_loop",
@@ -311,16 +302,6 @@ Def.CarPart_Gun_GrenadeLauncher_Auto_Base = {
   shot_effect = "particles/weapons/ags_muzzle"
 }
 Def.CarPart_Gun_MineLauncher_Base = {
-  physics = {material = "Metal_Car"},
-  shot_once_sound = "sound/weapon/ml/MineLauncher_fire",
-  check_restriction_overlap = true
-}
-Def.CarPart_Gun_MineLauncher_Legend_Base = {
-  physics = {material = "Metal_Car"},
-  shot_once_sound = "sound/weapon/ml/MineLauncher_fire",
-  check_restriction_overlap = true
-}
-Def.CarPart_Gun_MineTrap_Base = {
   physics = {material = "Metal_Car"},
   shot_once_sound = "sound/weapon/ml/MineLauncher_fire",
   check_restriction_overlap = true

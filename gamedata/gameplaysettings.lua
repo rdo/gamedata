@@ -104,7 +104,6 @@ GameplayDef.FreePlay = {
 GameplayDef.DestructionDerby = {
   inherit = "Base",
   gamemode = "DestructionDerby",
-  countdown_duration = 10,
   sudden_death_time = 30,
   no_reward_time = 30,
   move_check_time = 1500,
@@ -183,12 +182,6 @@ GameplayDef.Race = {
 }
 GameplayDef.TeamPvp = {gamemode = "TeamPvp", countdown_duration = 10}
 GameplayDef.Brawl_Defusal = {inherit = "TeamPvp"}
-GameplayDef.Brawl_Football = {
-  inherit = "TeamPvp",
-  countdown_duration = 10,
-  player_design = "gamedata/car_design/brawl_football/team1.xml",
-  player_design_team2 = "gamedata/car_design/brawl_football/team2.xml"
-}
 GameplayDef.Brawl_Tanks = {
   gamemode = "Conquer",
   num_bots = 12,
@@ -241,21 +234,19 @@ GameplayDef.Brawl_Scorpion = {
   inherit = "FreeForAll",
   player_design = "gamedata/car_design/brawl_scorpion.xml"
 }
-GameplayDef.Brawl_Sprint = {
-  inherit = "Race",
-  player_desing = "gamedata/car_design/sportcar.xml"
-}
 GameplayDef.Brawl_MBP = {
   inherit = "FreeForAll",
-  player_design = "gamedata/car_design/bg_car.xml",
-  countdown_duration = 30
+  player_design = "gamedata/car_design/bg_car.xml"
 }
 GameplayDef.Battleroyal = {
   gamemode = "Battleroyal"
 }
 GameplayDef.Pve_Component = {
-  inherit = "Pve",
-  gamemode = "Pve_HeadHunt"
+  inherit = "Base",
+  gamemode = "Pve",
+  countdown_duration = 10,
+  no_alive_players_finish_time = 10,
+  free_respawn = 1
 }
 GameplayDef.Pve_Greatescape = {
   inherit = "Pve_Component"
@@ -270,8 +261,5 @@ GameplayDef.Pve_Oilevac = {
   inherit = "Pve_Component"
 }
 GameplayDef.Pve_Commtowers = {
-  inherit = "Pve_Component"
-}
-GameplayDef.Pve_Keepheist = {
   inherit = "Pve_Component"
 }

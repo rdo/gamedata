@@ -840,7 +840,6 @@ Def.Projectile_PlazmaBall = {
   impact_type = "plazma_shot",
   whiz_sound = "sound/weapon/bullet_whiz/plazma_whiz",
   whiz_sound_radius = 20,
-  blast_effect = "particles/weapons/plazma_hit",
   blast_sound = "sound/explosion/rocket"
 }
 Def.Projectile_Electrolaser = {
@@ -857,7 +856,6 @@ Def.Projectile_FusionRifle = {
   effect = "particles/weapons/fusion_riffle_proj",
   whiz_sound = "sound/weapon/bullet_whiz/fusion_whiz",
   impact_type = "fusion_shot",
-  blast_effect = "particles/weapons/fusion_rifle_hit",
   blast_sound = "sound/explosion/fusion_explosion"
 }
 Def.Projectile_FusionRifle_Tracer = {

@@ -16,8 +16,7 @@ Def.Gameplay_MBP_RareDropMarker = {
 Def.Gameplay_MBP_Empty = {
   class = "XoBaseEntity",
   in_editor = false,
-  model = "models/gameplay/loot/boxes_group",
-  skin = "weapon",
+  model = "models/loot/boxes_group",
   physics = {
     solid_type = solid.none
   },
@@ -35,11 +34,11 @@ Def.Gameplay_MBP_Empty = {
   },
   slot = 1
 }
-Def.Gameplay_MBP_Ammo_Bullet = {
+Def.Gameplay_MBP_Refill = {
   inherit = "Gameplay_MBP_Empty",
   model = "models/gameplay/loot/ammo",
-  ammo_type = "bullet",
-  ammo = 50,
+  carpart = "CarPart_ModuleAmmo_rare",
+  refill = true,
   hud_type = "MBP_Refill",
   use_radius = 5,
   children = {
@@ -48,19 +47,8 @@ Def.Gameplay_MBP_Ammo_Bullet = {
     }
   }
 }
-Def.Gameplay_MBP_Ammo_Shotgun = {
-  inherit = "Gameplay_MBP_Ammo_Bullet",
-  ammo_type = "shotgun",
-  ammo = 20
-}
-Def.Gameplay_MBP_Ammo_Explosive = {
-  inherit = "Gameplay_MBP_Ammo_Bullet",
-  ammo_type = "explosive",
-  ammo = 5
-}
 Def.Gameplay_MBP_Module = {
   inherit = "Gameplay_MBP_Empty",
-  skin = "module",
   slot = 2,
   dye = "Dye_checker",
   icon = "moduleicon_energy_shifting_mini"
@@ -124,6 +112,12 @@ Def.Gameplay_MBP_GrenadeLauncher_Shotgun = {
   carpart = "CarPart_Gun_GrenadeLauncher_Shotgun",
   realpart = "Brawl_MBP_Gun_GrenadeLauncher_Shotgun",
   icon = "moduleicon_launcher_mini"
+}
+Def.Gameplay_MBP_Syfy_FusionRifle = {
+  inherit = "Gameplay_MBP_Empty",
+  carpart = "CarPart_Gun_Syfy_FusionRifle",
+  realpart = "Brawl_MBP_Gun_Syfy_FusionRifle",
+  icon = "moduleicon_plasma_gun_mini"
 }
 Def.Gameplay_MBP_Gun_Cannon_rare = {
   inherit = "Gameplay_MBP_Empty",
@@ -226,7 +220,6 @@ Def.Brawl_MBP_Cabin = {
   inherit = "Cabin_Companion",
   tradeable = false,
   released = false,
-  model = "models/constructor/cabins/bg_car/bg_car",
   health = 120,
   engine_power = 300,
   engine_max_speed = 60,
@@ -234,14 +227,7 @@ Def.Brawl_MBP_Cabin = {
   radar_radius = 75,
   is_autolifting_allowed = true,
   motor_sound = "sound/engine/buggy/buggy_engine",
-  revs_sound_low = "sound/engine/buggy/revs_low",
-  car_ammo = {
-    bullet = {max = 500, starting = 50},
-    shotgun = {max = 200, starting = 20},
-    explosive = {max = 50, starting = 5},
-    rocket = {max = 50, starting = 2},
-    repair = {max = 10, starting = 0}
-  }
+  revs_sound_low = "sound/engine/buggy/revs_low"
 }
 Def.Brawl_MBP_Module = {
   class = "CarPart",
@@ -251,9 +237,7 @@ Def.Brawl_MBP_Module = {
   model = "models/constructor/modules/radio_common/radio_common",
   health = 10,
   damageable = true,
-  physics = {material = "Metal_Car", mass = "10"},
-  brawl_equip_pos = Vec3(0, 0.6, 1.65),
-  brawl_equip_rot = 18
+  physics = {material = "Metal_Car", mass = "10"}
 }
 Def.Brawl_MBP_RadarSmall_rare = {
   inherit = "Brawl_MBP_Module",
@@ -333,82 +317,73 @@ Def.Brawl_MBP_Gun_Machinegun = {
   tradeable = false,
   released = false,
   damage = 3.5,
-  car_ammo_type = "bullet",
-  brawl_equip_pos = Vec3(0, 1.5, 1.2),
-  brawl_equip_rot = 0
+  ammo = 150
 }
 Def.Brawl_MBP_Gun_Machinegun_rare = {
   inherit = "CarPart_Gun_Machinegun_rare",
   tradeable = false,
   released = false,
   damage = 7,
-  car_ammo_type = "bullet",
-  brawl_equip_pos = Vec3(0, 1.5, 1.2),
-  brawl_equip_rot = 0
+  ammo = 75
 }
 Def.Brawl_MBP_Gun_Machinegun_epic = {
   inherit = "CarPart_Gun_Machinegun_epic",
   tradeable = false,
   released = false,
   damage = 8,
-  car_ammo_type = "bullet",
-  brawl_equip_pos = Vec3(0, 1.5, 1.2),
-  brawl_equip_rot = 0
+  ammo = 75
 }
 Def.Brawl_MBP_Gun_Minigun = {
   inherit = "CarPart_Gun_Minigun",
   tradeable = false,
   released = false,
   damage = 3.5,
-  car_ammo_type = "bullet",
-  brawl_equip_pos = Vec3(0, 1.5, 1.2),
-  brawl_equip_rot = 0
+  ammo = 150
 }
 Def.Brawl_MBP_Gun_Shotgun = {
   inherit = "CarPart_Gun_Shotgun",
   tradeable = false,
   released = false,
   damage = 3,
-  car_ammo_type = "shotgun",
-  brawl_equip_pos = Vec3(0, 1.5, 1.2),
-  brawl_equip_rot = 0
+  ammo = 40
 }
 Def.Brawl_MBP_Gun_Shotgun_rare = {
   inherit = "CarPart_Gun_Shotgun_rare",
   tradeable = false,
   released = false,
   damage = 6,
-  car_ammo_type = "shotgun",
-  brawl_equip_pos = Vec3(0, 1.5, 1.2),
-  brawl_equip_rot = 0
+  ammo = 20
 }
 Def.Brawl_MBP_Gun_Shotgun_epic = {
   inherit = "CarPart_Gun_Shotgun_epic",
   tradeable = false,
   released = false,
   damage = 7,
-  car_ammo_type = "shotgun",
-  brawl_equip_pos = Vec3(0, 1.5, 1.2),
-  brawl_equip_rot = 0
+  ammo = 20
 }
 Def.Brawl_MBP_Gun_Shotgun_legend = {
   inherit = "CarPart_Gun_Shotgun_legend",
   tradeable = false,
   released = false,
   damage = 8,
-  car_ammo_type = "shotgun",
-  brawl_equip_pos = Vec3(0, 1.5, 1.2),
-  brawl_equip_rot = 0
+  ammo = 20
+}
+Def.Brawl_MBP_Gun_Syfy_FusionRifle = {
+  inherit = "CarPart_Gun_Syfy_FusionRifle",
+  tradeable = false,
+  released = false,
+  damage = 20,
+  ammo = 10
 }
 Def.Brawl_MBP_Gun_Cannon_rare = {
   inherit = "CarPart_Gun_Cannon_rare",
   tradeable = false,
   released = false,
   secondary_weapon = false,
-  blast_damage = 16,
-  car_ammo_type = "explosive",
-  brawl_equip_pos = Vec3(0, 1.5, 1.2),
-  brawl_equip_rot = 0
+  recoil_impulse = 1000,
+  blast_damage = nil,
+  damage = 16,
+  ammo = 30
 }
 Def.Brawl_MBP_Gun_AutoGuidedCourseGun_rare = {
   inherit = "CarPart_AutoGuidedCourseGun_rare",
@@ -416,51 +391,39 @@ Def.Brawl_MBP_Gun_AutoGuidedCourseGun_rare = {
   released = false,
   secondary_weapon = false,
   blast_damage = 80,
-  car_ammo_type = "explosive",
-  brawl_equip_pos = Vec3(0, 1.5, 1.2),
-  brawl_equip_rot = 0
+  ammo = 10
 }
 Def.Brawl_MBP_Gun_HomingMissileLauncher_epic = {
   inherit = "CarPart_HomingMissileLauncher_epic",
   tradeable = false,
   released = false,
   blast_damage = 100,
-  car_ammo_type = "explosive",
-  brawl_equip_pos = Vec3(0, 1.5, 1.2),
-  brawl_equip_rot = 0
+  ammo = 6
 }
 Def.Brawl_MBP_Gun_GrenadeLauncher_Auto = {
   inherit = "CarPart_Gun_GrenadeLauncher_Auto",
   tradeable = false,
   released = false,
   blast_damage = 40,
-  car_ammo_type = "explosive",
-  brawl_equip_pos = Vec3(0, 1.5, 1.2),
-  brawl_equip_rot = 0
+  ammo = 40
 }
 Def.Brawl_MBP_Gun_GrenadeLauncher_Shotgun = {
   inherit = "CarPart_Gun_GrenadeLauncher_Shotgun",
   tradeable = false,
   released = false,
   blast_damage = 25,
-  car_ammo_type = "explosive",
-  brawl_equip_pos = Vec3(0, 1.5, 1.2),
-  brawl_equip_rot = 0
+  ammo = 20
 }
 Def.Brawl_MBP_Gun_GuidedMissile_Sniper = {
   inherit = "CarPart_Gun_GuidedMissile_Sniper",
   tradeable = false,
   released = false,
   blast_damage = 200,
-  car_ammo_type = "explosive",
-  brawl_equip_pos = Vec3(0, 1.5, 1.2),
-  brawl_equip_rot = 0
+  ammo = 5
 }
 Def.Brawl_MBP_SpearExplosive = {
   inherit = "CarPart_SpearExplosive",
   tradeable = false,
   released = false,
-  blast_damage = 250,
-  brawl_equip_pos = Vec3(0.15, 0, -0.9),
-  brawl_equip_rot = 5
+  blast_damage = 250
 }

@@ -190,13 +190,6 @@ GoldPacks_GAIJIN = {
     bundle = "Bundle_Ambulance"
   },
   {
-    value = 100000,
-    steam_appid = "812760",
-    yuplay_guid = "95592080-45F7-45FC-BADB-288728E9DF34",
-    yuplay_guid_present = "30045C2C-25C7-45FB-A308-D7130954E9B8",
-    bundle = "Bundle_Boar"
-  },
-  {
     value = 400000,
     yuplay_guid = "B89ED97C-8412-4FFD-96E7-F5925E4457A3",
     bundle = {
@@ -367,51 +360,6 @@ GoldPacks_GAIJIN = {
     yuplay_guid = "77D5C01D-8598-4E11-B2AC-D18513F64A8C",
     yuplay_guid_present = "650D0BEC-D0B9-4EAE-9B70-1A54E4E55BFB",
     premium_duration = 2592000
-  },
-  {
-    value = 0,
-    yuplay_guid = "9A123D40-0E80-40E6-BD48-2FE2925D8D3C",
-    premium_duration = 604800
-  },
-  {
-    value = 0,
-    yuplay_guid = "5F1E4A53-A726-4ED8-920D-DEB04AC91775",
-    premium_duration = 86400
-  },
-  {
-    value = 0,
-    yuplay_guid = "5B23A554-69DB-4C87-86CA-5F2F0C124D0A",
-    bundle = "Promo_flags"
-  },
-  {
-    value = 0,
-    yuplay_guid = "B0167856-3F55-4882-BEB3-371A26A5849C",
-    bundle = "Promo_signs_1"
-  },
-  {
-    value = 0,
-    yuplay_guid = "A0722250-56AD-41FC-B7BE-95B5C2404D4C",
-    bundle = "Promo_signs_2"
-  },
-  {
-    value = 0,
-    yuplay_guid = "AC1E7250-6A59-46C5-8660-142C0E6CC742",
-    bundle = "Promo_decorum_1"
-  },
-  {
-    value = 0,
-    yuplay_guid = "A2046236-3F57-4564-92B0-65C64A5578B2",
-    bundle = "Promo_decorum_2"
-  },
-  {
-    value = 0,
-    yuplay_guid = "74589699-7178-479C-9506-C4E655CB6769",
-    bundle = "Promo_decals_firestarters"
-  },
-  {
-    value = 0,
-    yuplay_guid = "49A27F7B-68B2-4A41-80B6-049C205915EB",
-    bundle = "Promo_signs_3"
   }
 }
 GoldPacks_PS4 = {
@@ -535,24 +483,9 @@ GoldPacks_PS4 = {
     bundle = "Bundle_14feb_18"
   },
   {
-    value = 100000,
-    yuplay_guid = "86E9F839-3C5D-4F12-8D5C-024B46F81767",
-    bundle = "Bundle_Boar"
-  },
-  {
     value = 0,
     yuplay_guid = "B8980345-C9E6-4B16-98F3-B16CB4154D10",
     premium_duration = 2592000
-  },
-  {
-    value = 0,
-    yuplay_guid = "05A645DD-35A0-4F92-8E89-E0EFF4403A71",
-    premium_duration = 604800
-  },
-  {
-    value = 0,
-    yuplay_guid = "E1EDB38F-A1C8-42C8-84D5-3677A15ECEF5",
-    premium_duration = 86400
   },
   {
     value = 15000,
@@ -644,24 +577,9 @@ GoldPacks_PS4 = {
     bundle = "Bundle_14feb_18"
   },
   {
-    value = 100000,
-    yuplay_guid = "90C9A5DC-8C44-4165-9D2D-294FA324ED36",
-    bundle = "Bundle_Boar"
-  },
-  {
     value = 0,
     yuplay_guid = "C2DBB716-3F21-405D-97D9-A1BFD157D5C2",
     premium_duration = 2592000
-  },
-  {
-    value = 0,
-    yuplay_guid = "6077CDFA-EC77-4ACA-AECE-05C4E6D0BB4A",
-    premium_duration = 604800
-  },
-  {
-    value = 0,
-    yuplay_guid = "A5774A35-380F-49B9-BD9F-78BFD21FA161",
-    premium_duration = 86400
   },
   {
     value = 15000,
@@ -749,11 +667,6 @@ GoldPacks_PS4 = {
     bundle = "Bundle_14feb_18"
   },
   {
-    value = 100000,
-    yuplay_guid = "C030ECE6-B8A4-4B10-8BE3-1F4C5143B096",
-    bundle = "Bundle_Boar"
-  },
-  {
     value = 0,
     yuplay_guid = "CAEF671A-21E6-4B75-B99F-8DDCF5CF811E",
     bundle = "Bundle_Japan"
@@ -762,16 +675,6 @@ GoldPacks_PS4 = {
     value = 0,
     yuplay_guid = "BD9B42F3-150D-4516-956F-EACD473835FB",
     premium_duration = 2592000
-  },
-  {
-    value = 0,
-    yuplay_guid = "5C34C887-954D-48BA-8DE0-4F2F6B7E4C12",
-    premium_duration = 604800
-  },
-  {
-    value = 0,
-    yuplay_guid = "740514E1-6AF6-42EA-A917-A22CAD8E9DDE",
-    premium_duration = 86400
   }
 }
 GoldPacks_XBOX = {
@@ -872,25 +775,9 @@ GoldPacks_XBOX = {
     max_count = 1
   },
   {
-    value = 100000,
-    yuplay_guid = "70616456-839D-4B7E-8322-181EC90AC3E2",
-    bundle = "Bundle_Boar",
-    max_count = 1
-  },
-  {
     value = 0,
     yuplay_guid = "63283EAF-0A50-48E1-9B05-D7CDD470BF03",
     premium_duration = 2592000
-  },
-  {
-    value = 0,
-    yuplay_guid = "580DC9D7-6CB9-4F9E-802D-41965F95E58A",
-    premium_duration = 604800
-  },
-  {
-    value = 0,
-    yuplay_guid = "EB0F6F67-A4D3-45D1-B989-1E27B7BE0B8E",
-    premium_duration = 86400
   }
 }
 GoldPacks_XBOX_CERT = {

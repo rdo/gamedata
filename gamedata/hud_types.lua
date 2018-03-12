@@ -213,7 +213,7 @@ HudTypeDef.tower_capture = {
   hud_ico = "quest_ico_target",
   hud_map_ico = "base_point_final",
   progress_type = "filled",
-  ui_name = "HUD_PVE_CAPTURE"
+  ui_name = "zahvati bashnu"
 }
 HudTypeDef.hold_point = {
   hud_type = "task",

@@ -1198,15 +1198,6 @@ CarPartsDyes = {
     blendMaskContrast = 0,
     tiling = "0.8 0.8"
   },
-  pic_DirtyBoar = {
-    useGlossMask = true,
-    useMetalnessMask = true,
-    albedo = "",
-    albedoTexture = "textures/patterns/dirty_boar_a",
-    normalTexture = "textures/patterns/dirty_boar_n",
-    blendMaskContrast = 0,
-    tiling = "0.8 0.8"
-  },
   pic_StMuerte01 = {
     useGlossMask = true,
     useMetalnessMask = true,

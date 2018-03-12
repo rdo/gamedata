@@ -7,10 +7,10 @@
     <Part def="CarPart_BladeWing_epic" weld_pos="1.350 1.350 -2.400" dye="Dye_Gray" />
     <Part def="CarPart_Drill_epic" weld_pos="0.900 1.050 -2.400" weld_rot_idx="5" dye="Dye_Blue02" />
     <Part def="CarPart_Engine_avia_front" weld_pos="0.900 1.050 0.900" weld_rot_idx="4" dye="Dye_Blue02" />
+    <Part def="CarPart_WheelSmall_R" weld_pos="1.350 0.450 -2.100" weld_rot_idx="4" />
+    <Part def="CarPart_WheelSmall_R" weld_pos="0.450 0.450 -2.100" />
+    <Part def="CarPart_WheelSmall_RS" weld_pos="0.450 0.450 0.900" />
+    <Part def="CarPart_WheelSmall_RS" weld_pos="1.350 0.450 0.900" weld_rot_idx="4" />
     <Part def="CarPart_BladeWing_epic" weld_pos="0.450 1.350 -2.400" dye="Dye_Gray" />
-    <Part def="CarPart_WheelSmall_S_Starter" weld_pos="0.450 0.450 -2.100" />
-    <Part def="CarPart_WheelSmall_S_Starter" weld_pos="1.350 0.450 -2.100" weld_rot_idx="4" />
-    <Part def="CarPart_WheelSmall_Starter" weld_pos="1.350 0.450 0.900" weld_rot_idx="4" />
-    <Part def="CarPart_WheelSmall_Starter" weld_pos="0.450 0.450 0.900" />
   </Chassis>
 </CarDesign>

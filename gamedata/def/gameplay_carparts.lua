@@ -352,15 +352,6 @@ Def.Brawl_WheelMed_RS = {
   denseSurfaceBehaviour = tires_behaviour.good,
   crumblySurfaceBehaviour = tires_behaviour.good
 }
-Def.Brawl_Booster = {
-  inherit = "CarPart_Booster",
-  tradeable = false,
-  released = false,
-  activate_hold = true,
-  heat_max = 2,
-  heat_inc = 0.5,
-  heat_dec = 0.1
-}
 Def.Brawl_Tanks_Gun_BigCannon_Free_epic = {
   inherit = "CarPart_Gun_BigCannon_Free_epic",
   tradeable = false,

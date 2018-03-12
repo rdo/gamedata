@@ -1,9 +1,4 @@
 FactoryBlueprint = {
-  boar = {
-    ui_name = "#boar_bundle_Vehicle_Name",
-    ui_desc = "#boar_bundle_Vehicle_Desc",
-    design_file = "gamedata/car_design/CBT_bundle/boar_bundle.xml"
-  },
   ambulance01 = {
     ui_name = "#ambulance01_bundle_Vehicle_Name",
     ui_desc = "#ambulance01_bundle_Vehicle_Desc",
