@@ -186,8 +186,8 @@ GameplayDef.Brawl_Defusal = {inherit = "TeamPvp"}
 GameplayDef.Brawl_Football = {
   inherit = "TeamPvp",
   countdown_duration = 10,
-  player_design = "gamedata/car_design/brawl_football/team1.xml",
-  player_design_team2 = "gamedata/car_design/brawl_football/team2.xml"
+  player_design = "gamedata/car_design/brawl_football/team1_1.xml",
+  player_design_team2 = "gamedata/car_design/brawl_football/team2_1.xml"
 }
 GameplayDef.Brawl_Tanks = {
   gamemode = "Conquer",

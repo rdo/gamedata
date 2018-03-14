@@ -918,3 +918,47 @@ signs_graffiti09
 	default_size 4.000000
 }
 
+signs_graffiti10
+{
+	albedo_texture "textures\decals\graffiti\social_graf_a"
+	normal_texture "textures\decals\graffiti\social_graf_n"
+	gloss_texture "textures\decals\graffiti\social_graf_g"
+	uv ( 0.0000 0.0100 1.0000 0.4900 )
+	material bump
+	specular_color ( 0 0 0 )
+	default_size 4.000000
+}
+
+signs_graffiti11
+{
+	albedo_texture "textures\decals\graffiti\social_graf_a"
+	normal_texture "textures\decals\graffiti\social_graf_n"
+	gloss_texture "textures\decals\graffiti\social_graf_g"
+	uv ( 0.0000 0.5000 1.0000 0.4900 )
+	material bump
+	specular_color ( 0 0 0 )
+	default_size 4.000000
+}
+
+signs_graffiti12
+{
+	albedo_texture "textures\decals\graffiti\social_graf02_a"
+	normal_texture "textures\decals\graffiti\social_graf02_n"
+	gloss_texture "textures\decals\graffiti\social_graf02_g"
+	uv ( 0.0000 0.0900 0.3100 0.2500 )
+	material bump
+	specular_color ( 0 0 0 )
+	default_size 4.000000
+}
+
+signs_graffiti13
+{
+	albedo_texture "textures\decals\graffiti\social_graf02_a"
+	normal_texture "textures\decals\graffiti\social_graf02_n"
+	gloss_texture "textures\decals\graffiti\social_graf02_g"
+	uv ( 0.0000 0.0000 0.5300 0.1000 )
+	material bump
+	specular_color ( 0 0 0 )
+	default_size 4.000000
+}
+

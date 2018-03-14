@@ -513,7 +513,7 @@ Def.Cabin_Satellite_base = {
   model = "models/constructor/cabins/ford_pickup/pickup",
   physics = {material = "Metal_Car", mass = 750}
 }
-Def.Chassis_tribal_hog_Base = {
+Def.Cabin_Tribal_Hog_Base = {
   inherit = "Car_Base",
   motor_sound = "sound/engine/sputnik/sputnik_engine",
   revs_sound_low = "sound/engine/sputnik/revs_low",

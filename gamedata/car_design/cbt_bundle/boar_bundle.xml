@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0"?>
 <CarDesign numParts="29">
-  <Chassis def="Chassis_tribal_hog" pos="0.000 0.750 -0.900" dye="pic_BoarFur">
+  <Chassis def="Cabin_Tribal_Hog" pos="0.000 0.750 -0.900" dye="pic_BoarFur">
     <Part def="CarPart_ChassisLight2" weld_pos="0.000 0.750 -1.200" dye="Dye_Brown02" />
     <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 -0.300" dye="Dye_Brown02" />
     <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 0.900" dye="Dye_Brown02" />

@@ -242,3 +242,9 @@ Def.Effects_SmokeBlack = {
   in_editor = true,
   maxViewDist = 999999
 }
+Def.Effects_HoboFire = {
+  class = "EffectEntity",
+  effect = "particles/levels/hobo_fire",
+  in_editor = true,
+  maxViewDist = 999999
+}

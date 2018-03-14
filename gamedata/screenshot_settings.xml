@@ -437,4 +437,5 @@
   <item modelName="models\constructor\cabins\tribal_cabdrone\tribal_cabdrone" dx="0.000000" dy="0.250000" dz="-0.800000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
   <item modelName="models\constructor\cabins\arm_spider\arm_spider" dx="-0.100000" dy="0.250000" dz="-0.400000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
   <item modelName="models\constructor\cabins\peterbilt_xmas\peterbilt_xmas" dx="0.000000" dy="0.350000" dz="-0.800000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
+  <item modelName="models\constructor\cabins\tribal_hog\tribal_hog" dx="-0.050000" dy="0.150000" dz="-1.000000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
 </itemsNode>

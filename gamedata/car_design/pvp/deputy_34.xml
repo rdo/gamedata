@@ -44,11 +44,9 @@
     <Part def="CarPart_TruckSlope_Fender" weld_pos="0.000 1.350 -3.600" weld_rot_idx="8" />
     <Part def="CarPart_BumperSpikeMini" weld_pos="1.500 2.100 -4.800" weld_rot_idx="3" />
     <Part def="CarPart_BumperSpikeMini" weld_pos="-1.500 2.100 -4.800" weld_rot_idx="3" />
-    <Part def="CarPart_WheelBig_R_epic" weld_pos="-1.050 0.750 0.600" />
     <Part def="CarPart_TruckSlope_Fender" weld_pos="0.000 1.950 -3.600" weld_rot_idx="8" />
     <Part def="CarPart_Avia_fender_r" weld_pos="-1.500 1.950 -0.150" />
     <Part def="CarPart_Avia_fender_l" weld_pos="1.500 1.950 -0.150" />
-    <Part def="CarPart_WheelBig_R_epic" weld_pos="1.050 0.750 0.600" weld_rot_idx="4" />
     <Part def="CarPart_AviaWing8x1x3" weld_pos="1.350 2.700 0.600" weld_rot_idx="20" />
     <Part def="CarPart_ChassisLight8" weld_pos="0.000 1.050 2.400" weld_rot_idx="4" />
     <Part def="CarPart_AviaWing8x1x3" weld_pos="-1.350 2.700 0.600" weld_rot_idx="20" />
@@ -73,10 +71,12 @@
     <Part def="CarPart_TruckSlope_Fender" weld_pos="0.000 1.350 -5.100" weld_rot_idx="9" />
     <Part def="CarPart_WheelBig_RS_epic" weld_pos="-1.050 0.750 2.400" />
     <Part def="CarPart_WheelBig_RS_epic" weld_pos="1.050 0.750 2.400" weld_rot_idx="4" />
-    <Part def="CarPart_WheelBig_R_epic" weld_pos="1.050 0.750 -3.000" weld_rot_idx="4" />
-    <Part def="CarPart_WheelBig_R_epic" weld_pos="1.050 0.750 -4.800" weld_rot_idx="4" />
-    <Part def="CarPart_WheelBig_R_epic" weld_pos="-1.050 0.750 -3.300" />
-    <Part def="CarPart_WheelBig_R_epic" weld_pos="-1.050 0.750 -5.100" />
     <Part def="CarPart_Grid_2" weld_pos="0.000 1.050 -4.500" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="1.050 0.750 0.600" weld_rot_idx="4" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="-1.050 0.750 0.600" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="1.050 0.750 -3.000" weld_rot_idx="4" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="-1.050 0.750 -3.000" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="1.050 0.750 -4.800" weld_rot_idx="4" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="-1.050 0.750 -4.800" />
   </Chassis>
 </CarDesign>
