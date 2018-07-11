@@ -1,0 +1,42 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="37">
+  <Chassis def="Cabin_Buggy_Small" pos="0.000 1.050 0.000" dye="pic_MetalOil">
+    <Part def="CarPart_PowerGiver_rare:BoundItem" weld_pos="0.450 1.950 1.800" weld_rot_idx="13" dye="pic_MetalOil" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="0.750 0.750 1.800" dye="Dye_Aircraft" />
+    <Part def="CarPart_Gun_BigCannon_EX" weld_pos="0.600 0.750 0.000" weld_rot_idx="14" weaponGroup="2" dye="pic_MetalOil" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.900 1.050 1.200" weld_rot_idx="22" dye="Dye_Aircraft" />
+    <Part def="CarPart_Gun_BigCannon_EX" weld_pos="-0.600 0.750 0.600" weld_rot_idx="11" weaponGroup="2" dye="pic_MetalOil" />
+    <Part def="CarPart_WheelBig_RS_epic" weld_pos="-0.750 0.750 -1.800" weld_rot_idx="4" dye="Dye_Aircraft" />
+    <Part def="CarPart_ChassisLight2" weld_pos="-0.900 1.050 -1.200" weld_rot_idx="22" dye="pic_MetalOil" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.300 1.050 0.300" weld_rot_idx="22" dye="pic_MetalOil" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.300 1.050 -0.300" weld_rot_idx="18" dye="pic_MetalOil" />
+    <Part def="CarPart_Exhaust2" weld_pos="0.600 1.500 0.450" weld_rot_idx="2" dye="Dye_Aircraft" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.000 1.650 -0.900" weld_rot_idx="3" dye="pic_MetalOil" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.000 1.950 -0.600" weld_rot_idx="1" dye="pic_MetalOil" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.000 2.250 1.800" dye="pic_MetalOil" />
+    <Part def="CarPart_ArmorSkull" weld_pos="0.000 2.250 -1.500" weld_rot_idx="3" dye="pic_MetalOil" />
+    <Part def="CarPart_TruckSlope4" weld_pos="-0.300 1.950 1.500" weld_rot_idx="1" dye="pic_MetalOil" />
+    <Part def="CarPart_Exhaust3" weld_pos="0.000 2.400 2.100" weld_rot_idx="19" dye="Dye_Aircraft" />
+    <Part def="CarPart_EngineMini_rare:BoundItem" weld_pos="0.000 2.250 -0.900" dye="pic_MetalOil" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="0.000 2.250 0.300" dye="pic_MetalOil" />
+    <Part def="CarPart_ArmorPlate_VanCover_rare" weld_pos="0.000 2.250 1.200" weld_rot_idx="18" dye="Dye_Brown02" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.000 2.550 -1.200" dye="pic_MetalOil" />
+    <Part def="CarPart_Horns01" weld_pos="0.000 2.700 -0.900" weld_rot_idx="6" dye="pic_MetalOil" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="-0.300 2.400 -1.050" weld_rot_idx="15" dye="pic_MetalOil" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="0.300 2.400 -1.050" weld_rot_idx="10" dye="pic_MetalOil" />
+    <Part def="CarPart_Headlights" weld_pos="0.300 2.400 2.100" weld_rot_idx="14" dye="pic_MetalOil" />
+    <Part def="CarPart_Headlights" weld_pos="-0.300 2.400 2.100" weld_rot_idx="11" />
+    <Part def="CarPart_LightsRear1" weld_pos="-0.450 2.400 2.100" weld_rot_idx="4" dye="pic_MetalOil" />
+    <Part def="CarPart_LightsRear1" weld_pos="0.450 2.400 2.100" weld_rot_idx="4" />
+    <Part def="CarPart_Headlights2" weld_pos="-0.300 2.250 -1.200" weld_rot_idx="11" dye="Dye_Aircraft" />
+    <Part def="CarPart_Headlights2" weld_pos="0.300 2.250 -1.200" weld_rot_idx="14" dye="Dye_Aircraft" />
+    <Part def="CarPart_LightsRear1" weld_pos="0.450 1.800 -1.200" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="0.600 1.650 -0.300" weld_rot_idx="14" dye="pic_MetalOil" />
+    <Part def="CarPart_Military_slope_dble_2x1x4" weld_pos="-0.600 1.650 -0.300" weld_rot_idx="11" dye="pic_MetalOil" />
+    <Part def="CarPart_Headlights" weld_pos="0.300 1.800 -1.200" weld_rot_idx="10" />
+    <Part def="CarPart_Headlights" weld_pos="-0.300 1.800 -1.200" weld_rot_idx="15" />
+    <Part def="CarPart_LightsRear1" weld_pos="-0.450 1.800 -1.200" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="0.000 0.450 0.300" />
+    <Part def="CarPart_Exhaust2" weld_pos="0.600 1.200 0.750" weld_rot_idx="2" dye="Dye_Aircraft" />
+  </Chassis>
+</CarDesign>

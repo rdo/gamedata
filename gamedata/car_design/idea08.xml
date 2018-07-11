@@ -1,0 +1,31 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="26">
+  <Chassis def="Chassis_Basic" pos="0.000 0.750 0.000" dye="pic_CamouflageRacecar01">
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 -1.800" dye="Dye_Eraser" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 -0.600" dye="Dye_Eraser" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 0.600" dye="Dye_Eraser" />
+    <Part def="CarPart_WheelSmall_R" weld_pos="-0.450 0.450 -2.100" dye="Dye_Eraser" />
+    <Part def="CarPart_WheelSmall_R" weld_pos="0.450 0.450 -2.100" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 1.800" dye="Dye_Eraser" />
+    <Part def="Brawl_WheelMed_RS" weld_pos="-0.450 0.450 1.800" dye="Dye_Eraser" />
+    <Part def="Brawl_WheelMed_RS" weld_pos="0.450 0.450 1.800" weld_rot_idx="4" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid5" weld_pos="0.000 1.350 1.800" weld_rot_idx="4" dye="pic_CamouflageRacecar01" />
+    <Part def="CarPart_Grid_3" weld_pos="0.900 0.450 0.000" weld_rot_idx="18" dye="pic_CamouflageRacecar01" />
+    <Part def="CarPart_Grid_3" weld_pos="-0.900 0.450 0.000" weld_rot_idx="22" dye="Dye_Eraser" />
+    <Part def="CarPart_Grid_3" weld_pos="0.300 1.050 1.800" weld_rot_idx="16" dye="pic_CamouflageRacecar01" />
+    <Part def="CarPart_Radiator" weld_pos="0.000 0.750 1.800" weld_rot_idx="4" dye="pic_CamouflageRacecar01" />
+    <Part def="CarPart_Grid_3" weld_pos="-0.300 1.050 1.800" weld_rot_idx="21" dye="pic_CamouflageRacecar01" />
+    <Part def="CarPart_EngineMini_rare" weld_pos="0.000 1.050 -1.800" weld_rot_idx="4" dye="pic_CamouflageRacecar01" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="-0.450 0.750 -1.800" dye="pic_CamouflageRacecar01" />
+    <Part def="CarPart_Buggy_Grid11" weld_pos="0.450 0.750 -1.800" dye="pic_CamouflageRacecar01" />
+    <Part def="CarPart_Exhaust3" weld_pos="-0.600 1.500 0.900" weld_rot_idx="5" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid7" weld_pos="0.000 1.350 -1.500" dye="pic_CamouflageRacecar01" />
+    <Part def="CarPart_Buggy_Grid10" weld_pos="0.000 0.450 -2.700" dye="pic_CamouflageRacecar01" />
+    <Part def="CarPart_Buggy_Grid10" weld_pos="0.000 1.950 2.700" weld_rot_idx="1" dye="pic_CamouflageRacecar01" />
+    <Part def="CarPart_Exhaust3" weld_pos="0.600 1.500 0.900" weld_rot_idx="1" dye="Dye_Eraser" />
+    <Part def="CarPart_Gun_Machinegun" weld_pos="-0.600 1.950 0.600" weaponGroup="1" dye="Dye_Eraser" />
+    <Part def="CarPart_Gun_Machinegun" weld_pos="0.600 1.950 0.600" weaponGroup="1" dye="Dye_Eraser" />
+    <Part def="CarPart_Buggy_Grid7" weld_pos="0.900 1.950 0.600" weld_rot_idx="23" dye="pic_CamouflageRacecar01" />
+    <Part def="CarPart_Buggy_Grid7" weld_pos="-0.900 1.950 0.600" weld_rot_idx="19" dye="pic_CamouflageRacecar01" />
+  </Chassis>
+</CarDesign>

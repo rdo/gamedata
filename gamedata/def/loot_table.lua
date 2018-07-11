@@ -116,6 +116,18 @@ LootTable.Chest_decorum = {}
 sys.execscript("gamedata/def/ex/loot_chest_decorum.lua")
 LootTable.Chest_legendary_2h = {}
 sys.execscript("gamedata/def/ex/loot_chest_legendary_2h.lua")
+LootTable.Login = {}
+sys.execscript("gamedata/def/ex/loot_login.lua")
+LootTable.BOX_A = {}
+sys.execscript("gamedata/def/ex/loot_box_a.lua")
+LootTable.BOX_B = {}
+sys.execscript("gamedata/def/ex/loot_box_b.lua")
+LootTable.BOX_C = {}
+sys.execscript("gamedata/def/ex/loot_box_c.lua")
+LootTable.BOX_D = {}
+sys.execscript("gamedata/def/ex/loot_box_d.lua")
+LootTable.BOX_E = {}
+sys.execscript("gamedata/def/ex/loot_box_e.lua")
 LootTable.Any = {
   Common = {
     loot_table = true,

@@ -170,7 +170,7 @@
     <Part def="CarPart_Military_box_4x1x8" weld_pos="0.000 1.050 -1.200" weld_rot_idx="22" dye="mat_KhakiDark01" />
     <Part def="CarPart_Military_slope_2x1x8" weld_pos="-0.900 1.050 -0.600" weld_rot_idx="5" dye="mat_KhakiDark01" />
     <Part def="CarPart_Convoy_Cargo_05" weld_pos="0.300 1.650 4.200" weld_rot_idx="18" />
-    <Part def="CarPart_Mob_EngineMini_epic" weld_pos="1.200 2.700 -5.250" />
+    <Part def="CarPart_Mob_Engine_Chase" weld_pos="1.200 2.700 -5.250" />
     <Part def="CarPart_Chase_Gun_HardMineLauncher" weld_pos="0.602 1.650 5.400" weld_rot_idx="4" weaponGroup="1" />
     <Part def="CarPart_Chase_Gun_HardMineLauncher" weld_pos="-0.598 1.650 5.400" weld_rot_idx="4" weaponGroup="1" />
     <Part def="CarPart_Chase_Gun_SmartMachinegun" weld_pos="2.100 2.550 -0.600" weld_rot_idx="4" weaponGroup="6" />

@@ -163,7 +163,7 @@
     <Part def="CarPart_Banner_Frenzied_major" weld_pos="1.650 2.250 -4.650" dye="pic_Flames01" />
     <Part def="CarPart_TruckDoor" weld_pos="-1.200 1.500 -5.400" weld_rot_idx="20" dye="pic_Flames01" />
     <Part def="CarPart_TruckDoor" weld_pos="-1.200 1.800 -5.400" weld_rot_idx="20" dye="pic_Flames01" />
-    <Part def="CarPart_Mob_EngineMini_epic" weld_pos="0.000 1.500 -1.050" />
+    <Part def="CarPart_Mob_Engine_Chase" weld_pos="0.000 1.500 -1.050" />
     <Part def="CarPart_Engine_epic" weld_pos="0.000 2.250 -5.100" />
     <Part def="CarPart_Chase_Gun_HardMineLauncher" weld_pos="0.602 1.050 3.600" weld_rot_idx="4" weaponGroup="1" />
     <Part def="CarPart_Buggy_bumper" weld_pos="1.800 1.050 4.500" weld_rot_idx="4" dye="pic_Flames01" />

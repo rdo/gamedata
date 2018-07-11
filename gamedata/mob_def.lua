@@ -246,7 +246,7 @@ MobDef.tutorialmob = {
     "gamedata/car_design/tutorialbot.xml"
   },
   damage_scale = 0.01,
-  health_scale = 0.3,
+  health_scale = 0.8,
   hud_type = "mob",
   ui_mob_rank = "meat",
   ui_mob_type_ico = "mob_storm"
@@ -256,7 +256,7 @@ MobDef.tutorialmob2 = {
     "gamedata/car_design/tutorialbot2.xml"
   },
   damage_scale = 0.01,
-  health_scale = 0.2,
+  health_scale = 0.8,
   hud_type = "mob",
   ui_mob_rank = "meat",
   ui_mob_type_ico = "mob_storm"
@@ -358,71 +358,158 @@ MobDef.Brawl_NewYear_Gruber = {
   refill_ammo_chance = 0.5,
   important_mob = true
 }
-MobDef.GreatEscape_EscortBoss = {
+MobDef.Greatescape_Truck = {
   blueprint = {
-    "gamedata/car_design/promo/sl_3.xml"
+    "gamedata/car_design/convoy/truck_cargo_new.xml"
   },
-  damage_scale = 1.5,
-  health_scale = 2,
-  hud_type = "mob_boss",
-  ui_name = "\208\154\208\190\208\189\208\178\208\190\208\184\209\128 \208\145\208\184\208\179\209\129",
-  refill_ammo_chance = 0.5,
-  important_mob = true
-}
-MobDef.LostVikings_Car1 = {
-  blueprint = {
-    "gamedata/car_design/promo/gazel_uber.xml"
-  },
-  health_scale = 1.5,
-  hud_type = "convoy_truck",
-  important_mob = true
-}
-MobDef.LostVikings_Car2 = {
-  blueprint = {
-    "gamedata/car_design/promo/jeep.xml"
-  },
-  health_scale = 2,
-  hud_type = "convoy_truck",
-  important_mob = true
-}
-MobDef.LostVikings_Car3 = {
-  blueprint = {
-    "gamedata/car_design/promo/kamaz.xml"
-  },
+  damage_scale = 1,
   health_scale = 1,
   hud_type = "convoy_truck",
   important_mob = true
 }
-MobDef.ConvoyHeist_Boss1 = {
+MobDef.Bombrun_Truck = {
   blueprint = {
-    "gamedata/car_design/promo/sl_1.xml"
+    "gamedata/car_design/convoy/truck_demolition_new.xml"
   },
-  damage_scale = 1.5,
-  health_scale = 2,
-  hud_type = "mob_boss",
-  ui_name = "\208\161\209\130\208\190\209\128\208\190\208\182 \208\159\208\176\209\129\208\191\208\176\209\128\209\130\209\131",
-  refill_ammo_chance = 0.5,
+  damage_scale = 1,
+  health_scale = 1,
+  hud_type = "convoy_truck",
   important_mob = true
 }
-MobDef.ConvoyHeist_Boss2 = {
+MobDef.Blockpost_Truck = {
   blueprint = {
-    "gamedata/car_design/promo/sl_2.xml"
+    "gamedata/car_design/convoy/truck_patrol_new.xml"
   },
-  damage_scale = 1.5,
-  health_scale = 2,
-  hud_type = "mob_boss",
-  ui_name = "\208\161\209\130\208\190\209\128\208\190\208\182 \208\162\208\176\209\129\208\186\208\176\208\189",
-  refill_ammo_chance = 0.5,
+  damage_scale = 0.1,
+  health_scale = 1,
+  hud_type = "convoy_truck",
+  important_mob = true,
+  suppressing_fire = true
+}
+MobDef.Giantsiege_Leviathan = {
+  blueprint = {
+    "gamedata/car_design/faction/trashers_leviathan_15.xml"
+  },
+  damage_scale = 0.5,
+  health_scale = 5,
+  hud_type = "leviathan_point",
   important_mob = true
 }
-MobDef.ConvoyHeist_Boss3 = {
+MobDef.Giantsiege_Leviathan61 = {
   blueprint = {
-    "gamedata/car_design/promo/sl_3.xml"
+    "gamedata/car_design/leviathan/leviathan_61.xml"
   },
-  damage_scale = 1.5,
-  health_scale = 2,
-  hud_type = "mob_boss",
-  ui_name = "\208\161\209\130\208\190\209\128\208\190\208\182 \208\164\209\131\209\128\208\176",
-  refill_ammo_chance = 0.5,
+  damage_scale = 0.5,
+  health_scale = 5,
+  hud_type = "leviathan_point",
   important_mob = true
+}
+MobDef.Giantsiege_Leviathan62 = {
+  blueprint = {
+    "gamedata/car_design/leviathan/leviathan_62.xml"
+  },
+  damage_scale = 0.5,
+  health_scale = 5,
+  hud_type = "leviathan_point",
+  important_mob = true
+}
+MobDef.Giantsiege_Leviathan63 = {
+  blueprint = {
+    "gamedata/car_design/leviathan/leviathan_63.xml"
+  },
+  damage_scale = 0.5,
+  health_scale = 5,
+  hud_type = "leviathan_point",
+  important_mob = true
+}
+MobDef.Giantsiege_Leviathan64 = {
+  blueprint = {
+    "gamedata/car_design/leviathan/leviathan_64.xml"
+  },
+  damage_scale = 0.5,
+  health_scale = 5,
+  hud_type = "leviathan_point",
+  important_mob = true
+}
+MobDef.Giantsiege_Leviathan65 = {
+  blueprint = {
+    "gamedata/car_design/leviathan/leviathan_65.xml"
+  },
+  damage_scale = 0.5,
+  health_scale = 5,
+  hud_type = "leviathan_point",
+  important_mob = true
+}
+MobDef.Giantsiege_Leviathan66 = {
+  blueprint = {
+    "gamedata/car_design/leviathan/leviathan_66.xml"
+  },
+  damage_scale = 0.5,
+  health_scale = 5,
+  hud_type = "leviathan_point",
+  important_mob = true
+}
+MobDef.Giantsiege_Leviathan67 = {
+  blueprint = {
+    "gamedata/car_design/leviathan/leviathan_67.xml"
+  },
+  damage_scale = 0.5,
+  health_scale = 5,
+  hud_type = "leviathan_point",
+  important_mob = true
+}
+MobDef.Patrol_Scavenger = {
+  blueprint = {
+    "gamedata/car_design/pve_new/scavengers_medium_meat1.xml",
+    "gamedata/car_design/pve_new/scavengers_medium_meat2.xml",
+    "gamedata/car_design/pve_new/scavengers_medium_meat3.xml",
+    "gamedata/car_design/pve_new/scavengers_medium_meat4.xml",
+    "gamedata/car_design/pve_new/scavengers_medium_rocket.xml"
+  },
+  damage_scale = 0.2,
+  health_scale = 0.2,
+  hud_type = "mob",
+  ui_mob_rank = "meat",
+  ui_mob_type_ico = "mob_storm"
+}
+MobDef.Patrol_Psycho = {
+  blueprint = {
+    "gamedata/car_design/pve_new/psycho_hard_meat1.xml",
+    "gamedata/car_design/pve_new/psycho_hard_meat2.xml",
+    "gamedata/car_design/pve_new/psycho_hard_meat3.xml",
+    "gamedata/car_design/pve_new/psycho_hard_meat4.xml"
+  },
+  damage_scale = 0.2,
+  health_scale = 0.2,
+  hud_type = "mob",
+  ui_mob_rank = "meat",
+  ui_mob_type_ico = "mob_storm"
+}
+MobDef.Patrol_Military = {
+  blueprint = {
+    "gamedata/car_design/pve_new/military_hard_autogun.xml",
+    "gamedata/car_design/pve_new/military_hard_arty.xml",
+    "gamedata/car_design/pve_new/military_hard_machinegun.xml",
+    "gamedata/car_design/pve_new/military_hard_grenade.xml",
+    "gamedata/car_design/pve_new/military_hard_bmp.xml",
+    "gamedata/car_design/pve_new/military_hard_btr.xml"
+  },
+  damage_scale = 0.45,
+  health_scale = 0.45,
+  hud_type = "mob",
+  ui_mob_rank = "meat",
+  ui_mob_type_ico = "mob_storm"
+}
+MobDef.Patrol_Nomad = {
+  blueprint = {
+    "gamedata/car_design/pve_new/nomad_medium_racer1.xml",
+    "gamedata/car_design/pve_new/nomad_medium_racer2.xml",
+    "gamedata/car_design/pve_new/nomad_medium_racer3.xml",
+    "gamedata/car_design/pve_new/nomad_medium_racer4.xml"
+  },
+  damage_scale = 0.2,
+  health_scale = 0.2,
+  hud_type = "mob",
+  ui_mob_rank = "meat",
+  ui_mob_type_ico = "mob_storm"
 }

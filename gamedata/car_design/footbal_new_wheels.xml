@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="31">
+  <Chassis def="Cabin_Satellite_Football" pos="0.000 0.750 0.150" dye="Pic_chameleon_RedDemon">
+    <Part def="CarPart_Booster_Football" weld_pos="0.900 1.050 0.450" weaponGroup="5" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Booster_Football" weld_pos="-0.900 1.050 0.450" weaponGroup="5" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Lifter" weld_pos="0.000 0.750 -2.700" weld_rot_idx="22" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Gun_Harpoon_Football" weld_pos="0.000 1.950 0.900" weaponGroup="2" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="0.900 1.800 1.500" weld_rot_idx="9" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="-0.600 1.800 1.200" weld_rot_idx="11" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="0.900 0.600 -1.500" weld_rot_idx="14" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Buggy_Grid11" weld_pos="-0.900 0.600 -1.500" weld_rot_idx="11" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Exhaust_Quad_01" weld_pos="-0.900 0.600 -0.300" weld_rot_idx="4" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Exhaust_Quad_01" weld_pos="0.900 0.600 -0.300" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Engine_v8" weld_pos="0.000 0.750 -1.800" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_ChassisLight6" weld_pos="0.000 0.750 0.600" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.000 0.750 -0.300" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_ChassisLight6" weld_pos="0.000 0.750 -2.400" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Wing" weld_pos="0.000 1.650 1.950" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Headlights2" weld_pos="0.600 1.050 -2.700" weld_rot_idx="14" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Headlights2" weld_pos="-0.600 1.050 -2.700" weld_rot_idx="11" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Buggy_bumper" weld_pos="0.000 1.050 -3.300" weld_rot_idx="5" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Gun_ClassicCrossbow_Football" weld_pos="-0.013 1.650 -1.800" weaponGroup="1" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_TruckSlope2" weld_pos="-0.600 1.050 -0.900" weld_rot_idx="17" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_TruckSlope2" weld_pos="0.600 1.050 -0.900" weld_rot_idx="20" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_TruckSlope2" weld_pos="0.600 1.050 -2.100" weld_rot_idx="20" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_TruckSlope2" weld_pos="-0.600 1.050 -2.100" weld_rot_idx="17" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_TruckSlope2" weld_pos="0.000 1.650 1.800" weld_rot_idx="1" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_TruckSlope2" weld_pos="0.000 1.050 1.500" weld_rot_idx="6" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_TruckSlope2" weld_pos="0.000 1.350 -2.700" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Wheel_Drag_S_Football" weld_pos="0.750 0.450 -2.700" weld_rot_idx="4" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Wheel_Drag_S_Football" weld_pos="0.750 0.450 0.900" weld_rot_idx="4" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Wheel_Drag_S_Football" weld_pos="-0.750 0.450 0.900" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_Wheel_Drag_S_Football" weld_pos="-0.750 0.450 -2.700" dye="Pic_chameleon_RedDemon" />
+    <Part def="CarPart_ChassisLight6_Football" weld_pos="0.000 0.750 -1.200" />
+  </Chassis>
+</CarDesign>

@@ -9,7 +9,7 @@ Def.Turret_Machinegun_Base = {
   physics = {static = true, material = "Metal_Car"},
   collision_resist = -99,
   shot_effect = "particles/weapons/machinegun/muzzle_machinegun_heavy",
-  shot_once_sound = "sound/modules/turret_mgun_shot",
+  shot_once_sound = "event:/weapon/mg/quadrocopter_shot",
   death_sound = "sound/modules/turret_death",
   suicide_sound = "sound/modules/turret_suicide",
   death_effect = "particles/fire/explosion_missile_turret",
@@ -199,30 +199,38 @@ Def.Turret_Missile_Base = {
       mass = 200,
       ttl = 10
     }
-  }
+  },
+  ai_aiming_instant = true,
+  no_damage_owner = true
 }
 Def.Turret_Harpoon_Base = {
   physics = {static = true, material = "Metal_Car"},
   collision_resist = -99,
-  shot_effect = "particles/weapons/machinegun/muzzle_machinegun_heavy",
+  shot_effect = "particles/weapons/harpoon_muzzle",
   death_sound = "sound/modules/turret_death",
   suicide_sound = "sound/modules/turret_suicide",
-  death_effect = "particles/fire/explosion_missile_turret",
+  shot_once_sound = "sound/weapon/harpoon/harpoon_shot",
+  death_effect = "particles/vehicle/vehicle_parts_detach",
   suicide_effect = "particles/fire/suicide_drone",
-  aim_complete = "sound/modules/turret_aim_complete",
+  vision_type = "vision_ally",
+  ai_aiming_instant = true,
+  no_attach_rope_to_allies = true,
+  high_precision = true,
+  suicide_after_harpoon = 15,
+  no_attach_rope_to_leviathans = true,
   broken_parts = {
     {
-      model = "models/constructor/modules/turret/t_missile_brocken01",
-      effect = "particles/fire/suicide_drone_trail",
+      model = "models/weapons/minetrap/brpart1",
+      effect = "particles/fire/debris_smoke_small",
       angle = 180,
       damping = 0.2,
       speed = 1,
       speed_deviation = 0.3,
       mass = 200,
-      ttl = 10
+      ttl = 6
     },
     {
-      model = "models/constructor/modules/turret/t_missile_brocken02",
+      model = "models/weapons/minetrap/brpart1",
       angle = 180,
       damping = 0.2,
       speed = 3,
@@ -231,7 +239,7 @@ Def.Turret_Harpoon_Base = {
       ttl = 10
     },
     {
-      model = "models/constructor/modules/turret/t_missile_brocken03",
+      model = "models/weapons/minetrap/brpart2",
       angle = 180,
       damping = 0.2,
       speed = 3,
@@ -240,7 +248,7 @@ Def.Turret_Harpoon_Base = {
       ttl = 10
     },
     {
-      model = "models/constructor/modules/turret/t_missile_brocken06",
+      model = "models/weapons/minetrap/brpart3",
       angle = 180,
       damping = 0.2,
       speed = 5,
@@ -249,7 +257,7 @@ Def.Turret_Harpoon_Base = {
       ttl = 10
     },
     {
-      model = "models/constructor/modules/turret/t_missile_brocken07",
+      model = "models/weapons/minetrap/brpart4",
       angle = 180,
       damping = 0.2,
       speed = 5,
@@ -260,17 +268,17 @@ Def.Turret_Harpoon_Base = {
   },
   suicide_parts = {
     {
-      model = "models/constructor/modules/turret/t_missile_brocken01",
-      effect = "particles/fire/suicide_drone_trail",
+      model = "models/weapons/minetrap/brpart1",
+      effect = "particles/fire/debris_smoke_small",
       angle = 180,
       damping = 0.2,
       speed = 1,
       speed_deviation = 0.3,
       mass = 200,
-      ttl = 10
+      ttl = 6
     },
     {
-      model = "models/constructor/modules/turret/t_missile_brocken02",
+      model = "models/weapons/minetrap/brpart1",
       angle = 180,
       damping = 0.2,
       speed = 3,
@@ -279,7 +287,7 @@ Def.Turret_Harpoon_Base = {
       ttl = 10
     },
     {
-      model = "models/constructor/modules/turret/t_missile_brocken03",
+      model = "models/weapons/minetrap/brpart2",
       angle = 180,
       damping = 0.2,
       speed = 1,
@@ -288,7 +296,7 @@ Def.Turret_Harpoon_Base = {
       ttl = 10
     },
     {
-      model = "models/constructor/modules/turret/t_missile_brocken06",
+      model = "models/weapons/minetrap/brpart3",
       angle = 180,
       damping = 0.2,
       speed = 1,
@@ -297,13 +305,18 @@ Def.Turret_Harpoon_Base = {
       ttl = 10
     },
     {
-      model = "models/constructor/modules/turret/t_missile_brocken07",
+      model = "models/weapons/minetrap/brpart4",
       angle = 180,
       damping = 0.2,
       speed = 1,
       speed_deviation = 0.3,
       mass = 200,
       ttl = 10
+    }
+  },
+  children = {
+    {
+      effect = "particles/weapons/mine_deploy"
     }
   }
 }
@@ -397,7 +410,15 @@ Def.Turret_Shield_Base = {
 }
 Def.CarPart_Stealth_Base = {
   activate_sound = "sound/modules/sight_on",
-  deactivate_sound = "sound/modules/sight_off"
+  deactivate_sound = "sound/modules/sight_off",
+  health_fx = {
+    {
+      bone = "root",
+      fx = "particles/gameplay/lowhp/lowhp_module_lightnings",
+      hp_min = 0.001,
+      hp_max = 25
+    }
+  }
 }
 Def.CarPart_Booster_Base = {
   work_effect = "particles/constructor/reactive_booster_a",
@@ -405,17 +426,38 @@ Def.CarPart_Booster_Base = {
   work_sound = "sound/modules/booster_loop",
   health_fx = {
     {
-      bone = "root",
-      fx = "particles/gameplay/booster_dmg",
+      fx = "particles/gameplay/lowhp/lowhp_module_smoke",
       hp_min = 0.001,
-      hp_max = 25
+      hp_max = 25,
+      direction_up = true
+    }
+  }
+}
+Def.CarPart_Booster_rare_Base = {
+  work_effect = "particles/constructor/reactive_booster_c",
+  activate_sound = "sound/modules/booster",
+  work_sound = "sound/modules/booster_loop",
+  health_fx = {
+    {
+      fx = "particles/gameplay/lowhp/lowhp_module_smoke",
+      hp_min = 0.001,
+      hp_max = 25,
+      direction_up = true
     }
   }
 }
 Def.CarPart_Shield_Base = {
   work_effect = "particles/weapons/shield_center",
   deactivate_effect = "particles/weapons/shield_end",
-  work_sound = "sound/modules/shield_loop"
+  work_sound = "sound/modules/shield_loop",
+  health_fx = {
+    {
+      bone = "root",
+      fx = "particles/gameplay/lowhp/lowhp_module_lightnings",
+      hp_min = 0.001,
+      hp_max = 25
+    }
+  }
 }
 Def.CarPart_Booster_epic_Base = {
   work_effect = "particles/constructor/reactive_booster_b",
@@ -423,10 +465,10 @@ Def.CarPart_Booster_epic_Base = {
   work_sound = "sound/modules/booster_loop",
   health_fx = {
     {
-      bone = "root",
-      fx = "particles/gameplay/booster_dmg",
+      fx = "particles/gameplay/lowhp/lowhp_module_smoke",
       hp_min = 0.001,
-      hp_max = 25
+      hp_max = 25,
+      direction_up = true
     }
   }
 }
@@ -446,7 +488,7 @@ Def.CarPart_Quadrocopter_Base = {
 Def.Quadrocopter_Attack_Base = {
   physics = {material = "Metal_Car"},
   shot_effect = "particles/weapons/machinegun/muzzle_machinegun_heavy",
-  shot_once_sound = "sound/modules/quadrocopter_mgun_shot",
+  shot_once_sound = "event:/weapon/mg/quadrocopter_shot",
   work_sound = "sound/modules/quadrocopter_engine",
   death_sound = "sound/modules/quadrocopter_death",
   suicide_sound = "sound/modules/quadrocopter_suicide",
@@ -621,7 +663,8 @@ Def.Quadrocopter_Missile_Base = {
     }
   },
   rot_force = 300,
-  lin_force = 100
+  lin_force = 100,
+  no_damage_owner = true
 }
 Def.Quadrocopter_Melee_Base = {
   physics = {material = "Metal_Car"},
@@ -641,29 +684,140 @@ Def.CarPart_WheelDrone_Base = {
   physics = {material = "Metal_Car"},
   activate_sound = "sound/modules/sight_on"
 }
-Def.CarPart_Engine_base = {
+Def.CarPart_EngineMini_rare_Base = {
   physics = {material = "Metal_Car"},
   death_blast_effect = "particles/fire/explosion_module",
   death_blast_sound = "sound/explosion/fueltank",
+  motor_sound = "event:/engine/pc_hemi/pc_hemi",
+  legs_motor_sound = "event:/engine/pc_hemi/pc_hemi",
   health_fx = {
     {
-      bone = "root",
-      fx = "particles/gameplay/engine_dmg1",
-      hp_min = 25,
-      hp_max = 50
-    },
-    {
-      bone = "root",
-      fx = "particles/gameplay/engine_dmg2",
+      fx = "particles/gameplay/lowhp/lowhp_module_fire",
       hp_min = 0.001,
-      hp_max = 25
+      hp_max = 25,
+      direction_up = true
+    }
+  }
+}
+Def.CarPart_Engine_Base = {
+  physics = {material = "Metal_Car"},
+  death_blast_effect = "particles/fire/explosion_module",
+  death_blast_sound = "sound/explosion/fueltank",
+  motor_sound = "event:/engine/dc_sixpack/dc_sixpack_1970",
+  legs_motor_sound = "event:/engine/dc_sixpack/dc_sixpack_1970",
+  health_fx = {
+    {
+      fx = "particles/gameplay/lowhp/lowhp_module_fire",
+      hp_min = 0.001,
+      hp_max = 25,
+      direction_up = true
+    }
+  }
+}
+Def.CarPart_Engine_rare_Base = {
+  physics = {material = "Metal_Car"},
+  death_blast_effect = "particles/fire/explosion_module",
+  death_blast_sound = "sound/explosion/fueltank",
+  motor_sound = "event:/engine/maz/maz_engine",
+  legs_motor_sound = "event:/engine/maz/maz_engine",
+  revs_sound_low = "sound/engine/maz/maz_revs_low",
+  revs_sound_high = "sound/engine/maz/maz_revs_high",
+  health_fx = {
+    {
+      fx = "particles/gameplay/lowhp/lowhp_module_fire",
+      hp_min = 0.001,
+      hp_max = 25,
+      direction_up = true
+    }
+  }
+}
+Def.CarPart_Engine_v8_Base = {
+  physics = {material = "Metal_Car"},
+  death_blast_effect = "particles/fire/explosion_module",
+  death_blast_sound = "sound/explosion/fueltank",
+  motor_sound = "event:/engine/dc_1970/dc_1970",
+  legs_motor_sound = "event:/engine/dc_1970/dc_1970",
+  health_fx = {
+    {
+      fx = "particles/gameplay/lowhp/lowhp_module_fire",
+      hp_min = 0.001,
+      hp_max = 25,
+      direction_up = true
+    }
+  }
+}
+Def.CarPart_Engine_epic_Base = {
+  physics = {material = "Metal_Car"},
+  death_blast_effect = "particles/fire/explosion_module",
+  death_blast_sound = "sound/explosion/fueltank",
+  motor_sound = "event:/engine/p_rr2/p_rr2",
+  legs_motor_sound = "event:/engine/p_rr2/p_rr2",
+  health_fx = {
+    {
+      fx = "particles/gameplay/lowhp/lowhp_module_fire",
+      hp_min = 0.001,
+      hp_max = 25,
+      direction_up = true
+    }
+  }
+}
+Def.CarPart_EngineMini_epic_Base = {
+  physics = {material = "Metal_Car"},
+  death_blast_effect = "particles/fire/explosion_module",
+  death_blast_sound = "sound/explosion/fueltank",
+  motor_sound = "event:/engine/leopard/leopard_engine",
+  legs_motor_sound = "event:/engine/leopard/leopard_engine",
+  health_fx = {
+    {
+      fx = "particles/gameplay/lowhp/lowhp_module_fire",
+      hp_min = 0.001,
+      hp_max = 25,
+      direction_up = true
+    }
+  }
+}
+Def.CarPart_Engine_avia_front_Base = {
+  physics = {material = "Metal_Car"},
+  death_blast_effect = "particles/fire/explosion_module",
+  death_blast_sound = "sound/explosion/fueltank",
+  motor_sound = "event:/engine/plane/plane2",
+  legs_motor_sound = "event:/engine/plane/plane",
+  health_fx = {
+    {
+      fx = "particles/gameplay/lowhp/lowhp_module_fire",
+      hp_min = 0.001,
+      hp_max = 25,
+      direction_up = true
+    }
+  }
+}
+Def.CarPart_Engine_Powerful_Base = {
+  physics = {material = "Metal_Car"},
+  death_blast_effect = "particles/fire/explosion_module",
+  death_blast_sound = "sound/explosion/fueltank",
+  motor_sound = "event:/engine/dc_hemi70/dc_hemi70",
+  legs_motor_sound = "event:/engine/dc_hemi70/dc_hemi70",
+  health_fx = {
+    {
+      fx = "particles/gameplay/lowhp/lowhp_module_fire",
+      hp_min = 0.001,
+      hp_max = 25,
+      direction_up = true
     }
   }
 }
 Def.CarPart_Syfy_DeployAmmo_base = {
   physics = {material = "Metal_Car"},
   death_blast_effect = "particles/fire/explosion_module",
-  death_blast_sound = "sound/explosion/fueltank"
+  death_blast_sound = "sound/explosion/fueltank",
+  health_fx = {
+    {
+      fx = "particles/gameplay/lowhp/lowhp_module_fire",
+      hp_min = 0.001,
+      hp_max = 25,
+      direction_up = true
+    }
+  }
 }
 Def.CarPart_Explosion_Base = {
   physics = {material = "Metal_Car"},
@@ -671,26 +825,49 @@ Def.CarPart_Explosion_Base = {
   death_blast_sound = "sound/explosion/fueltank",
   health_fx = {
     {
-      bone = "root",
-      fx = "particles/gameplay/explosion_dmg",
+      fx = "particles/gameplay/lowhp/lowhp_module_fire",
       hp_min = 0.001,
-      hp_max = 25
+      hp_max = 25,
+      direction_up = true
     }
   }
 }
 Def.CarPart_PowerGiver_legend_Base = {
   inherit = "CarPart_Explosion_Base",
-  idle_sound = "sound/modules/apollon_idle"
+  idle_sound = "sound/modules/apollon_idle",
+  health_fx = {
+    {
+      fx = "particles/gameplay/lowhp/lowhp_module_lightnings",
+      hp_min = 0.001,
+      hp_max = 25
+    }
+  }
 }
 Def.CarPart_ModuleTank_Base = {
   physics = {material = "Metal_Car"},
   death_blast_effect = "particles/fire/explosion_module",
-  death_blast_sound = "sound/explosion/fueltank"
+  death_blast_sound = "sound/explosion/fueltank",
+  health_fx = {
+    {
+      fx = "particles/gameplay/lowhp/lowhp_module_fire",
+      hp_min = 0.001,
+      hp_max = 25,
+      direction_up = true
+    }
+  }
 }
 Def.CarPart_ModuleAmmo_Base = {
   physics = {material = "Metal_Car"},
   death_blast_effect = "particles/fire/explosion_module",
-  death_blast_sound = "sound/explosion/fueltank"
+  death_blast_sound = "sound/explosion/fueltank",
+  health_fx = {
+    {
+      fx = "particles/gameplay/lowhp/lowhp_module_fire",
+      hp_min = 0.001,
+      hp_max = 25,
+      direction_up = true
+    }
+  }
 }
 Def.CarPart_PowerGiver_Base = {
   physics = {material = "Metal_Car"},

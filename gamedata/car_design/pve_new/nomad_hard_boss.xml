@@ -180,6 +180,6 @@
     <Part def="CarPart_Quadrocopter_rare_Boss_Special" weld_pos="-1.800 2.250 -1.500" weaponGroup="5" />
     <Part def="CarPart_Quadrocopter_rare_Boss_Special" weld_pos="-1.800 2.250 3.300" weaponGroup="5" />
     <Part def="CarPart_Quadrocopter_rare_Boss_Special" weld_pos="0.000 2.550 5.700" weaponGroup="5" />
-    <Part def="CarPart_Mob_EngineMini_epic" weld_pos="0.000 1.800 -4.350" />
+    <Part def="CarPart_Mob_Engine_Chase" weld_pos="0.000 1.800 -4.350" />
   </Chassis>
 </CarDesign>

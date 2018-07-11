@@ -24,14 +24,6 @@ Def.Logic_ChangeRelationship = {
   class = "LogicChangeRelationship",
   in_editor = true
 }
-Def.Logic_ChangeLevel = {
-  class = "LogicChangeLevel",
-  in_editor = true
-}
-Def.Logic_AutoSave = {
-  class = "LogicAutoSave",
-  in_editor = true
-}
 Def.Logic_SpawnSpot = {
   class = "SpawnSpot",
   model = "models/misc/car_point",

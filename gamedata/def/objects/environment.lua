@@ -333,3 +333,59 @@ Def.Objects_Birds_RavensFlock = {
     }
   }
 }
+Def.Objects_Shuttle = {
+  class = "AnimatedEntity",
+  in_editor = true,
+  rejectGrass = false,
+  model = "models/environment/shuttle_fly/shuttle_fly",
+  network_sync = false
+}
+Def.Objects_Pumpjack = {
+  class = "AnimatedEntity",
+  in_editor = true,
+  rejectGrass = false,
+  model = "assets/props/sand_constructions/pumpjack",
+  network_sync = false,
+  spawn_activity = "IDLE",
+  physics = {static = true, material = "Metal_Base"}
+}
+Def.Objects_Race_flag1 = {
+  class = "AnimatedEntity",
+  in_editor = true,
+  rejectGrass = false,
+  model = "assets/props/race/flag1_animated",
+  network_sync = false,
+  spawn_activity = "IDLE"
+}
+Def.Objects_Race_flag2 = {
+  class = "AnimatedEntity",
+  in_editor = true,
+  rejectGrass = false,
+  model = "assets/props/race/flag2_animated",
+  network_sync = false,
+  spawn_activity = "IDLE"
+}
+Def.Objects_Race_flag3 = {
+  class = "AnimatedEntity",
+  in_editor = true,
+  rejectGrass = false,
+  model = "assets/props/race/flag3_animated",
+  network_sync = false,
+  spawn_activity = "IDLE"
+}
+Def.Objects_Race_flag4 = {
+  class = "AnimatedEntity",
+  in_editor = true,
+  rejectGrass = false,
+  model = "assets/props/race/flag4_animated",
+  network_sync = false,
+  spawn_activity = "IDLE"
+}
+Def.Objects_Race_flag5 = {
+  class = "AnimatedEntity",
+  in_editor = true,
+  rejectGrass = false,
+  model = "assets/props/race/flag5_animated",
+  network_sync = false,
+  spawn_activity = "IDLE"
+}

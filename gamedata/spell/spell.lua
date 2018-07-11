@@ -51,25 +51,17 @@ Spell.Invul_BrawlScorp = {
   duration = 2,
   gameplay_specific = true
 }
-Spell.Brawl_MBP_Regen = {
+Spell.Brawl_MBP_Repair = {
   influence = "APPLY_AURA",
   target = "SELF",
   aura = "HEAL_PERIODIC",
   aura_target = "SELF",
-  aura_param = 0.5,
-  period = 1,
-  duration = 50,
-  gameplay_specific = true
-}
-Spell.Brawl_MBP_Repair = {
-  influence = "HEAL",
-  target = "SELF",
-  influence_param = 60
-}
-Spell.Brawl_MBP_Refill = {
-  influence = "REFILL_AMMO",
-  target = "SELF",
-  influence_param = 1
+  aura_param = 5,
+  period = 0.5,
+  duration = 10,
+  aura_fx = "particles/gameplay/healing1",
+  dispel_on_damage = true,
+  aura_sound = "event:/special/br_repair"
 }
 Spell.Slow_CargoHolder = {
   target = "SELF",
@@ -97,7 +89,7 @@ Spell.FireWorshipers_Module = {
   aura = "CHAIN_SAW_DAMAGE_MOD",
   aura_target = "SELF",
   duration = 5,
-  aura_param = 0.3,
+  aura_param = 0.5,
   max_stack = 10,
   ignore_stacks = true
 }
@@ -109,6 +101,13 @@ Spell.FireWorshipers_Module2 = {
   period = 0.5,
   max_stack = 10,
   ignore_stacks = true
+}
+Spell.FireWorshipers_Invul = {
+  infulence = "APPLY_AURA",
+  target = "SELF",
+  aura = "INVULNERABILITY",
+  aura_target = "SELF",
+  duration = 1
 }
 Spell.Crosbow_control_Disable = {
   influence = "APPLY_AURA",
@@ -131,4 +130,25 @@ Spell.Crosbow_control_SLOW_MOVEMENT = {
   aura_param = 1,
   aura_target = "SELF",
   duration = 4
+}
+Spell.Slow_Aim_Shotgun = {
+  target = "TARGET_ENEMY_CAR",
+  aura = "SLOW_AIM",
+  aura_param = 0.0125,
+  max_stack = 40,
+  duration = 2
+}
+Spell.Slow_Aim_Grenade = {
+  target = "TARGET_ENEMY_CAR",
+  aura = "SLOW_AIM",
+  aura_param = 0.05,
+  max_stack = 10,
+  duration = 2
+}
+Spell.Invul_Permanent = {
+  influence = "APPLY_AURA",
+  target = "SELF",
+  aura = "INVULNERABILITY",
+  aura_target = "SELF",
+  gameplay_specific = true
 }

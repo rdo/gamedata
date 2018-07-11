@@ -211,6 +211,15 @@ Def.Cabin_Kamikaze_Companion_base = {
     }
   }
 }
+Def.Cabin_Kamikaze_DronSpawn_base = {
+  inherit = "Cabin_Kamikaze_Companion_base",
+  work_sound = "sound/modules/bomb_beep",
+  suicide_effect = "particles/fire/explosion_kamikadze",
+  suicide_blast_damage = 200,
+  suicide_blast_radius = 10,
+  suicide_delay = 0.5,
+  suicide_simple = true
+}
 Def.Chassis_Kamaz_base = {
   inherit = "Car_Base",
   motor_sound = "sound/engine/kamaz/kamaz_engine",
@@ -302,7 +311,6 @@ Def.Chassis_Wyvern_base = {
   inherit = "Car_Base",
   motor_sound = "sound/engine/wyvern/wyvern_engine",
   legs_motor_sound = "sound/engine/wyvern/wyvern_engine",
-  revs_sound_low = "sound/engine/wyvern/revs_low",
   revs_sound_high = "sound/engine/wyvern/revs_high",
   whine_sound = "sound/engine/tw/trans_whine",
   susp_hit_snd = "sound/suspension/common",
@@ -358,7 +366,12 @@ Def.Cabin_InnateMelee_base = {
   saw_damage = 35,
   damage_rating = 0.5,
   physics = {material = "Metal_Car", mass = 750},
-  subtype = "SawBlade"
+  subtype = "SawBlade",
+  children = {
+    {
+      effect = "particles/vehicle/cerber_smoke"
+    }
+  }
 }
 Def.Cabin_DronSpawn_base = {
   inherit = "Car_Base",
@@ -372,9 +385,15 @@ Def.Cabin_DronSpawn_base = {
   switch_up_ratio = 0.3,
   switch_up_start_point = 0.95,
   switch_up_end_point = 0.25,
-  nested_car = "gamedata/car_design/kamikaze_companion.xml",
+  nested_car = "gamedata/car_design/kamikaze_DronSpawn.xml",
   nested_car_work_time = 10,
-  physics = {material = "Metal_Car", mass = 750}
+  nested_car_spell_on_spawn = "FireWorshipers_Invul",
+  physics = {material = "Metal_Car", mass = 750},
+  children = {
+    {
+      effect = "particles/vehicle/werewolf_smoke"
+    }
+  }
 }
 Def.Chassis_Maz_base = {
   inherit = "Car_Base",
@@ -403,6 +422,24 @@ Def.Chassis_Spider_base = {
   susp_hit_snd = "sound/suspension/heavy",
   braking_sound = "sound/brakes/truck_stop",
   physics = {material = "Metal_Car", mass = 2750}
+}
+Def.Cabin_Lambo_Base = {
+  inherit = "Car_Base",
+  motor_sound = "sound/engine/jeep_cj7/cj7_engine",
+  backfire_sound = "sound/engine/wyvern/backfire",
+  legs_motor_sound = "sound/engine/jeep_cj7/cj7_engine",
+  liftingjack_sound = "sound/special/liftingjack",
+  horn_snd = "sound/horn/tribal",
+  susp_hit_snd = "sound/suspension/common",
+  switch_up_start_point = 0.99,
+  switch_up_end_point = 0.25,
+  post_acceleration_ratio = 0.3,
+  susp_hit_snd = "sound/suspension/common",
+  spread_mul = -0.25,
+  model = "models/constructor/cabins/ford_pickup/pickup",
+  physics = {material = "Metal_Car", mass = 750},
+  collision_damage = 2,
+  subtype = "MeleeBlunt"
 }
 Def.Chassis_Mustang_base = {
   inherit = "Car_Base",
@@ -490,9 +527,9 @@ Def.Cabin_Moonwalker_base = {
   liftingjack_sound = "sound/special/liftingjack",
   horn_snd = "sound/horn/buggy",
   susp_hit_snd = "sound/suspension/common",
-  low_gear_ratio = 0.01,
-  switch_up_start_point = 1.1,
-  low_gear_min_point = 0.01,
+  switch_up_start_point = 0.9,
+  switch_up_end_point = 0.25,
+  revs_sound_low_rpm = 0.3,
   model = "models/constructor/cabins/ford_pickup/pickup",
   physics = {material = "Metal_Car", mass = 750}
 }
@@ -506,29 +543,56 @@ Def.Cabin_Satellite_base = {
   liftingjack_sound = "sound/special/liftingjack",
   horn_snd = "sound/horn/buggy",
   susp_hit_snd = "sound/suspension/common",
-  susp_hit_snd = "sound/suspension/common",
-  low_gear_ratio = 0.01,
-  switch_up_start_point = 1.1,
-  low_gear_min_point = 0.01,
+  switch_up_start_point = 0.9,
+  switch_up_end_point = 0.25,
+  revs_sound_low_rpm = 0.3,
   model = "models/constructor/cabins/ford_pickup/pickup",
   physics = {material = "Metal_Car", mass = 750}
 }
-Def.Chassis_tribal_hog_Base = {
+Def.Cabin_Tribal_Hog_Base = {
   inherit = "Car_Base",
-  motor_sound = "sound/engine/sputnik/sputnik_engine",
-  revs_sound_low = "sound/engine/sputnik/revs_low",
-  revs_sound_low_rpm = 0.5,
-  revs_sound_stoppable = "true",
-  legs_motor_sound = "sound/engine/sputnik/sputnik_engine",
+  motor_sound = "sound/engine/jeep_cj7/cj7_engine",
+  legs_motor_sound = "sound/engine/jeep_cj7/cj7_engine",
+  perk_sound = "event:/special/hog_perk",
+  backfire_sound = "sound/engine/wyvern/backfire",
+  liftingjack_sound = "sound/special/liftingjack",
+  horn_snd = "sound/horn/tribal",
+  susp_hit_snd = "sound/suspension/common",
+  susp_hit_snd = "sound/suspension/common",
+  switch_up_start_point = 0.99,
+  switch_up_end_point = 0.25,
+  post_acceleration_ratio = 0.3,
+  model = "models/constructor/cabins/ford_pickup/pickup",
+  physics = {material = "Metal_Car", mass = 750},
+  collision_damage = 2,
+  subtype = "MeleeBlunt",
+  children = {
+    {
+      effect = "particles/vehicle/hog_smoke"
+    }
+  }
+}
+Def.Cabin_Mi24_Base = {
+  inherit = "Car_Base",
+  motor_sound = "event:/engine/heli/heli_engine",
+  legs_motor_sound = "event:/engine/heli/heli_engine",
+  revs_sound_low = "event:/engine/heli/revs_low",
+  revs_sound_low_rpm = 0.9,
+  revs_sound_stoppable = true,
+  legs_motor_sound = "event:/engine/heli/heli_engine",
   liftingjack_sound = "sound/special/liftingjack",
   horn_snd = "sound/horn/buggy",
   susp_hit_snd = "sound/suspension/common",
-  low_gear_ratio = 0.01,
-  switch_up_start_point = 1.1,
-  low_gear_min_point = 0.01,
-  susp_hit_snd = "sound/suspension/common",
+  switch_up_start_point = 0.99,
+  switch_up_end_point = 0.25,
+  post_acceleration_ratio = 0.3,
   model = "models/constructor/cabins/ford_pickup/pickup",
-  physics = {material = "Metal_Car", mass = 750}
+  physics = {material = "Metal_Car", mass = 750},
+  children = {
+    {
+      effect = "particles/vehicle/mi24_smoke"
+    }
+  }
 }
 Def.Cabin_experimental_01_base = {
   inherit = "Car_Base",

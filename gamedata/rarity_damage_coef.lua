@@ -15,18 +15,18 @@ DifficultyVsRarity = {
     1
   },
   EPIC = {
-    0.85,
+    1,
     1,
     1
   },
   LEGENDARY = {
-    0.75,
-    0.85,
+    1,
+    1,
     1
   },
   EXOTIC = {
-    0.65,
-    0.75,
+    1,
+    1,
     1
   }
 }

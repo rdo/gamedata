@@ -1,0 +1,101 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="95" isLeviathan="true">
+  <Chassis def="Chassis_Wyvern" pos="0.000 0.750 -0.600" dye="pic_BloodHand">
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.000 0.750 -1.800" dye="pic_BloodHand" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.000 0.750 -0.600" dye="pic_BloodHand" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.000 0.750 0.600" dye="pic_BloodHand" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.000 0.750 1.800" dye="pic_BloodHand" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.000 0.750 3.000" dye="pic_BloodHand" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="0.750 0.450 2.700" weld_rot_idx="4" dye="pic_BloodHand" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="0.750 0.450 -1.800" weld_rot_idx="4" dye="pic_BloodHand" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.750 0.450 -1.800" dye="pic_BloodHand" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.750 0.450 2.700" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckDoor" weld_pos="0.750 1.350 0.000" weld_rot_idx="9" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckDoor" weld_pos="-0.750 1.350 0.000" weld_rot_idx="13" dye="pic_BloodHand" />
+    <Part def="CarPart_AviaBox4x1x4" weld_pos="0.600 1.350 3.000" weld_rot_idx="20" dye="pic_BloodHand" />
+    <Part def="CarPart_AviaBox4x1x4" weld_pos="-0.600 1.350 3.000" weld_rot_idx="17" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSide2" weld_pos="0.000 1.950 3.450" weld_rot_idx="23" dye="pic_BloodHand" />
+    <Part def="CarPart_Grid_1" weld_pos="0.000 0.750 -2.100" weld_rot_idx="4" dye="pic_BloodHand" />
+    <Part def="CarPart_Grid_1" weld_pos="0.000 1.350 -1.800" weld_rot_idx="7" dye="pic_BloodHand" />
+    <Part def="CarPart_Grid_1" weld_pos="0.000 1.650 -2.100" weld_rot_idx="7" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSlope4" weld_pos="-0.900 0.750 -3.000" weld_rot_idx="5" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSlope4" weld_pos="0.900 0.750 -3.000" weld_rot_idx="5" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSide" weld_pos="-1.200 1.200 -3.000" weld_rot_idx="10" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSide" weld_pos="1.200 1.200 -3.000" weld_rot_idx="11" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSlope2" weld_pos="-0.600 1.050 -3.600" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSlope2" weld_pos="0.600 1.050 -3.600" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSlope2" weld_pos="0.600 1.350 -3.000" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSlope2" weld_pos="-0.600 1.350 -3.000" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSlope" weld_pos="1.200 1.350 -2.700" weld_rot_idx="20" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSlope" weld_pos="-1.200 1.350 -2.700" weld_rot_idx="17" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckBarrel" weld_pos="0.600 1.650 -2.400" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckBarrel" weld_pos="-0.600 1.650 -2.400" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckDoor" weld_pos="-0.750 1.350 2.400" weld_rot_idx="13" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckDoor" weld_pos="0.750 1.350 2.400" weld_rot_idx="9" dye="pic_BloodHand" />
+    <Part def="CarPart_JunkBumper" weld_pos="0.900 1.500 -1.500" weld_rot_idx="18" dye="pic_BloodHand" />
+    <Part def="CarPart_JunkBumper" weld_pos="-0.900 1.500 -1.500" weld_rot_idx="22" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.900 0.750 3.600" weld_rot_idx="6" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckBarrel" weld_pos="-0.900 1.050 3.300" weld_rot_idx="15" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckBarrel" weld_pos="0.900 1.050 3.300" weld_rot_idx="12" dye="pic_BloodHand" />
+    <Part def="CarPart_Gun_Cannon_rare" weld_pos="-0.600 2.250 -0.600" weaponGroup="1" dye="pic_BloodHand" />
+    <Part def="CarPart_AviaSlope2x1x4" weld_pos="0.000 1.650 -1.800" weld_rot_idx="18" dye="pic_BloodHand" />
+    <Part def="CarPart_VanTopEdge_epic" weld_pos="-0.600 1.950 -1.500" weld_rot_idx="4" dye="pic_BloodHand" />
+    <Part def="CarPart_VanTopEdge_epic" weld_pos="0.600 1.950 -1.500" dye="pic_BloodHand" />
+    <Part def="CarPart_VanTopEdge_epic" weld_pos="0.000 1.950 -1.800" weld_rot_idx="22" dye="pic_BloodHand" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="1.200 1.650 1.200" weld_rot_idx="21" dye="pic_BloodHand" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-1.200 1.650 1.200" weld_rot_idx="16" dye="pic_BloodHand" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-1.200 1.650 2.400" weld_rot_idx="20" dye="pic_BloodHand" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="1.200 1.650 2.400" weld_rot_idx="17" dye="pic_BloodHand" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="0.900 1.650 3.150" weld_rot_idx="20" dye="pic_BloodHand" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="-0.900 1.650 3.150" weld_rot_idx="17" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckBarrel" weld_pos="0.900 1.350 1.800" weld_rot_idx="16" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckBarrel" weld_pos="-0.900 1.350 1.800" weld_rot_idx="21" dye="pic_BloodHand" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.000 1.950 -1.500" dye="pic_BloodHand" />
+    <Part def="CarPart_Engine" weld_pos="0.000 0.750 0.900" weld_rot_idx="22" dye="pic_BloodHand" />
+    <Part def="CarPart_PowerGiverExplosive_epic" weld_pos="0.300 0.750 1.650" dye="pic_BloodHand" />
+    <Part def="CarPart_ModuleTank_rare" weld_pos="-0.300 1.050 2.100" weld_rot_idx="22" dye="pic_BloodHand" />
+    <Part def="CarPart_VanTopEdge_epic" weld_pos="0.000 1.650 0.900" weld_rot_idx="22" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckBox" weld_pos="-0.600 1.950 0.600" dye="pic_BloodHand" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.600 1.950 -0.300" weld_rot_idx="22" dye="pic_BloodHand" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.300 1.950 0.600" weld_rot_idx="4" dye="pic_BloodHand" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="-0.600 1.950 -0.300" weld_rot_idx="22" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSlope" weld_pos="-0.900 0.750 3.600" weld_rot_idx="6" dye="pic_BloodHand" />
+    <Part def="CarPart_AviaBoxSlopeCorner4x1x2" weld_pos="0.900 1.650 3.600" weld_rot_idx="8" dye="pic_BloodHand" />
+    <Part def="CarPart_AviaBoxSlopeCorner4x1x2" weld_pos="-0.900 1.650 3.600" weld_rot_idx="6" dye="pic_BloodHand" />
+    <Part def="CarPart_AviaSlope2x1x4" weld_pos="0.000 1.650 3.600" weld_rot_idx="8" dye="pic_BloodHand" />
+    <Part def="CarPart_Gun_Machinegun_rare" weld_pos="0.600 2.250 0.300" weaponGroup="1" dye="pic_BloodHand" />
+    <Part def="CarPart_ModuleRadio" weld_pos="-1.050 0.750 2.100" weld_rot_idx="4" dye="pic_BloodHand" />
+    <Part def="CarPart_RadarBig_rare" weld_pos="0.300 1.050 2.100" weld_rot_idx="6" dye="pic_BloodHand" />
+    <Part def="CarPart_ModuleAmmo_rare" weld_pos="-0.300 1.350 1.800" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSide2" weld_pos="0.000 1.800 0.900" weld_rot_idx="8" dye="pic_BloodHand" />
+    <Part def="CarPart_Bumper1" weld_pos="0.000 1.200 3.600" weld_rot_idx="4" dye="pic_BloodHand" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="-0.900 1.350 0.000" weld_rot_idx="15" dye="pic_BloodHand" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="-0.900 1.950 0.000" weld_rot_idx="15" dye="pic_BloodHand" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="0.900 1.350 0.000" weld_rot_idx="14" dye="pic_BloodHand" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="0.900 1.950 0.000" weld_rot_idx="14" dye="pic_BloodHand" />
+    <Part def="CarPart_Headlights2" weld_pos="-0.300 1.950 -2.100" dye="pic_BloodHand" />
+    <Part def="CarPart_Headlights5" weld_pos="-1.200 1.200 -3.300" weld_rot_idx="11" dye="pic_BloodHand" />
+    <Part def="CarPart_LeatherBag" weld_pos="-1.200 1.650 0.000" weld_rot_idx="11" dye="pic_BloodHand" />
+    <Part def="CarPart_BigBag" weld_pos="1.200 1.650 0.450" weld_rot_idx="10" dye="pic_BloodHand" />
+    <Part def="CarPart_VanSide_epic" weld_pos="-1.350 1.350 1.800" dye="pic_BloodHand" />
+    <Part def="CarPart_VanSide_epic" weld_pos="1.350 1.350 1.800" weld_rot_idx="4" dye="pic_BloodHand" />
+    <Part def="CarPart_Footstep" weld_pos="0.000 1.950 1.050" weld_rot_idx="2" dye="pic_BloodHand" />
+    <Part def="CarPart_Lifter" weld_pos="0.300 1.350 2.700" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSide" weld_pos="-0.300 1.800 3.300" weld_rot_idx="9" dye="pic_BloodHand" />
+    <Part def="CarPart_Buggy_Grid9" weld_pos="-1.200 1.350 3.600" weld_rot_idx="15" />
+    <Part def="CarPart_Buggy_Grid9" weld_pos="1.200 1.350 3.600" weld_rot_idx="10" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="-0.900 1.950 1.200" weld_rot_idx="22" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="0.900 1.950 1.200" weld_rot_idx="18" />
+    <Part def="CarPart_Grid_3" weld_pos="-0.900 1.950 2.400" weld_rot_idx="22" />
+    <Part def="CarPart_Grid_3" weld_pos="0.900 1.950 2.400" weld_rot_idx="18" />
+    <Part def="CarPart_TruckSlope4" weld_pos="-0.300 0.750 -3.000" weld_rot_idx="5" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSlope4" weld_pos="0.300 0.750 -3.000" weld_rot_idx="5" dye="pic_BloodHand" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.750 0.450 -0.300" dye="pic_BloodHand" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="0.750 0.450 -0.300" weld_rot_idx="4" dye="pic_BloodHand" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.750 0.450 1.200" dye="pic_BloodHand" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="0.750 0.450 1.200" weld_rot_idx="4" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.300 0.750 3.600" weld_rot_idx="6" dye="pic_BloodHand" />
+    <Part def="CarPart_TruckSlope" weld_pos="-0.300 0.750 3.600" weld_rot_idx="6" dye="pic_BloodHand" />
+  </Chassis>
+  <Decal def="Decal_8march03" pos="-0.790 2.266 -1.082" rot="5.958 5.793 1.245" scale="2.140" />
+</CarDesign>

@@ -137,7 +137,7 @@
     <Part def="CarPart_AviaSlope2x1x2" weld_pos="1.200 1.350 6.300" weld_rot_idx="11" />
     <Part def="CarPart_AviaSlope2x1x2" weld_pos="-1.200 1.350 6.300" weld_rot_idx="10" />
     <Part def="CarPart_WheelBig_R_epic" weld_pos="-1.050 0.750 3.300" dye="Dye_Grey03" />
-    <Part def="CarPart_Mob_EngineMini_epic" weld_pos="0.000 0.900 -5.550" />
+    <Part def="CarPart_Mob_Engine_Chase" weld_pos="0.000 0.900 -5.550" />
     <Part def="CarPart_BladeWing_double" weld_pos="0.300 0.750 -6.300" weld_rot_idx="5" dye="Dye_Grey03" />
     <Part def="CarPart_ChassisBase2" weld_pos="0.900 1.050 -4.800" weld_rot_idx="22" />
     <Part def="CarPart_ChassisBase2" weld_pos="-0.900 1.050 -4.800" weld_rot_idx="22" />

@@ -261,7 +261,7 @@ Medals.PVE_NO_RESPAWN = {
 }
 Medals.PVE_MANY_RESPAWNS = {
   category = "OTHER",
-  contour_image = "medal_dummy_4",
+  contour_image = "medal_dummy_1",
   levels = {
     {5, 0},
     {10, 0}

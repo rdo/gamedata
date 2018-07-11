@@ -76,7 +76,7 @@ UserBindings = {
   },
   {
     name = "weaponGroup5",
-    keys = {"f"},
+    keys = {"shift", "f"},
     cmd = "+car_fire 5",
     controlMode = 4
   },
@@ -378,7 +378,7 @@ UserBindings = {
   {
     name = "showFps",
     keys = {"f11"},
-    cmd = "toggle cl_performanceStats 0 1 2 3 4",
+    cmd = "toggle cl_performanceStats 0 4 3 2 1",
     controlMode = 1023
   },
   {

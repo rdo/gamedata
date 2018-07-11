@@ -209,7 +209,23 @@ Avatars.Mask_Ambulance = {
 }
 Avatars.Mask_Soldier_1 = {
   ui_icon = "avatar_soldier_01",
-  sortId = 900
+  sortId = 766
+}
+Avatars.Mask_Boar = {
+  ui_icon = "avatar_boar",
+  sortId = 767
+}
+Avatars.Mask_Ratking = {
+  ui_icon = "avatar_ratking",
+  sortId = 768
+}
+Avatars.Mask_Hunter = {
+  ui_icon = "avatar_hunter",
+  sortId = 769
+}
+Avatars.Mask_Football = {
+  ui_icon = "avatar_football",
+  sortId = 770
 }
 Avatars.Mask_1 = {
   ui_icon = "avatar_Mask_12",
@@ -222,10 +238,6 @@ Avatars.Mask_2 = {
 Avatars.Mask_3 = {
   ui_icon = "avatar_Mask_11",
   sortId = 910
-}
-Avatars.Mask_4 = {
-  ui_icon = "avatar_Mask_20",
-  sortId = 915
 }
 Avatars.Mask_7 = {
   ui_icon = "avatar_Mask_23",
@@ -247,6 +259,14 @@ Avatars.Mask_14 = {
   ui_icon = "avatar_Mask_32",
   sortId = 965
 }
+Avatars.Mask_20 = {
+  ui_icon = "avatar_Mask_25",
+  sortId = 980
+}
+Avatars.Mask_4 = {
+  ui_icon = "avatar_Mask_20",
+  sortId = 915
+}
 Avatars.Mask_18 = {
   ui_icon = "avatar_Mask_36",
   sortId = 976
@@ -255,7 +275,7 @@ Avatars.Mask_19 = {
   ui_icon = "avatar_Mask_37",
   sortId = 978
 }
-Avatars.Mask_20 = {
+Avatars.Mask_21 = {
   ui_icon = "avatar_Mask_38",
-  sortId = 980
+  sortId = 982
 }

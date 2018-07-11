@@ -209,99 +209,121 @@ Def.CarPart_Mob_Gun_Machinegun_epic = {
   released = false,
   ai_optimal_dist = 200
 }
-Def.CarPart_Mob_EngineMini_epic = {
+Def.CarPart_Mob_Engine_Convoy = {
   inherit = "CarPart_EngineMini_epic",
-  engine_power_mul = 4,
-  speed_limit = 45,
   tradeable = false,
   released = false,
-  damageable = false
+  damageable = false,
+  engine_power_mul = 4,
+  speed_limit = 60
+}
+Def.CarPart_Mob_Engine_Chase = {
+  inherit = "CarPart_EngineMini_epic",
+  tradeable = false,
+  released = false,
+  damageable = false,
+  engine_power_mul = 4,
+  speed_limit = 45
+}
+Def.CarPart_Mob_Ammo_Convoy = {
+  inherit = "CarPart_ModuleAmmoBig_epic",
+  model = "models/constructor/modules/ammo_legend/ammo_legend",
+  tradeable = false,
+  released = false,
+  damageable = false,
+  ammo_mul = 10
 }
 Def.CarPart_Chase_Gun_GrenadeLauncher_Auto = {
   inherit = "CarPart_Gun_GrenadeLauncher_Auto",
-  health = 452,
   tradeable = false,
   released = false,
+  health = 452,
   ai_optimal_dist = 180
 }
 Def.CarPart_Chase_Gun_EasyMineLauncher = {
   inherit = "CarPart_Gun_MineLauncher",
-  health = 768,
   tradeable = false,
   released = false,
+  health = 768,
   ai_optimal_dist = 56
 }
 Def.CarPart_Chase_Gun_MediumMineLauncher = {
   inherit = "CarPart_Gun_MineLauncher",
-  health = 1024,
   tradeable = false,
   released = false,
+  health = 1024,
   ai_optimal_dist = 56
 }
 Def.CarPart_Chase_Gun_HardMineLauncher = {
   inherit = "CarPart_Gun_MineLauncher",
-  health = 1536,
   tradeable = false,
   released = false,
+  health = 1536,
   ai_optimal_dist = 56
 }
 Def.CarPart_Chase_HomingMissileLauncher_epic = {
   inherit = "CarPart_Mob_HomingMissileLauncher_epic",
-  health = 276,
-  shooting_cooldown = 25,
   tradeable = false,
   released = false,
+  health = 276,
+  shooting_cooldown = 25,
   ai_optimal_dist = 400,
   blast_damage = 22
 }
 Def.CarPart_Chase_Gun_Shotgun_rare = {
   inherit = "CarPart_Gun_Shotgun_rare",
-  health = 248,
   tradeable = false,
   released = false,
+  health = 248,
   ai_optimal_dist = 35
 }
 Def.CarPart_Chase_Gun_CannonMinigun_legend = {
   inherit = "CarPart_Gun_CannonMinigun_legend",
-  health = 1420,
   tradeable = false,
   released = false,
+  health = 1420,
   ai_optimal_dist = 120
 }
 Def.CarPart_Chase_Gun_Cannon_rare = {
   inherit = "CarPart_Gun_Cannon_rare",
-  health = 500,
   tradeable = false,
   released = false,
+  health = 500,
   ai_optimal_dist = 200
 }
 Def.CarPart_Chase_Gun_Machinegun_epic = {
   inherit = "CarPart_Gun_Machinegun_epic",
-  health = 492,
   tradeable = false,
   released = false,
+  health = 492,
   ai_optimal_dist = 100
 }
 Def.CarPart_Chase_Gun_SmartMachinegun = {
   inherit = "CarPart_Gun_SmartMachinegun",
-  health = 1968,
   tradeable = false,
   released = false,
+  health = 1968,
   ai_optimal_dist = 120
 }
 Def.CarPart_Gun_Chase_BigCannon_Free_legend = {
   inherit = "CarPart_Gun_BigCannon_Free_legend",
-  health = 2234,
   tradeable = false,
   released = false,
+  health = 2234,
   ai_optimal_dist = 400
 }
 Def.CarPart_Gun_Chase_Minigun = {
   inherit = "CarPart_Gun_Minigun",
-  health = 592,
   tradeable = false,
   released = false,
+  health = 592,
   ai_optimal_dist = 160
+}
+Def.CarPart_Mob_Harvester_legend = {
+  inherit = "CarPart_Harvester_legend",
+  tradeable = false,
+  released = false,
+  perk = ""
 }
 Def.BrawlJetpack = {
   inherit = "CarPart_Booster",
@@ -312,7 +334,7 @@ Def.BrawlJetpack = {
   boost_value = 40000,
   work_time = 1,
   cooldown = 5,
-  work_sound = "sound/modules/booster",
+  work_sound = "event:/modules/booster",
   activate_hold = false,
   heat_max = nil,
   booster_ammo = nil
@@ -330,7 +352,14 @@ Def.BrawlScorp = {
   ammo = 0,
   damage = 10000,
   rot_speed = 300,
-  min_pitch = -45
+  min_pitch = -45,
+  spread_stat = 0.5,
+  spread_stat_max = 0.5,
+  spread_move = 0.5,
+  spread_move_max = 0.5,
+  spread_inc = 0,
+  spread_dec = 0,
+  spread_rot_inc = 0
 }
 Def.Projectile_BrawlScorp = {
   inherit = "Projectile_Arbalest",
@@ -351,6 +380,71 @@ Def.Brawl_WheelMed_RS = {
   solidSurfaceBehaviour = tires_behaviour.good,
   denseSurfaceBehaviour = tires_behaviour.good,
   crumblySurfaceBehaviour = tires_behaviour.good
+}
+Def.Brawl_Booster = {
+  inherit = "CarPart_Booster",
+  tradeable = false,
+  released = false,
+  activate_hold = true,
+  heat_max = 2,
+  heat_inc = 0.5,
+  heat_dec = 0.1
+}
+Def.CarPart_WheelSmall_R_1stApril = {
+  inherit = "CarPart_WheelSmall_S_Starter",
+  released = false,
+  tradeable = false,
+  radius = 0.7,
+  engine_power_mul = 0.2,
+  tonnage_add = 1000
+}
+Def.Electro_1stApril = {
+  inherit = "CarPart_Gun_Syfy_Tesla",
+  released = false,
+  tradeable = false,
+  model = "models/weapons/machinegun_kmtp/machinegun_kmtp",
+  power_require = 0,
+  damage = 80,
+  max_range = 60
+}
+Def.CarPart_kamikazeDroneDeployer_1stApril = {
+  inherit = "CarPart_kamikazeDroneDeployer",
+  released = false,
+  tradeable = false,
+  power_require = 0,
+  deploy_ammo = 20,
+  cooldown = 0,
+  firing_delay = 0
+}
+Def.Cabin_Kamikaze_Companion_1stApril = {
+  inherit = "Cabin_Kamikaze_Companion",
+  released = false,
+  tradeable = false,
+  suicide_blast_damage = 300,
+  suicide_blast_radius = 12
+}
+Def.CarPart_ParticleBeam_1stApril = {
+  inherit = "CarPart_Gun_Syfy_ParticleBeam",
+  released = false,
+  tradeable = false,
+  power_require = 0,
+  damage = 80
+}
+Def.CarPart_HomingMissileLauncher_1stApril = {
+  inherit = "CarPart_HomingMissileLauncher_epic",
+  released = false,
+  tradeable = false,
+  power_require = 0,
+  ammo = 80,
+  shooting_cooldown = 2,
+  projectile_rot_radius = 60
+}
+Def.CarPart_HomingMissileLauncher2_1stApril = {
+  inherit = "CarPart_HomingMissileLauncher_epic",
+  released = false,
+  tradeable = false,
+  power_require = 0,
+  ammo = 80
 }
 Def.Brawl_Tanks_Gun_BigCannon_Free_epic = {
   inherit = "CarPart_Gun_BigCannon_Free_epic",
@@ -420,10 +514,4 @@ Def.Brawl_NewYear_Gun_Machinegun_Corner = {
   tradeable = false,
   released = false,
   ai_optimal_dist = 50
-}
-Def.CarPart_Mob_Harvester_legend = {
-  inherit = "CarPart_Harvester_legend",
-  perk = "",
-  tradeable = false,
-  released = false
 }

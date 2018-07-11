@@ -8,10 +8,11 @@ Quest.BrawlQuest = {
 }
 Quest.PremiumQuest = {
   type = "GAME_COMPLETE",
-  value = 10,
+  value = 2,
   gamemodes = "all_pve;all_pvp",
   ui_image = "quest_PREMIUM",
-  money = 2000
+  ui_desc = "#PremiumQuest_Desc",
+  money = 4000
 }
 Quest.NewYearQuest = {
   type = "WIN",
@@ -19,6 +20,13 @@ Quest.NewYearQuest = {
   gamemodes = "all_pvp",
   require_mission = "NewYear_Pvp",
   NewYearMoney = 500
+}
+Quest.MBPQuest = {
+  type = "WIN",
+  value = 3,
+  gamemodes = "all_pvp",
+  require_mission = "MBP",
+  avatar = "Mask_Ratking"
 }
 SeasonalLayouts = {}
 SeasonalPatterns = {}
@@ -64,7 +72,8 @@ SeasonalPatterns.Frenzied = {
     name = "ChainTitle1",
     ui_desc = "#ChainDesc1",
     ui_desc_long = "#ChainLongEasyDesc",
-    ui_image = "frac_Frenzied"
+    ui_image = "frac_Frenzied",
+    pve_pvp_equal = true
   },
   {
     layouts = {
@@ -109,7 +118,8 @@ SeasonalPatterns.Frenzied = {
     name = "ChainTitle2",
     ui_desc = "#ChainDesc2",
     ui_desc_long = "#ChainLongEasyDesc",
-    ui_image = "frac_Frenzied"
+    ui_image = "frac_Frenzied",
+    pve_pvp_equal = true
   },
   {
     layouts = {
@@ -191,7 +201,8 @@ SeasonalPatterns.Traders = {
     name = "ChainTitle1",
     ui_desc = "#ChainDesc1",
     ui_desc_long = "#ChainLongEasyDesc",
-    ui_image = "frac_Traders"
+    ui_image = "frac_Traders",
+    pve_pvp_equal = true
   },
   {
     layouts = {
@@ -236,7 +247,8 @@ SeasonalPatterns.Traders = {
     name = "ChainTitle2",
     ui_desc = "#ChainDesc2",
     ui_desc_long = "#ChainLongEasyDesc",
-    ui_image = "frac_Traders"
+    ui_image = "frac_Traders",
+    pve_pvp_equal = true
   },
   {
     layouts = {
@@ -318,7 +330,8 @@ SeasonalPatterns.Scavengers = {
     name = "ChainTitle1",
     ui_desc = "#ChainDesc1",
     ui_desc_long = "#ChainLongEasyDesc",
-    ui_image = "frac_Scavengers"
+    ui_image = "frac_Scavengers",
+    pve_pvp_equal = true
   },
   {
     layouts = {
@@ -363,7 +376,8 @@ SeasonalPatterns.Scavengers = {
     name = "ChainTitle2",
     ui_desc = "#ChainDesc2",
     ui_desc_long = "#ChainLongEasyDesc",
-    ui_image = "frac_Scavengers"
+    ui_image = "frac_Scavengers",
+    pve_pvp_equal = true
   },
   {
     layouts = {

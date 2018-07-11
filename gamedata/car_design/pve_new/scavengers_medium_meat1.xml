@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<CarDesign numParts="17">
+<CarDesign numParts="18">
   <Chassis def="Cabin_ArmoredPickup" pos="0.000 0.750 -0.300">
     <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 0.600" dye="Dye_BlackScratch" />
     <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 -0.600" dye="Dye_BlackScratch" />
@@ -17,6 +17,7 @@
     <Part def="CarPart_ChassisBase2" weld_pos="-0.900 0.750 0.000" weld_rot_idx="22" />
     <Part def="CarPart_TruckSlope2" weld_pos="0.900 1.050 0.000" weld_rot_idx="20" />
     <Part def="CarPart_TruckSlope2" weld_pos="-0.900 1.050 0.000" weld_rot_idx="17" />
-    <Part def="CarPart_Gun_Machinegun_rare" weld_pos="0.000 1.950 0.000" />
+    <Part def="CarPart_Gun_Machinegun_rare" weld_pos="0.000 1.950 0.000" weaponGroup="1" />
+    <Part def="CarPart_TruckSlope" weld_pos="-0.300 1.650 -1.200" />
   </Chassis>
 </CarDesign>

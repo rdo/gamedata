@@ -45,6 +45,16 @@ tires_behaviour.crazy_fast = {
   gripToSkidForwardDelta = 5,
   gripToSkidSideDelta = 5
 }
+tires_behaviour.Football_fast = {
+  forwardGripFriction = 2000,
+  sideGripFriction = 1700,
+  forwardSkidFriction = 1500,
+  sideSkidFriction = 800,
+  skidToGripForwardDelta = 5,
+  skidToGripSideDelta = 5,
+  gripToSkidForwardDelta = 5,
+  gripToSkidSideDelta = 5
+}
 tires_behaviour.good_steering = {
   forwardGripFriction = 600,
   sideGripFriction = 600,

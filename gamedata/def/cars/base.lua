@@ -40,7 +40,8 @@ Def.Car_Base = {
       speed_deviation = 5,
       mass = 200,
       ttl = 10,
-      material = "Metal_BrokenParts"
+      material = "Metal_BrokenParts",
+      pos = Vec3(1, 1, 1)
     },
     {
       model = "models/misc/debris/debris_mini",
@@ -51,10 +52,11 @@ Def.Car_Base = {
       speed_deviation = 5,
       mass = 200,
       ttl = 10,
-      material = "Metal_BrokenParts"
+      material = "Metal_BrokenParts",
+      pos = Vec3(1, 1, -1)
     },
     {
-      model = "models/misc/debris/debris_mini",
+      model = "models/misc/debris/debris_cranck",
       effect = "particles/fire/explosioncar_trail",
       angle = 60,
       damping = 0.2,
@@ -62,6 +64,128 @@ Def.Car_Base = {
       speed_deviation = 5,
       mass = 200,
       ttl = 10,
+      material = "Metal_BrokenParts",
+      pos = Vec3(1, 1, -1)
+    },
+    {
+      model = "",
+      effect = "particles/fire/explosioncar_s_trail",
+      angle = 12,
+      damping = 0.2,
+      speed = 25,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 10,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "",
+      effect = "particles/fire/explosioncar_s_trail",
+      angle = 10,
+      damping = 0.2,
+      speed = 30,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 10,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "",
+      effect = "particles/fire/explosioncar_s_trail",
+      angle = 10,
+      damping = 0.2,
+      speed = 33,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 10,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "",
+      effect = "particles/fire/explosioncar_s_trail",
+      angle = 23,
+      damping = 0.2,
+      speed = 20,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 10,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "",
+      effect = "particles/fire/explosioncar_s_trail",
+      angle = 20,
+      damping = 0.2,
+      speed = 25,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 10,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "",
+      effect = "particles/fire/explosioncar_s_trail",
+      angle = 73,
+      damping = 0.2,
+      speed = 10,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 10,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "",
+      effect = "particles/fire/explosioncar_fire",
+      angle = 180,
+      damping = 0.2,
+      speed = 0,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 5,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "",
+      effect = "particles/fire/explosioncar_fire",
+      angle = 180,
+      damping = 0.2,
+      speed = 5,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 11,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "",
+      effect = "particles/fire/explosioncar_fire",
+      angle = 180,
+      damping = 0.2,
+      speed = 15,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 8,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "",
+      effect = "particles/fire/explosioncar_fire",
+      angle = 180,
+      damping = 0.2,
+      speed = 15,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 9,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "",
+      effect = "particles/fire/explosioncar_fire",
+      angle = 10,
+      damping = 0.2,
+      speed = 24,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 12,
       material = "Metal_BrokenParts"
     },
     {
@@ -71,47 +195,7 @@ Def.Car_Base = {
       speed = 20,
       speed_deviation = 10,
       mass = 200,
-      ttl = 10,
-      material = "Metal_BrokenParts"
-    },
-    {
-      model = "models/misc/debris/debris_mini",
-      angle = 90,
-      damping = 0.2,
-      speed = 20,
-      speed_deviation = 10,
-      mass = 200,
-      ttl = 10,
-      material = "Metal_BrokenParts"
-    },
-    {
-      model = "models/misc/debris/debris_mini",
-      angle = 90,
-      damping = 0.2,
-      speed = 20,
-      speed_deviation = 10,
-      mass = 200,
-      ttl = 10,
-      material = "Metal_BrokenParts"
-    },
-    {
-      model = "models/misc/debris/debris_mini",
-      angle = 90,
-      damping = 0.2,
-      speed = 20,
-      speed_deviation = 10,
-      mass = 200,
-      ttl = 10,
-      material = "Metal_BrokenParts"
-    },
-    {
-      model = "models/misc/debris/debris_mini",
-      angle = 90,
-      damping = 0.2,
-      speed = 20,
-      speed_deviation = 10,
-      mass = 200,
-      ttl = 10,
+      ttl = 12,
       material = "Metal_BrokenParts"
     },
     {
@@ -121,11 +205,21 @@ Def.Car_Base = {
       speed = 15,
       speed_deviation = 5,
       mass = 200,
-      ttl = 10,
+      ttl = 7,
       material = "Metal_BrokenParts"
     },
     {
-      model = "models/misc/debris/debris_big",
+      model = "models/misc/debris/debris_muffler",
+      angle = 120,
+      damping = 0.2,
+      speed = 15,
+      speed_deviation = 5,
+      mass = 200,
+      ttl = 11,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "models/misc/debris/debris_cranck",
       angle = 120,
       damping = 0.2,
       speed = 15,
@@ -135,8 +229,108 @@ Def.Car_Base = {
       material = "Metal_BrokenParts"
     },
     {
+      model = "models/misc/debris/debris_mini",
+      angle = 90,
+      damping = 0.2,
+      speed = 20,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 10,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "models/misc/debris/debris_fender",
+      angle = 190,
+      damping = 0.2,
+      speed = 20,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 11,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "models/misc/debris/debris_steering",
+      angle = 190,
+      damping = 0.2,
+      speed = 30,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 15,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "models/misc/debris/debris_susp",
+      angle = 10,
+      damping = 0.2,
+      speed = 10,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 10,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "models/misc/debris/debris_susp",
+      angle = 20,
+      damping = 0.2,
+      speed = 10,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 14,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "models/misc/debris/debris_spring",
+      angle = 100,
+      damping = 0.2,
+      speed = 15,
+      speed_deviation = 5,
+      mass = 200,
+      ttl = 10,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "models/misc/debris/debris_spring",
+      angle = 40,
+      damping = 0.2,
+      speed = 15,
+      speed_deviation = 5,
+      mass = 200,
+      ttl = 10,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "models/misc/debris/debris_susp",
+      angle = 10,
+      damping = 0.2,
+      speed = 10,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 12,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "models/misc/debris/debris_mini",
+      angle = 20,
+      damping = 0.2,
+      speed = 10,
+      speed_deviation = 10,
+      mass = 200,
+      ttl = 11,
+      material = "Metal_BrokenParts"
+    },
+    {
+      model = "models/misc/debris/debris_muffler",
+      angle = 100,
+      damping = 0.2,
+      speed = 15,
+      speed_deviation = 5,
+      mass = 200,
+      ttl = 10,
+      material = "Metal_BrokenParts"
+    },
+    {
       model = "models/misc/debris/debris_big",
-      angle = 120,
+      angle = 40,
       damping = 0.2,
       speed = 15,
       speed_deviation = 5,
@@ -265,13 +459,13 @@ Def.Car_Base = {
   health_fx = {
     {
       bone = "fx01",
-      fx = "particles/gameplay/vehicle_dmg1",
+      fx = "particles/gameplay/lowhp/lowhp_vehicle_dmg1",
       hp_min = 25,
       hp_max = 50
     },
     {
       bone = "fx01",
-      fx = "particles/gameplay/vehicle_dmg2",
+      fx = "particles/gameplay/lowhp/lowhp_vehicle_dmg2",
       hp_min = 0.001,
       hp_max = 25
     },
@@ -285,11 +479,11 @@ Def.Car_Base = {
   health_event_fx = {
     {
       hp = 50,
-      death_effect = "particles/vehicle/vehicle_dmg1"
+      death_effect = "particles/gameplay/lowhp/lowhp_vehicle_event"
     },
     {
       hp = 25,
-      death_effect = "particles/vehicle/vehicle_dmg2"
+      death_effect = "particles/gameplay/lowhp/lowhp_vehicle_event"
     }
   },
   damageable = true,

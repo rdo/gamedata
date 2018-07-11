@@ -22,6 +22,7 @@ CarEditorSettings = {
   arrowWidth = "0.05",
   sphereSolidColor = "255 28 0 55",
   sphereWireframeColor = "255 30 0",
+  autobuild_weld_effect = "particles/gameplay/autobuild_weld_slot",
   init_camera_pos = Vec3(8.1, 2.5, -3),
   mob_def = "TestDrive",
   decal_rot_num = 72,

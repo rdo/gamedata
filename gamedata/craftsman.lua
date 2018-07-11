@@ -759,9 +759,22 @@ Craftsman.FirestartersLegend = {
   },
   rarity = 4
 }
-Craftsman.SpecialCraftsman = {
-  ui_name = "#Craftsman_SpecialCraftsman_Name",
-  ui_desc = "#Craftsman_SpecialCraftsman_Desc",
+Craftsman.ResourseExchange = {
+  ui_name = "#Craftsman_ResourseExchange_Name",
+  ui_desc = "#Craftsman_ResourseExchange_Desc",
+  ui_icon = "craft_ico_special",
+  require_faction = "Base",
+  require_level = 1,
+  contract = {
+    {stamina = -1, price = 0}
+  },
+  hidden = true,
+  rarity = 1,
+  festival = "RESOURSE_EXCHANGE"
+}
+Craftsman.GermanCraftsman = {
+  ui_name = "#Craftsman_GermanCraftsman_Name",
+  ui_desc = "#Craftsman_GermanCraftsman_Desc",
   ui_icon = "craft_ico_special",
   require_faction = "Base",
   require_level = 1,

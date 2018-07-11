@@ -1,0 +1,15 @@
+LootTable.Login.CarPart_Roadsign_01 = {}
+LootTable.Login.CarPart_Roadsign_01.ods_export = true
+LootTable.Login.CarPart_Roadsign_01.weight = 100
+LootTable.Login.CarPart_Roadsign_04 = {}
+LootTable.Login.CarPart_Roadsign_04.ods_export = true
+LootTable.Login.CarPart_Roadsign_04.weight = 100
+LootTable.Login.CarPart_Roadsign_06 = {}
+LootTable.Login.CarPart_Roadsign_06.ods_export = true
+LootTable.Login.CarPart_Roadsign_06.weight = 100
+LootTable.Login.CarPart_Roadsign_11 = {}
+LootTable.Login.CarPart_Roadsign_11.ods_export = true
+LootTable.Login.CarPart_Roadsign_11.weight = 100
+LootTable.Login.CarPart_Duck = {}
+LootTable.Login.CarPart_Duck.ods_export = true
+LootTable.Login.CarPart_Duck.weight = 25

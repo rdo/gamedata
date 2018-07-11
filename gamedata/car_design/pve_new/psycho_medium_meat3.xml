@@ -16,8 +16,6 @@
     <Part def="CarPart_ArmorPlate_Square" weld_pos="0.600 1.050 0.600" weld_rot_idx="14" />
     <Part def="CarPart_ArmorPlate_Square" weld_pos="-0.600 1.050 0.600" weld_rot_idx="15" />
     <Part def="CarPart_Buggy_Grid1" weld_pos="0.000 1.050 -2.100" weld_rot_idx="23" dye="Dye_White" />
-    <Part def="CarPart_Wheel_Drag:DetailTonnageMul" weld_pos="-0.450 0.450 2.100" />
-    <Part def="CarPart_Wheel_Drag:DetailTonnageMul" weld_pos="0.450 0.450 2.100" weld_rot_idx="4" />
     <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.150 0.450 -1.800" />
     <Part def="CarPart_WheelMed_RS_rare" weld_pos="0.150 0.450 -1.800" weld_rot_idx="4" />
     <Part def="CarPart_Blade_rare" weld_pos="0.300 0.600 -2.700" weld_rot_idx="9" />
@@ -27,5 +25,7 @@
     <Part def="CarPart_Buggy_Grid9" weld_pos="0.000 0.750 2.700" weld_rot_idx="1" />
     <Part def="CarPart_SpareTire" weld_pos="0.000 1.350 2.700" weld_rot_idx="6" />
     <Part def="CarPart_Gun_Shotgun_epic" weld_pos="0.000 1.950 1.200" weaponGroup="1" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="0.450 0.450 2.100" weld_rot_idx="4" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="-0.450 0.450 2.100" />
   </Chassis>
 </CarDesign>
