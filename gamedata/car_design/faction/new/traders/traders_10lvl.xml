@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="61">
+  <Chassis def="Chassis_Wyvern" pos="0.000 0.750 0.600">
+    <Part def="CarPart_BladeWing_double" weld_pos="-0.900 0.750 -2.400" weld_rot_idx="11" />
+    <Part def="CarPart_BladeWing_double" weld_pos="0.900 0.750 -2.400" weld_rot_idx="14" />
+    <Part def="CarPart_AviaBoxSlopeCorner4x1x2" weld_pos="0.600 1.350 -2.700" weld_rot_idx="22" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="0.000 1.350 -2.700" weld_rot_idx="22" />
+    <Part def="CarPart_AviaSlope2x1x4" weld_pos="0.600 1.950 2.400" weld_rot_idx="10" />
+    <Part def="CarPart_AviaSlope2x1x4" weld_pos="-0.600 1.950 2.400" weld_rot_idx="11" />
+    <Part def="CarPart_BumperTrain_rare" weld_pos="0.000 0.600 -3.000" />
+    <Part def="CarPart_Gun_Cannon_epic" weld_pos="0.000 1.650 2.700" weaponGroup="1" />
+    <Part def="CarPart_AviaBoxSlopeCorner4x1x2" weld_pos="-0.600 1.350 -2.700" weld_rot_idx="4" />
+    <Part def="CarPart_Avia_fender_r" weld_pos="-1.500 1.350 1.650" />
+    <Part def="CarPart_Avia_fender_l" weld_pos="1.500 1.350 1.650" />
+    <Part def="CarPart_AviaRadialFender2x2x2" weld_pos="0.600 1.950 3.000" weld_rot_idx="2" />
+    <Part def="CarPart_AviaRadialFender2x2x2" weld_pos="-0.300 1.950 3.300" weld_rot_idx="17" />
+    <Part def="CarPart_AviaBoxSlopeCorner4x1x2" weld_pos="-0.600 1.950 1.500" weld_rot_idx="21" />
+    <Part def="CarPart_AviaBoxSlopeCorner4x1x2" weld_pos="0.600 1.950 1.500" weld_rot_idx="10" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="0.000 1.050 -2.700" weld_rot_idx="13" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.750 -2.400" weld_rot_idx="22" />
+    <Part def="CarPart_Avia_fender_l" weld_pos="-0.900 1.350 -0.450" weld_rot_idx="4" />
+    <Part def="CarPart_Avia_fender_r" weld_pos="0.900 1.350 -0.450" weld_rot_idx="4" />
+    <Part def="CarPart_FenderFlare2" weld_pos="1.200 0.750 -1.500" />
+    <Part def="CarPart_FenderFlare2" weld_pos="-1.200 0.750 -1.500" weld_rot_idx="4" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="0.900 1.050 -2.400" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="-0.900 1.050 -2.400" weld_rot_idx="4" />
+    <Part def="CarPart_Headlights2" weld_pos="0.600 1.050 -2.700" />
+    <Part def="CarPart_Headlights2" weld_pos="-0.600 1.050 -2.700" />
+    <Part def="CarPart_AviaRadialCorner2x2x2" weld_pos="0.900 1.050 -0.300" weld_rot_idx="1" />
+    <Part def="CarPart_AviaRadialCorner2x2x2" weld_pos="1.200 0.750 1.500" weld_rot_idx="14" />
+    <Part def="CarPart_AviaRadialCorner2x2x2" weld_pos="-1.500 1.050 1.500" weld_rot_idx="5" />
+    <Part def="CarPart_AviaRadialCorner2x2x2" weld_pos="-0.600 0.750 -0.300" weld_rot_idx="15" />
+    <Part def="CarPart_Quadrocopter_epic" weld_pos="0.000 0.750 -1.200" weaponGroup="5" />
+    <Part def="CarPart_AviaSlope2x1x4" weld_pos="0.900 0.750 0.600" weld_rot_idx="14" />
+    <Part def="CarPart_AviaSlope2x1x4" weld_pos="-0.900 0.750 0.600" weld_rot_idx="15" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.000 1.350 -2.100" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.000 1.350 2.100" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="0.000 1.050 -2.700" weld_rot_idx="8" />
+    <Part def="CarPart_Wheel_Drag" weld_pos="0.450 0.450 2.700" weld_rot_idx="4" />
+    <Part def="CarPart_Wheel_Drag_S" weld_pos="0.450 0.450 -1.500" weld_rot_idx="4" />
+    <Part def="CarPart_Wheel_Drag_S" weld_pos="-0.450 0.450 -1.500" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="0.000 0.750 -0.600" weld_rot_idx="22" />
+    <Part def="CarPart_ChassisTruck8" weld_pos="0.000 0.750 1.800" weld_rot_idx="22" />
+    <Part def="CarPart_AviaRadialSlope4x2x4" weld_pos="0.000 1.050 3.000" weld_rot_idx="6" />
+    <Part def="CarPart_Bumper1" weld_pos="0.000 1.500 3.600" weld_rot_idx="4" />
+    <Part def="CarPart_Wheel_Drag" weld_pos="-0.450 0.450 2.700" />
+    <Part def="CarPart_Holder_2x2" weld_pos="-0.750 1.200 3.150" weld_rot_idx="5" />
+    <Part def="CarPart_Holder_2x2" weld_pos="0.750 1.200 3.150" weld_rot_idx="5" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.900 1.350 1.800" weld_rot_idx="22" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.900 1.350 3.000" weld_rot_idx="22" />
+    <Part def="CarPart_AviaRadialFender2x2x2" weld_pos="1.500 1.050 0.900" />
+    <Part def="CarPart_AviaRadialFender2x2x2" weld_pos="1.200 0.750 0.900" weld_rot_idx="14" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="-0.900 1.350 3.000" weld_rot_idx="22" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="-0.900 1.350 1.800" weld_rot_idx="22" />
+    <Part def="CarPart_AviaRadialFender2x2x2" weld_pos="-1.500 1.050 0.900" weld_rot_idx="5" />
+    <Part def="CarPart_AviaRadialFender2x2x2" weld_pos="-1.200 1.350 0.900" weld_rot_idx="11" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="0.900 1.350 0.900" weld_rot_idx="22" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="-0.900 1.350 0.900" weld_rot_idx="22" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="0.900 1.050 0.600" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="-0.900 1.050 0.600" weld_rot_idx="4" />
+    <Part def="CarPart_Brakelights2" weld_pos="1.200 1.500 3.600" weld_rot_idx="4" />
+    <Part def="CarPart_Brakelights2" weld_pos="-1.200 1.500 3.600" weld_rot_idx="4" />
+    <Part def="CarPart_AviaSlope2x1x1" weld_pos="0.900 1.050 0.150" />
+    <Part def="CarPart_AviaSlope2x1x1" weld_pos="-0.900 1.050 0.150" weld_rot_idx="4" />
+  </Chassis>
+</CarDesign>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="76">
+  <Chassis def="Cabin_Satellite" pos="0.000 2.850 -0.150" dye="Dye_Carbon">
+    <Part def="CarPart_Hover_rare" weld_pos="-0.450 2.850 1.200" dye="Dye_Carbon" />
+    <Part def="CarPart_Hover_rare" weld_pos="-0.450 2.850 -0.600" dye="Dye_Carbon" />
+    <Part def="CarPart_Gun_Syfy_FusionRifle" weld_pos="-3.300 3.150 0.600" weld_rot_idx="11" weaponGroup="1" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadial2x2x4" weld_pos="-0.600 4.050 0.900" weld_rot_idx="4" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadial2x2x4" weld_pos="0.600 4.050 0.900" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaSlope2x1x4" weld_pos="0.600 3.450 1.800" weld_rot_idx="16" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaWing8x1x3" weld_pos="-3.150 5.400 0.300" weld_rot_idx="20" dye="Dye_Carbon" />
+    <Part def="CarPart_Avia_fender_r" weld_pos="-2.550 3.450 0.300" weld_rot_idx="13" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaWing8x1x3" weld_pos="3.150 5.400 0.300" weld_rot_idx="20" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaWing8x1x3" weld_pos="3.150 0.900 0.300" weld_rot_idx="21" dye="Dye_Carbon" />
+    <Part def="CarPart_Gun_Syfy_FusionRifle" weld_pos="3.300 3.150 0.600" weld_rot_idx="14" weaponGroup="1" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaWing8x1x3" weld_pos="-3.150 0.900 0.300" weld_rot_idx="21" dye="Dye_Carbon" />
+    <Part def="CarPart_BladeWing_epic" weld_pos="-3.150 1.950 -2.400" weld_rot_idx="5" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadialCorner2x2x2" weld_pos="-0.600 4.050 -1.200" weld_rot_idx="4" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadialCorner2x2x2" weld_pos="0.300 4.350 -1.200" weld_rot_idx="10" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaSlope2x1x4" weld_pos="-0.600 3.450 -1.200" weld_rot_idx="21" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaSlope2x1x4" weld_pos="0.600 3.450 -1.200" weld_rot_idx="20" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadialCorner2x2x2" weld_pos="0.600 2.850 -1.200" weld_rot_idx="1" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadialCorner2x2x2" weld_pos="-0.300 2.550 -1.200" weld_rot_idx="15" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaSlope2x1x2" weld_pos="0.000 2.550 -1.200" weld_rot_idx="23" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadial2x2x4" weld_pos="-0.600 4.050 -0.300" weld_rot_idx="4" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadial2x2x4" weld_pos="0.600 4.050 -0.300" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaSlope2x1x4" weld_pos="-0.600 3.450 1.800" weld_rot_idx="17" dye="Dye_Carbon" />
+    <Part def="CarPart_Avia_fender_l" weld_pos="2.550 3.450 0.300" weld_rot_idx="9" dye="Dye_Carbon" />
+    <Part def="CarPart_Avia_fender_r" weld_pos="2.550 2.850 0.300" weld_rot_idx="9" dye="Dye_Carbon" />
+    <Part def="CarPart_Avia_fender_l" weld_pos="-2.550 2.850 0.300" weld_rot_idx="13" dye="Dye_Carbon" />
+    <Part def="CarPart_Blade_rare" weld_pos="-3.150 1.050 -0.900" dye="Dye_Carbon" />
+    <Part def="CarPart_Blade_rare" weld_pos="3.150 1.050 -0.900" dye="Dye_Carbon" />
+    <Part def="CarPart_Blade_rare" weld_pos="3.150 5.250 -0.900" weld_rot_idx="5" dye="Dye_Carbon" />
+    <Part def="CarPart_Hover_rare" weld_pos="0.450 2.850 -0.600" weld_rot_idx="4" dye="Dye_Carbon" />
+    <Part def="CarPart_Hover_rare" weld_pos="0.450 2.850 1.200" weld_rot_idx="4" dye="Dye_Carbon" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="-3.300 1.950 -1.800" weld_rot_idx="10" dye="Dye_Carbon" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="-3.300 4.350 -1.800" weld_rot_idx="10" dye="Dye_Carbon" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="3.300 1.950 -1.800" weld_rot_idx="15" dye="Dye_Carbon" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="3.300 4.350 -1.800" weld_rot_idx="15" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaBox4x1x4" weld_pos="3.000 1.950 0.600" weld_rot_idx="10" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaBox4x1x4" weld_pos="3.000 4.350 0.600" weld_rot_idx="10" dye="Dye_Carbon" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="-3.300 4.350 -0.600" weld_rot_idx="10" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaBox4x1x4" weld_pos="-3.000 4.350 0.600" weld_rot_idx="11" dye="Dye_Carbon" />
+    <Part def="CarPart_Buggy_Grid2" weld_pos="3.300 4.350 -0.600" weld_rot_idx="15" dye="Dye_Carbon" />
+    <Part def="CarPart_Gun_Syfy_FusionRifle" weld_pos="0.000 2.250 0.300" weld_rot_idx="5" weaponGroup="1" dye="Dye_Carbon" />
+    <Part def="CarPart_ChassisLight8" weld_pos="0.000 2.850 0.300" weld_rot_idx="22" dye="Dye_Carbon" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="0.000 2.550 0.900" weld_rot_idx="5" dye="Dye_Carbon" />
+    <Part def="CarPart_Buggy_Grid4" weld_pos="0.000 2.550 -0.300" weld_rot_idx="1" dye="Dye_Carbon" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="-3.000 3.750 2.700" weld_rot_idx="17" dye="Dye_Carbon" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="-3.000 2.550 2.700" weld_rot_idx="17" dye="Dye_Carbon" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="3.000 3.750 2.700" weld_rot_idx="16" dye="Dye_Carbon" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="3.000 2.550 2.700" weld_rot_idx="16" dye="Dye_Carbon" />
+    <Part def="CarPart_BladeWing_epic" weld_pos="3.150 4.350 -2.400" dye="Dye_Carbon" />
+    <Part def="CarPart_BladeWing_epic" weld_pos="3.150 1.950 -2.400" weld_rot_idx="5" dye="Dye_Carbon" />
+    <Part def="CarPart_Blade_rare" weld_pos="-3.150 5.250 -0.900" weld_rot_idx="5" dye="Dye_Carbon" />
+    <Part def="CarPart_BladeWing_epic" weld_pos="-3.150 4.350 -2.400" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadialCorner2x2x2" weld_pos="-0.300 4.350 1.800" weld_rot_idx="11" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadialCorner2x2x2" weld_pos="0.600 4.050 1.800" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadialCorner2x2x2" weld_pos="0.300 2.550 1.800" weld_rot_idx="14" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadialCorner2x2x2" weld_pos="-0.600 2.850 1.800" weld_rot_idx="5" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadialSlope4x2x4" weld_pos="3.000 4.350 1.800" weld_rot_idx="14" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadialSlope4x2x4" weld_pos="-3.000 1.950 1.800" weld_rot_idx="11" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaBox4x1x4" weld_pos="-3.000 1.950 0.600" weld_rot_idx="11" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaBox4x1x4" weld_pos="3.000 1.950 -0.600" weld_rot_idx="10" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaBox4x1x4" weld_pos="-3.000 1.950 -0.600" weld_rot_idx="11" dye="Dye_Carbon" />
+    <Part def="CarPart_Structure_Syfy_Box_Large" weld_pos="0.000 2.550 1.800" weld_rot_idx="14" dye="Dye_Carbon" />
+    <Part def="CarPart_Military_tower_slope_6x1x6" weld_pos="0.000 3.450 -1.500" weld_rot_idx="7" dye="Dye_Carbon" />
+    <Part def="CarPart_ArmorPlate_Trapdoor_epic" weld_pos="0.000 3.450 -1.800" weld_rot_idx="13" dye="Dye_Carbon" />
+    <Part def="CarPart_PowerGiver_rare" weld_pos="0.000 2.850 1.650" weld_rot_idx="4" dye="Dye_Carbon" />
+    <Part def="CarPart_RadarSmall_epic" weld_pos="0.000 3.450 2.100" weld_rot_idx="2" dye="Dye_Carbon" />
+    <Part def="CarPart_Structure_Syfy_Box_Wide" weld_pos="0.000 4.350 0.900" weld_rot_idx="11" dye="Dye_Carbon" />
+    <Part def="CarPart_ArmorPlate_Grid2_rare" weld_pos="0.000 4.350 -0.900" dye="Dye_Carbon" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="3.150 1.350 1.950" weld_rot_idx="5" dye="Dye_Carbon" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="3.150 4.950 1.950" dye="Dye_Carbon" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="-3.150 4.950 1.950" dye="Dye_Carbon" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="-3.150 1.350 1.950" weld_rot_idx="5" dye="Dye_Carbon" />
+    <Part def="CarPart_Military_box_4x1x8" weld_pos="-3.000 3.150 1.200" weld_rot_idx="15" dye="Dye_Carbon" />
+    <Part def="CarPart_Military_box_4x1x8" weld_pos="3.000 3.150 1.200" weld_rot_idx="10" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadialSlope4x2x4" weld_pos="3.000 1.950 1.800" weld_rot_idx="14" dye="Dye_Carbon" />
+    <Part def="CarPart_AviaRadialSlope4x2x4" weld_pos="-3.000 4.350 1.800" weld_rot_idx="11" dye="Dye_Carbon" />
+  </Chassis>
+</CarDesign>

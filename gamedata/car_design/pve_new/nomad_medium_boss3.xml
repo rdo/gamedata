@@ -135,7 +135,7 @@
     <Part def="CarPart_Quadrocopter_rare_Boss_Special" weld_pos="1.800 2.250 -1.500" weaponGroup="5" />
     <Part def="CarPart_Quadrocopter_rare_Boss_Special" weld_pos="-1.800 2.250 -1.500" weaponGroup="5" />
     <Part def="CarPart_Quadrocopter_rare_Boss_Special" weld_pos="-1.800 2.250 3.300" weaponGroup="5" />
-    <Part def="CarPart_Mob_EngineMini_epic" weld_pos="0.000 1.800 -4.350" />
+    <Part def="CarPart_Mob_Engine_Chase" weld_pos="0.000 1.800 -4.350" />
     <Part def="CarPart_Military_box_4x1x8" weld_pos="1.800 1.950 -5.100" dye="Dye_SandCamuflage" />
     <Part def="CarPart_Military_box_4x1x8" weld_pos="-1.800 1.950 -5.100" dye="Dye_SandCamuflage" />
     <Part def="CarPart_ChassisBase4" weld_pos="0.900 1.050 2.700" />

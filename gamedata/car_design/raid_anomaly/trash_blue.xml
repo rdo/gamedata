@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="38">
+  <Chassis def="Cabin_ArmoredPickup" pos="0.300 0.750 -1.500" dye="Dye_ForestCamuflage">
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.300 0.750 -1.500" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.300 0.750 -0.300" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.300 0.750 -2.700" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_WheelMilitary_S" weld_pos="0.750 0.450 -2.700" weld_rot_idx="4" dye="Dye_Blue02" />
+    <Part def="CarPart_WheelMilitary_S" weld_pos="-0.150 0.450 -2.700" dye="Dye_Blue02" />
+    <Part def="CarPart_ChassisBase4" weld_pos="0.300 0.750 0.900" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_WheelMilitary" weld_pos="-0.150 0.450 0.900" dye="Dye_Blue02" />
+    <Part def="CarPart_WheelMilitary" weld_pos="0.750 0.450 0.900" weld_rot_idx="4" dye="Dye_Blue02" />
+    <Part def="CarPart_TruckSlope_Fender" weld_pos="1.500 1.050 -2.700" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_TruckSlope_Fender" weld_pos="-0.900 1.050 -2.700" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_TruckSlope_Fender" weld_pos="-0.900 1.050 0.900" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_TruckSlope_Fender" weld_pos="1.500 1.050 0.900" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_TruckPipeBig2x6" weld_pos="1.500 1.500 -0.900" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_TruckPipeBig2x6" weld_pos="-0.900 1.500 -0.900" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Structure_diffusor" weld_pos="0.300 0.750 1.650" weld_rot_idx="3" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_TruckSlope2" weld_pos="0.300 0.750 0.900" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_TruckSlope2" weld_pos="0.300 1.050 1.200" weld_rot_idx="5" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Muscle_front" weld_pos="0.300 1.050 -3.450" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Gun_Shotgun_rare_C1_China" weld_pos="0.300 1.950 -0.900" weaponGroup="1" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Muscle_cap" weld_pos="0.300 1.202 1.200" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Muscle_fender" weld_pos="0.300 2.100 -0.900" weld_rot_idx="9" dye="Dye_Blue02" />
+    <Part def="CarPart_Gun_Shotgun" weld_pos="1.500 1.650 -2.700" weaponGroup="1" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Gun_Shotgun" weld_pos="-0.900 1.650 -2.700" weaponGroup="1" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Headlights4" weld_pos="0.300 1.350 -3.300" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_FenderSolid" weld_pos="0.300 1.800 0.000" weld_rot_idx="9" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_LeatherBag" weld_pos="0.300 1.650 0.300" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Bag03" weld_pos="1.350 1.650 -0.450" weld_rot_idx="4" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Bag03" weld_pos="-0.750 1.650 -0.450" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Exhaust3" weld_pos="0.900 0.900 1.800" weld_rot_idx="18" />
+    <Part def="CarPart_Exhaust3" weld_pos="-0.300 0.900 1.800" weld_rot_idx="18" />
+    <Part def="CarPart_Muscle_back" weld_pos="1.350 1.050 -0.900" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Muscle_back" weld_pos="-0.750 1.050 -0.900" weld_rot_idx="18" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Bumper1" weld_pos="-0.600 0.600 -0.900" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Bumper1" weld_pos="1.200 0.600 -0.900" weld_rot_idx="18" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_PowerGiver_epic" weld_pos="0.300 1.050 0.000" weld_rot_idx="8" dye="Dye_WarmRed" />
+    <Part def="CarPart_Grid_1" weld_pos="0.300 1.350 0.000" weld_rot_idx="22" dye="Dye_ForestCamuflage" />
+    <Part def="CarPart_Grid_3" weld_pos="0.900 1.650 0.000" weld_rot_idx="19" />
+    <Part def="CarPart_Grid_3" weld_pos="-0.300 1.650 0.000" weld_rot_idx="23" />
+  </Chassis>
+</CarDesign>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="32">
+  <Chassis def="Chassis_Basic" pos="0.000 0.750 0.000" dye="Pic_YouTube">
+    <Part def="CarPart_Structure_fender2_r" weld_pos="0.600 1.350 1.200" weld_rot_idx="6" dye="Pic_YouTube" />
+    <Part def="CarPart_Structure_fender2_l" weld_pos="-0.600 1.350 1.200" weld_rot_idx="6" dye="Pic_YouTube" />
+    <Part def="CarPart_Structure_fender2_l" weld_pos="0.600 1.350 -1.500" weld_rot_idx="3" dye="Pic_YouTube" />
+    <Part def="CarPart_Structure_fender2_r" weld_pos="-0.600 2.550 -0.300" weld_rot_idx="4" dye="Pic_YouTube" />
+    <Part def="CarPart_Wheel_Drag_S" weld_pos="-0.450 0.450 -0.900" dye="Pic_YouTube" />
+    <Part def="CarPart_Wheel_Drag_S" weld_pos="-0.450 0.450 0.600" dye="Pic_YouTube" />
+    <Part def="CarPart_Wheel_Drag_S" weld_pos="0.450 0.450 0.600" weld_rot_idx="4" dye="Pic_YouTube" />
+    <Part def="CarPart_Wheel_Drag_S" weld_pos="0.450 0.450 -0.900" weld_rot_idx="4" dye="Pic_YouTube" />
+    <Part def="CarPart_Gun_BigCannon_EX" weld_pos="-1.500 1.350 0.000" weld_rot_idx="4" weaponGroup="2" dye="Pic_YouTube" />
+    <Part def="CarPart_Gun_BigCannon_EX" weld_pos="1.500 1.350 0.000" weld_rot_idx="4" weaponGroup="2" dye="Pic_YouTube" />
+    <Part def="CarPart_ModuleAmmoBig_epic" weld_pos="0.000 0.450 -0.150" weld_rot_idx="22" dye="Pic_YouTube" />
+    <Part def="CarPart_Structure_fender2_r" weld_pos="-0.600 1.350 -1.500" weld_rot_idx="3" dye="Pic_YouTube" />
+    <Part def="CarPart_Structure_fender2_l" weld_pos="0.600 2.550 -0.300" weld_rot_idx="4" dye="Pic_YouTube" />
+    <Part def="CarPart_Roadsign_06" weld_pos="0.000 1.950 0.000" weld_rot_idx="22" dye="Pic_YouTube" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.750 0.600" dye="Pic_YouTube" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.000 0.750 -0.900" dye="Pic_YouTube" />
+    <Part def="CarPart_Grid_1" weld_pos="0.600 1.350 0.300" weld_rot_idx="20" dye="Pic_YouTube" />
+    <Part def="CarPart_Grid_1" weld_pos="-0.900 1.350 0.300" weld_rot_idx="20" dye="Pic_YouTube" />
+    <Part def="CarPart_AviaRadial2x2x4" weld_pos="0.000 1.050 -1.500" weld_rot_idx="23" dye="Pic_YouTube" />
+    <Part def="CarPart_AviaRadial2x2x4" weld_pos="0.000 1.050 -1.500" weld_rot_idx="22" dye="Pic_YouTube" />
+    <Part def="CarPart_Buggy_fender_r" weld_pos="-0.600 1.950 0.900" weld_rot_idx="6" dye="Pic_YouTube" />
+    <Part def="CarPart_Buggy_fender" weld_pos="0.600 1.950 0.900" weld_rot_idx="6" dye="Pic_YouTube" />
+    <Part def="CarPart_Buggy_fender_r" weld_pos="1.200 1.350 -0.900" weld_rot_idx="13" dye="Pic_YouTube" />
+    <Part def="CarPart_Buggy_fender" weld_pos="-1.200 1.350 -0.900" weld_rot_idx="9" dye="Pic_YouTube" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="0.600 1.200 -1.200" weld_rot_idx="10" dye="Pic_YouTube" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="-0.600 1.200 -1.200" weld_rot_idx="15" dye="Pic_YouTube" />
+    <Part def="CarPart_Structure_fender3_l" weld_pos="0.600 2.550 0.000" dye="Pic_YouTube" />
+    <Part def="CarPart_Structure_fender3_r" weld_pos="-0.600 2.550 0.000" dye="Pic_YouTube" />
+    <Part def="CarPart_AviaRadial2x2x4" weld_pos="0.000 0.750 1.200" weld_rot_idx="19" dye="Pic_YouTube" />
+    <Part def="CarPart_AviaSlope2x1x4" weld_pos="0.000 1.050 1.200" weld_rot_idx="8" dye="Pic_YouTube" />
+    <Part def="CarPart_AviaSlope2x1x4" weld_pos="0.000 0.450 -0.900" weld_rot_idx="23" dye="Pic_YouTube" />
+    <Part def="CarPart_AviaBox4x1x2" weld_pos="0.000 0.450 0.600" weld_rot_idx="1" dye="Pic_YouTube" />
+  </Chassis>
+</CarDesign>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0"?>
-<CarDesign numParts="41">
+<CarDesign numParts="40">
   <Chassis def="Chassis_Gazelle" pos="0.600 0.750 -0.300" dye="Dye_SeaCamuflage">
     <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 1.500" />
     <Part def="CarPart_ChassisBase4" weld_pos="0.000 0.750 0.300" />
@@ -15,7 +15,7 @@
     <Part def="CarPart_VanWindow_epic" weld_pos="1.650 1.350 2.100" weld_rot_idx="4" dye="Dye_Blue02" />
     <Part def="CarPart_Roundsaw_rare" weld_pos="0.000 0.750 -1.500" weld_rot_idx="14" />
     <Part def="CarPart_Roundsaw_rare" weld_pos="1.200 0.750 -1.500" weld_rot_idx="14" />
-    <Part def="CarPart_Gun_Machinegun_rare" weld_pos="1.500 2.550 1.200" weaponGroup="1" dye="Dye_SeaCamuflage" />
+    <Part def="CarPart_Gun_Machinegun_rare" weld_pos="0.600 2.550 1.200" weaponGroup="1" dye="Dye_SeaCamuflage" />
     <Part def="CarPart_WheelDouble_R_epic" weld_pos="-0.450 0.450 2.700" />
     <Part def="CarPart_WheelDouble_R_epic" weld_pos="1.650 0.450 2.700" weld_rot_idx="4" />
     <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.450 0.450 -0.900" />
@@ -41,6 +41,5 @@
     <Part def="CarPart_ChassisBase4" weld_pos="1.200 0.750 1.500" />
     <Part def="CarPart_ChassisBase4" weld_pos="1.200 0.750 2.700" />
     <Part def="CarPart_PowerGiver_epic" weld_pos="0.600 1.350 0.900" weld_rot_idx="18" />
-    <Part def="CarPart_Gun_Machinegun" weld_pos="-0.300 2.550 1.500" weaponGroup="1" />
   </Chassis>
 </CarDesign>

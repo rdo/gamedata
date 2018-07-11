@@ -78,7 +78,7 @@
     <Part def="CarPart_Military_box_4x1x8" weld_pos="0.000 1.950 0.900" weld_rot_idx="22" />
     <Part def="CarPart_Military_slope_2x1x8" weld_pos="0.000 1.950 0.000" weld_rot_idx="22" />
     <Part def="CarPart_Gun_BigCannon_Free_legend" weld_pos="0.000 2.250 1.500" weaponGroup="2" />
-    <Part def="CarPart_Mob_EngineMini_epic" weld_pos="-0.150 0.900 2.100" weld_rot_idx="22" />
+    <Part def="CarPart_Mob_Engine_Chase" weld_pos="-0.150 0.900 2.100" weld_rot_idx="22" />
     <Part def="CarPart_Buggy_Grid8" weld_pos="0.000 1.950 2.700" weld_rot_idx="2" />
     <Part def="CarPart_TruckSide" weld_pos="-1.500 2.100 0.300" weld_rot_idx="9" dye="Dye_Eraser" />
     <Part def="CarPart_TruckSide" weld_pos="1.500 2.100 0.300" weld_rot_idx="9" dye="Dye_Eraser" />

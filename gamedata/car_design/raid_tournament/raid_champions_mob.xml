@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="39">
+  <Chassis def="Cabin_Buggy_Small" pos="0.000 0.750 0.300" dye="Dye_White">
+    <Part def="CarPart_BumperSpike_rare" weld_pos="0.000 0.600 -2.400" dye="Dye_Cyan02" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 1.200" weld_rot_idx="22" dye="Dye_Cyan02" />
+    <Part def="CarPart_Buggy_Grid10" weld_pos="0.000 1.350 1.500" weld_rot_idx="4" dye="Dye_White" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="0.450 0.450 -1.800" weld_rot_idx="4" dye="Dye_Cyan02" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.450 0.450 -1.800" dye="Dye_Cyan02" />
+    <Part def="CarPart_WheelDouble_R_epic" weld_pos="-0.450 0.450 1.500" dye="Dye_Cyan02" />
+    <Part def="CarPart_WheelDouble_R_epic" weld_pos="0.450 0.450 1.500" weld_rot_idx="4" dye="Dye_Cyan02" />
+    <Part def="CarPart_EngineMini_rare" weld_pos="0.000 1.050 1.500" weld_rot_idx="22" dye="Dye_White" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="0.900 0.600 0.000" weld_rot_idx="14" dye="Dye_Cyan02" />
+    <Part def="CarPart_ChassisLight6" weld_pos="0.000 0.750 0.000" dye="Dye_Cyan02" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 -1.200" dye="Dye_Cyan02" />
+    <Part def="CarPart_BumperSpike_rare" weld_pos="0.900 1.200 0.300" weld_rot_idx="18" dye="Dye_White" />
+    <Part def="CarPart_BumperSpike_rare" weld_pos="0.600 0.900 0.000" weld_rot_idx="18" dye="Dye_White" />
+    <Part def="CarPart_BumperSpike_rare" weld_pos="-0.600 0.900 0.000" weld_rot_idx="22" dye="Dye_White" />
+    <Part def="CarPart_BumperSpike_rare" weld_pos="-0.900 1.200 0.300" weld_rot_idx="22" dye="Dye_White" />
+    <Part def="CarPart_Exhaust2" weld_pos="0.450 0.600 1.800" weld_rot_idx="18" dye="Dye_Eraser" />
+    <Part def="CarPart_Exhaust2" weld_pos="-0.450 0.600 1.800" weld_rot_idx="18" dye="Dye_Eraser" />
+    <Part def="CarPart_Exhaust3" weld_pos="0.000 0.600 1.800" weld_rot_idx="18" dye="Dye_Eraser" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="0.900 1.050 1.500" dye="Dye_White" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="-0.750 1.050 1.800" weld_rot_idx="5" dye="Dye_Cyan02" />
+    <Part def="CarPart_FenderSolidOutside_rare" weld_pos="-0.900 1.050 1.500" weld_rot_idx="4" dye="Dye_White" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="0.750 1.050 1.800" weld_rot_idx="5" dye="Dye_Cyan02" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.000 1.050 1.800" weld_rot_idx="6" dye="Dye_White" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="0.000 1.350 1.950" dye="Dye_White" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="0.750 0.750 2.100" weld_rot_idx="8" dye="Dye_Cyan02" />
+    <Part def="CarPart_BumperSpikeMini" weld_pos="-0.750 0.750 2.100" weld_rot_idx="8" dye="Dye_Cyan02" />
+    <Part def="CarPart_Buggy_Grid11" weld_pos="-0.900 0.600 0.000" weld_rot_idx="11" dye="Dye_Cyan02" />
+    <Part def="CarPart_Buggy_Grid11" weld_pos="0.750 1.050 0.300" dye="Dye_White" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.600 1.350 1.500" weld_rot_idx="20" dye="Dye_White" />
+    <Part def="CarPart_Buggy_Grid3" weld_pos="-0.750 1.050 0.300" dye="Dye_White" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="-0.600 1.350 1.500" weld_rot_idx="17" dye="Dye_White" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.000 0.750 -2.100" dye="Dye_Cyan02" />
+    <Part def="Raid_Tournament_MineLauncher" weld_pos="-0.002 0.750 -1.800" weaponGroup="1" dye="Dye_White" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.000 0.750 -0.900" weld_rot_idx="4" />
+    <Part def="CarPart_Buggy_Grid1" weld_pos="0.000 1.350 -0.900" weld_rot_idx="5" dye="Dye_White" />
+    <Part def="CarPart_Buggy_Grid7" weld_pos="0.600 1.050 -1.200" weld_rot_idx="14" dye="Dye_White" />
+    <Part def="CarPart_Buggy_Grid7" weld_pos="-0.600 1.050 -1.200" weld_rot_idx="11" dye="Dye_White" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="0.450 1.350 -0.900" weld_rot_idx="4" dye="Dye_White" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="-0.450 1.350 -0.900" weld_rot_idx="4" dye="Dye_White" />
+  </Chassis>
+</CarDesign>

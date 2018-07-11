@@ -1,0 +1,95 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="90" isLeviathan="true">
+  <Chassis def="Chassis_Kamaz" pos="0.900 0.750 -1.800" dye="pic_BulletRust">
+    <Part def="CarPart_ChassisBase2" weld_pos="0.900 0.750 -1.800" dye="pic_BulletRust" />
+    <Part def="CarPart_TankTrackBig_legend" weld_pos="-0.750 0.450 -0.300" dye="pic_BulletRust" />
+    <Part def="CarPart_TankTrackBig_legend" weld_pos="2.550 0.450 -0.300" weld_rot_idx="4" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckDoor" weld_pos="2.700 1.500 -2.700" weld_rot_idx="2" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckDoor" weld_pos="2.700 1.500 2.100" weld_rot_idx="7" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckDoor" weld_pos="-0.900 1.500 -0.300" weld_rot_idx="7" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckDoor" weld_pos="-0.900 1.500 -0.300" weld_rot_idx="2" dye="pic_BulletRust" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="-0.300 0.750 -1.200" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="2.100 0.750 -1.200" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckSlope4" weld_pos="2.400 1.050 -2.100" weld_rot_idx="10" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckSlope4" weld_pos="-0.600 1.050 -2.100" weld_rot_idx="15" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckSlope_Fender" weld_pos="0.900 1.950 3.900" weld_rot_idx="8" dye="pic_BulletRust" />
+    <Part def="CarPart_Military_door_slope_4x1x4" weld_pos="2.700 1.650 -2.100" weld_rot_idx="18" dye="pic_BulletRust" />
+    <Part def="CarPart_Military_door_slope_4x1x4" weld_pos="-0.900 1.650 -2.100" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_Military_box_slope_2x1x4" weld_pos="-1.200 1.650 1.500" weld_rot_idx="4" dye="pic_BulletRust" />
+    <Part def="CarPart_Military_slope_2x1x8" weld_pos="-1.200 1.650 -0.300" weld_rot_idx="4" dye="pic_BulletRust" />
+    <Part def="CarPart_Military_slope_2x1x8" weld_pos="3.000 1.650 -0.300" dye="pic_BulletRust" />
+    <Part def="CarPart_Military_box_slope_2x1x4" weld_pos="3.000 1.650 1.500" dye="pic_BulletRust" />
+    <Part def="CarPart_Military_slope_dble_2x1x2" weld_pos="2.400 1.650 6.600" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_Military_slope_dble_2x1x2" weld_pos="-0.600 1.650 6.600" weld_rot_idx="4" dye="pic_BulletRust" />
+    <Part def="CarPart_Military_slope_2x1x8" weld_pos="0.900 1.650 6.600" weld_rot_idx="18" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipeBig2x4" weld_pos="2.400 1.800 5.700" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipeBig2x4" weld_pos="2.400 1.800 0.900" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipeBig2x4" weld_pos="-0.600 1.800 5.700" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipeBig2x4" weld_pos="-0.600 1.800 0.900" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="-0.750 1.650 0.150" weld_rot_idx="18" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="-0.750 1.650 -0.150" weld_rot_idx="18" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="2.550 1.650 -0.150" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe1x2x2" weld_pos="2.550 1.650 0.150" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_Military_slope_3ple_1x1x8" weld_pos="-0.300 1.650 -2.850" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_Military_slope_3ple_1x1x8" weld_pos="2.100 1.650 -2.850" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_Bumper1" weld_pos="3.300 1.500 -1.200" weld_rot_idx="18" dye="pic_BulletRust" />
+    <Part def="CarPart_Bumper1" weld_pos="3.300 1.500 0.600" weld_rot_idx="18" dye="pic_BulletRust" />
+    <Part def="CarPart_Bumper1" weld_pos="-1.500 1.500 -1.200" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_Bumper1" weld_pos="-1.500 1.500 0.600" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="Gameplay_Raid_Anomaly_Mamoth" weld_pos="0.900 2.250 3.300" weaponGroup="2" dye="pic_BulletRust" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="2.100 0.750 0.600" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="2.100 0.750 2.400" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="-0.300 0.750 0.600" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="-0.300 0.750 2.400" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="2.100 0.750 4.200" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_TankTrackBig_legend" weld_pos="2.550 0.450 4.500" weld_rot_idx="4" dye="pic_BulletRust" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="-0.300 0.750 4.200" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_TankTrackBig_legend" weld_pos="-0.750 0.450 4.500" dye="pic_BulletRust" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.900 0.750 5.700" weld_rot_idx="4" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckDoor" weld_pos="-0.900 1.500 2.100" weld_rot_idx="2" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckDoor" weld_pos="-0.900 1.500 4.500" weld_rot_idx="2" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckDoor" weld_pos="2.700 1.500 4.500" weld_rot_idx="7" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckDoor" weld_pos="2.700 1.500 6.900" weld_rot_idx="7" dye="pic_BulletRust" />
+    <Part def="CarPart_Military_slope_2x1x8" weld_pos="3.000 1.650 3.300" dye="pic_BulletRust" />
+    <Part def="CarPart_Military_slope_2x1x8" weld_pos="3.000 1.650 5.700" dye="pic_BulletRust" />
+    <Part def="CarPart_Military_slope_2x1x8" weld_pos="-1.200 1.650 3.300" weld_rot_idx="4" dye="pic_BulletRust" />
+    <Part def="CarPart_Military_slope_2x1x8" weld_pos="-1.200 1.650 5.700" weld_rot_idx="4" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckDoor" weld_pos="1.500 1.500 4.500" weld_rot_idx="7" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckDoor" weld_pos="0.300 1.500 4.500" weld_rot_idx="7" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckSlope_Fender" weld_pos="0.900 1.950 2.700" weld_rot_idx="9" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckSide" weld_pos="1.350 1.950 2.700" weld_rot_idx="2" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckSide" weld_pos="0.450 1.950 2.700" weld_rot_idx="2" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckDoor" weld_pos="0.300 1.500 -0.300" weld_rot_idx="2" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckDoor" weld_pos="1.500 1.500 2.100" weld_rot_idx="7" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckDoor" weld_pos="0.300 1.500 4.500" weld_rot_idx="2" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckDoor" weld_pos="1.500 1.500 6.900" weld_rot_idx="7" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe4x1x1" weld_pos="0.300 1.950 0.150" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe4x1x1" weld_pos="1.500 1.950 0.150" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe4x1x1" weld_pos="1.500 1.950 -0.150" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe4x1x1" weld_pos="0.300 1.950 -0.150" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe4x1x1" weld_pos="1.500 1.650 1.350" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe4x1x1" weld_pos="0.300 1.650 1.350" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe4x1x1" weld_pos="1.500 1.650 0.450" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe4x1x1" weld_pos="0.300 1.650 0.450" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe4x1x1" weld_pos="1.500 1.650 6.150" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe4x1x1" weld_pos="0.300 1.650 6.150" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe4x1x1" weld_pos="1.500 1.650 5.250" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckPipe4x1x1" weld_pos="0.300 1.650 5.250" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_Bumper1" weld_pos="3.300 1.500 3.600" weld_rot_idx="18" dye="pic_BulletRust" />
+    <Part def="CarPart_Bumper1" weld_pos="3.300 1.500 5.400" weld_rot_idx="18" dye="pic_BulletRust" />
+    <Part def="CarPart_Bumper1" weld_pos="-1.500 1.500 3.600" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_Bumper1" weld_pos="-1.500 1.500 5.400" weld_rot_idx="22" dye="pic_BulletRust" />
+    <Part def="CarPart_Bumper1" weld_pos="0.000 1.500 6.900" weld_rot_idx="4" dye="pic_BulletRust" />
+    <Part def="CarPart_Bumper1" weld_pos="1.800 1.500 6.900" weld_rot_idx="4" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckSlope4" weld_pos="-0.600 0.750 6.600" weld_rot_idx="3" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckSlope4" weld_pos="2.400 0.750 6.600" weld_rot_idx="3" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckSlope4" weld_pos="1.800 0.750 6.600" weld_rot_idx="3" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckSlope4" weld_pos="1.200 0.750 6.600" weld_rot_idx="3" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckSlope4" weld_pos="0.000 0.750 6.600" weld_rot_idx="3" dye="pic_BulletRust" />
+    <Part def="CarPart_TruckSlope4" weld_pos="0.600 0.750 6.600" weld_rot_idx="3" dye="pic_BulletRust" />
+    <Part def="MBP_Harvester_legend" weld_pos="-0.600 1.350 -2.700" dye="pic_BulletRust" />
+    <Part def="MBP_Harvester_legend" weld_pos="2.700 1.350 -2.700" dye="pic_BulletRust" />
+    <Part def="CarPart_BumperTrain_rare" weld_pos="0.000 0.600 -2.100" weld_rot_idx="5" />
+    <Part def="CarPart_BumperTrain_rare" weld_pos="1.800 0.600 -2.100" weld_rot_idx="5" />
+  </Chassis>
+</CarDesign>

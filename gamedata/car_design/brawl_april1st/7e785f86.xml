@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="9">
+  <Chassis def="Chassis_Basic" pos="0.000 0.750 0.000">
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 0.600" />
+    <Part def="CarPart_ChassisLight4" weld_pos="0.000 0.750 -0.600" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="0.450 0.450 0.900" weld_rot_idx="4" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="0.450 0.450 -0.900" weld_rot_idx="4" />
+    <Part def="CarPart_WheelMed_R_rare" weld_pos="-0.450 0.450 0.900" />
+    <Part def="CarPart_WheelMed_RS_rare" weld_pos="-0.450 0.450 -0.900" />
+    <Part def="CarPart_Gun_BigCannon_EX" weld_pos="1.200 1.050 0.000" weaponGroup="2" />
+    <Part def="CarPart_PowerGiverExplosive_epic" weld_pos="-0.150 0.750 1.500" weld_rot_idx="22" />
+    <Part def="CarPart_Gun_BigCannon_EX" weld_pos="-1.200 1.050 0.000" weaponGroup="2" />
+  </Chassis>
+</CarDesign>

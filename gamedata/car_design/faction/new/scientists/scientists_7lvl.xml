@@ -1,0 +1,45 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="40">
+  <Chassis def="Cabin_Moonwalker" pos="0.000 0.750 -1.500" dye="Dye_Grey01">
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.000 0.750 -1.200" weld_rot_idx="4" dye="Dye_Grey01" />
+    <Part def="CarPart_Gun_Syfy_Plazma" weld_pos="1.500 1.950 0.900" weaponGroup="1" dye="Dye_Grey01" />
+    <Part def="CarPart_ChassisBase2" weld_pos="0.600 0.750 0.000" weld_rot_idx="22" dye="Dye_Grey01" />
+    <Part def="CarPart_ChassisBase2" weld_pos="-0.600 0.750 0.000" weld_rot_idx="22" dye="Dye_Grey01" />
+    <Part def="CarPart_Wheel_Moonwalker_S" weld_pos="0.900 0.450 -1.500" weld_rot_idx="4" dye="Dye_Grey01" />
+    <Part def="CarPart_Wheel_Moonwalker_S" weld_pos="-0.900 0.450 -1.500" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Small" weld_pos="0.000 0.750 1.800" weld_rot_idx="12" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Box_Wide" weld_pos="1.500 1.350 0.600" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Box_Wide" weld_pos="-1.500 1.350 0.600" weld_rot_idx="4" dye="Dye_Grey01" />
+    <Part def="CarPart_Wheel_Moonwalker" weld_pos="-0.900 0.450 0.000" dye="Dye_Grey01" />
+    <Part def="CarPart_Wheel_Moonwalker" weld_pos="0.900 0.450 0.000" weld_rot_idx="4" dye="Dye_Grey01" />
+    <Part def="CarPart_Grid_1" weld_pos="0.900 1.350 0.300" weld_rot_idx="22" dye="Dye_Grey01" />
+    <Part def="CarPart_Grid_1" weld_pos="-0.900 1.350 0.300" weld_rot_idx="22" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="-0.600 1.050 0.900" weld_rot_idx="8" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="0.600 1.050 0.900" weld_rot_idx="8" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="1.800 1.350 0.900" weld_rot_idx="14" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="-1.800 1.350 0.900" weld_rot_idx="15" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Wide" weld_pos="0.000 1.350 0.300" weld_rot_idx="4" dye="Dye_Grey01" />
+    <Part def="CarPart_Wheel_Moonwalker_S" weld_pos="0.900 0.450 1.500" weld_rot_idx="4" dye="Dye_Grey01" />
+    <Part def="CarPart_Wheel_Moonwalker_S" weld_pos="-0.900 0.450 1.500" dye="Dye_Grey01" />
+    <Part def="CarPart_PowerGiverExplosive_epic" weld_pos="0.000 0.900 -0.300" weld_rot_idx="2" dye="Dye_Grey01" />
+    <Part def="CarPart_ChassisTruck6" weld_pos="0.000 0.750 1.200" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="-0.300 1.050 0.300" weld_rot_idx="11" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="0.300 1.050 0.300" weld_rot_idx="10" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Box_Wide" weld_pos="0.000 1.350 1.800" weld_rot_idx="18" dye="Dye_Grey01" />
+    <Part def="CarPart_Bumper1" weld_pos="0.000 0.600 -1.800" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Large" weld_pos="0.000 1.350 2.400" weld_rot_idx="18" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="1.200 1.350 -1.200" weld_rot_idx="10" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="-1.200 1.350 -1.200" weld_rot_idx="11" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Slope" weld_pos="0.000 1.650 1.800" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_Syfy_Slope" weld_pos="-1.500 1.650 -0.300" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_Syfy_Slope" weld_pos="1.500 1.650 -0.300" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="-1.800 1.650 0.900" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="-1.200 1.650 0.900" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="1.800 1.650 0.900" />
+    <Part def="CarPart_Structure_Syfy_Box_Small" weld_pos="1.200 1.650 0.900" weld_rot_idx="4" />
+    <Part def="CarPart_Gun_Syfy_Plazma" weld_pos="-1.500 1.950 0.900" weaponGroup="1" dye="Dye_Grey01" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="0.600 1.650 0.900" weld_rot_idx="4" />
+    <Part def="CarPart_Structure_Syfy_Slope_Large" weld_pos="-0.600 1.650 0.900" />
+    <Part def="CarPart_Structure_Syfy_Boxslope_Small" weld_pos="0.000 1.650 0.000" weld_rot_idx="18" />
+  </Chassis>
+</CarDesign>

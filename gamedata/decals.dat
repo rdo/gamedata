@@ -67,6 +67,17 @@ land_mudpud
 	default_size 5.000000
 }
 
+land_psycoground
+{
+	albedo_texture "textures\decals\garbage\psycobottom_a"
+	normal_texture "textures\decals\garbage\psycobottom_n"
+	gloss_texture "textures\decals\garbage\psycobottom_g"
+	uv ( 0.0000 0.0000 1.0000 1.0000 )
+	material bump
+	specular_color ( 0 0 0 )
+	default_size 10.000000
+}
+
 land_garbage01
 {
 	albedo_texture "textures\decals\garbage\garbage01_a"
@@ -99,6 +110,17 @@ land_road2
 	default_size 2.000000
 }
 
+land_road2brown
+{
+	albedo_texture "textures\decals\land_road2_brown_a"
+	normal_texture "textures\decals\land_road2_n"
+	gloss_texture "textures\decals\land_road2_g"
+	uv ( 0.0000 0.0000 1.0000 1.0000 )
+	material bump
+	specular_color ( 0 0 0 )
+	default_size 2.000000
+}
+
 land_road3
 {
 	albedo_texture "textures\decals\land_road3_a"
@@ -113,6 +135,17 @@ land_road3
 land_road4
 {
 	albedo_texture "textures\decals\land_road4_a"
+	normal_texture "textures\decals\land_road4_n"
+	gloss_texture "textures\decals\land_road4_g"
+	uv ( 0.0000 0.0000 1.0000 1.0000 )
+	material bump
+	specular_color ( 0 0 0 )
+	default_size 2.000000
+}
+
+land_road4brown
+{
+	albedo_texture "textures\decals\land_road4_brown_a"
 	normal_texture "textures\decals\land_road4_n"
 	gloss_texture "textures\decals\land_road4_g"
 	uv ( 0.0000 0.0000 1.0000 1.0000 )
@@ -154,6 +187,28 @@ land_road7
 	default_size 16.000000
 }
 
+land_road9
+{
+	albedo_texture "textures\decals\land_road9_a"
+	normal_texture "textures\decals\land_road9_n"
+	gloss_texture "textures\decals\land_road9_g"
+	uv ( 0.0000 0.0000 1.0000 1.0000 )
+	material bump
+	specular_color ( 0 0 0 )
+	default_size 16.000000
+}
+
+land_road8
+{
+	albedo_texture "textures\decals\land_road8_a"
+	normal_texture "textures\decals\land_road8_n"
+	gloss_texture "textures\decals\land_road8_g"
+	uv ( 0.0000 0.0000 1.0000 1.0000 )
+	material bump
+	specular_color ( 0 0 0 )
+	default_size 16.000000
+}
+
 land_rock
 {
 	albedo_texture "textures\decals\land_rock_a"
@@ -170,6 +225,17 @@ land_rock02
 	albedo_texture "textures\decals\land_rock02_a"
 	normal_texture "textures\decals\land_rock02_n"
 	gloss_texture "textures\decals\land_rock02_g"
+	uv ( 0.0000 0.0000 1.0000 1.0000 )
+	material bump
+	specular_color ( 0 0 0 )
+	default_size 2.000000
+}
+
+land_rock03
+{
+	albedo_texture "textures\decals\land_rock03_a"
+	normal_texture "textures\decals\land_rock03_n"
+	gloss_texture "textures\decals\land_rock03_g"
 	uv ( 0.0000 0.0000 1.0000 1.0000 )
 	material bump
 	specular_color ( 0 0 0 )
@@ -223,17 +289,17 @@ land_roadcrack04
 land_roadmarking01
 {
 	albedo_texture "textures\decals\road_marking"
-	uv ( 0.0000 0.4688 1.0000 0.5313 )
+	uv ( 0.0000 0.2300 0.5108 0.3000 )
 	specular_color ( 0 0 0 )
-	default_size 2.000000
+	default_size 5.000000
 }
 
 land_roadmarking02
 {
 	albedo_texture "textures\decals\road_marking"
-	uv ( 0.0000 0.0000 1.0000 0.4063 )
+	uv ( 0.0000 0.0000 0.5010 0.2500 )
 	specular_color ( 0 0 0 )
-	default_size 2.000000
+	default_size 5.000000
 }
 
 land_satt01
@@ -324,6 +390,17 @@ land_sand02
 	default_size 8.000000
 }
 
+land_sand03
+{
+	albedo_texture "textures\decals\land_sand3_a"
+	normal_texture "textures\decals\land_sand3_n"
+	gloss_texture "textures\decals\land_sand3_g"
+	uv ( 0.0000 0.0000 1.0000 1.0000 )
+	material bump
+	specular_color ( 0 0 0 )
+	default_size 8.000000
+}
+
 land_tires
 {
 	albedo_texture "textures\decals\land_tires_a"
@@ -334,6 +411,29 @@ land_tires
 	specular_color ( 0 0 0 )
 	default_size 1.000000
 }
+
+land_asproad01
+{
+	albedo_texture "textures\decals\asphalt_road\frag_road01_a"
+	normal_texture "textures\decals\asphalt_road\frag_road01_n"
+	gloss_texture "textures\decals\asphalt_road\frag_road01_g"
+	uv ( 0.0000 0.0000 1.0000 1.0000 )
+	material bump
+	specular_color ( 0 0 0 )
+	default_size 8.000000
+}
+
+land_potherb
+{
+	albedo_texture "textures\decals\potherb_a"
+	normal_texture "textures\decals\potherb_n"
+	gloss_texture "textures\decals\potherb_g"
+	uv ( 0.0000 0.0000 1.0000 1.0000 )
+	material bump
+	specular_color ( 0 0 0 )
+	default_size 1.000000
+}
+
 
 newyear2016_confetti
 {
@@ -726,6 +826,7 @@ impact_cannon_ground1
 {
 	albedo_texture "textures\decals\impact\cannonhit_a"
 	normal_texture "textures\decals\impact\cannonhit_n"
+	gloss_texture "textures\decals\impact\cannonhit_g"
 	uv ( 0.0000 0.0000 0.5000 0.5000 )
 	material bump
 	specular_color ( 0 0 0 )
@@ -736,6 +837,7 @@ impact_cannon_stone1
 {
 	albedo_texture "textures\decals\impact\cannonhit_a"
 	normal_texture "textures\decals\impact\cannonhit_n"
+	gloss_texture "textures\decals\impact\cannonhit_g"
 	uv ( 0.0000 0.5000 0.5000 0.5000 )
 	material bump
 	specular_color ( 0 0 0 )
@@ -960,5 +1062,60 @@ signs_graffiti13
 	material bump
 	specular_color ( 0 0 0 )
 	default_size 4.000000
+}
+
+signs_wallpaper01
+{
+	albedo_texture "textures\decals\graffiti\wallpaper_a"
+	normal_texture "textures\decals\graffiti\wallpaper_n"
+	gloss_texture "textures\decals\graffiti\wallpaper_g"
+	uv ( 0.0000 0.0000 0.6200 0.3300 )
+	material bump
+	specular_color ( 0 0 0 )
+	default_size 6.500000
+}
+
+land_roadmarking02yel
+{
+	albedo_texture "textures\decals\road_marking"
+	uv ( 0.4951 0.0000 1.0000 0.2171 )
+	specular_color ( 0 0 0 )
+	default_size 5.000000
+}
+
+land_roadmarking03yel
+{
+	albedo_texture "textures\decals\road_marking"
+	uv ( 0.0000 0.7339 1.0000 0.2700 )
+	specular_color ( 0 0 0 )
+	default_size 9.000000
+}
+
+land_roadmarking03
+{
+	albedo_texture "textures\decals\road_marking"
+	uv ( 0.0000 0.4919 1.0000 0.2500 )
+	specular_color ( 0 0 0 )
+	gloss 55
+	default_size 9.000000
+}
+
+football_gatecrack
+{
+	albedo_texture "textures\decals\fgate_crack_a"
+	normal_texture "textures\decals\fgate_crack_n"
+	gloss_texture "textures\decals\fgate_crack_g"
+	uv ( 0.0000 0.0000 1.0000 1.0000 )
+	material bump
+	specular_color ( 0 0 0 )
+	default_size 12.000000
+}
+
+land_roadmarking01b
+{
+	albedo_texture "textures\decals\road_marking"
+	uv ( 0.5000 0.2300 0.25 0.25 )
+	specular_color ( 0 0 0 )
+	gloss 55
 }
 

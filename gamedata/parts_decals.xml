@@ -8,9 +8,20 @@
   <Decal Name="santa" AlbedoTexture="textures\stickers\santa.dds" />
   <Decal Name="eagle" AlbedoTexture="textures\stickers\eagle.dds" />
   <Decal Name="ufostop" AlbedoTexture="textures\stickers\ufostop.dds" />
-  <Decal Name="redstar" AlbedoTexture="textures\stickers\redstar.dds" /> 
-  <Decal Name="snake01" AlbedoTexture="textures\stickers\snake01.dds" /> 
-  <Decal Name="snake02" AlbedoTexture="textures\stickers\snake02.dds" /> 
+  <Decal Name="redstar" AlbedoTexture="textures\stickers\redstar.dds" />
+  <Decal Name="snake01" AlbedoTexture="textures\stickers\snake01.dds" />
+  <Decal Name="snake02" AlbedoTexture="textures\stickers\snake02.dds" />
+  <Decal Name="dog01" AlbedoTexture="textures\stickers\dog01.dds" />
+  <Decal Name="shield01" AlbedoTexture="textures\stickers\shield01.dds" />
+  <Decal Name="hunter01" AlbedoTexture="textures\stickers\hunter01.dds" />
+  <Decal Name="hunter02" AlbedoTexture="textures\stickers\hunter02.dds" />
+  <Decal Name="ball01" AlbedoTexture="textures\stickers\ball01.dds" />
+  <Decal Name="fire03" AlbedoTexture="textures\stickers\fire03.dds" />
+  <Decal Name="jaws01" AlbedoTexture="textures\stickers\jaws01.dds" />
+  <Decal Name="jaws02" AlbedoTexture="textures\stickers\jaws02.dds" />
+  <Decal Name="jaws03" AlbedoTexture="textures\stickers\jaws03.dds" />
+  <Decal Name="jaws04" AlbedoTexture="textures\stickers\jaws04.dds" />
+  <Decal Name="jaws05" AlbedoTexture="textures\stickers\jaws05.dds" />
   
   <Decal Name="nyear2018_bullfinch" AlbedoTexture="textures\stickers\new_year2018\bullfinch.dds" />
   <Decal Name="nyear2018_deer" AlbedoTexture="textures\stickers\new_year2018\deer.dds" />
@@ -42,6 +53,13 @@
   <Decal Name="china_fu" AlbedoTexture="textures\stickers\chinese_new_year2018\fu.dds" />
   
   <Decal Name="japan_spring" AlbedoTexture="textures\stickers\japan\spring.dds" />
+  <Decal Name="mmx_nojp" AlbedoTexture="textures\stickers\japan\mmxnojp.dds" />
+  <Decal Name="red_swan" AlbedoTexture="textures\stickers\japan\redswan.dds" />
+
+  <Decal Name="coverme" AlbedoTexture="textures\stickers\taiwan\coverme.dds" />
+  <Decal Name="eathand" AlbedoTexture="textures\stickers\taiwan\eathand.dds" />
+  <Decal Name="loner" AlbedoTexture="textures\stickers\taiwan\loner.dds" />
+  <Decal Name="noheart" AlbedoTexture="textures\stickers\taiwan\noheart.dds" />
   
   <Decal Name="tribal01" AlbedoTexture="textures\stickers\factions\tribal01.dds" />
   <Decal Name="tribal02" AlbedoTexture="textures\stickers\factions\tribal02.dds" />
@@ -51,9 +69,14 @@
   <Decal Name="tribal06" AlbedoTexture="textures\stickers\factions\tribal06.dds" />
   <Decal Name="tribal07" AlbedoTexture="textures\stickers\factions\tribal07.dds" />
   <Decal Name="tribal08" AlbedoTexture="textures\stickers\factions\tribal08.dds" />
+  <Decal Name="tribal09" AlbedoTexture="textures\stickers\factions\tribal09.dds" />
+
+  <Decal Name="steppenwolfs01" AlbedoTexture="textures\stickers\factions\steppenwolfs01.dds" />
 
   <Decal Name="engineer01" AlbedoTexture="textures\stickers\factions\engineer01.dds" />
-  
+
+  <Decal Name="dawnschildren01" AlbedoTexture="textures\stickers\factions\dawnschildren01.dds" />
+
   <Decal Name="thailand_bankgarno" AlbedoTexture="textures\stickers\thailand\bankgarno.dds" />
   <Decal Name="thailand_edwin_official" AlbedoTexture="textures\stickers\thailand\edwin_off.dds" />
   <Decal Name="thailand_game_tv" AlbedoTexture="textures\stickers\thailand\gametv.dds" />
@@ -75,11 +98,31 @@
   <Decal Name="thailand_vag_tv" AlbedoTexture="textures\stickers\thailand\vagtv.dds" />
   <Decal Name="thailand_zhuge_liangz_tv01" AlbedoTexture="textures\stickers\thailand\zhugeliangztv01.dds" />
   <Decal Name="thailand_zhuge_liangz_tv02" AlbedoTexture="textures\stickers\thailand\zhugeliangztv02.dds" />
+  
+  <Decal Name="dj_nomad" AlbedoTexture="textures\stickers\thailand\djnomad.dds" />
+  <Decal Name="hoseki" AlbedoTexture="textures\stickers\thailand\hoseki.dds" />
+  <Decal Name="invisible_gamer" AlbedoTexture="textures\stickers\thailand\invisiblegamer.dds" />
+  <Decal Name="kamar_kamikaze" AlbedoTexture="textures\stickers\thailand\kamarkamikaze.dds" />
+  <Decal Name="min_gamer_tv" AlbedoTexture="textures\stickers\thailand\mingamertv.dds" />
+  <Decal Name="nakama_channel" AlbedoTexture="textures\stickers\thailand\nakamachannel.dds" />
+  <Decal Name="people_m" AlbedoTexture="textures\stickers\thailand\peoplem.dds" />
+  <Decal Name="q" AlbedoTexture="textures\stickers\thailand\q.dds" />
+  <Decal Name="ratchayotin" AlbedoTexture="textures\stickers\thailand\ratchayotin.dds" />
+  <Decal Name="rh_ch" AlbedoTexture="textures\stickers\thailand\rhch.dds" />
+  <Decal Name="seal_tv" AlbedoTexture="textures\stickers\thailand\sealtv.dds" />
+  <Decal Name="zezy_tv" AlbedoTexture="textures\stickers\thailand\zezytv.dds" />
+
+  <Decal Name="tw_dog" AlbedoTexture="textures\stickers\thailand\twdog.dds" />
+  <Decal Name="tw_handsome" AlbedoTexture="textures\stickers\thailand\twhandsome.dds" />
+  <Decal Name="tw_hit" AlbedoTexture="textures\stickers\thailand\twhit.dds" />
+  <Decal Name="tw_look" AlbedoTexture="textures\stickers\thailand\twlook.dds" />
+  <Decal Name="tw_taiwan" AlbedoTexture="textures\stickers\thailand\twtaiwan.dds" />
 
   <Decal Name="entack" AlbedoTexture="textures\stickers\partners\entack.dds" />
   <Decal Name="play_hard" AlbedoTexture="textures\stickers\partners\playhard.dds" />
   <Decal Name="tt_esports" AlbedoTexture="textures\stickers\partners\ttesports.dds" />
   <Decal Name="tt_premium" AlbedoTexture="textures\stickers\partners\ttpremium.dds" />
+  <Decal Name="energo_ded" AlbedoTexture="textures\stickers\partners\energoded.dds" />
 
   <Decal Name="hand_wrench" AlbedoTexture="textures\stickers\handwrench.dds" />
   
@@ -101,6 +144,17 @@
   <Decal Name="rose01" AlbedoTexture="textures\stickers\8march\rose01.dds" />
   <Decal Name="rose02" AlbedoTexture="textures\stickers\8march\rose02.dds" />
 
+  <Decal Name="1april01" AlbedoTexture="textures\stickers\1april\1april01.dds" />
+  <Decal Name="1april02" AlbedoTexture="textures\stickers\1april\1april02.dds" />
+  <Decal Name="1april03" AlbedoTexture="textures\stickers\1april\1april03.dds" />
+  <Decal Name="1april04" AlbedoTexture="textures\stickers\1april\1april04.dds" />
+
+  <Decal Name="gasmask01" AlbedoTexture="textures\stickers\9may\gasmask01.dds" />
+  <Decal Name="star02" AlbedoTexture="textures\stickers\9may\star02.dds" />
+  <Decal Name="star03" AlbedoTexture="textures\stickers\9may\star03.dds" />
+  <Decal Name="star04" AlbedoTexture="textures\stickers\9may\star04.dds" />
+  <Decal Name="tank01" AlbedoTexture="textures\stickers\9may\tank01.dds" />
+
   <Decal Name="ambulance01" AlbedoTexture="textures\stickers\ambulance01.dds" />
   <Decal Name="ambulance02" AlbedoTexture="textures\stickers\ambulance02.dds" />
   <Decal Name="ambulance03" AlbedoTexture="textures\stickers\ambulance03.dds" />
@@ -111,4 +165,18 @@
   <Decal Name="japan_contest2018_samurai_duck" AlbedoTexture="textures\stickers\japan_contest2018\samurai_duck.dds" />
 
   <Decal Name="hog01" AlbedoTexture="textures\stickers\hog01.dds" />
+
+  <Decal Name="number00" AlbedoTexture="textures\stickers\numbers\n00.dds" />
+  <Decal Name="number01" AlbedoTexture="textures\stickers\numbers\n01.dds" />
+  <Decal Name="number02" AlbedoTexture="textures\stickers\numbers\n02.dds" />
+  <Decal Name="number03" AlbedoTexture="textures\stickers\numbers\n03.dds" />
+  <Decal Name="number04" AlbedoTexture="textures\stickers\numbers\n04.dds" />
+  <Decal Name="number05" AlbedoTexture="textures\stickers\numbers\n05.dds" />
+  <Decal Name="number07" AlbedoTexture="textures\stickers\numbers\n07.dds" />
+  <Decal Name="number08" AlbedoTexture="textures\stickers\numbers\n08.dds" />
+  <Decal Name="number09" AlbedoTexture="textures\stickers\numbers\n09.dds" />
+  <Decal Name="number12" AlbedoTexture="textures\stickers\numbers\n12.dds" />
+  <Decal Name="number13" AlbedoTexture="textures\stickers\numbers\n13.dds" />
+  <Decal Name="number33" AlbedoTexture="textures\stickers\numbers\n33.dds" />
+  <Decal Name="number69" AlbedoTexture="textures\stickers\numbers\n69.dds" />
 </DecalsLibrary>
