@@ -7,19 +7,24 @@ Def.CarPart_Wheel_Base = {
   crumblySurfaceBehaviour = tires_behaviour.veryBad,
   softMargin = 0.24,
   radius = 0.461,
-  width = 0.382
+  width = 0.382,
+  physics = {
+    material = "Rubber_Base"
+  }
 }
 Def.CarPart_Wheel_Proto_IronSmall_Base = {
   inherit = "CarPart_Wheel_Base",
   radius = 0.461,
   width = 0.484,
-  metal_sounds = true
+  metal_sounds = true,
+  physics = {material = "Metal_Car"}
 }
 Def.CarPart_Wheel_Moonwalker_Base = {
   inherit = "CarPart_Wheel_Base",
   radius = 0.49,
   width = 0.484,
-  metal_sounds = true
+  metal_sounds = true,
+  physics = {material = "Metal_Car"}
 }
 Def.CarPart_Wheel_Starter_Base = {
   inherit = "CarPart_Wheel_Base",
@@ -63,7 +68,8 @@ Def.CarPart_Wheel_Medieval_Base = {
   radius = 0.59,
   width = 0.22,
   metal_sounds = true,
-  softMargin = 0.35
+  softMargin = 0.35,
+  physics = {material = "Metal_Car"}
 }
 Def.CarPart_WheelMilitary_Base = {
   inherit = "CarPart_Wheel_Base",
@@ -170,10 +176,12 @@ Def.CarPart_TrackTriangle_Base = {
   sideGripDeltaVelocity = 1,
   sideSkidDeltaVelocity = 3,
   sideGripFriction = 800,
-  sideSkidFriction = 400,
+  sideSkidFriction = 500,
   radius = 0.38,
   width = 0.505,
-  track_work_sound = "sound/treads/treads_light"
+  length = 1.3169164882226982,
+  track_work_sound = "sound/treads/treads_light",
+  physics = {material = "Metal_Car"}
 }
 Def.CarPart_Track2Wheels_Base = {
   cfm = 0.7,
@@ -187,10 +195,12 @@ Def.CarPart_Track2Wheels_Base = {
   sideGripDeltaVelocity = 1,
   sideSkidDeltaVelocity = 3,
   sideGripFriction = 800,
-  sideSkidFriction = 400,
+  sideSkidFriction = 600,
   radius = 0.408,
   width = 0.518,
-  track_work_sound = "sound/treads/treads_light"
+  length = 1.0595238095238095,
+  track_work_sound = "sound/treads/treads_light",
+  physics = {material = "Metal_Car"}
 }
 Def.CarPart_TrackBig_Base = {
   cfm = 0.7,
@@ -207,28 +217,78 @@ Def.CarPart_TrackBig_Base = {
   sideSkidFriction = 400,
   radius = 0.762,
   width = 0.633,
-  track_work_sound = "sound/treads/treads_heavy"
+  length = 2.3347457627118646,
+  track_work_sound = "sound/treads/treads_heavy",
+  physics = {material = "Metal_Car"}
+}
+Def.CarPart_TankTrackRomb_Base = {
+  cfm = 0.7,
+  erp = 0.99,
+  softMargin = 0.12,
+  important = true,
+  forwardGripDeltaVelocity = 1,
+  forwardSkidDeltaVelocity = 3,
+  forwardGripFriction = 800,
+  forwardSkidFriction = 400,
+  sideGripDeltaVelocity = 1,
+  sideSkidDeltaVelocity = 3,
+  sideGripFriction = 800,
+  sideSkidFriction = 400,
+  radius = 0.762,
+  width = 0.633,
+  length = 1.5463636363636366,
+  track_work_sound = "sound/treads/treads_mark",
+  editor_auto_mirror = true,
+  physics = {material = "Metal_Car"}
 }
 Def.CarPart_Hover_Base = {
   important = true,
   radius = 4,
-  height = 4,
+  height = 3.4,
   traction = 600,
-  hard_height = 1,
+  hard_height = 1.1,
   fling = 3.0E-4,
   rot_damping = 0.7,
   gliding = 0.02,
   critical_angle = 60,
-  children = {
+  speed_effects = {
     {
       effect = "particles/constructor/hover_jet",
+      joint = "exhaust"
+    }
+  },
+  physics = {material = "Metal_Car"}
+}
+Def.CarPart_Hover_proto_Base = {
+  important = true,
+  radius = 4,
+  height = 3.4,
+  traction = 600,
+  hard_height = 1.1,
+  fling = 8.0E-4,
+  rot_damping = 1.8,
+  gliding = 0.02,
+  critical_angle = 60,
+  speed_effects = {
+    {
+      effect = "particles/constructor/hover_jet",
+      joint = "exhaust"
+    }
+  },
+  physics = {material = "Metal_Car"}
+}
+Def.CarPart_Hover_proto_Bundle_Base = {
+  inherit = "CarPart_Hover_proto_Base",
+  speed_effects = {
+    {
+      effect = "particles/constructor/hover_jet_red",
       joint = "exhaust"
     }
   }
 }
 Def.CarPart_Hover_Bundle_Base = {
   inherit = "CarPart_Hover_Base",
-  children = {
+  speed_effects = {
     {
       effect = "particles/constructor/hover_jet_red",
       joint = "exhaust"
@@ -251,7 +311,8 @@ Def.CarPart_MechaLeg_Base = {
   traction = 1500,
   softMargin = 0,
   radius = 2,
-  height = 1.3
+  height = 1.3,
+  physics = {material = "Metal_Car"}
 }
 Def.CarPart_Shnek_Base = {
   cfm = 0.7,
@@ -270,12 +331,13 @@ Def.CarPart_Shnek_Base = {
   sideSkidFriction = 600,
   radius = 0.5,
   width = 0.633,
-  saw_damage_box = Vec3(1.4, 1.2, 5),
+  saw_damage_box = Vec3(1.4, 1.2, 4),
   work_effect = "particles/weapons/melee/melee_shneck",
   saw_damage = 15,
   max_damage_speed = 1,
   track_work_sound = "sound/treads/treads_shnek",
-  work_sound = "sound/hit/shnek_common"
+  work_sound = "sound/hit/shnek_common",
+  physics = {material = "Metal_Car"}
 }
 Def.CarPart_Grinder_Base = {
   inherit = "CarPart_Wheel_Base",
@@ -284,7 +346,8 @@ Def.CarPart_Grinder_Base = {
   cfm = 0.7,
   erp = 0.3,
   steering_lock = 40,
-  softMargin = 0.6
+  softMargin = 0.6,
+  physics = {material = "Metal_Car"}
 }
 Def.CarPart_Wheel_Hopping_Base = {
   inherit = "CarPart_Wheel_Base",

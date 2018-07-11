@@ -2,10 +2,10 @@ EmoGameData = {
   max_gear_level = 20,
   stamina_cap = 60,
   stamina_refill = 200,
+  stamina_premium_bonus_cap = 0,
   stamina_for_gasoline = 1,
   max_buy_orders = 20,
   max_sell_orders = 20,
-  max_exhibited_blueprints = 8,
   craftsman_prolong_cost = 0.8,
   leviathan_power_add = 50,
   leviathan_tonnage_add = 25000,
@@ -26,10 +26,9 @@ EmoGameData = {
   acceleration_min = 0.2,
   debriefing_timeout = 27,
   damage_penetration_reduction = 0,
-  damage_penetration_reduction_piercing = 0.1,
+  damage_penetration_reduction_piercing = 0.2,
   fusion_item_count = 3,
   fusion_collection_count = 10,
-  german_money_win_reward = 1,
   china_money_win_reward = 1,
   halloween_money_win_reward = 1,
   new_year_money_win_reward = 5,
@@ -42,7 +41,18 @@ EmoGameData = {
   season_hard_unlock_lvl = 5,
   score_to_exp_curvature = 17,
   max_firework_in_cardesign = 1,
+  max_active_decor_in_cardesign = 2,
   cumulatively_online_reward_level_require = 5,
+  gaijin_2step_reward_premium = 86460,
+  gaijin_2step_reward_item = "Decal_shield01:BoundItem",
+  PremiumCraftingTimeCoef = {
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  },
   UserBlueprintCost = {
     0,
     0,
@@ -84,10 +94,13 @@ EmoGameData = {
     {capacity = 575, cost = 5},
     {capacity = 600, cost = 5}
   },
+  net_cafe_bonus_exp_coef = 0.1,
   DailyBonusExp = {
     {cap = 40000, coef = 4},
     {cap = 50000, coef = 3},
     {cap = 60000, coef = 2},
     {cap = 70000, coef = 1}
-  }
+  },
+  current_privacy_policy_version = 1,
+  current_eula_version = 1
 }

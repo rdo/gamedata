@@ -1,6 +1,7 @@
 sys.execscript("gamedata/materials/mat_tires.lua")
 sys.execscript("gamedata/def/gameplay.lua")
 sys.execscript("gamedata/def/effects.lua")
+sys.execscript("gamedata/def/decals.lua")
 sys.execscript("gamedata/def/projectile.lua")
 sys.execscript("gamedata/def/turret.lua")
 sys.execscript("gamedata/def/objects/primitives.lua")
@@ -77,8 +78,13 @@ sys.execscript("gamedata/spell/spell.lua")
 sys.execscript("gamedata/def/china_chest_overwrite.lua")
 sys.execscript("gamedata/ui_script_events.lua")
 sys.execscript("gamedata/advices.lua")
+sys.execscript("gamedata/gamepad_rumble_events.lua")
 sys.execscript("gamedata/def/ex/advices_ex.lua")
-sys.execscript("gamedata/def/pve_dialogue.lua")
+sys.execscript("gamedata/pve_dialogue.lua")
+sys.execscript("gamedata/def/gameplay_mbp.lua")
+sys.execscript("gamedata/def/gameplay_football.lua")
+sys.execscript("gamedata/def/gameplay_raid_anomaly.lua")
+sys.execscript("gamedata/def/gameplay_raid_tournament.lua")
 sys.execscript("gamedata/def/ex/seasonal_quests_ex.lua")
 sys.execscript("gamedata/def/def_extension.lua")
 sys.execscript("gamedata/medals.lua")
@@ -93,7 +99,7 @@ sys.execscript("gamedata/reverb.lua")
 sys.execscript("gamedata/sentence.lua")
 Def.Tracer = {
   class = "Tracer",
-  model = "models/objects/trace/trace",
+  effect = "particles/weapons/machinegun/bullet_projectile",
   in_editor = false
 }
 Def.GenPart_Base = {

@@ -1,4 +1,970 @@
 UiShopItems = {
+  Bundle_fiery_claw = {
+    bundleName = "Bundle_fiery_claw",
+    ui_name = "#Bundle_fiery_claw_Name",
+    ui_desc = "#Bundle_fiery_claw_Desc",
+    ui_icon = "Bundle_fiery_claw",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAIJIN = {
+        id = "C89966D1-BCC4-4B6A-BC25-244AE722D784"
+      }
+    }
+  },
+  Promo_boar = {
+    bundleName = "Promo_boar",
+    ui_name = "#Promo_boar_Name",
+    ui_desc = "#Promo_boar_Desc",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAIJIN = {
+        id = "E9432113-2730-4C1F-82EA-06105DE80E10"
+      }
+    }
+  },
+  Promo_rocket_girl = {
+    bundleName = "Promo_rocket_girl",
+    ui_name = "#Promo_rocket_girl_Name",
+    ui_desc = "#Promo_rocket_girl_Desc",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAIJIN = {
+        id = "5D6C4730-BEA8-45F8-829D-DE01DE2F2349"
+      }
+    }
+  },
+  Promo_mask2 = {
+    bundleName = "Promo_mask2",
+    ui_name = "#Promo_mask2_Name",
+    ui_desc = "#Promo_mask2_Desc",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAIJIN = {
+        id = "D3394792-FF72-4C7E-B61F-CE713DC903DF"
+      }
+    }
+  },
+  Promo_mask1 = {
+    bundleName = "Promo_mask1",
+    ui_name = "#Promo_mask1_Name",
+    ui_desc = "#Promo_mask1_Desc",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAIJIN = {
+        id = "3165925E-0C08-4F7B-BE91-DE54A079E061"
+      }
+    }
+  },
+  Bundle_Football = {
+    bundleName = "Bundle_Football",
+    ui_name = "#Bundle_Football_Name",
+    ui_desc = "#Bundle_Football_Desc",
+    ui_icon = "Bundle_Football",
+    ui_icon_big = "Bundle_Football_big",
+    sortId = 79,
+    hidden = false,
+    platforms = {
+      GAIJIN = {
+        id = "7EFDB79D-53FF-43C2-88F4-AAFF78F80DCB",
+        store_link = "https://store.gaijin.net/story.php?id=6245"
+      },
+      STEAM = {
+        id = "878630",
+        store_link = "http://store.steampowered.com/app/878630/"
+      },
+      PS4_EU = {
+        id = "55F9B30A-C935-4C9C-89C4-B51E8C50D7E6"
+      },
+      PS4_US = {
+        id = "5868C906-F599-4A5A-8D5B-8FC3C4E27D5F"
+      },
+      PS4_JP = {
+        id = "F65FB93A-D45A-4F9D-8019-757A8B599AFA"
+      },
+      XBOX_ONE = {
+        id = "74C73121-C01F-4AFD-89C4-F93212016D57"
+      },
+      GAMEFLIER = {
+        id = "76123F41-6C4D-4831-9DD2-A1C4FCBB99EA"
+      }
+    }
+  },
+  Bundle_Football_womoney = {
+    bundleName = "Bundle_Football_womoney",
+    ui_name = "#Bundle_Football_womoney_Name",
+    ui_desc = "#Bundle_Football_womoney_Desc",
+    ui_icon = "Bundle_Football_womoney",
+    sortId = 79,
+    hidden = false,
+    platforms = {
+      PW = {id = "fake"},
+      TDP = {id = "fake"},
+      XBOX_ONE_CERT = {id = "fake"}
+    }
+  },
+  Bundle_Hunter = {
+    bundleName = "Bundle_Hunter",
+    ui_name = "#Bundle_Hunter_Name",
+    ui_desc = "#Bundle_Hunter_Desc",
+    ui_icon = "Bundle_Hunter",
+    ui_icon_big = "Bundle_Hunter_big",
+    sortId = 80,
+    hidden = false,
+    platforms = {
+      GAIJIN = {
+        id = "800F64A8-CD4C-4423-8CA3-8F899648A5D1",
+        store_link = "https://store.gaijin.net/story.php?id=6200"
+      },
+      STEAM = {
+        id = "853170",
+        store_link = "http://store.steampowered.com/app/853170/"
+      },
+      PS4_EU = {
+        id = "2021B8FD-59C8-44D8-860C-F4BC46D46A81"
+      },
+      PS4_US = {
+        id = "02257DCB-8860-41F0-862A-9E3FE3FD237D"
+      },
+      PS4_JP = {
+        id = "AFE55862-F381-49FD-803E-E07D43D46C7F"
+      },
+      XBOX_ONE = {
+        id = "D2D7C761-9CE9-4EA7-80AE-9218E4C9C4C3"
+      },
+      GAMEFLIER = {
+        id = "E29B94CC-6105-4250-A08F-214BD140BDEB"
+      }
+    }
+  },
+  Bundle_Hunter_womoney = {
+    bundleName = "Bundle_Hunter_womoney",
+    ui_name = "#Bundle_Hunter_womoney_Name",
+    ui_desc = "#Bundle_Hunter_womoney_Desc",
+    ui_icon = "Bundle_Hunter_womoney",
+    sortId = 80,
+    hidden = false,
+    platforms = {
+      PW = {id = "fake"},
+      TDP = {id = "fake"},
+      XBOX_ONE_CERT = {id = "fake"}
+    }
+  },
+  Special_offer_1 = {
+    bundleName = "Special_offer_1",
+    ui_name = "#Special_offer_1_Name",
+    ui_desc = "#Special_offer_1_Desc",
+    ui_icon = "Special_offer_1",
+    hidden = true,
+    sortId = 101,
+    specialOffer = "gaijin_unlock_Special_offer_1",
+    platforms = {
+      GAIJIN = {
+        id = "A3D0DA24-597B-49D3-B4DD-F4F93991CBB5",
+        store_link = "https://store.gaijin.net/story.php?id=6173"
+      }
+    }
+  },
+  Special_offer_2 = {
+    bundleName = "Special_offer_2",
+    ui_name = "#Special_offer_2_Name",
+    ui_desc = "#Special_offer_2_Desc",
+    ui_icon = "Special_offer_1",
+    hidden = true,
+    sortId = 102,
+    specialOffer = "gaijin_unlock_Special_offer_2",
+    platforms = {
+      GAIJIN = {
+        id = "C8EAD654-BFE3-4693-8E74-BF8C81F42FEC",
+        store_link = "https://store.gaijin.net/story.php?id=6172"
+      }
+    }
+  },
+  Special_offer_3 = {
+    bundleName = "Special_offer_3",
+    ui_name = "#Special_offer_3_Name",
+    ui_desc = "#Special_offer_3_Desc",
+    ui_icon = "Special_offer_2",
+    hidden = true,
+    sortId = 103,
+    specialOffer = "gaijin_unlock_Special_offer_3",
+    platforms = {
+      GAIJIN = {
+        id = "ABDDD00D-E23A-4BEF-BD39-5C798DBCC351",
+        store_link = "https://store.gaijin.net/story.php?id=6174"
+      }
+    }
+  },
+  BOX_A = {
+    bundleName = "BOX_A",
+    ui_name = "#BOX_A_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "B249B35B-0538-41A7-8F9D-B2CD807187E5"
+      }
+    }
+  },
+  BOX_B = {
+    bundleName = "BOX_B",
+    ui_name = "#BOX_B_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "C4F52FB1-A45C-4749-A761-3B1C6E6ECB55"
+      }
+    }
+  },
+  BOX_C = {
+    bundleName = "BOX_C",
+    ui_name = "#BOX_C_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "3A22A60F-C49C-4F9F-B82F-697B793191B5"
+      }
+    }
+  },
+  BOX_D = {
+    bundleName = "BOX_D",
+    ui_name = "#BOX_D_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "9FF2E99D-5E17-4BF3-A7E6-3B043B213848"
+      }
+    }
+  },
+  BOX_E = {
+    bundleName = "BOX_E",
+    ui_name = "#BOX_E_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "11585332-57D5-41B0-B38A-CA5632F10B5D"
+      }
+    }
+  },
+  advertising_A = {
+    bundleName = "advertising_A",
+    ui_name = "#advertising_A_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "727142D4-8E70-45C6-9C56-123A76A3A083"
+      }
+    }
+  },
+  advertising_B = {
+    bundleName = "advertising_B",
+    ui_name = "#advertising_B_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "6BDF27B1-2136-48AB-9DAF-1809577D6FAC"
+      }
+    }
+  },
+  advertising_C = {
+    bundleName = "advertising_C",
+    ui_name = "#advertising_C_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "0B07D929-5F18-44F1-A845-AB5A4958A424"
+      }
+    }
+  },
+  advertising_D = {
+    bundleName = "advertising_D",
+    ui_name = "#advertising_D_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "57258A72-80F4-40D3-9FB2-8E8BF04353B0"
+      }
+    }
+  },
+  advertising_E = {
+    bundleName = "advertising_E",
+    ui_name = "#advertising_E_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "327C7ED9-2305-4182-9DC8-47BE6568DC6D"
+      }
+    }
+  },
+  advertising_F = {
+    bundleName = "advertising_F",
+    ui_name = "#advertising_F_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "29C60C15-27AD-48A0-9B49-1F8718412C8B"
+      }
+    }
+  },
+  advertising_G = {
+    bundleName = "advertising_G",
+    ui_name = "#advertising_G_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "7599B1ED-0DF1-4A9D-8B8D-68809799DE22"
+      }
+    }
+  },
+  advertising_H = {
+    bundleName = "advertising_H",
+    ui_name = "#advertising_H_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "C4C46236-EA90-4324-928F-6BCDD37D5613"
+      }
+    }
+  },
+  advertising_I = {
+    bundleName = "advertising_I",
+    ui_name = "#advertising_I_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "D72A13EF-90C8-4C85-AF1B-E64F3DD54D59"
+      }
+    }
+  },
+  advertising_J = {
+    bundleName = "advertising_J",
+    ui_name = "#advertising_J_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "6DC62C65-91D3-446C-A0B2-150C2A6DD732"
+      }
+    }
+  },
+  advertising_K = {
+    bundleName = "advertising_K",
+    ui_name = "#advertising_K_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "20D96EF3-EB0D-41CA-90B5-501BBEFCD544"
+      }
+    }
+  },
+  advertising_L = {
+    bundleName = "advertising_L",
+    ui_name = "#advertising_L_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "ABD110A9-57BE-49DD-9C00-560C6EC9D105"
+      }
+    }
+  },
+  advertising_M = {
+    bundleName = "advertising_M",
+    ui_name = "#advertising_M_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "12E4FE70-F744-4F1E-9060-56A691911BA8"
+      }
+    }
+  },
+  advertising_N = {
+    bundleName = "advertising_N",
+    ui_name = "#advertising_N_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "43C4D758-BE80-43D5-91C0-DE3972D858A4"
+      }
+    }
+  },
+  advertising_O = {
+    bundleName = "advertising_O",
+    ui_name = "#advertising_O_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "71DDCB6A-59A1-4ACC-87ED-4EFC640E63CC"
+      }
+    }
+  },
+  advertising_P = {
+    bundleName = "advertising_P",
+    ui_name = "#advertising_P_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "8D59406F-55D3-4372-B71D-11F30DB32416"
+      }
+    }
+  },
+  advertising_Q = {
+    bundleName = "advertising_Q",
+    ui_name = "#advertising_Q_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "FF9B8073-06FA-4C67-B43F-8DEA1AAF6751"
+      }
+    }
+  },
+  TW_Taiwan_decal = {
+    bundleName = "TW_Taiwan_decal",
+    ui_name = "#TW_Taiwan_decal_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "DFF92CB2-037A-4461-86FB-27CD9C54891C"
+      }
+    }
+  },
+  TW_look_decal = {
+    bundleName = "TW_look_decal",
+    ui_name = "#TW_look_decal_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "ED2AE644-B40F-4B5D-9027-6D692B5879D6"
+      }
+    }
+  },
+  TW_god_decal = {
+    bundleName = "TW_god_decal",
+    ui_name = "#TW_god_decal_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "1C573C1C-AA37-45A6-81E1-976393995CDD"
+      }
+    }
+  },
+  TW_hit_decal = {
+    bundleName = "TW_hit_decal",
+    ui_name = "#TW_hit_decal_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "C3994F1A-D6AF-4A63-BD16-B73348AC9660"
+      }
+    }
+  },
+  TW_handsome_decal = {
+    bundleName = "TW_handsome_decal",
+    ui_name = "#TW_handsome_decal_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "814DE701-1684-4C1A-A278-D512CE679D20"
+      }
+    }
+  },
+  Decor_pack_A = {
+    bundleName = "Decor_pack_A",
+    ui_name = "#Decor_pack_A_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "AA2E9FC0-110E-4FDB-9D46-AD19FB45F570"
+      }
+    }
+  },
+  Decor_pack_B = {
+    bundleName = "Decor_pack_B",
+    ui_name = "#Decor_pack_B_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "01D1E894-F875-41D2-A4FE-D5A8849BD37A"
+      }
+    }
+  },
+  Decor_pack_C = {
+    bundleName = "Decor_pack_C",
+    ui_name = "#Decor_pack_C_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "5C38EA25-6310-421E-8FEB-1AB24BB59A25"
+      }
+    }
+  },
+  Decor_pack_D = {
+    bundleName = "Decor_pack_D",
+    ui_name = "#Decor_pack_D_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "2525521C-E719-4A50-821D-F693BFD35365"
+      }
+    }
+  },
+  Decor_pack_E = {
+    bundleName = "Decor_pack_E",
+    ui_name = "#Decor_pack_E_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "B846F3BB-FE80-44F6-8318-1B6283D7C6E2"
+      }
+    }
+  },
+  Decor_pack_F = {
+    bundleName = "Decor_pack_F",
+    ui_name = "#Decor_pack_F_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "3AD77816-C659-4C37-A32C-80DB166D3210"
+      }
+    }
+  },
+  Decor_pack_G = {
+    bundleName = "Decor_pack_G",
+    ui_name = "#Decor_pack_G_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "0D03C7F8-0E64-4751-A1C2-6EBDFACE3E22"
+      }
+    }
+  },
+  Decor_pack_H = {
+    bundleName = "Decor_pack_H",
+    ui_name = "#Decor_pack_H_Name",
+    ui_desc = "",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAMEFLIER = {
+        id = "B6C98B15-65E4-4D94-8523-93DA184EB042"
+      }
+    }
+  },
+  promo_10_gold = {
+    ui_name = "#promo_10_gold_Name",
+    ui_desc = "#promo_10_gold_Desc",
+    ui_icon = "bundle_1",
+    hasGoldPack = true,
+    hidden = true,
+    sortId = 204,
+    platforms = {
+      GAMEFLIER = {
+        id = "BA35FF1F-4F60-4749-AF77-DBD9CD3D7F44"
+      }
+    }
+  },
+  promo_30_gold = {
+    ui_name = "#promo_30_gold_Name",
+    ui_desc = "#promo_30_gold_Desc",
+    ui_icon = "bundle_1",
+    hasGoldPack = true,
+    hidden = true,
+    sortId = 204,
+    platforms = {
+      GAMEFLIER = {
+        id = "4DE0BD62-4CD4-4774-93E5-3DD6B5C22EED"
+      }
+    }
+  },
+  promo_50_gold = {
+    ui_name = "#promo_50_gold_Name",
+    ui_desc = "#promo_50_gold_Desc",
+    ui_icon = "bundle_1",
+    hasGoldPack = true,
+    hidden = true,
+    sortId = 204,
+    platforms = {
+      GAMEFLIER = {
+        id = "6E40D44B-1760-438B-AE04-0D8639613315"
+      }
+    }
+  },
+  promo_60_gold = {
+    ui_name = "#promo_60_gold_Name",
+    ui_desc = "#promo_60_gold_Desc",
+    ui_icon = "bundle_1",
+    hasGoldPack = true,
+    hidden = true,
+    sortId = 204,
+    platforms = {
+      GAMEFLIER = {
+        id = "890B75A3-2F91-4B2F-BDEF-1E1AA6B9D1F9"
+      }
+    }
+  },
+  promo_70_gold = {
+    ui_name = "#promo_70_gold_Name",
+    ui_desc = "#promo_70_gold_Desc",
+    ui_icon = "bundle_1",
+    hasGoldPack = true,
+    hidden = true,
+    sortId = 204,
+    platforms = {
+      GAMEFLIER = {
+        id = "36DCAA96-5177-40E7-8365-E74FC496E114"
+      }
+    }
+  },
+  promo_80_gold = {
+    ui_name = "#promo_80_gold_Name",
+    ui_desc = "#promo_80_gold_Desc",
+    ui_icon = "bundle_1",
+    hasGoldPack = true,
+    hidden = true,
+    sortId = 204,
+    platforms = {
+      GAMEFLIER = {
+        id = "DF394C73-3012-42A6-8B4C-1A9F6E490F58"
+      }
+    }
+  },
+  promo_90_gold = {
+    ui_name = "#promo_90_gold_Name",
+    ui_desc = "#promo_90_gold_Desc",
+    ui_icon = "bundle_1",
+    hasGoldPack = true,
+    hidden = true,
+    sortId = 204,
+    platforms = {
+      GAMEFLIER = {
+        id = "2F44B180-FE26-4DD1-8046-476263F05D2F"
+      }
+    }
+  },
+  promo_100_gold = {
+    ui_name = "#promo_100_gold_Name",
+    ui_desc = "#promo_100_gold_Desc",
+    ui_icon = "bundle_1",
+    hasGoldPack = true,
+    hidden = true,
+    sortId = 204,
+    platforms = {
+      GAMEFLIER = {
+        id = "58F01370-1D85-43A8-909A-EB905C146BDB"
+      }
+    }
+  },
+  promo_200_gold = {
+    ui_name = "#promo_200_gold_Name",
+    ui_desc = "#promo_200_gold_Desc",
+    ui_icon = "bundle_1",
+    hasGoldPack = true,
+    hidden = true,
+    sortId = 204,
+    platforms = {
+      GAMEFLIER = {
+        id = "706D063D-F508-443B-8900-4A1F1CFFAA6D"
+      }
+    }
+  },
+  promo_400_gold = {
+    ui_name = "#promo_400_gold_Name",
+    ui_desc = "#promo_400_gold_Desc",
+    ui_icon = "bundle_1",
+    hasGoldPack = true,
+    hidden = true,
+    sortId = 204,
+    platforms = {
+      GAMEFLIER = {
+        id = "829BAFD6-9C8C-494A-AAD1-BCFD0D0AEA45"
+      }
+    }
+  },
+  promo_600_gold = {
+    ui_name = "#promo_600_gold_Name",
+    ui_desc = "#promo_600_gold_Desc",
+    ui_icon = "bundle_1",
+    hasGoldPack = true,
+    hidden = true,
+    sortId = 204,
+    platforms = {
+      GAMEFLIER = {
+        id = "E9FB532B-7BC8-40E5-9008-63E91EF7BA3A"
+      }
+    }
+  },
+  promo_1000_gold = {
+    ui_name = "#promo_1000_gold_Name",
+    ui_desc = "#promo_1000_gold_Desc",
+    ui_icon = "bundle_1",
+    hasGoldPack = true,
+    hidden = true,
+    sortId = 204,
+    platforms = {
+      GAMEFLIER = {
+        id = "19ED0059-F36C-4CFC-94B9-F9EC361DA4F4"
+      }
+    }
+  },
+  promo_2000_gold = {
+    ui_name = "#promo_2000_gold_Name",
+    ui_desc = "#promo_2000_gold_Desc",
+    ui_icon = "bundle_1",
+    hasGoldPack = true,
+    hidden = true,
+    sortId = 204,
+    platforms = {
+      GAMEFLIER = {
+        id = "A6A430C3-51CF-44FB-A200-595450104DB7"
+      }
+    }
+  },
+  promo_3000_gold = {
+    ui_name = "#promo_3000_gold_Name",
+    ui_desc = "#promo_3000_gold_Desc",
+    ui_icon = "bundle_1",
+    hasGoldPack = true,
+    hidden = true,
+    sortId = 204,
+    platforms = {
+      GAMEFLIER = {
+        id = "ADC33648-FDAA-48F1-B346-56D0C2B2ED92"
+      }
+    }
+  },
+  promo_4000_gold = {
+    ui_name = "#promo_4000_gold_Name",
+    ui_desc = "#promo_4000_gold_Desc",
+    ui_icon = "bundle_1",
+    hasGoldPack = true,
+    hidden = true,
+    sortId = 204,
+    platforms = {
+      GAMEFLIER = {
+        id = "801C6E89-3D77-4F35-B402-13BE40A0720A"
+      }
+    }
+  },
+  Promo_energo_ded = {
+    bundleName = "Promo_energo_ded",
+    ui_name = "#Promo_energo_ded_Name",
+    ui_desc = "#Promo_energo_ded_Desc",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAIJIN = {
+        id = "C41E0220-53FB-4177-A84F-0CC2272C470A"
+      }
+    }
+  },
+  Promo_play_hard = {
+    bundleName = "Promo_play_hard",
+    ui_name = "#Promo_play_hard_Name",
+    ui_desc = "#Promo_play_hard_Desc",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAIJIN = {
+        id = "4F2DD6D3-EAA0-44DB-AC53-75127A804EFF"
+      }
+    }
+  },
+  Promo_tt_esports = {
+    bundleName = "Promo_tt_esports",
+    ui_name = "#Promo_tt_esports_Name",
+    ui_desc = "#Promo_tt_esports_Desc",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAIJIN = {
+        id = "52A52DF4-CBFD-48F3-BC60-37A8E17CAB7D"
+      }
+    }
+  },
+  Promo_entack = {
+    bundleName = "Promo_entack",
+    ui_name = "#Promo_entack_Name",
+    ui_desc = "#Promo_entack_Desc",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAIJIN = {
+        id = "BFFD9289-282A-4A74-B57A-9CA63FD6F038"
+      }
+    }
+  },
+  Promo_tt_premium = {
+    bundleName = "Promo_tt_premium",
+    ui_name = "#Promo_tt_premium_Name",
+    ui_desc = "#Promo_tt_premium_Desc",
+    ui_icon = "bundle_1",
+    sortId = 90,
+    hidden = true,
+    platforms = {
+      GAIJIN = {
+        id = "339F19A9-4121-4EF5-9FDA-E77334BBC125"
+      }
+    }
+  },
+  Bundle_WW1 = {
+    bundleName = "Bundle_WW1",
+    ui_name = "#Bundle_WW1_Name",
+    ui_desc = "#Bundle_WW1_Desc",
+    ui_icon = "Bundle_WW1",
+    ui_icon_big = "Bundle_WW1_big",
+    sortId = 81,
+    hidden = false,
+    platforms = {
+      GAIJIN = {
+        id = "107FDEC1-1C23-4ACD-83D2-678C82013C3F",
+        store_link = "https://store.gaijin.net/story.php?id=6049"
+      },
+      STEAM = {
+        id = "806120",
+        store_link = "http://store.steampowered.com/app/806120/"
+      },
+      PS4_EU = {
+        id = "C500FB31-AA32-4CFD-AE6D-2556A47C991C"
+      },
+      PS4_US = {
+        id = "DAD4976D-FD58-4142-A046-2907B0F0F7E6"
+      },
+      PS4_JP = {
+        id = "337FE1B3-A741-4566-AC07-BFB4293F4ECD"
+      },
+      XBOX_ONE = {
+        id = "9390527C-D529-4A12-B197-7724B14C263F"
+      },
+      GAMEFLIER = {
+        id = "B0C30B88-392A-468F-B841-4D0AE49EB71A"
+      }
+    }
+  },
+  Bundle_WW1_womoney = {
+    bundleName = "Bundle_WW1_womoney",
+    ui_name = "#Bundle_WW1_womoney_Name",
+    ui_desc = "#Bundle_WW1_womoney_Desc",
+    ui_icon = "Bundle_WW1_womoney",
+    sortId = 81,
+    hidden = false,
+    platforms = {
+      PW = {id = "fake"},
+      TDP = {id = "fake"},
+      XBOX_ONE_CERT = {id = "fake"}
+    }
+  },
   Promo_flags = {
     bundleName = "Promo_flags",
     ui_name = "#Promo_flags_Name",
@@ -118,6 +1084,9 @@ UiShopItems = {
       },
       XBOX_ONE = {
         id = "70616456-839D-4B7E-8322-181EC90AC3E2"
+      },
+      GAMEFLIER = {
+        id = "0D10C28D-EA4E-4595-974A-3CC26B30F57F"
       }
     }
   },
@@ -127,7 +1096,7 @@ UiShopItems = {
     ui_desc = "#Bundle_Boar_womoney_Desc",
     ui_icon = "Bundle_Boar_womoney",
     sortId = 82,
-    hidden = true,
+    hidden = false,
     platforms = {
       PW = {id = "fake"},
       TDP = {id = "fake"}
@@ -149,6 +1118,9 @@ UiShopItems = {
       STEAM = {
         id = "809740",
         store_link = "http://store.steampowered.com/app/809740/"
+      },
+      GAMEFLIER = {
+        id = "A4D506EC-BC4B-4D64-A466-71ADFDAA0531"
       }
     }
   },
@@ -158,7 +1130,7 @@ UiShopItems = {
     ui_desc = "#Bundle_Ambulance_womoney_Desc",
     ui_icon = "Bundle_Ambulance_womoney",
     sortId = 83,
-    hidden = true,
+    hidden = false,
     platforms = {
       PW = {id = "fake"},
       TDP = {id = "fake"}
@@ -193,7 +1165,10 @@ UiShopItems = {
         id = "63283EAF-0A50-48E1-9B05-D7CDD470BF03"
       },
       PW = {id = "fake"},
-      TDP = {id = "fake"}
+      TDP = {id = "fake"},
+      GAMEFLIER = {
+        id = "EE07932A-8BD5-4F10-B67E-4CC5B4E7CB9C"
+      }
     }
   },
   Premium_7d = {
@@ -355,6 +1330,9 @@ UiShopItems = {
       },
       XBOX_ONE = {
         id = "FAA95107-2B1B-4ED9-94B4-0F76BEEF6B39"
+      },
+      GAMEFLIER = {
+        id = "59F2C20C-46B2-4A98-8015-FF45719403C1"
       }
     }
   },
@@ -411,7 +1389,7 @@ UiShopItems = {
     ui_desc = "#Bundle_Xmas17_mini_womoney_Desc",
     ui_icon = "Bundle_Xmas17_mini_bound",
     sortId = 86,
-    hidden = true,
+    hidden = false,
     platforms = {
       PW = {id = "fake"},
       TDP = {id = "fake"}
@@ -585,6 +1563,9 @@ UiShopItems = {
       },
       XBOX_ONE_CERT = {
         id = "D58777E4-4DC5-445F-8007-D3B27CD0A759"
+      },
+      GAMEFLIER = {
+        id = "08FADB17-0A35-4CB2-B208-9D918B35D66D"
       }
     }
   },
@@ -842,7 +1823,10 @@ UiShopItems = {
         id = "02154291-25BC-4BC7-AF54-58F69F393428",
         store_link = "https://store.gaijin.net/story.php?id=5561"
       },
-      PW = {id = "fake"}
+      PW = {id = "fake"},
+      GAMEFLIER = {
+        id = "0FBF1D33-3408-4A6D-9A51-7CB20D2C9856"
+      }
     }
   },
   Bundle_obt_2_gift = {
@@ -915,7 +1899,10 @@ UiShopItems = {
         id = "708500",
         store_link = "http://store.steampowered.com/app/708500/"
       },
-      PW = {id = "fake"}
+      PW = {id = "fake"},
+      GAMEFLIER = {
+        id = "6A526A30-5EC6-4F3B-9CB0-B2F2C1F8A188"
+      }
     }
   },
   Bundle_obt_3_gift = {
@@ -978,7 +1965,7 @@ UiShopItems = {
     ui_desc = "#Bundle_obt_tank_Desc",
     ui_icon_big = "bundle_immortal_warrior_3400_big",
     ui_icon = "bundle_immortal_warrior_3400",
-    sortId = 104,
+    sortId = 1,
     platforms = {
       GAIJIN = {
         id = "9692964D-5120-4452-8BD1-42284131FF9C",
@@ -1068,6 +2055,9 @@ UiShopItems = {
       },
       XBOX_ONE = {
         id = "D5F2AC52-473F-4A9B-9E97-5AC1B6716850"
+      },
+      GAMEFLIER = {
+        id = "7D055CB8-48E4-41BF-844E-E252504875E8"
       }
     }
   },
@@ -1114,6 +2104,9 @@ UiShopItems = {
       },
       XBOX_ONE = {
         id = "693F7C6E-371F-4CAD-B262-03AD0AF2F7C9"
+      },
+      GAMEFLIER = {
+        id = "C3AB9880-5044-4567-8839-EA7F9F0EDA20"
       }
     }
   },
@@ -1160,6 +2153,9 @@ UiShopItems = {
       },
       XBOX_ONE = {
         id = "20F1105D-4CB2-4B80-88BB-1E40A7578121"
+      },
+      GAMEFLIER = {
+        id = "4E1D49C1-BD8E-41EF-9852-E6186B13D5E1"
       }
     }
   },
@@ -1440,6 +2436,7 @@ UiShopItems = {
     ui_name = "#GOLD_PACK_150_GOLD_Name",
     ui_desc = "#GOLD_PACK_150_GOLD_Desc",
     ui_icon = "bundle_coins_150",
+    ui_icon_bonus_gold = "bundle_coins_150_no_numbers",
     hasGoldPack = true,
     sortId = 202,
     platforms = {
@@ -1461,6 +2458,9 @@ UiShopItems = {
       },
       XBOX_ONE_CERT = {
         id = "3054E47E-B5CF-458D-A9AB-54C1881F3B83"
+      },
+      GAMEFLIER = {
+        id = "57B38E99-0C02-4D84-A84B-F9B5EC336B04"
       }
     }
   },
@@ -1468,6 +2468,7 @@ UiShopItems = {
     ui_name = "#GOLD_PACK_350_GOLD_Name",
     ui_desc = "#GOLD_PACK_350_GOLD_Desc",
     ui_icon = "bundle_coins_300",
+    ui_icon_bonus_gold = "bundle_coins_300_no_numbers",
     hasGoldPack = true,
     sortId = 203,
     platforms = {
@@ -1489,6 +2490,9 @@ UiShopItems = {
       },
       XBOX_ONE_CERT = {
         id = "E8EE5036-C0FC-4E95-8728-2601244BE7A2"
+      },
+      GAMEFLIER = {
+        id = "F0F10B91-504D-4EF8-A2C4-BBA0F781866E"
       }
     }
   },
@@ -1496,6 +2500,7 @@ UiShopItems = {
     ui_name = "#GOLD_PACK_875_GOLD_Name",
     ui_desc = "#GOLD_PACK_875_GOLD_Desc",
     ui_icon = "bundle_coins_700",
+    ui_icon_bonus_gold = "bundle_coins_700_no_numbers",
     hasGoldPack = true,
     sortId = 204,
     platforms = {
@@ -1517,6 +2522,9 @@ UiShopItems = {
       },
       XBOX_ONE_CERT = {
         id = "2873ECDE-F52D-40AA-B313-8F55856C6E93"
+      },
+      GAMEFLIER = {
+        id = "CA79EA5B-8266-45E4-9062-40A01648D921"
       }
     }
   },
@@ -1524,6 +2532,7 @@ UiShopItems = {
     ui_name = "#GOLD_PACK_1650_GOLD_Name",
     ui_desc = "#GOLD_PACK_1650_GOLD_Desc",
     ui_icon = "bundle_coins_1250",
+    ui_icon_bonus_gold = "bundle_coins_1250_no_numbers",
     hasGoldPack = true,
     sortId = 205,
     platforms = {
@@ -1545,6 +2554,9 @@ UiShopItems = {
       },
       XBOX_ONE_CERT = {
         id = "D1E217B8-F25B-4A02-B908-C86FA0433129"
+      },
+      GAMEFLIER = {
+        id = "EECCEA0D-2736-4C19-8B82-4B7F57CB01EE"
       }
     }
   },
@@ -1552,6 +2564,7 @@ UiShopItems = {
     ui_name = "#GOLD_PACK_2500_GOLD_Name",
     ui_desc = "#GOLD_PACK_2500_GOLD_Desc",
     ui_icon = "bundle_coins_2500",
+    ui_icon_bonus_gold = "bundle_coins_2500_no_numbers",
     hasGoldPack = true,
     sortId = 206,
     platforms = {
@@ -1567,6 +2580,7 @@ UiShopItems = {
     ui_name = "#GOLD_PACK_3500_GOLD_Name",
     ui_desc = "#GOLD_PACK_3500_GOLD_Desc",
     ui_icon = "bundle_coins_2500",
+    ui_icon_bonus_gold = "bundle_coins_2500_no_numbers",
     hasGoldPack = true,
     sortId = 207,
     platforms = {
@@ -1588,6 +2602,9 @@ UiShopItems = {
       },
       XBOX_ONE_CERT = {
         id = "4465B295-E4B4-4B4D-8D4C-169969A4CBEC"
+      },
+      GAMEFLIER = {
+        id = "E7AC3C9B-EF8E-4375-AB8B-646057A51544"
       }
     }
   },
@@ -1595,6 +2612,7 @@ UiShopItems = {
     ui_name = "#GOLD_PACK_7500_GOLD_Name",
     ui_desc = "#GOLD_PACK_7500_GOLD_Desc",
     ui_icon = "bundle_coins_5000",
+    ui_icon_bonus_gold = "bundle_coins_5000_no_numbers",
     hasGoldPack = true,
     sortId = 208,
     platforms = {
@@ -1616,6 +2634,9 @@ UiShopItems = {
       },
       XBOX_ONE_CERT = {
         id = "54959055-D15D-409E-B9D0-5C448959EE8F"
+      },
+      GAMEFLIER = {
+        id = "7E9C9DF0-0B3B-4DE6-BAF1-EA4207B7FF76"
       }
     }
   }

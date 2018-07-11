@@ -44,28 +44,28 @@ LeviathanRatingToSupply = {
 }
 LeviathanRatingToPlatinum = {
   [1] = {
-    {platinum = 4, rating = 3000},
-    {platinum = 8, rating = 5000},
-    {platinum = 8, rating = 7000},
-    {platinum = 8, rating = 9000},
-    {platinum = 8, rating = 11000},
-    {platinum = 11}
+    {platinum = 12, rating = 3000},
+    {platinum = 24, rating = 5000},
+    {platinum = 24, rating = 7000},
+    {platinum = 24, rating = 9000},
+    {platinum = 24, rating = 11000},
+    {platinum = 33}
   },
   [2] = {
-    {platinum = 11, rating = 3000},
-    {platinum = 18, rating = 5000},
-    {platinum = 22, rating = 7000},
-    {platinum = 26, rating = 9000},
-    {platinum = 26, rating = 11000},
-    {platinum = 26}
+    {platinum = 33, rating = 3000},
+    {platinum = 54, rating = 5000},
+    {platinum = 66, rating = 7000},
+    {platinum = 78, rating = 9000},
+    {platinum = 78, rating = 11000},
+    {platinum = 78}
   },
   [3] = {
-    {platinum = 22, rating = 3000},
-    {platinum = 36, rating = 5000},
-    {platinum = 44, rating = 7000},
-    {platinum = 51, rating = 9000},
-    {platinum = 58, rating = 11000},
-    {platinum = 60}
+    {platinum = 66, rating = 3000},
+    {platinum = 108, rating = 5000},
+    {platinum = 132, rating = 7000},
+    {platinum = 153, rating = 9000},
+    {platinum = 174, rating = 11000},
+    {platinum = 180}
   }
 }
 LootProbabilityProgression = {
@@ -134,6 +134,7 @@ RewardLimit = {
   Pvp = {
     Scrap_Common = 2800,
     Scrap_Rare = 2450,
+    Accumulators = 1225,
     Scrap_Epic = 1225,
     ClanMoney = 25,
     period = 604800

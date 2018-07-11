@@ -7,7 +7,7 @@ Faction.Base = {
       blueprint = {
         "starter_car"
       },
-      Scrap_Common = 300,
+      Scrap_Common = 50,
       item_reward = {Dye_Eraser = 1},
       item_unlock = {
         CarPart_FenderSolid = 2,
@@ -45,7 +45,9 @@ Faction.Base = {
     },
     [3] = {
       exp_require = 19000,
-      blueprint = {"gaz2"},
+      blueprint = {
+        "engineers_3lvl"
+      },
       max_gear_level = 25,
       item_reward = {},
       item_unlock = {
@@ -71,7 +73,7 @@ Faction.Base = {
       },
       level_up_info = {
         {
-          text_id = "daily_quest_info_1",
+          text_id = "pve_info_message",
           img_name = "frac_Base",
           img_side = "left"
         }
@@ -79,13 +81,16 @@ Faction.Base = {
     },
     [5] = {
       exp_require = 22500,
+      blueprint = {
+        "engineers_5lvl"
+      },
       max_gear_level = 30,
       stamina_cap = 100,
       item_unlock = {CarPart_Grid_1 = 2, CarPart_VanRoofTent_epic = 1},
       item_reward = {},
       level_up_info = {
         {
-          text_id = "pve_info_message",
+          text_id = "daily_quest_info_1",
           img_name = "frac_Base",
           img_side = "left"
         }
@@ -93,7 +98,6 @@ Faction.Base = {
     },
     [6] = {
       exp_require = 23500,
-      blueprint = {"gaz4"},
       item_unlock = {
         CarPart_VanTopEdge_epic = 2,
         CarPart_VanBumper = 1,
@@ -149,9 +153,11 @@ Faction.Base = {
     },
     [10] = {
       exp_require = 37500,
+      blueprint = {
+        "engineers_10lvl"
+      },
       max_gear_level = 40,
       stamina_cap = 200,
-      blueprint = {"gaz6"},
       item_unlock = {
         CarPart_ChassisTruck6 = 2,
         CarPart_VanRoofTent_epic = 1,
@@ -204,7 +210,9 @@ Faction.Base = {
     },
     [15] = {
       exp_require = 95000,
-      blueprint = {"gaz7"},
+      blueprint = {
+        "engineers_15lvl"
+      },
       item_unlock = {CarPart_VanTopEdge_epic = 2, CarPart_ChassisTruck8 = 2}
     },
     [16] = {
@@ -245,7 +253,9 @@ Faction.Base = {
     },
     [20] = {
       exp_require = 155000,
-      blueprint = {"gaz8"},
+      blueprint = {
+        "engineers_20lvl"
+      },
       item_unlock = {
         CarPart_FenderSolid = 2,
         CarPart_ChassisTruck8 = 2,
@@ -346,7 +356,9 @@ Faction.Frenzied = {
         CarPart_Buggy_Grid2 = 2,
         CarPart_Buggy_Grid6 = 2
       },
-      blueprint = {"buggy1"}
+      blueprint = {
+        "frenzied_1lvl"
+      }
     },
     [2] = {
       exp_require = 31000,
@@ -384,7 +396,9 @@ Faction.Frenzied = {
         CarPart_Buggy_Grid3 = 2,
         CarPart_Buggy_Grid11 = 2
       },
-      blueprint = {"buggy2"}
+      blueprint = {
+        "frenzied_5lvl"
+      }
     },
     [6] = {
       exp_require = 145500,
@@ -405,7 +419,9 @@ Faction.Frenzied = {
         CarPart_Buggy_Grid1 = 2,
         CarPart_BumperArc_epic = 1
       },
-      blueprint = {"buggy3"}
+      blueprint = {
+        "frenzied_7lvl"
+      }
     },
     [8] = {
       exp_require = 226000,
@@ -433,7 +449,9 @@ Faction.Frenzied = {
         CarPart_Buggy_Grid3 = 2,
         CarPart_Buggy_Grid11 = 2
       },
-      blueprint = {"buggy4"}
+      blueprint = {
+        "frenzied_10lvl"
+      }
     },
     [11] = {
       exp_require = 445500,
@@ -460,7 +478,9 @@ Faction.Frenzied = {
         CarPart_Buggy_Grid4 = 2,
         CarPart_BumperSpike_rare = 1
       },
-      blueprint = {"buggy5"}
+      blueprint = {
+        "frenzied_13lvl"
+      }
     },
     [14] = {
       exp_require = 801000,
@@ -478,7 +498,9 @@ Faction.Frenzied = {
         CarPart_ChassisLight8 = 2,
         CarPart_Buggy_bumper = 1
       },
-      blueprint = {"buggy6"}
+      blueprint = {
+        "frenzied_15lvl"
+      }
     }
   }
 }
@@ -498,7 +520,9 @@ Faction.Traders = {
         CarPart_AviaRadial2x2x2 = 4,
         CarPart_AviaSlope2x1x2 = 2
       },
-      blueprint = {"avia1"}
+      blueprint = {
+        "traders_1lvl"
+      }
     },
     [2] = {
       exp_require = 31000,
@@ -536,7 +560,9 @@ Faction.Traders = {
         CarPart_AviaWing8x1x3 = 2,
         CarPart_AviaSlope2x1x1 = 2
       },
-      blueprint = {"avia2"}
+      blueprint = {
+        "traders_5lvl"
+      }
     },
     [6] = {
       exp_require = 145500,
@@ -544,7 +570,8 @@ Faction.Traders = {
         CarPart_AviaRadialCorner2x2x2 = 2,
         CarPart_Avia_fender_l = 1,
         CarPart_Avia_fender_r = 1,
-        CarPart_AviaSlope2x1x2 = 4
+        CarPart_AviaSlope2x1x2 = 4,
+        CarPart_Airintake = 2
       }
     },
     [7] = {
@@ -553,9 +580,12 @@ Faction.Traders = {
       item_unlock = {
         CarPart_AviaBox4x1x2 = 2,
         CarPart_AviaRadial2x2x4 = 2,
-        CarPart_BladeWing_epic = 1
+        CarPart_BladeWing_epic = 1,
+        CarPart_AviaBox2x1x2 = 2
       },
-      blueprint = {"avia3"}
+      blueprint = {
+        "traders_7lvl"
+      }
     },
     [8] = {
       exp_require = 226000,
@@ -563,7 +593,8 @@ Faction.Traders = {
         CarPart_AviaSlope2x1x2 = 2,
         CarPart_AviaBoxSlopeCorner4x1x2 = 2,
         CarPart_BumperTrain_rare = 1,
-        CarPart_AviaBox4x1x4 = 2
+        CarPart_AviaBox4x1x4 = 2,
+        CarPart_AviaRadial2x2x1 = 2
       }
     },
     [9] = {
@@ -582,7 +613,9 @@ Faction.Traders = {
         CarPart_Avia_fender_l = 1,
         CarPart_Avia_fender_r = 1
       },
-      blueprint = {"avia4"}
+      blueprint = {
+        "traders_10lvl"
+      }
     },
     [11] = {
       exp_require = 445500,
@@ -599,13 +632,21 @@ Faction.Traders = {
       item_unlock = {
         CarPart_AviaRadialCorner2x2x2 = 4,
         CarPart_AviaRadial2x2x4 = 2,
+        CarPart_AviaBox2x1x2 = 2,
         CarPart_AviaSlope2x1x2 = 2
       }
     },
     [13] = {
       exp_require = 666000,
-      item_unlock = {CarPart_AviaRadialFender2x2x2 = 2, CarPart_AviaRadialCorner2x2x2 = 2},
-      blueprint = {"avia5"}
+      item_unlock = {
+        CarPart_AviaRadialFender2x2x2 = 2,
+        CarPart_AviaRadialCorner2x2x2 = 2,
+        CarPart_Airintake = 2,
+        CarPart_AviaRadial2x2x1 = 2
+      },
+      blueprint = {
+        "traders_13lvl"
+      }
     },
     [14] = {
       exp_require = 801000,
@@ -619,7 +660,9 @@ Faction.Traders = {
       exp_require = 963000,
       avatar = "Mask_Traders_3",
       item_unlock = {CarPart_AviaBoxSlopeCorner4x1x2 = 2, CarPart_BumperTrain_rare = 2},
-      blueprint = {"avia6"}
+      blueprint = {
+        "traders_15lvl"
+      }
     }
   }
 }
@@ -639,7 +682,9 @@ Faction.Scavengers = {
         CarPart_TruckPipe1x2x2 = 4,
         CarPart_TruckSide2 = 2
       },
-      blueprint = {"kam1"}
+      blueprint = {
+        "scavengers_1lvl"
+      }
     },
     [2] = {
       exp_require = 31000,
@@ -677,7 +722,9 @@ Faction.Scavengers = {
         CarPart_TruckSide2 = 2,
         CarPart_TruckBox = 2
       },
-      blueprint = {"kam2"}
+      blueprint = {
+        "scavengers_5lvl"
+      }
     },
     [6] = {
       exp_require = 145500,
@@ -696,7 +743,9 @@ Faction.Scavengers = {
         CarPart_TruckSide = 2,
         CarPart_TruckPipeBigSlope2x4 = 2
       },
-      blueprint = {"kam3"}
+      blueprint = {
+        "scavengers_7lvl"
+      }
     },
     [8] = {
       exp_require = 226000,
@@ -724,7 +773,9 @@ Faction.Scavengers = {
         CarPart_TruckPipe1x2x2 = 2,
         CarPart_TruckPipeBig2x6 = 2
       },
-      blueprint = {"kam4"}
+      blueprint = {
+        "scavengers_10lvl"
+      }
     },
     [11] = {
       exp_require = 445500,
@@ -741,7 +792,8 @@ Faction.Scavengers = {
       item_unlock = {
         CarPart_TruckPipe4x1x1 = 2,
         CarPart_TruckSlope4 = 2,
-        CarPart_TruckBarrel = 2
+        CarPart_TruckBarrel = 2,
+        CarPart_TruckSide4 = 2
       }
     },
     [13] = {
@@ -751,7 +803,9 @@ Faction.Scavengers = {
         CarPart_TruckPipe4x1x1 = 2,
         CarPart_TruckSlope = 2
       },
-      blueprint = {"kam5"}
+      blueprint = {
+        "scavengers_13lvl"
+      }
     },
     [14] = {
       exp_require = 801000,
@@ -765,7 +819,9 @@ Faction.Scavengers = {
       exp_require = 963000,
       avatar = "Mask_Scavengers_3",
       item_unlock = {CarPart_TruckPipeBigSlope2x4 = 2, CarPart_BumperTrain2_epic = 1},
-      blueprint = {"kam6"}
+      blueprint = {
+        "scavengers_15lvl"
+      }
     }
   }
 }
@@ -784,7 +840,9 @@ Faction.Military = {
         CarPart_Military_box_4x1x8 = 2,
         CarPart_Military_box_slope_2x1x8 = 2
       },
-      blueprint = {"military_1"}
+      blueprint = {
+        "military_1lvl"
+      }
     },
     [2] = {
       exp_require = 34000,
@@ -822,7 +880,9 @@ Faction.Military = {
         CarPart_Military_box_slope_4x1x8 = 1,
         CarPart_Military_slope_dble_2x1x2 = 2
       },
-      blueprint = {"military_5"}
+      blueprint = {
+        "military_5lvl"
+      }
     },
     [6] = {
       exp_require = 161500,
@@ -835,7 +895,9 @@ Faction.Military = {
     [7] = {
       exp_require = 203000,
       avatar = "Mask_Military_1",
-      blueprint = {"military_7"},
+      blueprint = {
+        "military_7lvl"
+      },
       item_unlock = {CarPart_Military_slope_thin_1x1x4 = 2, CarPart_Military_tower_slope_6x1x6 = 1}
     },
     [8] = {
@@ -858,7 +920,7 @@ Faction.Military = {
     [10] = {
       exp_require = 390000,
       blueprint = {
-        "military_10"
+        "military_10lvl"
       },
       item_unlock = {CarPart_Military_box_4x1x8 = 1, CarPart_Military_slope_3ple_1x1x8 = 2}
     },
@@ -873,7 +935,7 @@ Faction.Military = {
     [13] = {
       exp_require = 740000,
       blueprint = {
-        "military_13"
+        "military_13lvl"
       },
       item_unlock = {CarPart_Military_slope_3ple_1x1x8 = 2, CarPart_Military_box_1x2x8 = 2}
     },
@@ -885,7 +947,7 @@ Faction.Military = {
       exp_require = 1070000,
       avatar = "Mask_Military_3",
       blueprint = {
-        "military_15"
+        "military_15lvl"
       },
       item_unlock = {CarPart_Military_slope_3ple_1x1x8 = 1, CarPart_Military_tower_slope_4x3x2 = 1}
     }
@@ -907,7 +969,7 @@ Faction.Scientists = {
         CarPart_Structure_Syfy_Boxslope_Small = 1
       },
       blueprint = {
-        "scientists_1"
+        "scientists_1lvl"
       }
     },
     [2] = {
@@ -944,7 +1006,7 @@ Faction.Scientists = {
         CarPart_Structure_Syfy_Boxslope_Large = 1
       },
       blueprint = {
-        "scientists_5"
+        "scientists_5lvl"
       }
     },
     [6] = {
@@ -958,6 +1020,9 @@ Faction.Scientists = {
     [7] = {
       exp_require = 203000,
       avatar = "Mask_Scientists_2",
+      blueprint = {
+        "scientists_7lvl"
+      },
       item_unlock = {
         CarPart_Structure_Syfy_Box_Large = 2,
         CarPart_Structure_Syfy_Box_Wide = 2,
@@ -979,7 +1044,7 @@ Faction.Scientists = {
     [10] = {
       exp_require = 390000,
       blueprint = {
-        "scientists_10"
+        "scientists_10lvl"
       },
       item_unlock = {
         CarPart_Structure_Syfy_Boxslope_Wide = 1,
@@ -1005,6 +1070,9 @@ Faction.Scientists = {
     },
     [13] = {
       exp_require = 740000,
+      blueprint = {
+        "scientists_13lvl"
+      },
       item_unlock = {CarPart_Structure_Syfy_Boxslope_Small = 1, CarPart_Structure_Syfy_Slope = 2}
     },
     [14] = {
@@ -1019,7 +1087,7 @@ Faction.Scientists = {
       exp_require = 1070000,
       avatar = "Mask_Scientists_3",
       blueprint = {
-        "scientists_15"
+        "scientists_15lvl"
       },
       item_unlock = {CarPart_Structure_SyFy_bumper = 1, CarPart_Structure_Syfy_Box_Wide = 1}
     }
@@ -1036,7 +1104,7 @@ Faction.Firestarters = {
     [1] = {
       item_reward = {},
       blueprint = {
-        "firestarters_1"
+        "firestarters_1lvl"
       },
       item_unlock = {
         CarPart_Structure_diffusor = 2,
@@ -1069,7 +1137,7 @@ Faction.Firestarters = {
     [5] = {
       exp_require = 125500,
       blueprint = {
-        "firestarters_5"
+        "firestarters_5lvl"
       },
       item_unlock = {
         CarPart_Structure_fender2_l = 1,
@@ -1089,7 +1157,7 @@ Faction.Firestarters = {
       exp_require = 203000,
       avatar = "Mask_Firestarters_2",
       blueprint = {
-        "firestarters_7"
+        "firestarters_7lvl"
       },
       item_unlock = {
         CarPart_Structure_fender3_l = 1,
@@ -1116,7 +1184,7 @@ Faction.Firestarters = {
     [10] = {
       exp_require = 390000,
       blueprint = {
-        "firestarters_10"
+        "firestarters_10lvl"
       },
       item_unlock = {
         CarPart_Structure_hood_half = 2,
@@ -1143,7 +1211,7 @@ Faction.Firestarters = {
     [13] = {
       exp_require = 740000,
       blueprint = {
-        "firestarters_13"
+        "firestarters_13lvl"
       },
       item_unlock = {
         CarPart_Structure_fender2_l = 1,
@@ -1163,7 +1231,7 @@ Faction.Firestarters = {
       exp_require = 1070000,
       avatar = "Mask_Firestarters_1",
       blueprint = {
-        "firestarters_15"
+        "firestarters_15lvl"
       },
       item_unlock = {CarPart_Structure_fender3_l = 2, CarPart_Structure_fender3_r = 2}
     }

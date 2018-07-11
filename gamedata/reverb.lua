@@ -8,6 +8,9 @@ Levels = {
   bridge = {
     sound_reverb = "concrete_hall"
   },
+  cityruin = {
+    sound_reverb = "concrete_hall"
+  },
   factory = {
     sound_reverb = "concrete_hall"
   },
@@ -39,6 +42,9 @@ Levels = {
     sound_reverb = "concrete_hall"
   },
   building_yard = {
+    sound_reverb = "concrete_hall_large"
+  },
+  building_yard3 = {
     sound_reverb = "concrete_hall_large"
   }
 }

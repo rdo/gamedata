@@ -25,6 +25,24 @@ Def.CarPart_Gun_Electrolaser_Base = {
   shot_effect = "particles/weapons/railgun_muzzle",
   muzzleflash = "Lights_GunMuzzle"
 }
+Def.CarPart_Gun_LightningGun_Base = {
+  tension_mechanic = true,
+  physics = {material = "Metal_Car"},
+  shot_once_sound = "sound/weapon/rg/railgun_shot",
+  shot_effect = "particles/weapons/machinegun/muzzle_machinegun",
+  muzzleflash = "Lights_GunMuzzle",
+  spread_charge = -8,
+  pull_trigger_time = 1.5,
+  min_damage = 2,
+  projectile_min_speed = 200
+}
+Def.CarPart_Gun_Plasma_Cutter_Base = {
+  physics = {material = "Metal_Car"},
+  shot_once_sound = "sound/weapon/plazma/plazma_shot",
+  cooldown_end_sound = "sound/weapon/rocket/cooldown_end",
+  shot_effect = "particles/weapons/machinegun/muzzle_machinegun",
+  muzzleflash = "Lights_GunMuzzle"
+}
 Def.CarPart_Gun_Machinegun_Starter_Base = {
   physics = {material = "Metal_Car"},
   shot_loop_sound = "sound/weapon/mg/light_loop",
@@ -49,10 +67,35 @@ Def.CarPart_Gun_Machinegun_Medium_Base = {
   muzzleflash = "Lights_GunMuzzle",
   shell_def = "Shell_Small"
 }
+Def.CarPart_Gun_Machinegun_SMG_Base = {
+  physics = {material = "Metal_Car"},
+  shot_loop_sound = "event:/weapon/mg/mg_fast_loop",
+  shot_loop_reflection = "event:/weapon/mg/mg_fast_refl",
+  shot_effect = "particles/weapons/machinegun/muzzle_smg",
+  muzzleflash = "Lights_GunMuzzle",
+  shell_def = "Shell_Small"
+}
 Def.CarPart_Gun_Machinegun_Heavy_Base = {
   physics = {material = "Metal_Car"},
   shot_loop_sound = "sound/weapon/mg/heavy_loop",
   shot_loop_reflection = "sound/weapon/mg/heavy_refl",
+  shot_effect = "particles/weapons/machinegun/muzzle_machinegun_heavy",
+  muzzleflash = "Lights_GunMuzzle",
+  shell_def = "Shell_Small"
+}
+Def.CarPart_Gun_Machinegun_Legend_Base = {
+  physics = {material = "Metal_Car"},
+  shot_loop_sound = "event:/weapon/mg/legend_loop",
+  shot_loop_reflection = "event:/weapon/mg/legend_refl",
+  damage_overheat_mul = 0.5,
+  shot_effect = "particles/weapons/machinegun/muzzle_machinegun_heavy",
+  muzzleflash = "Lights_GunMuzzle",
+  shell_def = "Shell_Small"
+}
+Def.CarPart_Gun_Machinegun_Relic_Base = {
+  physics = {material = "Metal_Car"},
+  shot_loop_sound = "event:/weapon/mg/legend_loop",
+  shot_loop_reflection = "event:/weapon/mg/legend_refl",
   shot_effect = "particles/weapons/machinegun/muzzle_machinegun_heavy",
   muzzleflash = "Lights_GunMuzzle",
   shell_def = "Shell_Small"
@@ -65,6 +108,7 @@ Def.CarPart_Gun_Machinegun_Smart_Heavy_Base = {
   muzzleflash = "Lights_GunMuzzle",
   shell_def = "Shell_Small",
   forget_target_time = 2,
+  ai_aiming_instant = true,
   charge_loop_sound = "sound/weapon/common/gun_aiming",
   charge_end_sound = "sound/weapon/common/gun_aiming_end"
 }
@@ -118,6 +162,13 @@ Def.CarPart_Gun_Cannon_Base = {
   muzzleflash = "Lights_GunMuzzle",
   shell_def = "Shell_Medium"
 }
+Def.CarPart_Gun_FastCannon_Base = {
+  physics = {material = "Metal_Car"},
+  shot_once_sound = "sound/weapon/cannon/25mm_shot",
+  shot_effect = "particles/weapons/machinegun/muzzle_machinegun_heavy",
+  muzzleflash = "Lights_GunMuzzle",
+  shell_def = "Shell_Medium"
+}
 Def.CarPart_Gun_Cannon_Epic_Base = {
   physics = {material = "Metal_Car"},
   shot_once_sound = "sound/weapon/cannon/25mm_shot",
@@ -127,12 +178,31 @@ Def.CarPart_Gun_Cannon_Epic_Base = {
 }
 Def.CarPart_Gun_Cannon_Legend_Base = {
   physics = {material = "Metal_Car"},
-  shot_once_sound = "sound/weapon/cannon/25mm_shot",
+  shot_once_sound = "sound/weapon/cannon/25mm_shot_legend",
   shot_effect = "particles/weapons/machinegun/muzzle_auto_cannon",
   muzzleflash = "Lights_GunMuzzle",
   shell_def = "Shell_Medium",
-  slow_fire_rate = 100,
-  speedup_time = 3
+  slow_fire_rate = 120,
+  speedup_time = 3,
+  infinite_firing = true
+}
+Def.CarPart_Gun_Revolver_Base = {
+  physics = {material = "Metal_Car"},
+  shot_once_sound = "sound/weapon/cannon/25mm_shot_legend",
+  shot_effect = "particles/weapons/machinegun/muzzle_auto_cannon",
+  muzzleflash = "Lights_GunMuzzle",
+  shell_def = "Shell_Medium",
+  ammo_refill = 5,
+  ammo_refill_num = -1
+}
+Def.CarPart_Gun_Revolver_Part_Base = {
+  physics = {material = "Metal_Car"},
+  shot_once_sound = "sound/weapon/cannon/25mm_shot_legend",
+  shot_effect = "particles/weapons/machinegun/muzzle_auto_cannon",
+  muzzleflash = "Lights_GunMuzzle",
+  shell_def = "Shell_Medium",
+  ammo_refill = 1,
+  ammo_refill_num = 1
 }
 Def.CarPart_Gun_Cannon_Minigun_Base = {
   physics = {material = "Metal_Car"},
@@ -196,7 +266,7 @@ Def.CarPart_Gun_Shotgun_Big_Base = {
   shot_once_sound = "sound/weapon/sg/heavy_shot",
   shot_effect = "particles/weapons/shotgun/heavy_shotgun_muzzle",
   muzzleflash = "Lights_GunMuzzle",
-  shell_def = "Shell_Medium"
+  shell_def = "Shell_Shotgun"
 }
 Def.CarPart_Gun_Shotgun_Frontal_Base = {
   physics = {material = "Metal_Car"},
@@ -219,20 +289,27 @@ Def.CarPart_Gun_Shotgun_OneShot_Base = {
   muzzleflash = "Lights_BigGunMuzzle",
   shell_def = "Shell_Heavy"
 }
+Def.CarPart_Gun_Shotgun_OneShot_Epic_Base = {
+  physics = {material = "Metal_Car"},
+  shot_once_sound = "event:/weapon/sg/garbage_epic_shot",
+  shot_effect = "particles/weapons/shotgun/shotgun_oneshot_muzzle",
+  muzzleflash = "Lights_BigGunMuzzle",
+  shell_def = "Shell_Heavy",
+  spread_max_high_speed_mul = -2
+}
 Def.CarPart_Gun_GrenadeLauncher_Shotgun_Base = {
   physics = {material = "Metal_Car"},
   shot_once_sound = "sound/weapon/shotgunGrenade/sg_gr_shot",
   shot_effect = "particles/weapons/shotgun/shotgun_muzzle",
   muzzleflash = "Lights_GunMuzzle",
-  shell_def = "Shell_Small"
+  shell_def = "Shell_Grenade"
 }
 Def.CarPart_Gun_WheelRocket_Base = {
   physics = {material = "Metal_Car"},
   shot_once_sound = "sound/weapon/wr/wheel_rocket_fire",
   shot_effect = "particles/weapons/wheel_launcher_muzzle",
   muzzleflash = "Lights_GunMuzzle",
-  shell_def = "Shell_Small",
-  barrel_detonation_radius = 1
+  shell_def = "Shell_Small"
 }
 Def.CarPart_Gun_catapult_Base = {
   physics = {material = "Metal_Car"},
@@ -250,6 +327,16 @@ Def.CarPart_Gun_Syfy_FusionRifle_Base = {
   charge_cancel_sound = "sound/weapon/fusion/fr_charge_end",
   muzzleflash = "Lights_FusionMuzzle",
   shot_effect = "particles/weapons/fusionrifle_muzzle"
+}
+Def.CarPart_Gun_Syfy_FusionRifle_Epic_Base = {
+  physics = {material = "Metal_Car"},
+  shot_once_sound = "event:/weapon/fusion/fr_shot_epic",
+  charge_start_sound = "sound/weapon/fusion/fr_charge_epic",
+  burst_sound = "event:/weapon/fusion/fr_clip_return",
+  charge_cancel_sound = "event:/weapon/fusion/fr_charge_end",
+  muzzleflash = "Lights_FusionMuzzle",
+  shot_effect = "particles/weapons/fusionrifle_big_muzzle",
+  burst_damage_mul = 0.1
 }
 Def.CarPart_Gun_Syfy_Tesla_Base = {
   shot_loop_sound = "sound/weapon/tesla/ts_loop",
@@ -308,7 +395,8 @@ Def.CarPart_Gun_BigCannon_100mm_Base = {
 Def.CarPart_Gun_GrenadeLauncher_Auto_Base = {
   physics = {material = "Metal_Car"},
   shot_once_sound = "sound/weapon/gl/gl_fire",
-  shot_effect = "particles/weapons/ags_muzzle"
+  shot_effect = "particles/weapons/ags_muzzle",
+  shell_def = "Shell_Grenade"
 }
 Def.CarPart_Gun_MineLauncher_Base = {
   physics = {material = "Metal_Car"},
@@ -322,8 +410,12 @@ Def.CarPart_Gun_MineLauncher_Legend_Base = {
 }
 Def.CarPart_Gun_MineTrap_Base = {
   physics = {material = "Metal_Car"},
-  shot_once_sound = "sound/weapon/ml/MineLauncher_fire",
-  check_restriction_overlap = true
+  shot_once_sound = "event:/weapon/trap/trap_fire",
+  check_restriction_overlap = true,
+  projectile_apply_dye = true,
+  pre_deploy_model = "models/weapons/minetrap/shell_trap",
+  ai_aiming_instant = true,
+  max_deployed_entities = 2
 }
 Def.CarPart_Gun_Mortar_Base = {
   physics = {material = "Metal_Car"},
@@ -364,11 +456,27 @@ Def.CarPart_Firework_Base = {
   projectile_speed_min = 25,
   projectile_speed_max = 30
 }
+Def.CarPart_Torch_Blue_Base = {
+  physics = {material = "Metal_Car"},
+  shot_once_sound = "sound/weapon/firework/fw_launch",
+  work_effect = "particles/gameplay/torch_blue",
+  work_time = 10,
+  work_sound = "event:/weapon/firework/football_fire",
+  active_decor = true
+}
+Def.CarPart_Torch_Red_Base = {
+  physics = {material = "Metal_Car"},
+  shot_once_sound = "sound/weapon/firework/fw_launch",
+  work_effect = "particles/gameplay/torch_red",
+  work_time = 10,
+  work_sound = "event:/weapon/firework/football_fire",
+  active_decor = true
+}
 Def.CarPart_CourseMissileSalvo_Base = {
   physics = {material = "Metal_Car"},
   shot_once_sound = "sound/weapon/rocket/grad_launch",
   cooldown_end_sound = "sound/weapon/rocket/cooldown_end",
-  shot_effect = "particles/weapons/missile_launch"
+  work_effect = "particles/weapons/missile_launch"
 }
 Def.CarPart_CourseMissile_Base = {
   physics = {material = "Metal_Car"}
@@ -380,7 +488,7 @@ Def.CarPart_Gun_GuidedMissile_Sniper_Base = {
   physics = {material = "Metal_Car"},
   shot_once_sound = "sound/weapon/rocket/gm_launch",
   cooldown_end_sound = "sound/weapon/rocket/cooldown_end",
-  shot_effect = "particles/weapons/missile_launch",
+  shot_effect = "particles/weapons/missile_ptur_launch",
   dodge_angular_acceleration = 1,
   projectile_phase2_time = 8.25
 }
@@ -420,8 +528,13 @@ Def.CarPart_Drill_Base = {
 Def.CarPart_Harvester_Base = {
   physics = {material = "Metal_Car"},
   work_sound = "sound/special/saw_work",
-  work_effect = "particles/weapons/melee_harvester",
-  saw_damage_box = Vec3(3.3, 0.6, 0.6),
+  work_effect = "particles/weapons/melee/melee_harvester",
+  saw_damage_box_1 = Vec3(1.1, 0.8, 0.8),
+  saw_damage_box_2 = Vec3(1.1, 0.8, 0.8),
+  saw_damage_box_3 = Vec3(1.1, 0.8, 0.8),
+  saw_position_1 = Vec3(0, 0, 0),
+  saw_position_2 = Vec3(-0.15, 0, 0),
+  saw_position_3 = Vec3(0.15, 0, 0),
   individual_collision = true
 }
 Def.CarPart_SpearExplosive_Base = {

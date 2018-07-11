@@ -131,14 +131,28 @@ MobDef.Chase_nomads_Truck_medium.blueprint = {
   "gamedata/car_design/convoy/chase_medium_nomads_1.xml",
   "gamedata/car_design/convoy/chase_medium_nomads_2.xml"
 }
-MobDef.Chase_nomads_Truck_medium.score_reward_kill = 13
-MobDef.Chase_nomads_Truck_medium.damage_scale = 0.1
-MobDef.Chase_nomads_Truck_medium.health_scale = 1.1
+MobDef.Chase_nomads_Truck_medium.score_reward_kill = 40
+MobDef.Chase_nomads_Truck_medium.damage_scale = 0.3
+MobDef.Chase_nomads_Truck_medium.health_scale = 1.7
 MobDef.Chase_nomads_Truck_medium.hud_type = "turret_point"
 MobDef.Chase_nomads_Truck_medium.mob_difficulty = 1
 MobDef.Chase_nomads_Truck_medium.important_mob = true
 MobDef.Chase_nomads_Truck_medium.refill_ammo_chance = 0.2
-MobDef.Chase_nomads_Truck_medium.ignore_pve_mob_scale = true
+MobDef.Chase_nomads_Truck_medium.is_autolifting_allowed = true
+MobDef.Chase_nomads_Truck_easy = {}
+MobDef.Chase_nomads_Truck_easy.ods_export = true
+MobDef.Chase_nomads_Truck_easy.blueprint = {
+  "gamedata/car_design/convoy/chase_easy_nomads_1.xml"
+}
+MobDef.Chase_nomads_Truck_easy.score_reward_kill = 40
+MobDef.Chase_nomads_Truck_easy.damage_scale = 0.1
+MobDef.Chase_nomads_Truck_easy.health_scale = 1.6
+MobDef.Chase_nomads_Truck_easy.hud_type = "turret_point"
+MobDef.Chase_nomads_Truck_easy.mob_difficulty = 0
+MobDef.Chase_nomads_Truck_easy.important_mob = true
+MobDef.Chase_nomads_Truck_easy.refill_ammo_chance = 0.2
+MobDef.Chase_nomads_Truck_easy.ignore_pve_mob_scale = true
+MobDef.Chase_nomads_Truck_easy.is_autolifting_allowed = true
 MobDef.Chase_nomads_Meat_hard = {}
 MobDef.Chase_nomads_Meat_hard.ods_export = true
 MobDef.Chase_nomads_Meat_hard.blueprint = {
@@ -195,7 +209,7 @@ MobDef.Chase_nomads_Defender2_hard.ods_export = true
 MobDef.Chase_nomads_Defender2_hard.blueprint = {
   "gamedata/car_design/pve_new/nomad_hard_explorer.xml"
 }
-MobDef.Chase_nomads_Defender2_hard.score_reward_kill = 13
+MobDef.Chase_nomads_Defender2_hard.score_reward_kill = 40
 MobDef.Chase_nomads_Defender2_hard.damage_scale = 0.5
 MobDef.Chase_nomads_Defender2_hard.health_scale = 2.4
 MobDef.Chase_nomads_Defender2_hard.skill_work_time_mul = 2
@@ -209,14 +223,14 @@ MobDef.Chase_nomads_Truck_hard.blueprint = {
   "gamedata/car_design/convoy/chase_hard_nomads_1.xml",
   "gamedata/car_design/convoy/chase_hard_nomads_2.xml"
 }
-MobDef.Chase_nomads_Truck_hard.score_reward_kill = 13
+MobDef.Chase_nomads_Truck_hard.score_reward_kill = 40
 MobDef.Chase_nomads_Truck_hard.damage_scale = 0.2
-MobDef.Chase_nomads_Truck_hard.health_scale = 1.4
+MobDef.Chase_nomads_Truck_hard.health_scale = 1.7
 MobDef.Chase_nomads_Truck_hard.hud_type = "turret_point"
 MobDef.Chase_nomads_Truck_hard.mob_difficulty = 2
 MobDef.Chase_nomads_Truck_hard.important_mob = true
 MobDef.Chase_nomads_Truck_hard.refill_ammo_chance = 0.2
-MobDef.Chase_nomads_Truck_hard.ignore_pve_mob_scale = true
+MobDef.Chase_nomads_Truck_hard.is_autolifting_allowed = true
 MobDef.Chase_scavengers_Meat_medium = {}
 MobDef.Chase_scavengers_Meat_medium.ods_export = true
 MobDef.Chase_scavengers_Meat_medium.blueprint = {
@@ -290,14 +304,28 @@ MobDef.Chase_scavengers_Truck_medium.ods_export = true
 MobDef.Chase_scavengers_Truck_medium.blueprint = {
   "gamedata/car_design/convoy/chase_medium_scavengers_1.xml"
 }
-MobDef.Chase_scavengers_Truck_medium.score_reward_kill = 13
-MobDef.Chase_scavengers_Truck_medium.damage_scale = 0.1
-MobDef.Chase_scavengers_Truck_medium.health_scale = 1.1
+MobDef.Chase_scavengers_Truck_medium.score_reward_kill = 40
+MobDef.Chase_scavengers_Truck_medium.damage_scale = 0.3
+MobDef.Chase_scavengers_Truck_medium.health_scale = 1.7
 MobDef.Chase_scavengers_Truck_medium.hud_type = "turret_point"
 MobDef.Chase_scavengers_Truck_medium.mob_difficulty = 1
 MobDef.Chase_scavengers_Truck_medium.important_mob = true
 MobDef.Chase_scavengers_Truck_medium.refill_ammo_chance = 0.2
-MobDef.Chase_scavengers_Truck_medium.ignore_pve_mob_scale = true
+MobDef.Chase_scavengers_Truck_medium.is_autolifting_allowed = true
+MobDef.Chase_scavengers_Truck_easy = {}
+MobDef.Chase_scavengers_Truck_easy.ods_export = true
+MobDef.Chase_scavengers_Truck_easy.blueprint = {
+  "gamedata/car_design/convoy/chase_easy_scavengers_1.xml"
+}
+MobDef.Chase_scavengers_Truck_easy.score_reward_kill = 40
+MobDef.Chase_scavengers_Truck_easy.damage_scale = 0.1
+MobDef.Chase_scavengers_Truck_easy.health_scale = 1.6
+MobDef.Chase_scavengers_Truck_easy.hud_type = "turret_point"
+MobDef.Chase_scavengers_Truck_easy.mob_difficulty = 0
+MobDef.Chase_scavengers_Truck_easy.important_mob = true
+MobDef.Chase_scavengers_Truck_easy.refill_ammo_chance = 0.2
+MobDef.Chase_scavengers_Truck_easy.ignore_pve_mob_scale = true
+MobDef.Chase_scavengers_Truck_easy.is_autolifting_allowed = true
 MobDef.Chase_scavengers_Meat_hard = {}
 MobDef.Chase_scavengers_Meat_hard.ods_export = true
 MobDef.Chase_scavengers_Meat_hard.blueprint = {
@@ -357,7 +385,7 @@ MobDef.Chase_scavengers_Defender2_hard.ods_export = true
 MobDef.Chase_scavengers_Defender2_hard.blueprint = {
   "gamedata/car_design/pve_new/scavengers_hard_miner.xml"
 }
-MobDef.Chase_scavengers_Defender2_hard.score_reward_kill = 13
+MobDef.Chase_scavengers_Defender2_hard.score_reward_kill = 40
 MobDef.Chase_scavengers_Defender2_hard.damage_scale = 0.4
 MobDef.Chase_scavengers_Defender2_hard.health_scale = 2.5
 MobDef.Chase_scavengers_Defender2_hard.suppressing_fire = true
@@ -371,14 +399,14 @@ MobDef.Chase_scavengers_Truck_hard.ods_export = true
 MobDef.Chase_scavengers_Truck_hard.blueprint = {
   "gamedata/car_design/convoy/chase_hard_scavengers_1.xml"
 }
-MobDef.Chase_scavengers_Truck_hard.score_reward_kill = 13
+MobDef.Chase_scavengers_Truck_hard.score_reward_kill = 40
 MobDef.Chase_scavengers_Truck_hard.damage_scale = 0.2
-MobDef.Chase_scavengers_Truck_hard.health_scale = 1.4
+MobDef.Chase_scavengers_Truck_hard.health_scale = 1.7
 MobDef.Chase_scavengers_Truck_hard.hud_type = "turret_point"
 MobDef.Chase_scavengers_Truck_hard.mob_difficulty = 2
 MobDef.Chase_scavengers_Truck_hard.important_mob = true
 MobDef.Chase_scavengers_Truck_hard.refill_ammo_chance = 0.2
-MobDef.Chase_scavengers_Truck_hard.ignore_pve_mob_scale = true
+MobDef.Chase_scavengers_Truck_hard.is_autolifting_allowed = true
 MobDef.Chase_psycho_Meat_medium = {}
 MobDef.Chase_psycho_Meat_medium.ods_export = true
 MobDef.Chase_psycho_Meat_medium.blueprint = {
@@ -453,14 +481,28 @@ MobDef.Chase_psycho_Truck_medium.ods_export = true
 MobDef.Chase_psycho_Truck_medium.blueprint = {
   "gamedata/car_design/convoy/chase_medium_psycho_1.xml"
 }
-MobDef.Chase_psycho_Truck_medium.score_reward_kill = 13
-MobDef.Chase_psycho_Truck_medium.damage_scale = 0.1
-MobDef.Chase_psycho_Truck_medium.health_scale = 1.4
+MobDef.Chase_psycho_Truck_medium.score_reward_kill = 40
+MobDef.Chase_psycho_Truck_medium.damage_scale = 0.3
+MobDef.Chase_psycho_Truck_medium.health_scale = 1.7
 MobDef.Chase_psycho_Truck_medium.hud_type = "turret_point"
 MobDef.Chase_psycho_Truck_medium.mob_difficulty = 1
 MobDef.Chase_psycho_Truck_medium.important_mob = true
 MobDef.Chase_psycho_Truck_medium.refill_ammo_chance = 0.2
-MobDef.Chase_psycho_Truck_medium.ignore_pve_mob_scale = true
+MobDef.Chase_psycho_Truck_medium.is_autolifting_allowed = true
+MobDef.Chase_psycho_Truck_easy = {}
+MobDef.Chase_psycho_Truck_easy.ods_export = true
+MobDef.Chase_psycho_Truck_easy.blueprint = {
+  "gamedata/car_design/convoy/chase_easy_psycho_1.xml"
+}
+MobDef.Chase_psycho_Truck_easy.score_reward_kill = 40
+MobDef.Chase_psycho_Truck_easy.damage_scale = 0.1
+MobDef.Chase_psycho_Truck_easy.health_scale = 1.6
+MobDef.Chase_psycho_Truck_easy.hud_type = "turret_point"
+MobDef.Chase_psycho_Truck_easy.mob_difficulty = 0
+MobDef.Chase_psycho_Truck_easy.important_mob = true
+MobDef.Chase_psycho_Truck_easy.refill_ammo_chance = 0.2
+MobDef.Chase_psycho_Truck_easy.ignore_pve_mob_scale = true
+MobDef.Chase_psycho_Truck_easy.is_autolifting_allowed = true
 MobDef.Chase_psycho_Meat_hard = {}
 MobDef.Chase_psycho_Meat_hard.ods_export = true
 MobDef.Chase_psycho_Meat_hard.blueprint = {
@@ -524,7 +566,7 @@ MobDef.Chase_psycho_Defender2_hard.ods_export = true
 MobDef.Chase_psycho_Defender2_hard.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_flamethrower.xml"
 }
-MobDef.Chase_psycho_Defender2_hard.score_reward_kill = 13
+MobDef.Chase_psycho_Defender2_hard.score_reward_kill = 40
 MobDef.Chase_psycho_Defender2_hard.damage_scale = 0.5
 MobDef.Chase_psycho_Defender2_hard.health_scale = 2.5
 MobDef.Chase_psycho_Defender2_hard.hud_type = "mob"
@@ -535,14 +577,14 @@ MobDef.Chase_psycho_Truck_hard.ods_export = true
 MobDef.Chase_psycho_Truck_hard.blueprint = {
   "gamedata/car_design/convoy/chase_hard_psycho_1.xml"
 }
-MobDef.Chase_psycho_Truck_hard.score_reward_kill = 13
+MobDef.Chase_psycho_Truck_hard.score_reward_kill = 40
 MobDef.Chase_psycho_Truck_hard.damage_scale = 0.4
-MobDef.Chase_psycho_Truck_hard.health_scale = 1.7
+MobDef.Chase_psycho_Truck_hard.health_scale = 1.9
 MobDef.Chase_psycho_Truck_hard.hud_type = "turret_point"
 MobDef.Chase_psycho_Truck_hard.mob_difficulty = 2
 MobDef.Chase_psycho_Truck_hard.important_mob = true
 MobDef.Chase_psycho_Truck_hard.refill_ammo_chance = 0.2
-MobDef.Chase_psycho_Truck_hard.ignore_pve_mob_scale = true
+MobDef.Chase_psycho_Truck_hard.is_autolifting_allowed = true
 MobDef.TestDefense_psycho_GunMeat_easy = {}
 MobDef.TestDefense_psycho_GunMeat_easy.ods_export = true
 MobDef.TestDefense_psycho_GunMeat_easy.blueprint = {
@@ -1438,8 +1480,8 @@ MobDef.TestFuelrace_psycho_KamikazeMeat_hard.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_kamikadze.xml"
 }
 MobDef.TestFuelrace_psycho_KamikazeMeat_hard.score_reward_kill = 13
-MobDef.TestFuelrace_psycho_KamikazeMeat_hard.damage_scale = 0.7
-MobDef.TestFuelrace_psycho_KamikazeMeat_hard.health_scale = 1.3
+MobDef.TestFuelrace_psycho_KamikazeMeat_hard.damage_scale = 0.6
+MobDef.TestFuelrace_psycho_KamikazeMeat_hard.health_scale = 1.2
 MobDef.TestFuelrace_psycho_KamikazeMeat_hard.hud_type = "mob_melee"
 MobDef.TestFuelrace_psycho_KamikazeMeat_hard.mob_difficulty = 2
 MobDef.TestFuelrace_psycho_KamikazeMeat_hard.refill_ammo_chance = 0.2
@@ -1452,8 +1494,8 @@ MobDef.TestFuelrace_psycho_GunMeat_hard.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_meat4.xml"
 }
 MobDef.TestFuelrace_psycho_GunMeat_hard.score_reward_kill = 13
-MobDef.TestFuelrace_psycho_GunMeat_hard.damage_scale = 1.2
-MobDef.TestFuelrace_psycho_GunMeat_hard.health_scale = 1.3
+MobDef.TestFuelrace_psycho_GunMeat_hard.damage_scale = 1.1
+MobDef.TestFuelrace_psycho_GunMeat_hard.health_scale = 1.2
 MobDef.TestFuelrace_psycho_GunMeat_hard.hud_type = "mob"
 MobDef.TestFuelrace_psycho_GunMeat_hard.mob_difficulty = 2
 MobDef.TestFuelrace_psycho_GunMeat_hard.refill_ammo_chance = 0.2
@@ -1463,8 +1505,8 @@ MobDef.TestFuelrace_psycho_MeleeMeat_hard.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_melee.xml"
 }
 MobDef.TestFuelrace_psycho_MeleeMeat_hard.score_reward_kill = 13
-MobDef.TestFuelrace_psycho_MeleeMeat_hard.damage_scale = 1.2
-MobDef.TestFuelrace_psycho_MeleeMeat_hard.health_scale = 1.3
+MobDef.TestFuelrace_psycho_MeleeMeat_hard.damage_scale = 1.1
+MobDef.TestFuelrace_psycho_MeleeMeat_hard.health_scale = 1.2
 MobDef.TestFuelrace_psycho_MeleeMeat_hard.hud_type = "mob_melee"
 MobDef.TestFuelrace_psycho_MeleeMeat_hard.mob_difficulty = 2
 MobDef.TestFuelrace_psycho_MeleeMeat_hard.refill_ammo_chance = 0.2
@@ -1474,8 +1516,8 @@ MobDef.TestFuelrace_psycho_Flamethrower_hard.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_flamethrower.xml"
 }
 MobDef.TestFuelrace_psycho_Flamethrower_hard.score_reward_kill = 13
-MobDef.TestFuelrace_psycho_Flamethrower_hard.damage_scale = 1.3
-MobDef.TestFuelrace_psycho_Flamethrower_hard.health_scale = 1.3
+MobDef.TestFuelrace_psycho_Flamethrower_hard.damage_scale = 1.2
+MobDef.TestFuelrace_psycho_Flamethrower_hard.health_scale = 1.2
 MobDef.TestFuelrace_psycho_Flamethrower_hard.hud_type = "mob_engineer"
 MobDef.TestFuelrace_psycho_Flamethrower_hard.mob_difficulty = 2
 MobDef.TestFuelrace_psycho_Flamethrower_hard.refill_ammo_chance = 0.2
@@ -1485,8 +1527,8 @@ MobDef.TestFuelrace_psycho_Rocket_hard.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_gunnery.xml"
 }
 MobDef.TestFuelrace_psycho_Rocket_hard.score_reward_kill = 13
-MobDef.TestFuelrace_psycho_Rocket_hard.damage_scale = 1.2
-MobDef.TestFuelrace_psycho_Rocket_hard.health_scale = 1.3
+MobDef.TestFuelrace_psycho_Rocket_hard.damage_scale = 1.1
+MobDef.TestFuelrace_psycho_Rocket_hard.health_scale = 1.2
 MobDef.TestFuelrace_psycho_Rocket_hard.hud_type = "mob_sniper"
 MobDef.TestFuelrace_psycho_Rocket_hard.mob_difficulty = 2
 MobDef.TestFuelrace_psycho_Rocket_hard.refill_ammo_chance = 0.2
@@ -1496,8 +1538,8 @@ MobDef.TestFuelrace_psycho_Hunter_hard.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_hunter.xml"
 }
 MobDef.TestFuelrace_psycho_Hunter_hard.score_reward_kill = 13
-MobDef.TestFuelrace_psycho_Hunter_hard.damage_scale = 1.2
-MobDef.TestFuelrace_psycho_Hunter_hard.health_scale = 1.3
+MobDef.TestFuelrace_psycho_Hunter_hard.damage_scale = 1.1
+MobDef.TestFuelrace_psycho_Hunter_hard.health_scale = 1.2
 MobDef.TestFuelrace_psycho_Hunter_hard.skill_work_time_mul = 2
 MobDef.TestFuelrace_psycho_Hunter_hard.skill_cooldown_mul = -2
 MobDef.TestFuelrace_psycho_Hunter_hard.findLowHpEnemy = true
@@ -1510,8 +1552,8 @@ MobDef.TestFuelrace_psycho_Puppeteer_hard.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_puppeteer.xml"
 }
 MobDef.TestFuelrace_psycho_Puppeteer_hard.score_reward_kill = 13
-MobDef.TestFuelrace_psycho_Puppeteer_hard.damage_scale = 1.2
-MobDef.TestFuelrace_psycho_Puppeteer_hard.health_scale = 1.3
+MobDef.TestFuelrace_psycho_Puppeteer_hard.damage_scale = 1.1
+MobDef.TestFuelrace_psycho_Puppeteer_hard.health_scale = 1.2
 MobDef.TestFuelrace_psycho_Puppeteer_hard.skill_work_time_mul = 2
 MobDef.TestFuelrace_psycho_Puppeteer_hard.skill_cooldown_mul = -2
 MobDef.TestFuelrace_psycho_Puppeteer_hard.hud_type = "mob_engineer"
@@ -2001,7 +2043,7 @@ MobDef.TestSiege_psycho_GunMeat_medium.blueprint = {
   "gamedata/car_design/pve_new/psycho_medium_meat4.xml"
 }
 MobDef.TestSiege_psycho_GunMeat_medium.score_reward_kill = 13
-MobDef.TestSiege_psycho_GunMeat_medium.damage_scale = 1.2
+MobDef.TestSiege_psycho_GunMeat_medium.damage_scale = 1.3
 MobDef.TestSiege_psycho_GunMeat_medium.health_scale = 1.1
 MobDef.TestSiege_psycho_GunMeat_medium.hud_type = "mob"
 MobDef.TestSiege_psycho_GunMeat_medium.mob_difficulty = 1
@@ -2012,7 +2054,7 @@ MobDef.TestSiege_psycho_MeleeMeat_medium.blueprint = {
   "gamedata/car_design/pve_new/psycho_medium_melee.xml"
 }
 MobDef.TestSiege_psycho_MeleeMeat_medium.score_reward_kill = 13
-MobDef.TestSiege_psycho_MeleeMeat_medium.damage_scale = 1.2
+MobDef.TestSiege_psycho_MeleeMeat_medium.damage_scale = 1.3
 MobDef.TestSiege_psycho_MeleeMeat_medium.health_scale = 1.1
 MobDef.TestSiege_psycho_MeleeMeat_medium.hud_type = "mob_melee"
 MobDef.TestSiege_psycho_MeleeMeat_medium.mob_difficulty = 1
@@ -2023,7 +2065,7 @@ MobDef.TestSiege_psycho_Flamethrower_medium.blueprint = {
   "gamedata/car_design/pve_new/psycho_medium_flamethrower.xml"
 }
 MobDef.TestSiege_psycho_Flamethrower_medium.score_reward_kill = 13
-MobDef.TestSiege_psycho_Flamethrower_medium.damage_scale = 1.2
+MobDef.TestSiege_psycho_Flamethrower_medium.damage_scale = 1.3
 MobDef.TestSiege_psycho_Flamethrower_medium.health_scale = 1.1
 MobDef.TestSiege_psycho_Flamethrower_medium.hud_type = "mob_engineer"
 MobDef.TestSiege_psycho_Flamethrower_medium.mob_difficulty = 1
@@ -2034,7 +2076,7 @@ MobDef.TestSiege_psycho_Rocket_medium.blueprint = {
   "gamedata/car_design/pve_new/psycho_medium_gunnery.xml"
 }
 MobDef.TestSiege_psycho_Rocket_medium.score_reward_kill = 13
-MobDef.TestSiege_psycho_Rocket_medium.damage_scale = 1.2
+MobDef.TestSiege_psycho_Rocket_medium.damage_scale = 1.3
 MobDef.TestSiege_psycho_Rocket_medium.health_scale = 1.1
 MobDef.TestSiege_psycho_Rocket_medium.hud_type = "mob_sniper"
 MobDef.TestSiege_psycho_Rocket_medium.mob_difficulty = 1
@@ -2045,7 +2087,7 @@ MobDef.TestSiege_psycho_Hunter_medium.blueprint = {
   "gamedata/car_design/pve_new/psycho_medium_hunter.xml"
 }
 MobDef.TestSiege_psycho_Hunter_medium.score_reward_kill = 13
-MobDef.TestSiege_psycho_Hunter_medium.damage_scale = 1.2
+MobDef.TestSiege_psycho_Hunter_medium.damage_scale = 1.3
 MobDef.TestSiege_psycho_Hunter_medium.health_scale = 1.1
 MobDef.TestSiege_psycho_Hunter_medium.skill_work_time_mul = 2
 MobDef.TestSiege_psycho_Hunter_medium.skill_cooldown_mul = -2
@@ -2059,7 +2101,7 @@ MobDef.TestSiege_psycho_Puppeteer_medium.blueprint = {
   "gamedata/car_design/pve_new/psycho_medium_puppeteer.xml"
 }
 MobDef.TestSiege_psycho_Puppeteer_medium.score_reward_kill = 13
-MobDef.TestSiege_psycho_Puppeteer_medium.damage_scale = 1.2
+MobDef.TestSiege_psycho_Puppeteer_medium.damage_scale = 1.3
 MobDef.TestSiege_psycho_Puppeteer_medium.health_scale = 1.1
 MobDef.TestSiege_psycho_Puppeteer_medium.skill_work_time_mul = 2
 MobDef.TestSiege_psycho_Puppeteer_medium.skill_cooldown_mul = -2
@@ -2086,7 +2128,7 @@ MobDef.TestSiege_psycho_GunMeat_hard.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_meat4.xml"
 }
 MobDef.TestSiege_psycho_GunMeat_hard.score_reward_kill = 13
-MobDef.TestSiege_psycho_GunMeat_hard.damage_scale = 1.5
+MobDef.TestSiege_psycho_GunMeat_hard.damage_scale = 1.6
 MobDef.TestSiege_psycho_GunMeat_hard.health_scale = 1.4
 MobDef.TestSiege_psycho_GunMeat_hard.hud_type = "mob"
 MobDef.TestSiege_psycho_GunMeat_hard.mob_difficulty = 2
@@ -2097,7 +2139,7 @@ MobDef.TestSiege_psycho_MeleeMeat_hard.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_melee.xml"
 }
 MobDef.TestSiege_psycho_MeleeMeat_hard.score_reward_kill = 13
-MobDef.TestSiege_psycho_MeleeMeat_hard.damage_scale = 1.5
+MobDef.TestSiege_psycho_MeleeMeat_hard.damage_scale = 1.6
 MobDef.TestSiege_psycho_MeleeMeat_hard.health_scale = 1.4
 MobDef.TestSiege_psycho_MeleeMeat_hard.hud_type = "mob_melee"
 MobDef.TestSiege_psycho_MeleeMeat_hard.mob_difficulty = 2
@@ -2108,7 +2150,7 @@ MobDef.TestSiege_psycho_Flamethrower_hard.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_flamethrower.xml"
 }
 MobDef.TestSiege_psycho_Flamethrower_hard.score_reward_kill = 13
-MobDef.TestSiege_psycho_Flamethrower_hard.damage_scale = 1.5
+MobDef.TestSiege_psycho_Flamethrower_hard.damage_scale = 1.6
 MobDef.TestSiege_psycho_Flamethrower_hard.health_scale = 1.4
 MobDef.TestSiege_psycho_Flamethrower_hard.hud_type = "mob_engineer"
 MobDef.TestSiege_psycho_Flamethrower_hard.mob_difficulty = 2
@@ -2119,7 +2161,7 @@ MobDef.TestSiege_psycho_Rocket_hard.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_gunnery.xml"
 }
 MobDef.TestSiege_psycho_Rocket_hard.score_reward_kill = 13
-MobDef.TestSiege_psycho_Rocket_hard.damage_scale = 1.5
+MobDef.TestSiege_psycho_Rocket_hard.damage_scale = 1.6
 MobDef.TestSiege_psycho_Rocket_hard.health_scale = 1.4
 MobDef.TestSiege_psycho_Rocket_hard.hud_type = "mob_sniper"
 MobDef.TestSiege_psycho_Rocket_hard.mob_difficulty = 2
@@ -2130,7 +2172,7 @@ MobDef.TestSiege_psycho_Hunter_hard.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_hunter.xml"
 }
 MobDef.TestSiege_psycho_Hunter_hard.score_reward_kill = 13
-MobDef.TestSiege_psycho_Hunter_hard.damage_scale = 1.5
+MobDef.TestSiege_psycho_Hunter_hard.damage_scale = 1.6
 MobDef.TestSiege_psycho_Hunter_hard.health_scale = 1.4
 MobDef.TestSiege_psycho_Hunter_hard.skill_work_time_mul = 2
 MobDef.TestSiege_psycho_Hunter_hard.skill_cooldown_mul = -2
@@ -2144,7 +2186,7 @@ MobDef.TestSiege_psycho_Puppeteer_hard.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_puppeteer.xml"
 }
 MobDef.TestSiege_psycho_Puppeteer_hard.score_reward_kill = 13
-MobDef.TestSiege_psycho_Puppeteer_hard.damage_scale = 1.5
+MobDef.TestSiege_psycho_Puppeteer_hard.damage_scale = 1.6
 MobDef.TestSiege_psycho_Puppeteer_hard.health_scale = 1.4
 MobDef.TestSiege_psycho_Puppeteer_hard.skill_work_time_mul = 2
 MobDef.TestSiege_psycho_Puppeteer_hard.skill_cooldown_mul = -2
@@ -2196,7 +2238,7 @@ MobDef.TestSiege_scavengers_GunMeat_medium.blueprint = {
   "gamedata/car_design/pve_new/scavengers_medium_meat4.xml"
 }
 MobDef.TestSiege_scavengers_GunMeat_medium.score_reward_kill = 13
-MobDef.TestSiege_scavengers_GunMeat_medium.damage_scale = 1.2
+MobDef.TestSiege_scavengers_GunMeat_medium.damage_scale = 1.3
 MobDef.TestSiege_scavengers_GunMeat_medium.health_scale = 1.1
 MobDef.TestSiege_scavengers_GunMeat_medium.hud_type = "mob"
 MobDef.TestSiege_scavengers_GunMeat_medium.mob_difficulty = 1
@@ -2207,7 +2249,7 @@ MobDef.TestSiege_scavengers_MeleeMeat_medium.blueprint = {
   "gamedata/car_design/pve_new/scavengers_medium_taran.xml"
 }
 MobDef.TestSiege_scavengers_MeleeMeat_medium.score_reward_kill = 13
-MobDef.TestSiege_scavengers_MeleeMeat_medium.damage_scale = 1.2
+MobDef.TestSiege_scavengers_MeleeMeat_medium.damage_scale = 1.3
 MobDef.TestSiege_scavengers_MeleeMeat_medium.health_scale = 1.1
 MobDef.TestSiege_scavengers_MeleeMeat_medium.hud_type = "mob_melee"
 MobDef.TestSiege_scavengers_MeleeMeat_medium.mob_difficulty = 1
@@ -2219,7 +2261,7 @@ MobDef.TestSiege_scavengers_Gunnery_medium.blueprint = {
   "gamedata/car_design/pve_new/scavengers_medium_gunnery2.xml"
 }
 MobDef.TestSiege_scavengers_Gunnery_medium.score_reward_kill = 13
-MobDef.TestSiege_scavengers_Gunnery_medium.damage_scale = 1.2
+MobDef.TestSiege_scavengers_Gunnery_medium.damage_scale = 1.3
 MobDef.TestSiege_scavengers_Gunnery_medium.health_scale = 1.1
 MobDef.TestSiege_scavengers_Gunnery_medium.hud_type = "mob_sniper"
 MobDef.TestSiege_scavengers_Gunnery_medium.mob_difficulty = 1
@@ -2230,7 +2272,7 @@ MobDef.TestSiege_scavengers_Rocket_medium.blueprint = {
   "gamedata/car_design/pve_new/scavengers_medium_rocket.xml"
 }
 MobDef.TestSiege_scavengers_Rocket_medium.score_reward_kill = 13
-MobDef.TestSiege_scavengers_Rocket_medium.damage_scale = 1.2
+MobDef.TestSiege_scavengers_Rocket_medium.damage_scale = 1.3
 MobDef.TestSiege_scavengers_Rocket_medium.health_scale = 1.1
 MobDef.TestSiege_scavengers_Rocket_medium.hud_type = "mob_sniper"
 MobDef.TestSiege_scavengers_Rocket_medium.mob_difficulty = 1
@@ -2241,7 +2283,7 @@ MobDef.TestSiege_scavengers_Miner_medium.blueprint = {
   "gamedata/car_design/pve_new/scavengers_medium_miner.xml"
 }
 MobDef.TestSiege_scavengers_Miner_medium.score_reward_kill = 13
-MobDef.TestSiege_scavengers_Miner_medium.damage_scale = 1.2
+MobDef.TestSiege_scavengers_Miner_medium.damage_scale = 1.3
 MobDef.TestSiege_scavengers_Miner_medium.health_scale = 1.1
 MobDef.TestSiege_scavengers_Miner_medium.hud_type = "mob_engineer"
 MobDef.TestSiege_scavengers_Miner_medium.mob_difficulty = 1
@@ -2252,7 +2294,7 @@ MobDef.TestSiege_scavengers_Artillery_medium.blueprint = {
   "gamedata/car_design/pve_new/scavengers_medium_artillery.xml"
 }
 MobDef.TestSiege_scavengers_Artillery_medium.score_reward_kill = 13
-MobDef.TestSiege_scavengers_Artillery_medium.damage_scale = 0.7
+MobDef.TestSiege_scavengers_Artillery_medium.damage_scale = 0.8
 MobDef.TestSiege_scavengers_Artillery_medium.health_scale = 1.1
 MobDef.TestSiege_scavengers_Artillery_medium.hud_type = "mob_sniper"
 MobDef.TestSiege_scavengers_Artillery_medium.mob_difficulty = 1
@@ -2266,7 +2308,7 @@ MobDef.TestSiege_scavengers_GunMeat_hard.blueprint = {
   "gamedata/car_design/pve_new/scavengers_hard_meat4.xml"
 }
 MobDef.TestSiege_scavengers_GunMeat_hard.score_reward_kill = 13
-MobDef.TestSiege_scavengers_GunMeat_hard.damage_scale = 1.4
+MobDef.TestSiege_scavengers_GunMeat_hard.damage_scale = 1.5
 MobDef.TestSiege_scavengers_GunMeat_hard.health_scale = 1.4
 MobDef.TestSiege_scavengers_GunMeat_hard.hud_type = "mob"
 MobDef.TestSiege_scavengers_GunMeat_hard.mob_difficulty = 2
@@ -2277,7 +2319,7 @@ MobDef.TestSiege_scavengers_MeleeMeat_hard.blueprint = {
   "gamedata/car_design/pve_new/scavengers_hard_taran.xml"
 }
 MobDef.TestSiege_scavengers_MeleeMeat_hard.score_reward_kill = 13
-MobDef.TestSiege_scavengers_MeleeMeat_hard.damage_scale = 1.4
+MobDef.TestSiege_scavengers_MeleeMeat_hard.damage_scale = 1.5
 MobDef.TestSiege_scavengers_MeleeMeat_hard.health_scale = 1.4
 MobDef.TestSiege_scavengers_MeleeMeat_hard.hud_type = "mob_melee"
 MobDef.TestSiege_scavengers_MeleeMeat_hard.mob_difficulty = 2
@@ -2289,7 +2331,7 @@ MobDef.TestSiege_scavengers_Gunnery_hard.blueprint = {
   "gamedata/car_design/pve_new/scavengers_hard_gunnery2.xml"
 }
 MobDef.TestSiege_scavengers_Gunnery_hard.score_reward_kill = 13
-MobDef.TestSiege_scavengers_Gunnery_hard.damage_scale = 1.4
+MobDef.TestSiege_scavengers_Gunnery_hard.damage_scale = 1.5
 MobDef.TestSiege_scavengers_Gunnery_hard.health_scale = 1.4
 MobDef.TestSiege_scavengers_Gunnery_hard.hud_type = "mob_sniper"
 MobDef.TestSiege_scavengers_Gunnery_hard.mob_difficulty = 2
@@ -2300,7 +2342,7 @@ MobDef.TestSiege_scavengers_Rocket_hard.blueprint = {
   "gamedata/car_design/pve_new/scavengers_hard_rocket.xml"
 }
 MobDef.TestSiege_scavengers_Rocket_hard.score_reward_kill = 13
-MobDef.TestSiege_scavengers_Rocket_hard.damage_scale = 1.4
+MobDef.TestSiege_scavengers_Rocket_hard.damage_scale = 1.5
 MobDef.TestSiege_scavengers_Rocket_hard.health_scale = 1.4
 MobDef.TestSiege_scavengers_Rocket_hard.hud_type = "mob_sniper"
 MobDef.TestSiege_scavengers_Rocket_hard.mob_difficulty = 2
@@ -2311,7 +2353,7 @@ MobDef.TestSiege_scavengers_Miner_hard.blueprint = {
   "gamedata/car_design/pve_new/scavengers_hard_miner.xml"
 }
 MobDef.TestSiege_scavengers_Miner_hard.score_reward_kill = 13
-MobDef.TestSiege_scavengers_Miner_hard.damage_scale = 1.4
+MobDef.TestSiege_scavengers_Miner_hard.damage_scale = 1.5
 MobDef.TestSiege_scavengers_Miner_hard.health_scale = 1.4
 MobDef.TestSiege_scavengers_Miner_hard.hud_type = "mob_engineer"
 MobDef.TestSiege_scavengers_Miner_hard.mob_difficulty = 2
@@ -2322,7 +2364,7 @@ MobDef.TestSiege_scavengers_Artillery_hard.blueprint = {
   "gamedata/car_design/pve_new/scavengers_hard_artillery.xml"
 }
 MobDef.TestSiege_scavengers_Artillery_hard.score_reward_kill = 13
-MobDef.TestSiege_scavengers_Artillery_hard.damage_scale = 1.2
+MobDef.TestSiege_scavengers_Artillery_hard.damage_scale = 1.3
 MobDef.TestSiege_scavengers_Artillery_hard.health_scale = 1.4
 MobDef.TestSiege_scavengers_Artillery_hard.hud_type = "mob_sniper"
 MobDef.TestSiege_scavengers_Artillery_hard.mob_difficulty = 2
@@ -2372,7 +2414,7 @@ MobDef.TestSiege_nomads_RacerMeat_medium.blueprint = {
   "gamedata/car_design/pve_new/nomad_medium_racer4.xml"
 }
 MobDef.TestSiege_nomads_RacerMeat_medium.score_reward_kill = 13
-MobDef.TestSiege_nomads_RacerMeat_medium.damage_scale = 1.2
+MobDef.TestSiege_nomads_RacerMeat_medium.damage_scale = 1.3
 MobDef.TestSiege_nomads_RacerMeat_medium.health_scale = 1.2
 MobDef.TestSiege_nomads_RacerMeat_medium.hud_type = "mob"
 MobDef.TestSiege_nomads_RacerMeat_medium.mob_difficulty = 1
@@ -2383,7 +2425,7 @@ MobDef.TestSiege_nomads_GhostMeat_medium.blueprint = {
   "gamedata/car_design/pve_new/nomad_medium_ghost.xml"
 }
 MobDef.TestSiege_nomads_GhostMeat_medium.score_reward_kill = 13
-MobDef.TestSiege_nomads_GhostMeat_medium.damage_scale = 1.2
+MobDef.TestSiege_nomads_GhostMeat_medium.damage_scale = 1.3
 MobDef.TestSiege_nomads_GhostMeat_medium.health_scale = 1.2
 MobDef.TestSiege_nomads_GhostMeat_medium.skill_work_time_mul = 3
 MobDef.TestSiege_nomads_GhostMeat_medium.skill_cooldown_mul = -3
@@ -2396,7 +2438,7 @@ MobDef.TestSiege_nomads_Explorer_medium.blueprint = {
   "gamedata/car_design/pve_new/nomad_medium_explorer.xml"
 }
 MobDef.TestSiege_nomads_Explorer_medium.score_reward_kill = 13
-MobDef.TestSiege_nomads_Explorer_medium.damage_scale = 1.1
+MobDef.TestSiege_nomads_Explorer_medium.damage_scale = 1.2
 MobDef.TestSiege_nomads_Explorer_medium.health_scale = 1.2
 MobDef.TestSiege_nomads_Explorer_medium.hud_type = "mob_sniper"
 MobDef.TestSiege_nomads_Explorer_medium.mob_difficulty = 1
@@ -2407,7 +2449,7 @@ MobDef.TestSiege_nomads_Grenadier_medium.blueprint = {
   "gamedata/car_design/pve_new/nomad_medium_grenade.xml"
 }
 MobDef.TestSiege_nomads_Grenadier_medium.score_reward_kill = 13
-MobDef.TestSiege_nomads_Grenadier_medium.damage_scale = 1.1
+MobDef.TestSiege_nomads_Grenadier_medium.damage_scale = 1.3
 MobDef.TestSiege_nomads_Grenadier_medium.health_scale = 1.2
 MobDef.TestSiege_nomads_Grenadier_medium.hud_type = "mob_engineer"
 MobDef.TestSiege_nomads_Grenadier_medium.mob_difficulty = 1
@@ -2418,7 +2460,7 @@ MobDef.TestSiege_nomads_MeleeMeat_medium.blueprint = {
   "gamedata/car_design/pve_new/nomad_medium_melee.xml"
 }
 MobDef.TestSiege_nomads_MeleeMeat_medium.score_reward_kill = 13
-MobDef.TestSiege_nomads_MeleeMeat_medium.damage_scale = 1.2
+MobDef.TestSiege_nomads_MeleeMeat_medium.damage_scale = 1.3
 MobDef.TestSiege_nomads_MeleeMeat_medium.health_scale = 1.2
 MobDef.TestSiege_nomads_MeleeMeat_medium.hud_type = "mob_melee"
 MobDef.TestSiege_nomads_MeleeMeat_medium.mob_difficulty = 1
@@ -2429,7 +2471,7 @@ MobDef.TestSiege_nomads_Turret_medium.blueprint = {
   "gamedata/car_design/pve_new/nomad_medium_turret.xml"
 }
 MobDef.TestSiege_nomads_Turret_medium.score_reward_kill = 13
-MobDef.TestSiege_nomads_Turret_medium.damage_scale = 1.1
+MobDef.TestSiege_nomads_Turret_medium.damage_scale = 1.2
 MobDef.TestSiege_nomads_Turret_medium.health_scale = 1.2
 MobDef.TestSiege_nomads_Turret_medium.skill_work_time_mul = 3
 MobDef.TestSiege_nomads_Turret_medium.skill_cooldown_mul = -3
@@ -2445,7 +2487,7 @@ MobDef.TestSiege_nomads_RacerMeat_hard.blueprint = {
   "gamedata/car_design/pve_new/nomad_hard_racer4.xml"
 }
 MobDef.TestSiege_nomads_RacerMeat_hard.score_reward_kill = 13
-MobDef.TestSiege_nomads_RacerMeat_hard.damage_scale = 1.3
+MobDef.TestSiege_nomads_RacerMeat_hard.damage_scale = 1.4
 MobDef.TestSiege_nomads_RacerMeat_hard.health_scale = 1.3
 MobDef.TestSiege_nomads_RacerMeat_hard.hud_type = "mob"
 MobDef.TestSiege_nomads_RacerMeat_hard.mob_difficulty = 2
@@ -2456,7 +2498,7 @@ MobDef.TestSiege_nomads_GhostMeat_hard.blueprint = {
   "gamedata/car_design/pve_new/nomad_hard_ghost.xml"
 }
 MobDef.TestSiege_nomads_GhostMeat_hard.score_reward_kill = 13
-MobDef.TestSiege_nomads_GhostMeat_hard.damage_scale = 1.3
+MobDef.TestSiege_nomads_GhostMeat_hard.damage_scale = 1.4
 MobDef.TestSiege_nomads_GhostMeat_hard.health_scale = 1.3
 MobDef.TestSiege_nomads_GhostMeat_hard.skill_work_time_mul = 3
 MobDef.TestSiege_nomads_GhostMeat_hard.skill_cooldown_mul = -3
@@ -2469,7 +2511,7 @@ MobDef.TestSiege_nomads_Explorer_hard.blueprint = {
   "gamedata/car_design/pve_new/nomad_hard_explorer.xml"
 }
 MobDef.TestSiege_nomads_Explorer_hard.score_reward_kill = 13
-MobDef.TestSiege_nomads_Explorer_hard.damage_scale = 1.2
+MobDef.TestSiege_nomads_Explorer_hard.damage_scale = 1.3
 MobDef.TestSiege_nomads_Explorer_hard.health_scale = 1.3
 MobDef.TestSiege_nomads_Explorer_hard.hud_type = "mob_sniper"
 MobDef.TestSiege_nomads_Explorer_hard.mob_difficulty = 2
@@ -2480,7 +2522,7 @@ MobDef.TestSiege_nomads_Grenadier_hard.blueprint = {
   "gamedata/car_design/pve_new/nomad_hard_grenade.xml"
 }
 MobDef.TestSiege_nomads_Grenadier_hard.score_reward_kill = 13
-MobDef.TestSiege_nomads_Grenadier_hard.damage_scale = 1.2
+MobDef.TestSiege_nomads_Grenadier_hard.damage_scale = 1.3
 MobDef.TestSiege_nomads_Grenadier_hard.health_scale = 1.3
 MobDef.TestSiege_nomads_Grenadier_hard.hud_type = "mob_engineer"
 MobDef.TestSiege_nomads_Grenadier_hard.mob_difficulty = 2
@@ -2491,7 +2533,7 @@ MobDef.TestSiege_nomads_MeleeMeat_hard.blueprint = {
   "gamedata/car_design/pve_new/nomad_hard_melee.xml"
 }
 MobDef.TestSiege_nomads_MeleeMeat_hard.score_reward_kill = 13
-MobDef.TestSiege_nomads_MeleeMeat_hard.damage_scale = 1.3
+MobDef.TestSiege_nomads_MeleeMeat_hard.damage_scale = 1.4
 MobDef.TestSiege_nomads_MeleeMeat_hard.health_scale = 1.3
 MobDef.TestSiege_nomads_MeleeMeat_hard.hud_type = "mob_melee"
 MobDef.TestSiege_nomads_MeleeMeat_hard.mob_difficulty = 2
@@ -2502,7 +2544,7 @@ MobDef.TestSiege_nomads_Turret_hard.blueprint = {
   "gamedata/car_design/pve_new/nomad_hard_turret.xml"
 }
 MobDef.TestSiege_nomads_Turret_hard.score_reward_kill = 13
-MobDef.TestSiege_nomads_Turret_hard.damage_scale = 1.2
+MobDef.TestSiege_nomads_Turret_hard.damage_scale = 1.3
 MobDef.TestSiege_nomads_Turret_hard.health_scale = 1.3
 MobDef.TestSiege_nomads_Turret_hard.skill_work_time_mul = 3
 MobDef.TestSiege_nomads_Turret_hard.skill_cooldown_mul = -3
@@ -4308,51 +4350,55 @@ MobDef.TowerDefense_military_Arty_hard.ods_export = true
 MobDef.TowerDefense_military_Arty_hard.blueprint = {
   "gamedata/car_design/pve_new/military_hard_arty.xml"
 }
-MobDef.TowerDefense_military_Arty_hard.score_reward_kill = 13
+MobDef.TowerDefense_military_Arty_hard.score_reward_kill = 15
 MobDef.TowerDefense_military_Arty_hard.damage_scale = 1
 MobDef.TowerDefense_military_Arty_hard.health_scale = 1
 MobDef.TowerDefense_military_Arty_hard.hud_type = "mob_sniper"
 MobDef.TowerDefense_military_Arty_hard.mob_difficulty = 2
 MobDef.TowerDefense_military_Arty_hard.refill_ammo_chance = 0.2
+MobDef.TowerDefense_military_Arty_hard.is_autolifting_allowed = true
 MobDef.TowerDefense_military_Autogun_hard = {}
 MobDef.TowerDefense_military_Autogun_hard.ods_export = true
 MobDef.TowerDefense_military_Autogun_hard.blueprint = {
   "gamedata/car_design/pve_new/military_hard_autogun.xml"
 }
-MobDef.TowerDefense_military_Autogun_hard.score_reward_kill = 13
+MobDef.TowerDefense_military_Autogun_hard.score_reward_kill = 15
 MobDef.TowerDefense_military_Autogun_hard.damage_scale = 1
 MobDef.TowerDefense_military_Autogun_hard.health_scale = 1
 MobDef.TowerDefense_military_Autogun_hard.hud_type = "mob"
 MobDef.TowerDefense_military_Autogun_hard.mob_difficulty = 2
 MobDef.TowerDefense_military_Autogun_hard.refill_ammo_chance = 0.2
+MobDef.TowerDefense_military_Autogun_hard.is_autolifting_allowed = true
 MobDef.TowerDefense_military_Machinegun_hard = {}
 MobDef.TowerDefense_military_Machinegun_hard.ods_export = true
 MobDef.TowerDefense_military_Machinegun_hard.blueprint = {
   "gamedata/car_design/pve_new/military_hard_machinegun.xml"
 }
-MobDef.TowerDefense_military_Machinegun_hard.score_reward_kill = 13
+MobDef.TowerDefense_military_Machinegun_hard.score_reward_kill = 15
 MobDef.TowerDefense_military_Machinegun_hard.damage_scale = 1
 MobDef.TowerDefense_military_Machinegun_hard.health_scale = 1
 MobDef.TowerDefense_military_Machinegun_hard.hud_type = "mob"
 MobDef.TowerDefense_military_Machinegun_hard.mob_difficulty = 2
 MobDef.TowerDefense_military_Machinegun_hard.refill_ammo_chance = 0.2
+MobDef.TowerDefense_military_Machinegun_hard.is_autolifting_allowed = true
 MobDef.TowerDefense_military_Grenadier_hard = {}
 MobDef.TowerDefense_military_Grenadier_hard.ods_export = true
 MobDef.TowerDefense_military_Grenadier_hard.blueprint = {
   "gamedata/car_design/pve_new/military_hard_grenade.xml"
 }
-MobDef.TowerDefense_military_Grenadier_hard.score_reward_kill = 13
+MobDef.TowerDefense_military_Grenadier_hard.score_reward_kill = 15
 MobDef.TowerDefense_military_Grenadier_hard.damage_scale = 1
 MobDef.TowerDefense_military_Grenadier_hard.health_scale = 1
 MobDef.TowerDefense_military_Grenadier_hard.hud_type = "mob"
 MobDef.TowerDefense_military_Grenadier_hard.mob_difficulty = 2
 MobDef.TowerDefense_military_Grenadier_hard.refill_ammo_chance = 0.2
+MobDef.TowerDefense_military_Grenadier_hard.is_autolifting_allowed = true
 MobDef.TowerDefense_military_BMP_hard = {}
 MobDef.TowerDefense_military_BMP_hard.ods_export = true
 MobDef.TowerDefense_military_BMP_hard.blueprint = {
   "gamedata/car_design/pve_new/military_hard_bmp.xml"
 }
-MobDef.TowerDefense_military_BMP_hard.score_reward_kill = 13
+MobDef.TowerDefense_military_BMP_hard.score_reward_kill = 15
 MobDef.TowerDefense_military_BMP_hard.damage_scale = 1
 MobDef.TowerDefense_military_BMP_hard.health_scale = 1
 MobDef.TowerDefense_military_BMP_hard.skill_work_time_mul = 2
@@ -4360,12 +4406,13 @@ MobDef.TowerDefense_military_BMP_hard.skill_cooldown_mul = -2
 MobDef.TowerDefense_military_BMP_hard.hud_type = "mob_engineer"
 MobDef.TowerDefense_military_BMP_hard.mob_difficulty = 2
 MobDef.TowerDefense_military_BMP_hard.refill_ammo_chance = 0.2
+MobDef.TowerDefense_military_BMP_hard.is_autolifting_allowed = true
 MobDef.TowerDefense_military_BTR_hard = {}
 MobDef.TowerDefense_military_BTR_hard.ods_export = true
 MobDef.TowerDefense_military_BTR_hard.blueprint = {
   "gamedata/car_design/pve_new/military_hard_btr.xml"
 }
-MobDef.TowerDefense_military_BTR_hard.score_reward_kill = 13
+MobDef.TowerDefense_military_BTR_hard.score_reward_kill = 15
 MobDef.TowerDefense_military_BTR_hard.damage_scale = 1
 MobDef.TowerDefense_military_BTR_hard.health_scale = 1
 MobDef.TowerDefense_military_BTR_hard.skill_work_time_mul = 2
@@ -4373,6 +4420,7 @@ MobDef.TowerDefense_military_BTR_hard.skill_cooldown_mul = -2
 MobDef.TowerDefense_military_BTR_hard.hud_type = "mob_engineer"
 MobDef.TowerDefense_military_BTR_hard.mob_difficulty = 2
 MobDef.TowerDefense_military_BTR_hard.refill_ammo_chance = 0.2
+MobDef.TowerDefense_military_BTR_hard.is_autolifting_allowed = true
 MobDef.psycho_easy_meat = {}
 MobDef.psycho_easy_meat.ods_export = true
 MobDef.psycho_easy_meat.blueprint = {
@@ -4381,47 +4429,53 @@ MobDef.psycho_easy_meat.blueprint = {
   "gamedata/car_design/pve_new/psycho_easy_meat3.xml",
   "gamedata/car_design/pve_new/psycho_easy_meat4.xml"
 }
-MobDef.psycho_easy_meat.score_reward_kill = 13
+MobDef.psycho_easy_meat.score_reward_kill = 10
 MobDef.psycho_easy_meat.damage_scale = 1
 MobDef.psycho_easy_meat.health_scale = 1
 MobDef.psycho_easy_meat.hud_type = "mob"
 MobDef.psycho_easy_meat.mob_difficulty = 0
-MobDef.psycho_easy_meat.refill_ammo_chance = 0.2
+MobDef.psycho_easy_meat.refill_ammo_chance = 0.1
+MobDef.psycho_easy_meat.is_autolifting_allowed = true
 MobDef.psycho_easy_melee = {}
 MobDef.psycho_easy_melee.ods_export = true
 MobDef.psycho_easy_melee.blueprint = {
   "gamedata/car_design/pve_new/psycho_easy_melee.xml"
 }
-MobDef.psycho_easy_melee.score_reward_kill = 13
-MobDef.psycho_easy_melee.damage_scale = 1
+MobDef.psycho_easy_melee.score_reward_kill = 10
+MobDef.psycho_easy_melee.damage_scale = 0.9
 MobDef.psycho_easy_melee.health_scale = 1
 MobDef.psycho_easy_melee.hud_type = "mob_melee"
 MobDef.psycho_easy_melee.mob_difficulty = 0
-MobDef.psycho_easy_melee.refill_ammo_chance = 0.2
+MobDef.psycho_easy_melee.refill_ammo_chance = 0.1
+MobDef.psycho_easy_melee.is_autolifting_allowed = true
 MobDef.psycho_easy_special = {}
 MobDef.psycho_easy_special.ods_export = true
 MobDef.psycho_easy_special.blueprint = {
   "gamedata/car_design/pve_new/psycho_easy_kamikadze.xml"
 }
-MobDef.psycho_easy_special.score_reward_kill = 13
+MobDef.psycho_easy_special.score_reward_kill = 10
 MobDef.psycho_easy_special.damage_scale = 1
 MobDef.psycho_easy_special.health_scale = 1
 MobDef.psycho_easy_special.hud_type = "mob_melee"
 MobDef.psycho_easy_special.mob_difficulty = 0
-MobDef.psycho_easy_special.refill_ammo_chance = 0.2
+MobDef.psycho_easy_special.refill_ammo_chance = 0.5
 MobDef.psycho_easy_special.mob_behaviour = "kamikaze"
+MobDef.psycho_easy_special.is_autolifting_allowed = true
 MobDef.psycho_easy_boss = {}
 MobDef.psycho_easy_boss.ods_export = true
 MobDef.psycho_easy_boss.blueprint = {
-  "gamedata/car_design/pve_new/psycho_easy_boss.xml"
+  "gamedata/car_design/pve_new/psycho_easy_boss.xml",
+  "gamedata/car_design/pve_new/psycho_easy_boss2.xml",
+  "gamedata/car_design/pve_new/psycho_easy_boss3.xml"
 }
-MobDef.psycho_easy_boss.score_reward_kill = 13
+MobDef.psycho_easy_boss.score_reward_kill = 10
 MobDef.psycho_easy_boss.damage_scale = 1
 MobDef.psycho_easy_boss.health_scale = 1
 MobDef.psycho_easy_boss.ui_name = "#psycho_Boss_easy_name"
 MobDef.psycho_easy_boss.hud_type = "mob_boss"
 MobDef.psycho_easy_boss.mob_difficulty = 0
-MobDef.psycho_easy_boss.refill_ammo_chance = 0.2
+MobDef.psycho_easy_boss.refill_ammo_chance = 1
+MobDef.psycho_easy_boss.is_autolifting_allowed = true
 MobDef.psycho_medium_meat = {}
 MobDef.psycho_medium_meat.ods_export = true
 MobDef.psycho_medium_meat.blueprint = {
@@ -4430,82 +4484,91 @@ MobDef.psycho_medium_meat.blueprint = {
   "gamedata/car_design/pve_new/psycho_medium_meat3.xml",
   "gamedata/car_design/pve_new/psycho_medium_meat4.xml"
 }
-MobDef.psycho_medium_meat.score_reward_kill = 13
-MobDef.psycho_medium_meat.damage_scale = 1
+MobDef.psycho_medium_meat.score_reward_kill = 10
+MobDef.psycho_medium_meat.damage_scale = 0.9
 MobDef.psycho_medium_meat.health_scale = 1
 MobDef.psycho_medium_meat.hud_type = "mob"
 MobDef.psycho_medium_meat.mob_difficulty = 1
-MobDef.psycho_medium_meat.refill_ammo_chance = 0.2
+MobDef.psycho_medium_meat.refill_ammo_chance = 0.1
+MobDef.psycho_medium_meat.is_autolifting_allowed = true
 MobDef.psycho_medium_melee = {}
 MobDef.psycho_medium_melee.ods_export = true
 MobDef.psycho_medium_melee.blueprint = {
   "gamedata/car_design/pve_new/psycho_medium_melee.xml"
 }
-MobDef.psycho_medium_melee.score_reward_kill = 13
+MobDef.psycho_medium_melee.score_reward_kill = 10
 MobDef.psycho_medium_melee.damage_scale = 1
 MobDef.psycho_medium_melee.health_scale = 1
 MobDef.psycho_medium_melee.hud_type = "mob_melee"
 MobDef.psycho_medium_melee.mob_difficulty = 1
-MobDef.psycho_medium_melee.refill_ammo_chance = 0.2
+MobDef.psycho_medium_melee.refill_ammo_chance = 0.1
+MobDef.psycho_medium_melee.is_autolifting_allowed = true
 MobDef.psycho_medium_special = {}
 MobDef.psycho_medium_special.ods_export = true
 MobDef.psycho_medium_special.blueprint = {
   "gamedata/car_design/pve_new/psycho_medium_kamikadze.xml"
 }
-MobDef.psycho_medium_special.score_reward_kill = 13
+MobDef.psycho_medium_special.score_reward_kill = 10
 MobDef.psycho_medium_special.damage_scale = 1
 MobDef.psycho_medium_special.health_scale = 1
 MobDef.psycho_medium_special.hud_type = "mob_melee"
 MobDef.psycho_medium_special.mob_difficulty = 1
-MobDef.psycho_medium_special.refill_ammo_chance = 0.2
+MobDef.psycho_medium_special.refill_ammo_chance = 0.5
 MobDef.psycho_medium_special.mob_behaviour = "kamikaze"
+MobDef.psycho_medium_special.is_autolifting_allowed = true
 MobDef.psycho_medium_boss = {}
 MobDef.psycho_medium_boss.ods_export = true
 MobDef.psycho_medium_boss.blueprint = {
-  "gamedata/car_design/pve_new/psycho_medium_boss.xml"
+  "gamedata/car_design/pve_new/psycho_medium_boss.xml",
+  "gamedata/car_design/pve_new/psycho_medium_boss2.xml",
+  "gamedata/car_design/pve_new/psycho_medium_boss3.xml"
 }
-MobDef.psycho_medium_boss.score_reward_kill = 13
+MobDef.psycho_medium_boss.score_reward_kill = 10
 MobDef.psycho_medium_boss.damage_scale = 1
 MobDef.psycho_medium_boss.health_scale = 1
 MobDef.psycho_medium_boss.ui_name = "#psycho_Boss_medium_name"
 MobDef.psycho_medium_boss.hud_type = "mob_boss"
 MobDef.psycho_medium_boss.mob_difficulty = 1
-MobDef.psycho_medium_boss.refill_ammo_chance = 0.2
+MobDef.psycho_medium_boss.refill_ammo_chance = 1
+MobDef.psycho_medium_boss.is_autolifting_allowed = true
 MobDef.psycho_medium_officer = {}
 MobDef.psycho_medium_officer.ods_export = true
 MobDef.psycho_medium_officer.blueprint = {
   "gamedata/car_design/pve_new/psycho_medium_flamethrower.xml"
 }
-MobDef.psycho_medium_officer.score_reward_kill = 13
+MobDef.psycho_medium_officer.score_reward_kill = 10
 MobDef.psycho_medium_officer.damage_scale = 1
 MobDef.psycho_medium_officer.health_scale = 1
 MobDef.psycho_medium_officer.hud_type = "mob_officer"
 MobDef.psycho_medium_officer.mob_difficulty = 1
-MobDef.psycho_medium_officer.refill_ammo_chance = 0.2
+MobDef.psycho_medium_officer.refill_ammo_chance = 0.5
+MobDef.psycho_medium_officer.is_autolifting_allowed = true
 MobDef.psycho_medium_ranged = {}
 MobDef.psycho_medium_ranged.ods_export = true
 MobDef.psycho_medium_ranged.blueprint = {
   "gamedata/car_design/pve_new/psycho_medium_gunnery.xml"
 }
-MobDef.psycho_medium_ranged.score_reward_kill = 13
+MobDef.psycho_medium_ranged.score_reward_kill = 10
 MobDef.psycho_medium_ranged.damage_scale = 1
 MobDef.psycho_medium_ranged.health_scale = 1
 MobDef.psycho_medium_ranged.hud_type = "mob_sniper"
 MobDef.psycho_medium_ranged.mob_difficulty = 1
-MobDef.psycho_medium_ranged.refill_ammo_chance = 0.2
+MobDef.psycho_medium_ranged.refill_ammo_chance = 0.5
+MobDef.psycho_medium_ranged.is_autolifting_allowed = true
 MobDef.psycho_medium_elite = {}
 MobDef.psycho_medium_elite.ods_export = true
 MobDef.psycho_medium_elite.blueprint = {
   "gamedata/car_design/pve_new/psycho_medium_puppeteer.xml"
 }
-MobDef.psycho_medium_elite.score_reward_kill = 13
+MobDef.psycho_medium_elite.score_reward_kill = 10
 MobDef.psycho_medium_elite.damage_scale = 1
 MobDef.psycho_medium_elite.health_scale = 1
 MobDef.psycho_medium_elite.skill_work_time_mul = 2
 MobDef.psycho_medium_elite.skill_cooldown_mul = -2
 MobDef.psycho_medium_elite.hud_type = "mob_engineer"
 MobDef.psycho_medium_elite.mob_difficulty = 1
-MobDef.psycho_medium_elite.refill_ammo_chance = 0.2
+MobDef.psycho_medium_elite.refill_ammo_chance = 0.5
+MobDef.psycho_medium_elite.is_autolifting_allowed = true
 MobDef.psycho_hard_meat = {}
 MobDef.psycho_hard_meat.ods_export = true
 MobDef.psycho_hard_meat.blueprint = {
@@ -4514,82 +4577,91 @@ MobDef.psycho_hard_meat.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_meat3.xml",
   "gamedata/car_design/pve_new/psycho_hard_meat4.xml"
 }
-MobDef.psycho_hard_meat.score_reward_kill = 13
+MobDef.psycho_hard_meat.score_reward_kill = 10
 MobDef.psycho_hard_meat.damage_scale = 1
 MobDef.psycho_hard_meat.health_scale = 1
 MobDef.psycho_hard_meat.hud_type = "mob"
 MobDef.psycho_hard_meat.mob_difficulty = 2
-MobDef.psycho_hard_meat.refill_ammo_chance = 0.2
+MobDef.psycho_hard_meat.refill_ammo_chance = 0.1
+MobDef.psycho_hard_meat.is_autolifting_allowed = true
 MobDef.psycho_hard_melee = {}
 MobDef.psycho_hard_melee.ods_export = true
 MobDef.psycho_hard_melee.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_melee.xml"
 }
-MobDef.psycho_hard_melee.score_reward_kill = 13
-MobDef.psycho_hard_melee.damage_scale = 1
+MobDef.psycho_hard_melee.score_reward_kill = 10
+MobDef.psycho_hard_melee.damage_scale = 0.9
 MobDef.psycho_hard_melee.health_scale = 1
 MobDef.psycho_hard_melee.hud_type = "mob_melee"
 MobDef.psycho_hard_melee.mob_difficulty = 2
-MobDef.psycho_hard_melee.refill_ammo_chance = 0.2
+MobDef.psycho_hard_melee.refill_ammo_chance = 0.1
+MobDef.psycho_hard_melee.is_autolifting_allowed = true
 MobDef.psycho_hard_special = {}
 MobDef.psycho_hard_special.ods_export = true
 MobDef.psycho_hard_special.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_kamikadze.xml"
 }
-MobDef.psycho_hard_special.score_reward_kill = 13
+MobDef.psycho_hard_special.score_reward_kill = 10
 MobDef.psycho_hard_special.damage_scale = 1
 MobDef.psycho_hard_special.health_scale = 1
 MobDef.psycho_hard_special.hud_type = "mob_melee"
 MobDef.psycho_hard_special.mob_difficulty = 2
-MobDef.psycho_hard_special.refill_ammo_chance = 0.2
+MobDef.psycho_hard_special.refill_ammo_chance = 0.5
 MobDef.psycho_hard_special.mob_behaviour = "kamikaze"
+MobDef.psycho_hard_special.is_autolifting_allowed = true
 MobDef.psycho_hard_boss = {}
 MobDef.psycho_hard_boss.ods_export = true
 MobDef.psycho_hard_boss.blueprint = {
-  "gamedata/car_design/pve_new/psycho_hard_boss.xml"
+  "gamedata/car_design/pve_new/psycho_hard_boss.xml",
+  "gamedata/car_design/pve_new/psycho_hard_boss2.xml",
+  "gamedata/car_design/pve_new/psycho_hard_boss3.xml"
 }
-MobDef.psycho_hard_boss.score_reward_kill = 13
+MobDef.psycho_hard_boss.score_reward_kill = 10
 MobDef.psycho_hard_boss.damage_scale = 1
 MobDef.psycho_hard_boss.health_scale = 1
 MobDef.psycho_hard_boss.ui_name = "#psycho_Boss_hard_name"
 MobDef.psycho_hard_boss.hud_type = "mob_boss"
 MobDef.psycho_hard_boss.mob_difficulty = 2
-MobDef.psycho_hard_boss.refill_ammo_chance = 0.2
+MobDef.psycho_hard_boss.refill_ammo_chance = 1
+MobDef.psycho_hard_boss.is_autolifting_allowed = true
 MobDef.psycho_hard_officer = {}
 MobDef.psycho_hard_officer.ods_export = true
 MobDef.psycho_hard_officer.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_flamethrower.xml"
 }
-MobDef.psycho_hard_officer.score_reward_kill = 13
+MobDef.psycho_hard_officer.score_reward_kill = 10
 MobDef.psycho_hard_officer.damage_scale = 1
 MobDef.psycho_hard_officer.health_scale = 1
 MobDef.psycho_hard_officer.hud_type = "mob_officer"
 MobDef.psycho_hard_officer.mob_difficulty = 2
-MobDef.psycho_hard_officer.refill_ammo_chance = 0.2
+MobDef.psycho_hard_officer.refill_ammo_chance = 0.5
+MobDef.psycho_hard_officer.is_autolifting_allowed = true
 MobDef.psycho_hard_ranged = {}
 MobDef.psycho_hard_ranged.ods_export = true
 MobDef.psycho_hard_ranged.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_gunnery.xml"
 }
-MobDef.psycho_hard_ranged.score_reward_kill = 13
+MobDef.psycho_hard_ranged.score_reward_kill = 10
 MobDef.psycho_hard_ranged.damage_scale = 1
 MobDef.psycho_hard_ranged.health_scale = 1
 MobDef.psycho_hard_ranged.hud_type = "mob_sniper"
 MobDef.psycho_hard_ranged.mob_difficulty = 2
-MobDef.psycho_hard_ranged.refill_ammo_chance = 0.2
+MobDef.psycho_hard_ranged.refill_ammo_chance = 0.5
+MobDef.psycho_hard_ranged.is_autolifting_allowed = true
 MobDef.psycho_hard_elite = {}
 MobDef.psycho_hard_elite.ods_export = true
 MobDef.psycho_hard_elite.blueprint = {
   "gamedata/car_design/pve_new/psycho_hard_puppeteer.xml"
 }
-MobDef.psycho_hard_elite.score_reward_kill = 13
+MobDef.psycho_hard_elite.score_reward_kill = 10
 MobDef.psycho_hard_elite.damage_scale = 1
 MobDef.psycho_hard_elite.health_scale = 1
 MobDef.psycho_hard_elite.skill_work_time_mul = 2
 MobDef.psycho_hard_elite.skill_cooldown_mul = -2
 MobDef.psycho_hard_elite.hud_type = "mob_engineer"
 MobDef.psycho_hard_elite.mob_difficulty = 2
-MobDef.psycho_hard_elite.refill_ammo_chance = 0.2
+MobDef.psycho_hard_elite.refill_ammo_chance = 0.5
+MobDef.psycho_hard_elite.is_autolifting_allowed = true
 MobDef.nomads_easy_meat = {}
 MobDef.nomads_easy_meat.ods_export = true
 MobDef.nomads_easy_meat.blueprint = {
@@ -4598,48 +4670,54 @@ MobDef.nomads_easy_meat.blueprint = {
   "gamedata/car_design/pve_new/nomad_easy_racer3.xml",
   "gamedata/car_design/pve_new/nomad_easy_racer4.xml"
 }
-MobDef.nomads_easy_meat.score_reward_kill = 13
+MobDef.nomads_easy_meat.score_reward_kill = 12
 MobDef.nomads_easy_meat.damage_scale = 1
 MobDef.nomads_easy_meat.health_scale = 1
 MobDef.nomads_easy_meat.hud_type = "mob"
 MobDef.nomads_easy_meat.mob_difficulty = 0
-MobDef.nomads_easy_meat.refill_ammo_chance = 0.2
+MobDef.nomads_easy_meat.refill_ammo_chance = 0.15
+MobDef.nomads_easy_meat.is_autolifting_allowed = true
 MobDef.nomads_easy_melee = {}
 MobDef.nomads_easy_melee.ods_export = true
 MobDef.nomads_easy_melee.blueprint = {
   "gamedata/car_design/pve_new/nomad_easy_melee.xml"
 }
-MobDef.nomads_easy_melee.score_reward_kill = 13
-MobDef.nomads_easy_melee.damage_scale = 1
+MobDef.nomads_easy_melee.score_reward_kill = 12
+MobDef.nomads_easy_melee.damage_scale = 0.9
 MobDef.nomads_easy_melee.health_scale = 1
 MobDef.nomads_easy_melee.hud_type = "mob_melee"
 MobDef.nomads_easy_melee.mob_difficulty = 0
-MobDef.nomads_easy_melee.refill_ammo_chance = 0.2
+MobDef.nomads_easy_melee.refill_ammo_chance = 0.15
+MobDef.nomads_easy_melee.is_autolifting_allowed = true
 MobDef.nomads_easy_special = {}
 MobDef.nomads_easy_special.ods_export = true
 MobDef.nomads_easy_special.blueprint = {
   "gamedata/car_design/pve_new/nomad_easy_turret.xml"
 }
-MobDef.nomads_easy_special.score_reward_kill = 13
+MobDef.nomads_easy_special.score_reward_kill = 12
 MobDef.nomads_easy_special.damage_scale = 1
 MobDef.nomads_easy_special.health_scale = 1
 MobDef.nomads_easy_special.skill_work_time_mul = 2
 MobDef.nomads_easy_special.skill_cooldown_mul = -2
 MobDef.nomads_easy_special.hud_type = "mob_engineer"
 MobDef.nomads_easy_special.mob_difficulty = 0
-MobDef.nomads_easy_special.refill_ammo_chance = 0.2
+MobDef.nomads_easy_special.refill_ammo_chance = 0.5
+MobDef.nomads_easy_special.is_autolifting_allowed = true
 MobDef.nomads_easy_boss = {}
 MobDef.nomads_easy_boss.ods_export = true
 MobDef.nomads_easy_boss.blueprint = {
-  "gamedata/car_design/pve_new/nomad_easy_boss.xml"
+  "gamedata/car_design/pve_new/nomad_easy_boss.xml",
+  "gamedata/car_design/pve_new/nomad_easy_boss2.xml",
+  "gamedata/car_design/pve_new/nomad_easy_boss3.xml"
 }
-MobDef.nomads_easy_boss.score_reward_kill = 13
+MobDef.nomads_easy_boss.score_reward_kill = 12
 MobDef.nomads_easy_boss.damage_scale = 1
 MobDef.nomads_easy_boss.health_scale = 1
 MobDef.nomads_easy_boss.ui_name = "#nomads_Boss_easy_name"
 MobDef.nomads_easy_boss.hud_type = "mob_boss"
 MobDef.nomads_easy_boss.mob_difficulty = 0
-MobDef.nomads_easy_boss.refill_ammo_chance = 0.2
+MobDef.nomads_easy_boss.refill_ammo_chance = 1
+MobDef.nomads_easy_boss.is_autolifting_allowed = true
 MobDef.nomads_medium_meat = {}
 MobDef.nomads_medium_meat.ods_export = true
 MobDef.nomads_medium_meat.blueprint = {
@@ -4648,76 +4726,84 @@ MobDef.nomads_medium_meat.blueprint = {
   "gamedata/car_design/pve_new/nomad_medium_racer3.xml",
   "gamedata/car_design/pve_new/nomad_medium_racer4.xml"
 }
-MobDef.nomads_medium_meat.score_reward_kill = 13
+MobDef.nomads_medium_meat.score_reward_kill = 12
 MobDef.nomads_medium_meat.damage_scale = 1
 MobDef.nomads_medium_meat.health_scale = 1
 MobDef.nomads_medium_meat.hud_type = "mob"
 MobDef.nomads_medium_meat.mob_difficulty = 1
-MobDef.nomads_medium_meat.refill_ammo_chance = 0.2
+MobDef.nomads_medium_meat.refill_ammo_chance = 0.15
+MobDef.nomads_medium_meat.is_autolifting_allowed = true
 MobDef.nomads_medium_melee = {}
 MobDef.nomads_medium_melee.ods_export = true
 MobDef.nomads_medium_melee.blueprint = {
   "gamedata/car_design/pve_new/nomad_medium_melee.xml"
 }
-MobDef.nomads_medium_melee.score_reward_kill = 13
-MobDef.nomads_medium_melee.damage_scale = 1
+MobDef.nomads_medium_melee.score_reward_kill = 12
+MobDef.nomads_medium_melee.damage_scale = 0.9
 MobDef.nomads_medium_melee.health_scale = 1
 MobDef.nomads_medium_melee.hud_type = "mob_melee"
 MobDef.nomads_medium_melee.mob_difficulty = 1
-MobDef.nomads_medium_melee.refill_ammo_chance = 0.2
+MobDef.nomads_medium_melee.refill_ammo_chance = 0.15
+MobDef.nomads_medium_melee.is_autolifting_allowed = true
 MobDef.nomads_medium_special = {}
 MobDef.nomads_medium_special.ods_export = true
 MobDef.nomads_medium_special.blueprint = {
   "gamedata/car_design/pve_new/nomad_medium_turret.xml"
 }
-MobDef.nomads_medium_special.score_reward_kill = 13
+MobDef.nomads_medium_special.score_reward_kill = 12
 MobDef.nomads_medium_special.damage_scale = 1
 MobDef.nomads_medium_special.health_scale = 1
 MobDef.nomads_medium_special.skill_work_time_mul = 2
 MobDef.nomads_medium_special.skill_cooldown_mul = -2
 MobDef.nomads_medium_special.hud_type = "mob_engineer"
 MobDef.nomads_medium_special.mob_difficulty = 1
-MobDef.nomads_medium_special.refill_ammo_chance = 0.2
+MobDef.nomads_medium_special.refill_ammo_chance = 0.5
+MobDef.nomads_medium_special.is_autolifting_allowed = true
 MobDef.nomads_medium_boss = {}
 MobDef.nomads_medium_boss.ods_export = true
 MobDef.nomads_medium_boss.blueprint = {
-  "gamedata/car_design/pve_new/nomad_medium_boss.xml"
+  "gamedata/car_design/pve_new/nomad_medium_boss.xml",
+  "gamedata/car_design/pve_new/nomad_medium_boss2.xml",
+  "gamedata/car_design/pve_new/nomad_medium_boss3.xml"
 }
-MobDef.nomads_medium_boss.score_reward_kill = 13
+MobDef.nomads_medium_boss.score_reward_kill = 12
 MobDef.nomads_medium_boss.damage_scale = 1
 MobDef.nomads_medium_boss.health_scale = 1
 MobDef.nomads_medium_boss.ui_name = "#nomads_Boss_medium_name"
 MobDef.nomads_medium_boss.hud_type = "mob_boss"
 MobDef.nomads_medium_boss.mob_difficulty = 1
-MobDef.nomads_medium_boss.refill_ammo_chance = 0.2
+MobDef.nomads_medium_boss.refill_ammo_chance = 1
+MobDef.nomads_medium_boss.is_autolifting_allowed = true
 MobDef.nomads_medium_officer = {}
 MobDef.nomads_medium_officer.ods_export = true
 MobDef.nomads_medium_officer.blueprint = {
   "gamedata/car_design/pve_new/nomad_medium_grenade.xml"
 }
-MobDef.nomads_medium_officer.score_reward_kill = 13
+MobDef.nomads_medium_officer.score_reward_kill = 12
 MobDef.nomads_medium_officer.damage_scale = 1
 MobDef.nomads_medium_officer.health_scale = 1
 MobDef.nomads_medium_officer.hud_type = "mob_officer"
 MobDef.nomads_medium_officer.mob_difficulty = 1
-MobDef.nomads_medium_officer.refill_ammo_chance = 0.2
+MobDef.nomads_medium_officer.refill_ammo_chance = 0.5
+MobDef.nomads_medium_officer.is_autolifting_allowed = true
 MobDef.nomads_medium_ranged = {}
 MobDef.nomads_medium_ranged.ods_export = true
 MobDef.nomads_medium_ranged.blueprint = {
   "gamedata/car_design/pve_new/nomad_medium_explorer.xml"
 }
-MobDef.nomads_medium_ranged.score_reward_kill = 13
+MobDef.nomads_medium_ranged.score_reward_kill = 12
 MobDef.nomads_medium_ranged.damage_scale = 1
 MobDef.nomads_medium_ranged.health_scale = 1
 MobDef.nomads_medium_ranged.hud_type = "mob_sniper"
 MobDef.nomads_medium_ranged.mob_difficulty = 1
-MobDef.nomads_medium_ranged.refill_ammo_chance = 0.2
+MobDef.nomads_medium_ranged.refill_ammo_chance = 0.5
+MobDef.nomads_medium_ranged.is_autolifting_allowed = true
 MobDef.nomads_medium_elite = {}
 MobDef.nomads_medium_elite.ods_export = true
 MobDef.nomads_medium_elite.blueprint = {
   "gamedata/car_design/pve_new/nomad_medium_ghost.xml"
 }
-MobDef.nomads_medium_elite.score_reward_kill = 13
+MobDef.nomads_medium_elite.score_reward_kill = 12
 MobDef.nomads_medium_elite.damage_scale = 1
 MobDef.nomads_medium_elite.health_scale = 1
 MobDef.nomads_medium_elite.skill_work_time_mul = 2
@@ -4725,7 +4811,8 @@ MobDef.nomads_medium_elite.skill_cooldown_mul = -2
 MobDef.nomads_medium_elite.findLowHpEnemy = true
 MobDef.nomads_medium_elite.hud_type = "mob_engineer"
 MobDef.nomads_medium_elite.mob_difficulty = 1
-MobDef.nomads_medium_elite.refill_ammo_chance = 0.2
+MobDef.nomads_medium_elite.refill_ammo_chance = 0.5
+MobDef.nomads_medium_elite.is_autolifting_allowed = true
 MobDef.nomads_hard_meat = {}
 MobDef.nomads_hard_meat.ods_export = true
 MobDef.nomads_hard_meat.blueprint = {
@@ -4734,76 +4821,84 @@ MobDef.nomads_hard_meat.blueprint = {
   "gamedata/car_design/pve_new/nomad_hard_racer3.xml",
   "gamedata/car_design/pve_new/nomad_hard_racer4.xml"
 }
-MobDef.nomads_hard_meat.score_reward_kill = 13
+MobDef.nomads_hard_meat.score_reward_kill = 12
 MobDef.nomads_hard_meat.damage_scale = 1
 MobDef.nomads_hard_meat.health_scale = 1
 MobDef.nomads_hard_meat.hud_type = "mob"
 MobDef.nomads_hard_meat.mob_difficulty = 2
-MobDef.nomads_hard_meat.refill_ammo_chance = 0.2
+MobDef.nomads_hard_meat.refill_ammo_chance = 0.15
+MobDef.nomads_hard_meat.is_autolifting_allowed = true
 MobDef.nomads_hard_melee = {}
 MobDef.nomads_hard_melee.ods_export = true
 MobDef.nomads_hard_melee.blueprint = {
   "gamedata/car_design/pve_new/nomad_hard_melee.xml"
 }
-MobDef.nomads_hard_melee.score_reward_kill = 13
-MobDef.nomads_hard_melee.damage_scale = 1
+MobDef.nomads_hard_melee.score_reward_kill = 12
+MobDef.nomads_hard_melee.damage_scale = 0.9
 MobDef.nomads_hard_melee.health_scale = 1
 MobDef.nomads_hard_melee.hud_type = "mob_melee"
 MobDef.nomads_hard_melee.mob_difficulty = 2
-MobDef.nomads_hard_melee.refill_ammo_chance = 0.2
+MobDef.nomads_hard_melee.refill_ammo_chance = 0.15
+MobDef.nomads_hard_melee.is_autolifting_allowed = true
 MobDef.nomads_hard_special = {}
 MobDef.nomads_hard_special.ods_export = true
 MobDef.nomads_hard_special.blueprint = {
   "gamedata/car_design/pve_new/nomad_hard_turret.xml"
 }
-MobDef.nomads_hard_special.score_reward_kill = 13
+MobDef.nomads_hard_special.score_reward_kill = 12
 MobDef.nomads_hard_special.damage_scale = 1
 MobDef.nomads_hard_special.health_scale = 1
 MobDef.nomads_hard_special.skill_work_time_mul = 2
 MobDef.nomads_hard_special.skill_cooldown_mul = -2
 MobDef.nomads_hard_special.hud_type = "mob_engineer"
 MobDef.nomads_hard_special.mob_difficulty = 2
-MobDef.nomads_hard_special.refill_ammo_chance = 0.2
+MobDef.nomads_hard_special.refill_ammo_chance = 0.5
+MobDef.nomads_hard_special.is_autolifting_allowed = true
 MobDef.nomads_hard_boss = {}
 MobDef.nomads_hard_boss.ods_export = true
 MobDef.nomads_hard_boss.blueprint = {
-  "gamedata/car_design/pve_new/nomad_hard_boss.xml"
+  "gamedata/car_design/pve_new/nomad_hard_boss.xml",
+  "gamedata/car_design/pve_new/nomad_hard_boss2.xml",
+  "gamedata/car_design/pve_new/nomad_hard_boss3.xml"
 }
-MobDef.nomads_hard_boss.score_reward_kill = 13
+MobDef.nomads_hard_boss.score_reward_kill = 12
 MobDef.nomads_hard_boss.damage_scale = 1
 MobDef.nomads_hard_boss.health_scale = 1
 MobDef.nomads_hard_boss.ui_name = "#nomads_Boss_hard_name"
 MobDef.nomads_hard_boss.hud_type = "mob_boss"
 MobDef.nomads_hard_boss.mob_difficulty = 2
-MobDef.nomads_hard_boss.refill_ammo_chance = 0.2
+MobDef.nomads_hard_boss.refill_ammo_chance = 1
+MobDef.nomads_hard_boss.is_autolifting_allowed = true
 MobDef.nomads_hard_officer = {}
 MobDef.nomads_hard_officer.ods_export = true
 MobDef.nomads_hard_officer.blueprint = {
   "gamedata/car_design/pve_new/nomad_hard_grenade.xml"
 }
-MobDef.nomads_hard_officer.score_reward_kill = 13
+MobDef.nomads_hard_officer.score_reward_kill = 12
 MobDef.nomads_hard_officer.damage_scale = 1
 MobDef.nomads_hard_officer.health_scale = 1
 MobDef.nomads_hard_officer.hud_type = "mob_officer"
 MobDef.nomads_hard_officer.mob_difficulty = 2
-MobDef.nomads_hard_officer.refill_ammo_chance = 0.2
+MobDef.nomads_hard_officer.refill_ammo_chance = 0.5
+MobDef.nomads_hard_officer.is_autolifting_allowed = true
 MobDef.nomads_hard_ranged = {}
 MobDef.nomads_hard_ranged.ods_export = true
 MobDef.nomads_hard_ranged.blueprint = {
   "gamedata/car_design/pve_new/nomad_hard_explorer.xml"
 }
-MobDef.nomads_hard_ranged.score_reward_kill = 13
+MobDef.nomads_hard_ranged.score_reward_kill = 12
 MobDef.nomads_hard_ranged.damage_scale = 1
 MobDef.nomads_hard_ranged.health_scale = 1
 MobDef.nomads_hard_ranged.hud_type = "mob_sniper"
 MobDef.nomads_hard_ranged.mob_difficulty = 2
-MobDef.nomads_hard_ranged.refill_ammo_chance = 0.2
+MobDef.nomads_hard_ranged.refill_ammo_chance = 0.5
+MobDef.nomads_hard_ranged.is_autolifting_allowed = true
 MobDef.nomads_hard_elite = {}
 MobDef.nomads_hard_elite.ods_export = true
 MobDef.nomads_hard_elite.blueprint = {
   "gamedata/car_design/pve_new/nomad_hard_ghost.xml"
 }
-MobDef.nomads_hard_elite.score_reward_kill = 13
+MobDef.nomads_hard_elite.score_reward_kill = 12
 MobDef.nomads_hard_elite.damage_scale = 1
 MobDef.nomads_hard_elite.health_scale = 1
 MobDef.nomads_hard_elite.skill_work_time_mul = 2
@@ -4811,7 +4906,8 @@ MobDef.nomads_hard_elite.skill_cooldown_mul = -2
 MobDef.nomads_hard_elite.findLowHpEnemy = true
 MobDef.nomads_hard_elite.hud_type = "mob_engineer"
 MobDef.nomads_hard_elite.mob_difficulty = 2
-MobDef.nomads_hard_elite.refill_ammo_chance = 0.2
+MobDef.nomads_hard_elite.refill_ammo_chance = 0.5
+MobDef.nomads_hard_elite.is_autolifting_allowed = true
 MobDef.scavengers_easy_meat = {}
 MobDef.scavengers_easy_meat.ods_export = true
 MobDef.scavengers_easy_meat.blueprint = {
@@ -4820,46 +4916,52 @@ MobDef.scavengers_easy_meat.blueprint = {
   "gamedata/car_design/pve_new/scavengers_easy_meat3.xml",
   "gamedata/car_design/pve_new/scavengers_easy_meat4.xml"
 }
-MobDef.scavengers_easy_meat.score_reward_kill = 13
+MobDef.scavengers_easy_meat.score_reward_kill = 14
 MobDef.scavengers_easy_meat.damage_scale = 1
 MobDef.scavengers_easy_meat.health_scale = 1
 MobDef.scavengers_easy_meat.hud_type = "mob"
 MobDef.scavengers_easy_meat.mob_difficulty = 0
 MobDef.scavengers_easy_meat.refill_ammo_chance = 0.2
+MobDef.scavengers_easy_meat.is_autolifting_allowed = true
 MobDef.scavengers_easy_melee = {}
 MobDef.scavengers_easy_melee.ods_export = true
 MobDef.scavengers_easy_melee.blueprint = {
   "gamedata/car_design/pve_new/scavengers_easy_taran.xml"
 }
-MobDef.scavengers_easy_melee.score_reward_kill = 13
-MobDef.scavengers_easy_melee.damage_scale = 1
+MobDef.scavengers_easy_melee.score_reward_kill = 14
+MobDef.scavengers_easy_melee.damage_scale = 0.9
 MobDef.scavengers_easy_melee.health_scale = 1
 MobDef.scavengers_easy_melee.hud_type = "mob_melee"
 MobDef.scavengers_easy_melee.mob_difficulty = 0
 MobDef.scavengers_easy_melee.refill_ammo_chance = 0.2
+MobDef.scavengers_easy_melee.is_autolifting_allowed = true
 MobDef.scavengers_easy_special = {}
 MobDef.scavengers_easy_special.ods_export = true
 MobDef.scavengers_easy_special.blueprint = {
   "gamedata/car_design/pve_new/scavengers_easy_rocket.xml"
 }
-MobDef.scavengers_easy_special.score_reward_kill = 13
+MobDef.scavengers_easy_special.score_reward_kill = 14
 MobDef.scavengers_easy_special.damage_scale = 1
 MobDef.scavengers_easy_special.health_scale = 1
 MobDef.scavengers_easy_special.hud_type = "mob_sniper"
 MobDef.scavengers_easy_special.mob_difficulty = 0
-MobDef.scavengers_easy_special.refill_ammo_chance = 0.2
+MobDef.scavengers_easy_special.refill_ammo_chance = 0.5
+MobDef.scavengers_easy_special.is_autolifting_allowed = true
 MobDef.scavengers_easy_boss = {}
 MobDef.scavengers_easy_boss.ods_export = true
 MobDef.scavengers_easy_boss.blueprint = {
-  "gamedata/car_design/pve_new/scavengers_easy_boss.xml"
+  "gamedata/car_design/pve_new/scavengers_easy_boss.xml",
+  "gamedata/car_design/pve_new/scavengers_easy_boss2.xml",
+  "gamedata/car_design/pve_new/scavengers_easy_boss3.xml"
 }
-MobDef.scavengers_easy_boss.score_reward_kill = 13
+MobDef.scavengers_easy_boss.score_reward_kill = 14
 MobDef.scavengers_easy_boss.damage_scale = 1
 MobDef.scavengers_easy_boss.health_scale = 1
 MobDef.scavengers_easy_boss.ui_name = "#scavengers_Boss_easy_name"
 MobDef.scavengers_easy_boss.hud_type = "mob_boss"
 MobDef.scavengers_easy_boss.mob_difficulty = 0
-MobDef.scavengers_easy_boss.refill_ammo_chance = 0.2
+MobDef.scavengers_easy_boss.refill_ammo_chance = 1
+MobDef.scavengers_easy_boss.is_autolifting_allowed = true
 MobDef.scavengers_medium_meat = {}
 MobDef.scavengers_medium_meat.ods_export = true
 MobDef.scavengers_medium_meat.blueprint = {
@@ -4868,80 +4970,89 @@ MobDef.scavengers_medium_meat.blueprint = {
   "gamedata/car_design/pve_new/scavengers_medium_meat3.xml",
   "gamedata/car_design/pve_new/scavengers_medium_meat4.xml"
 }
-MobDef.scavengers_medium_meat.score_reward_kill = 13
+MobDef.scavengers_medium_meat.score_reward_kill = 14
 MobDef.scavengers_medium_meat.damage_scale = 1
 MobDef.scavengers_medium_meat.health_scale = 1
 MobDef.scavengers_medium_meat.hud_type = "mob"
 MobDef.scavengers_medium_meat.mob_difficulty = 1
 MobDef.scavengers_medium_meat.refill_ammo_chance = 0.2
+MobDef.scavengers_medium_meat.is_autolifting_allowed = true
 MobDef.scavengers_medium_melee = {}
 MobDef.scavengers_medium_melee.ods_export = true
 MobDef.scavengers_medium_melee.blueprint = {
   "gamedata/car_design/pve_new/scavengers_medium_taran.xml"
 }
-MobDef.scavengers_medium_melee.score_reward_kill = 13
-MobDef.scavengers_medium_melee.damage_scale = 1
+MobDef.scavengers_medium_melee.score_reward_kill = 14
+MobDef.scavengers_medium_melee.damage_scale = 0.9
 MobDef.scavengers_medium_melee.health_scale = 1
 MobDef.scavengers_medium_melee.hud_type = "mob_melee"
 MobDef.scavengers_medium_melee.mob_difficulty = 1
 MobDef.scavengers_medium_melee.refill_ammo_chance = 0.2
+MobDef.scavengers_medium_melee.is_autolifting_allowed = true
 MobDef.scavengers_medium_special = {}
 MobDef.scavengers_medium_special.ods_export = true
 MobDef.scavengers_medium_special.blueprint = {
   "gamedata/car_design/pve_new/scavengers_medium_rocket.xml"
 }
-MobDef.scavengers_medium_special.score_reward_kill = 13
+MobDef.scavengers_medium_special.score_reward_kill = 14
 MobDef.scavengers_medium_special.damage_scale = 1
 MobDef.scavengers_medium_special.health_scale = 1
 MobDef.scavengers_medium_special.hud_type = "mob_sniper"
 MobDef.scavengers_medium_special.mob_difficulty = 1
-MobDef.scavengers_medium_special.refill_ammo_chance = 0.2
+MobDef.scavengers_medium_special.refill_ammo_chance = 0.5
+MobDef.scavengers_medium_special.is_autolifting_allowed = true
 MobDef.scavengers_medium_boss = {}
 MobDef.scavengers_medium_boss.ods_export = true
 MobDef.scavengers_medium_boss.blueprint = {
-  "gamedata/car_design/pve_new/scavengers_medium_boss.xml"
+  "gamedata/car_design/pve_new/scavengers_medium_boss.xml",
+  "gamedata/car_design/pve_new/scavengers_medium_boss2.xml",
+  "gamedata/car_design/pve_new/scavengers_medium_boss3.xml"
 }
-MobDef.scavengers_medium_boss.score_reward_kill = 13
+MobDef.scavengers_medium_boss.score_reward_kill = 14
 MobDef.scavengers_medium_boss.damage_scale = 1
 MobDef.scavengers_medium_boss.health_scale = 1
 MobDef.scavengers_medium_boss.ui_name = "#scavengers_Boss_medium_name"
 MobDef.scavengers_medium_boss.hud_type = "mob_boss"
 MobDef.scavengers_medium_boss.mob_difficulty = 1
-MobDef.scavengers_medium_boss.refill_ammo_chance = 0.2
+MobDef.scavengers_medium_boss.refill_ammo_chance = 1
+MobDef.scavengers_medium_boss.is_autolifting_allowed = true
 MobDef.scavengers_medium_officer = {}
 MobDef.scavengers_medium_officer.ods_export = true
 MobDef.scavengers_medium_officer.blueprint = {
   "gamedata/car_design/pve_new/scavengers_medium_artillery.xml"
 }
-MobDef.scavengers_medium_officer.score_reward_kill = 13
+MobDef.scavengers_medium_officer.score_reward_kill = 14
 MobDef.scavengers_medium_officer.damage_scale = 1
 MobDef.scavengers_medium_officer.health_scale = 1
 MobDef.scavengers_medium_officer.hud_type = "mob_officer"
 MobDef.scavengers_medium_officer.mob_difficulty = 1
-MobDef.scavengers_medium_officer.refill_ammo_chance = 0.2
+MobDef.scavengers_medium_officer.refill_ammo_chance = 0.5
+MobDef.scavengers_medium_officer.is_autolifting_allowed = true
 MobDef.scavengers_medium_ranged = {}
 MobDef.scavengers_medium_ranged.ods_export = true
 MobDef.scavengers_medium_ranged.blueprint = {
   "gamedata/car_design/pve_new/scavengers_medium_gunnery1.xml",
   "gamedata/car_design/pve_new/scavengers_medium_gunnery2.xml"
 }
-MobDef.scavengers_medium_ranged.score_reward_kill = 13
+MobDef.scavengers_medium_ranged.score_reward_kill = 14
 MobDef.scavengers_medium_ranged.damage_scale = 1
 MobDef.scavengers_medium_ranged.health_scale = 1
 MobDef.scavengers_medium_ranged.hud_type = "mob_sniper"
 MobDef.scavengers_medium_ranged.mob_difficulty = 1
-MobDef.scavengers_medium_ranged.refill_ammo_chance = 0.2
+MobDef.scavengers_medium_ranged.refill_ammo_chance = 0.5
+MobDef.scavengers_medium_ranged.is_autolifting_allowed = true
 MobDef.scavengers_medium_elite = {}
 MobDef.scavengers_medium_elite.ods_export = true
 MobDef.scavengers_medium_elite.blueprint = {
   "gamedata/car_design/pve_new/scavengers_medium_miner.xml"
 }
-MobDef.scavengers_medium_elite.score_reward_kill = 13
+MobDef.scavengers_medium_elite.score_reward_kill = 14
 MobDef.scavengers_medium_elite.damage_scale = 1
 MobDef.scavengers_medium_elite.health_scale = 1
 MobDef.scavengers_medium_elite.hud_type = "mob_engineer"
 MobDef.scavengers_medium_elite.mob_difficulty = 1
-MobDef.scavengers_medium_elite.refill_ammo_chance = 0.2
+MobDef.scavengers_medium_elite.refill_ammo_chance = 0.5
+MobDef.scavengers_medium_elite.is_autolifting_allowed = true
 MobDef.scavengers_hard_meat = {}
 MobDef.scavengers_hard_meat.ods_export = true
 MobDef.scavengers_hard_meat.blueprint = {
@@ -4950,77 +5061,86 @@ MobDef.scavengers_hard_meat.blueprint = {
   "gamedata/car_design/pve_new/scavengers_hard_meat3.xml",
   "gamedata/car_design/pve_new/scavengers_hard_meat4.xml"
 }
-MobDef.scavengers_hard_meat.score_reward_kill = 13
+MobDef.scavengers_hard_meat.score_reward_kill = 14
 MobDef.scavengers_hard_meat.damage_scale = 1
 MobDef.scavengers_hard_meat.health_scale = 1
 MobDef.scavengers_hard_meat.hud_type = "mob"
 MobDef.scavengers_hard_meat.mob_difficulty = 2
 MobDef.scavengers_hard_meat.refill_ammo_chance = 0.2
+MobDef.scavengers_hard_meat.is_autolifting_allowed = true
 MobDef.scavengers_hard_melee = {}
 MobDef.scavengers_hard_melee.ods_export = true
 MobDef.scavengers_hard_melee.blueprint = {
   "gamedata/car_design/pve_new/scavengers_hard_taran.xml"
 }
-MobDef.scavengers_hard_melee.score_reward_kill = 13
-MobDef.scavengers_hard_melee.damage_scale = 1
+MobDef.scavengers_hard_melee.score_reward_kill = 14
+MobDef.scavengers_hard_melee.damage_scale = 0.9
 MobDef.scavengers_hard_melee.health_scale = 1
 MobDef.scavengers_hard_melee.hud_type = "mob_melee"
 MobDef.scavengers_hard_melee.mob_difficulty = 2
 MobDef.scavengers_hard_melee.refill_ammo_chance = 0.2
+MobDef.scavengers_hard_melee.is_autolifting_allowed = true
 MobDef.scavengers_hard_special = {}
 MobDef.scavengers_hard_special.ods_export = true
 MobDef.scavengers_hard_special.blueprint = {
   "gamedata/car_design/pve_new/scavengers_hard_rocket.xml"
 }
-MobDef.scavengers_hard_special.score_reward_kill = 13
+MobDef.scavengers_hard_special.score_reward_kill = 14
 MobDef.scavengers_hard_special.damage_scale = 1
 MobDef.scavengers_hard_special.health_scale = 1
 MobDef.scavengers_hard_special.hud_type = "mob_sniper"
 MobDef.scavengers_hard_special.mob_difficulty = 2
-MobDef.scavengers_hard_special.refill_ammo_chance = 0.2
+MobDef.scavengers_hard_special.refill_ammo_chance = 0.5
+MobDef.scavengers_hard_special.is_autolifting_allowed = true
 MobDef.scavengers_hard_boss = {}
 MobDef.scavengers_hard_boss.ods_export = true
 MobDef.scavengers_hard_boss.blueprint = {
-  "gamedata/car_design/pve_new/scavengers_hard_boss.xml"
+  "gamedata/car_design/pve_new/scavengers_hard_boss.xml",
+  "gamedata/car_design/pve_new/scavengers_hard_boss2.xml",
+  "gamedata/car_design/pve_new/scavengers_hard_boss3.xml"
 }
-MobDef.scavengers_hard_boss.score_reward_kill = 13
+MobDef.scavengers_hard_boss.score_reward_kill = 14
 MobDef.scavengers_hard_boss.damage_scale = 1
 MobDef.scavengers_hard_boss.health_scale = 1
 MobDef.scavengers_hard_boss.ui_name = "#scavengers_Boss_hard_name"
 MobDef.scavengers_hard_boss.hud_type = "mob_boss"
 MobDef.scavengers_hard_boss.mob_difficulty = 2
-MobDef.scavengers_hard_boss.refill_ammo_chance = 0.2
+MobDef.scavengers_hard_boss.refill_ammo_chance = 1
+MobDef.scavengers_hard_boss.is_autolifting_allowed = true
 MobDef.scavengers_hard_officer = {}
 MobDef.scavengers_hard_officer.ods_export = true
 MobDef.scavengers_hard_officer.blueprint = {
   "gamedata/car_design/pve_new/scavengers_hard_artillery.xml"
 }
-MobDef.scavengers_hard_officer.score_reward_kill = 13
+MobDef.scavengers_hard_officer.score_reward_kill = 14
 MobDef.scavengers_hard_officer.damage_scale = 1
 MobDef.scavengers_hard_officer.health_scale = 1
 MobDef.scavengers_hard_officer.hud_type = "mob_officer"
 MobDef.scavengers_hard_officer.mob_difficulty = 2
-MobDef.scavengers_hard_officer.refill_ammo_chance = 0.2
+MobDef.scavengers_hard_officer.refill_ammo_chance = 0.5
+MobDef.scavengers_hard_officer.is_autolifting_allowed = true
 MobDef.scavengers_hard_ranged = {}
 MobDef.scavengers_hard_ranged.ods_export = true
 MobDef.scavengers_hard_ranged.blueprint = {
   "gamedata/car_design/pve_new/scavengers_hard_gunnery1.xml",
   "gamedata/car_design/pve_new/scavengers_hard_gunnery1.xml"
 }
-MobDef.scavengers_hard_ranged.score_reward_kill = 13
+MobDef.scavengers_hard_ranged.score_reward_kill = 14
 MobDef.scavengers_hard_ranged.damage_scale = 1
 MobDef.scavengers_hard_ranged.health_scale = 1
 MobDef.scavengers_hard_ranged.hud_type = "mob_sniper"
 MobDef.scavengers_hard_ranged.mob_difficulty = 2
-MobDef.scavengers_hard_ranged.refill_ammo_chance = 0.2
+MobDef.scavengers_hard_ranged.refill_ammo_chance = 0.5
+MobDef.scavengers_hard_ranged.is_autolifting_allowed = true
 MobDef.scavengers_hard_elite = {}
 MobDef.scavengers_hard_elite.ods_export = true
 MobDef.scavengers_hard_elite.blueprint = {
   "gamedata/car_design/pve_new/scavengers_hard_miner.xml"
 }
-MobDef.scavengers_hard_elite.score_reward_kill = 13
+MobDef.scavengers_hard_elite.score_reward_kill = 14
 MobDef.scavengers_hard_elite.damage_scale = 1
 MobDef.scavengers_hard_elite.health_scale = 1
 MobDef.scavengers_hard_elite.hud_type = "mob_engineer"
 MobDef.scavengers_hard_elite.mob_difficulty = 2
-MobDef.scavengers_hard_elite.refill_ammo_chance = 0.2
+MobDef.scavengers_hard_elite.refill_ammo_chance = 0.5
+MobDef.scavengers_hard_elite.is_autolifting_allowed = true

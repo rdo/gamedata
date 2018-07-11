@@ -130,6 +130,10 @@ Def.Helpers_NavigationHelper = {
   class = "NavigationHelper",
   in_editor = true
 }
+Def.Helpers_ForbiddenArea = {
+  class = "ForbiddenArea",
+  in_editor = true
+}
 Def.Cube = {
   class = "BaseEntity",
   in_editor = false,
@@ -141,6 +145,10 @@ Def.Cube = {
 }
 Def.CameraEntity = {
   class = "CameraEntity",
+  in_editor = true
+}
+Def.DecalEntity = {
+  class = "DecalEntity",
   in_editor = true
 }
 Def.EffectZone_Area = {

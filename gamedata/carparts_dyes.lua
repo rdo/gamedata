@@ -186,6 +186,14 @@ CarPartsDyes = {
     normalTexture = "",
     tiling = "1 1"
   },
+  mat_Cyan03 = {
+    albedo = "43 74 81",
+    gloss = 0.546,
+    blendMaskContrast = 0,
+    metalness = 0,
+    normalTexture = "",
+    tiling = "1 1"
+  },
   mat_Green01 = {
     albedo = "138 171 85",
     gloss = 0.546,
@@ -476,6 +484,14 @@ CarPartsDyes = {
   },
   metal_Cyan02 = {
     albedo = "57 122 119",
+    gloss = 0.917,
+    blendMaskContrast = 0.37777781486511,
+    metalness = 0.214,
+    normalTexture = "",
+    tiling = "1 1"
+  },
+  metal_Cyan03 = {
+    albedo = "43 74 82",
     gloss = 0.917,
     blendMaskContrast = 0.37777781486511,
     metalness = 0.214,
@@ -823,6 +839,16 @@ CarPartsDyes = {
     tiling = "1 1",
     IsChameleonDye = true
   },
+  chameleon_RedDemon = {
+    albedo = "",
+    albedoTexture = "textures/patterns/cham_reddemon",
+    gloss = 0.546,
+    blendMaskContrast = 0.37777781486511,
+    metalness = 0,
+    normalTexture = "",
+    tiling = "1 1",
+    IsChameleonDye = true
+  },
   pic_PresentPaper01 = {
     albedo = "",
     albedoTexture = "textures/patterns/prsnt_paper01",
@@ -1018,6 +1044,15 @@ CarPartsDyes = {
     normalTexture = "",
     tiling = "1.2 1.2"
   },
+  pic_CamouflageSlave1 = {
+    albedo = "",
+    albedoTexture = "textures/patterns/camouflage09",
+    gloss = 0.546,
+    blendMaskContrast = 0,
+    metalness = 0,
+    normalTexture = "",
+    tiling = "0.8 0.8"
+  },
   pic_SpiderWeb02 = {
     albedo = "",
     albedoTexture = "textures/patterns/spider_web02",
@@ -1080,6 +1115,24 @@ CarPartsDyes = {
     metalness = 0,
     normalTexture = "",
     tiling = "0.7 0.7"
+  },
+  pic_CamouflageMark = {
+    albedo = "",
+    albedoTexture = "textures/patterns/camouflage07",
+    gloss = 0.546,
+    blendMaskContrast = 0,
+    metalness = 0,
+    normalTexture = "",
+    tiling = "0.6 0.6"
+  },
+  pic_CamouflageRacecar01 = {
+    albedo = "",
+    albedoTexture = "textures/patterns/camouflage10",
+    gloss = 0.917,
+    blendMaskContrast = 0,
+    metalness = 0.214,
+    normalTexture = "",
+    tiling = "0.5 0.5"
   },
   pic_Electric01 = {
     albedo = "",
@@ -1278,6 +1331,15 @@ CarPartsDyes = {
     metalness = 0,
     normalTexture = "",
     tiling = "1.4 1.4"
+  },
+  pic_Football01 = {
+    albedo = "",
+    albedoTexture = "textures/patterns/football01",
+    gloss = 0.917,
+    blendMaskContrast = 0,
+    metalness = 0.214,
+    normalTexture = "",
+    tiling = "1 1"
   },
   pic_StressTest02 = {
     albedo = "",

@@ -32,21 +32,84 @@ UiSounds = {
   StaminaRefill = "sound/ui/StaminaRefill",
   DebriefingLvlUp = "sound/ui/DebriefingLvlUp",
   FactionSelect = "sound/ui/FactionSelect",
-  SeasonQuestReward = "sound/ui/SeasonQuestReward"
-}
-UiShopRecommended = {
-  "Bundle_Ambulance",
-  "Bundle_14feb_18",
-  "Bundle_Firestarters",
-  "Bundle_Military",
-  "Starter_pack",
-  "GOLD_875"
-}
-UiShopNew = {
-  "Bundle_Ambulance",
-  "Bundle_14feb_18"
+  SeasonQuestReward = "sound/ui/SeasonQuestReward",
+  QuestCompleted = "event:/ui/QuestComplete",
+  CharacterAlly = "sound/ui/RadioMessageCommon",
+  CharacterEnemy = "sound/ui/RadioMessageCommon",
+  CharacterNeutral = "sound/ui/RadioMessageCommon",
+  FusionCompleted = "event:/ui/fusion_complete"
 }
 UiGameplayHints = {
+  Pve_Bombrun = {
+    {
+      icon = "gameplay_task_defense",
+      text = "#gameplay_bombrun_hint_1"
+    },
+    {
+      icon = "gameplay_task_destroy",
+      text = "#gameplay_bombrun_hint_2"
+    }
+  },
+  Pve_Greatescape = {
+    {
+      icon = "gameplay_task_move",
+      text = "#gameplay_greatescape_hint_1"
+    },
+    {
+      icon = "gameplay_task_cargo",
+      text = "#gameplay_greatescape_hint_2"
+    }
+  },
+  Pve_Blockpost = {
+    {
+      icon = "gameplay_task_move",
+      text = "#gameplay_blockpost_hint_1"
+    },
+    {
+      icon = "gameplay_task_defense",
+      text = "#gameplay_blockpost_hint_2"
+    }
+  },
+  Pve_Commtowers = {
+    {
+      icon = "gameplay_task_cargo",
+      text = "#gameplay_commtowers_hint_1"
+    },
+    {
+      icon = "gameplay_task_move",
+      text = "#gameplay_commtowers_hint_2"
+    }
+  },
+  Pve_Oilevac = {
+    {
+      icon = "gameplay_task_cargo",
+      text = "#gameplay_oilevac_hint_1"
+    },
+    {
+      icon = "gameplay_task_move",
+      text = "#gameplay_oilevac_hint_2"
+    }
+  },
+  Pve_Keepheist = {
+    {
+      icon = "gameplay_task_destroy",
+      text = "#gameplay_keepheist_hint_1"
+    },
+    {
+      icon = "gameplay_task_cargo",
+      text = "#gameplay_keepheist_hint_2"
+    }
+  },
+  Pve_Giantsiege = {
+    {
+      icon = "gameplay_task_destroy",
+      text = "#gameplay_giantsiege_hint_1"
+    },
+    {
+      icon = "gameplay_task_cargo",
+      text = "#gameplay_giantsiege_hint_2"
+    }
+  },
   Pve_Defense = {
     {
       icon = "gameplay_task_defense",
@@ -147,6 +210,16 @@ UiGameplayHints = {
       text = "#gameplay_conquer_hint_2"
     }
   },
+  Domination = {
+    {
+      icon = "gameplay_task_destroy",
+      text = "#gameplay_domination_hint_1"
+    },
+    {
+      icon = "gameplay_task_base",
+      text = "#gameplay_domination_hint_2"
+    }
+  },
   Assault_CoopVsAi = {
     {
       icon = "gameplay_task_destroy",
@@ -225,6 +298,26 @@ UiGameplayHints = {
     {
       icon = "gameplay_task_Fireworks",
       text = "#gameplay_newyear_hint_2"
+    }
+  },
+  MBP = {
+    {
+      icon = "gameplay_task_Defense_2_1",
+      text = "#gameplay_mbp_hint_1"
+    },
+    {
+      icon = "gameplay_task_cargo",
+      text = "#gameplay_mbp_hint_2"
+    }
+  },
+  Brawl_Football = {
+    {
+      icon = "gameplay_task_base",
+      text = "#gameplay_football_hint_1"
+    },
+    {
+      icon = "gameplay_task_signal",
+      text = "#gameplay_football_hint_2"
     }
   }
 }

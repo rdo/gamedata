@@ -23,6 +23,10 @@ UiItemFakePerk.Burning_earth = {
   ui_icon = "perk_star",
   ui_desc = "#perk_Burning_earth_desc"
 }
+UiItemFakePerk.Mine_trap = {
+  ui_icon = "perk_star",
+  ui_desc = "#perk_Mine_trap_desc"
+}
 UiItemFakePerk.Pusher_Crossbow = {
   ui_icon = "perk_star",
   ui_desc = "#perk_Pusher_Crossbow_desc"
@@ -97,9 +101,36 @@ UiItemFakePerk.DropSpawn_Cabin = {
     "nested_car_work_time"
   }
 }
+UiItemFakePerk.Spread_Cabin = {
+  ui_icon = "perk_star",
+  ui_desc = "#perk_SpreadCabin_desc",
+  params = {"spread_mul"}
+}
 UiItemFakePerk.Empty_fake = {
   ui_icon = "perk_star",
   ui_desc = "#perk_Empty_fake_desc"
+}
+UiItemFakePerk.Autocannon_Fire_Increasing = {
+  ui_icon = "perk_star",
+  ui_desc = "#Autocannon_Fire_Increasing_DESC"
+}
+UiItemFakePerk.FusionRifle_Damage_Increasing = {
+  ui_icon = "perk_star",
+  ui_desc = "#FusionRifle_Damage_Increasing_DESC",
+  params = {
+    "burst_damage_mul"
+  }
+}
+UiItemFakePerk.GarbageGun_Spread_Decreasing = {
+  ui_icon = "perk_star",
+  ui_desc = "#GarbageGun_Spread_Decreasing_DESC"
+}
+UiItemFakePerk.Machinegun_Overheating = {
+  ui_icon = "perk_star",
+  ui_desc = "#Machinegun_Overheating_DESC",
+  params = {
+    "damage_overheat_mul"
+  }
 }
 UiItemFakePerk.Engine_ExplodingPower = {
   ui_icon = "perk_star",

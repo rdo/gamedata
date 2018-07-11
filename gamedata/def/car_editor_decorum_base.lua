@@ -16,6 +16,8 @@ Def.CarPart_Gun_Flamethrower_Mk2_Base = {
   death_sound = "sound/modules/turret_death",
   death_effect = "particles/fire/explosion_missile_turret"
 }
+Def.CarPart_TrafficLight_Base = {}
+Def.CarPart_Pumpkin_Base = {is_light = true}
 Def.CarPart_CarHorn_Cucaracha_Base = {
   horn_snd = "sound/horn/custom/cucaracha"
 }
@@ -47,10 +49,34 @@ Def.CarPart_CarHorn_Funny_Base = {
   horn_snd = "sound/horn/custom/cartoon"
 }
 Def.CarPart_PoliceLights_Base = {
-  horn_snd = "sound/horn/custom/police"
+  horn_snd = "sound/horn/custom/police",
+  children = {
+    {
+      point_light = "Lights_PolLightBlue",
+      offset = Vec3(0.5, 0.35, 0)
+    },
+    {
+      point_light = "Lights_PolLightRed",
+      offset = Vec3(-0.5, 0.35, 0)
+    }
+  }
 }
 Def.CarPart_AmbulanceLights_Base = {
-  horn_snd = "sound/horn/custom/ambulance"
+  horn_snd = "sound/horn/custom/ambulance",
+  children = {
+    {
+      point_light = "Lights_AmbLightBlue",
+      offset = Vec3(0, 0.35, 0)
+    },
+    {
+      point_light = "Lights_AmbLightRed",
+      offset = Vec3(0.5, 0.2, 0)
+    },
+    {
+      point_light = "Lights_AmbLightRed",
+      offset = Vec3(-0.5, 0.2, 0)
+    }
+  }
 }
 Def.CarPart_HelloweenHorn1_Base = {
   horn_snd = "sound/horn/custom/halloween1"
@@ -62,8 +88,29 @@ Def.CarPart_ClownbeepHorn_Base = {
   horn_snd = "sound/horn/custom/clown"
 }
 Def.CarPart_CarHorn_RedNose_Base = {
-  horn_snd = "sound/horn/custom/red_nose"
+  horn_snd = "sound/horn/custom/red_nose",
+  children = {
+    {
+      point_light = "Lights_StopBigLight",
+      offset = Vec3(0, 0.5, 0)
+    }
+  }
 }
 Def.CarPart_CarHorn_Robotsanta_Base = {
   horn_snd = "sound/horn/custom/robosanta"
+}
+Def.CarPart_CarHorn_Vuvuzela_Base = {
+  horn_snd = "event:/horn/custom/vuvuzela"
+}
+Def.CarPart_MBP_Sign_Base = {
+  children = {
+    {
+      effect = "particles/constructor/mbp_sign_fire",
+      joint = "fx01"
+    },
+    {
+      point_light = "Lights_FlameDecor",
+      offset = Vec3(0, 0.9, 0)
+    }
+  }
 }

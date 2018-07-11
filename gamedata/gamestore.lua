@@ -197,6 +197,27 @@ GoldPacks_GAIJIN = {
     bundle = "Bundle_Boar"
   },
   {
+    value = 340000,
+    steam_appid = "806120",
+    yuplay_guid = "107FDEC1-1C23-4ACD-83D2-678C82013C3F",
+    yuplay_guid_present = "7EB40AF7-0A0A-48A4-8038-F8C630901C18",
+    bundle = "Bundle_WW1"
+  },
+  {
+    value = 265000,
+    steam_appid = "853170",
+    yuplay_guid = "800F64A8-CD4C-4423-8CA3-8F899648A5D1",
+    yuplay_guid_present = "030AA0D3-C21B-4E5E-9A7F-2F82162CD64D",
+    bundle = "Bundle_Hunter"
+  },
+  {
+    value = 50000,
+    steam_appid = "878630",
+    yuplay_guid = "7EFDB79D-53FF-43C2-88F4-AAFF78F80DCB",
+    yuplay_guid_present = "C5176DF9-37FF-4B91-BF35-EA0292F3DAA7",
+    bundle = "Bundle_Football"
+  },
+  {
     value = 400000,
     yuplay_guid = "B89ED97C-8412-4FFD-96E7-F5925E4457A3",
     bundle = {
@@ -269,6 +290,21 @@ GoldPacks_GAIJIN = {
     value = 0,
     yuplay_guid = "86FAD483-64FE-4FDD-9CD9-872FC2B5CC86",
     bundle = "Bundle_Landing_weapon"
+  },
+  {
+    value = 35000,
+    yuplay_guid = "A3D0DA24-597B-49D3-B4DD-F4F93991CBB5",
+    bundle = "Special_offer_1"
+  },
+  {
+    value = 35000,
+    yuplay_guid = "C8EAD654-BFE3-4693-8E74-BF8C81F42FEC",
+    bundle = "Special_offer_2"
+  },
+  {
+    value = 55000,
+    yuplay_guid = "ABDDD00D-E23A-4BEF-BD39-5C798DBCC351",
+    bundle = "Special_offer_3"
   },
   {
     value = 100,
@@ -347,6 +383,7 @@ GoldPacks_GAIJIN = {
   {
     value = 150000,
     steam_appid = "643740",
+    yuplay_guid_present = "E98C536D-1FD2-477A-9EF4-73311E76436E",
     bundle = "Bundle_steam_25_obt"
   },
   {
@@ -412,6 +449,380 @@ GoldPacks_GAIJIN = {
     value = 0,
     yuplay_guid = "49A27F7B-68B2-4A41-80B6-049C205915EB",
     bundle = "Promo_signs_3"
+  },
+  {
+    value = 0,
+    yuplay_guid = "C41E0220-53FB-4177-A84F-0CC2272C470A",
+    bundle = "Promo_energo_ded"
+  },
+  {
+    value = 0,
+    yuplay_guid = "4F2DD6D3-EAA0-44DB-AC53-75127A804EFF",
+    bundle = "Promo_play_hard"
+  },
+  {
+    value = 0,
+    yuplay_guid = "52A52DF4-CBFD-48F3-BC60-37A8E17CAB7D",
+    bundle = "Promo_tt_esports"
+  },
+  {
+    value = 0,
+    yuplay_guid = "BFFD9289-282A-4A74-B57A-9CA63FD6F038",
+    bundle = "Promo_entack"
+  },
+  {
+    value = 0,
+    yuplay_guid = "339F19A9-4121-4EF5-9FDA-E77334BBC125",
+    bundle = "Promo_tt_premium"
+  },
+  {
+    value = 0,
+    yuplay_guid = "D3394792-FF72-4C7E-B61F-CE713DC903DF",
+    bundle = "Promo_mask2"
+  },
+  {
+    value = 0,
+    yuplay_guid = "3165925E-0C08-4F7B-BE91-DE54A079E061",
+    bundle = "Promo_mask1"
+  },
+  {
+    value = 0,
+    yuplay_guid = "E9432113-2730-4C1F-82EA-06105DE80E10",
+    bundle = "Promo_boar"
+  },
+  {
+    value = 0,
+    yuplay_guid = "5D6C4730-BEA8-45F8-829D-DE01DE2F2349",
+    bundle = "Promo_rocket_girl"
+  },
+  {
+    value = 50000,
+    yuplay_guid = "C89966D1-BCC4-4B6A-BC25-244AE722D784",
+    bundle = "Bundle_fiery_claw"
+  },
+  {
+    value = 0,
+    yuplay_guid = "B249B35B-0538-41A7-8F9D-B2CD807187E5",
+    bundle = "BOX_A"
+  },
+  {
+    value = 0,
+    yuplay_guid = "C4F52FB1-A45C-4749-A761-3B1C6E6ECB55",
+    bundle = "BOX_B"
+  },
+  {
+    value = 0,
+    yuplay_guid = "3A22A60F-C49C-4F9F-B82F-697B793191B5",
+    bundle = "BOX_C"
+  },
+  {
+    value = 0,
+    yuplay_guid = "9FF2E99D-5E17-4BF3-A7E6-3B043B213848",
+    bundle = "BOX_D"
+  },
+  {
+    value = 0,
+    yuplay_guid = "11585332-57D5-41B0-B38A-CA5632F10B5D",
+    bundle = "BOX_E"
+  },
+  {
+    value = 0,
+    yuplay_guid = "727142D4-8E70-45C6-9C56-123A76A3A083",
+    bundle = "advertising_A"
+  },
+  {
+    value = 0,
+    yuplay_guid = "6BDF27B1-2136-48AB-9DAF-1809577D6FAC",
+    bundle = "advertising_B"
+  },
+  {
+    value = 0,
+    yuplay_guid = "0B07D929-5F18-44F1-A845-AB5A4958A424",
+    bundle = "advertising_C"
+  },
+  {
+    value = 0,
+    yuplay_guid = "57258A72-80F4-40D3-9FB2-8E8BF04353B0",
+    bundle = "advertising_D"
+  },
+  {
+    value = 0,
+    yuplay_guid = "327C7ED9-2305-4182-9DC8-47BE6568DC6D",
+    bundle = "advertising_E"
+  },
+  {
+    value = 0,
+    yuplay_guid = "29C60C15-27AD-48A0-9B49-1F8718412C8B",
+    bundle = "advertising_F"
+  },
+  {
+    value = 0,
+    yuplay_guid = "7599B1ED-0DF1-4A9D-8B8D-68809799DE22",
+    bundle = "advertising_G"
+  },
+  {
+    value = 0,
+    yuplay_guid = "C4C46236-EA90-4324-928F-6BCDD37D5613",
+    bundle = "advertising_H"
+  },
+  {
+    value = 0,
+    yuplay_guid = "D72A13EF-90C8-4C85-AF1B-E64F3DD54D59",
+    bundle = "advertising_I"
+  },
+  {
+    value = 0,
+    yuplay_guid = "6DC62C65-91D3-446C-A0B2-150C2A6DD732",
+    bundle = "advertising_J"
+  },
+  {
+    value = 0,
+    yuplay_guid = "20D96EF3-EB0D-41CA-90B5-501BBEFCD544",
+    bundle = "advertising_K"
+  },
+  {
+    value = 0,
+    yuplay_guid = "ABD110A9-57BE-49DD-9C00-560C6EC9D105",
+    bundle = "advertising_L"
+  },
+  {
+    value = 0,
+    yuplay_guid = "12E4FE70-F744-4F1E-9060-56A691911BA8",
+    bundle = "advertising_M"
+  },
+  {
+    value = 0,
+    yuplay_guid = "43C4D758-BE80-43D5-91C0-DE3972D858A4",
+    bundle = "advertising_N"
+  },
+  {
+    value = 0,
+    yuplay_guid = "71DDCB6A-59A1-4ACC-87ED-4EFC640E63CC",
+    bundle = "advertising_O"
+  },
+  {
+    value = 0,
+    yuplay_guid = "8D59406F-55D3-4372-B71D-11F30DB32416",
+    bundle = "advertising_P"
+  },
+  {
+    value = 0,
+    yuplay_guid = "FF9B8073-06FA-4C67-B43F-8DEA1AAF6751",
+    bundle = "advertising_Q"
+  },
+  {
+    value = 15000,
+    yuplay_guid = "57B38E99-0C02-4D84-A84B-F9B5EC336B04"
+  },
+  {
+    value = 35000,
+    yuplay_guid = "F0F10B91-504D-4EF8-A2C4-BBA0F781866E"
+  },
+  {
+    value = 87500,
+    yuplay_guid = "CA79EA5B-8266-45E4-9062-40A01648D921"
+  },
+  {
+    value = 165000,
+    yuplay_guid = "EECCEA0D-2736-4C19-8B82-4B7F57CB01EE"
+  },
+  {
+    value = 350000,
+    yuplay_guid = "E7AC3C9B-EF8E-4375-AB8B-646057A51544"
+  },
+  {
+    value = 750000,
+    yuplay_guid = "7E9C9DF0-0B3B-4DE6-BAF1-EA4207B7FF76"
+  },
+  {
+    value = 0,
+    yuplay_guid = "EE07932A-8BD5-4F10-B67E-4CC5B4E7CB9C",
+    premium_duration = 2592000
+  },
+  {
+    value = 65000,
+    yuplay_guid = "08FADB17-0A35-4CB2-B208-9D918B35D66D",
+    bundle = "Starter_pack"
+  },
+  {
+    value = 150000,
+    yuplay_guid = "0FBF1D33-3408-4A6D-9A51-7CB20D2C9856",
+    bundle = "Bundle_obt_2"
+  },
+  {
+    value = 265000,
+    yuplay_guid = "6A526A30-5EC6-4F3B-9CB0-B2F2C1F8A188",
+    bundle = "Bundle_obt_3"
+  },
+  {
+    value = 210000,
+    yuplay_guid = "59F2C20C-46B2-4A98-8015-FF45719403C1",
+    bundle = "Bundle_Xmas17"
+  },
+  {
+    value = 150000,
+    yuplay_guid = "A4D506EC-BC4B-4D64-A466-71ADFDAA0531",
+    bundle = "Bundle_Ambulance"
+  },
+  {
+    value = 380000,
+    yuplay_guid = "7D055CB8-48E4-41BF-844E-E252504875E8",
+    bundle = "Bundle_Firestarters"
+  },
+  {
+    value = 420000,
+    yuplay_guid = "C3AB9880-5044-4567-8839-EA7F9F0EDA20",
+    bundle = "Bundle_Scientist"
+  },
+  {
+    value = 300000,
+    yuplay_guid = "4E1D49C1-BD8E-41EF-9852-E6186B13D5E1",
+    bundle = "Bundle_Military"
+  },
+  {
+    value = 100000,
+    yuplay_guid = "0D10C28D-EA4E-4595-974A-3CC26B30F57F",
+    bundle = "Bundle_Boar"
+  },
+  {
+    value = 340000,
+    yuplay_guid = "B0C30B88-392A-468F-B841-4D0AE49EB71A",
+    bundle = "Bundle_WW1"
+  },
+  {
+    value = 265000,
+    yuplay_guid = "E29B94CC-6105-4250-A08F-214BD140BDEB",
+    bundle = "Bundle_Hunter"
+  },
+  {
+    value = 50000,
+    yuplay_guid = "76123F41-6C4D-4831-9DD2-A1C4FCBB99EA",
+    bundle = "Bundle_Football"
+  },
+  {
+    value = 0,
+    yuplay_guid = "DFF92CB2-037A-4461-86FB-27CD9C54891C",
+    bundle = "TW_Taiwan_decal"
+  },
+  {
+    value = 0,
+    yuplay_guid = "ED2AE644-B40F-4B5D-9027-6D692B5879D6",
+    bundle = "TW_look_decal"
+  },
+  {
+    value = 0,
+    yuplay_guid = "1C573C1C-AA37-45A6-81E1-976393995CDD",
+    bundle = "TW_god_decal"
+  },
+  {
+    value = 0,
+    yuplay_guid = "C3994F1A-D6AF-4A63-BD16-B73348AC9660",
+    bundle = "TW_hit_decal"
+  },
+  {
+    value = 0,
+    yuplay_guid = "814DE701-1684-4C1A-A278-D512CE679D20",
+    bundle = "TW_handsome_decal"
+  },
+  {
+    value = 0,
+    yuplay_guid = "AA2E9FC0-110E-4FDB-9D46-AD19FB45F570",
+    bundle = "Decor_pack_A"
+  },
+  {
+    value = 0,
+    yuplay_guid = "01D1E894-F875-41D2-A4FE-D5A8849BD37A",
+    bundle = "Decor_pack_B"
+  },
+  {
+    value = 0,
+    yuplay_guid = "5C38EA25-6310-421E-8FEB-1AB24BB59A25",
+    bundle = "Decor_pack_C"
+  },
+  {
+    value = 0,
+    yuplay_guid = "2525521C-E719-4A50-821D-F693BFD35365",
+    bundle = "Decor_pack_D"
+  },
+  {
+    value = 0,
+    yuplay_guid = "B846F3BB-FE80-44F6-8318-1B6283D7C6E2",
+    bundle = "Decor_pack_E"
+  },
+  {
+    value = 0,
+    yuplay_guid = "3AD77816-C659-4C37-A32C-80DB166D3210",
+    bundle = "Decor_pack_F"
+  },
+  {
+    value = 0,
+    yuplay_guid = "0D03C7F8-0E64-4751-A1C2-6EBDFACE3E22",
+    bundle = "Decor_pack_G"
+  },
+  {
+    value = 0,
+    yuplay_guid = "B6C98B15-65E4-4D94-8523-93DA184EB042",
+    bundle = "Decor_pack_H"
+  },
+  {
+    value = 1000,
+    yuplay_guid = "BA35FF1F-4F60-4749-AF77-DBD9CD3D7F44"
+  },
+  {
+    value = 3000,
+    yuplay_guid = "4DE0BD62-4CD4-4774-93E5-3DD6B5C22EED"
+  },
+  {
+    value = 5000,
+    yuplay_guid = "6E40D44B-1760-438B-AE04-0D8639613315"
+  },
+  {
+    value = 6000,
+    yuplay_guid = "890B75A3-2F91-4B2F-BDEF-1E1AA6B9D1F9"
+  },
+  {
+    value = 7000,
+    yuplay_guid = "36DCAA96-5177-40E7-8365-E74FC496E114"
+  },
+  {
+    value = 8000,
+    yuplay_guid = "DF394C73-3012-42A6-8B4C-1A9F6E490F58"
+  },
+  {
+    value = 9000,
+    yuplay_guid = "2F44B180-FE26-4DD1-8046-476263F05D2F"
+  },
+  {
+    value = 10000,
+    yuplay_guid = "58F01370-1D85-43A8-909A-EB905C146BDB"
+  },
+  {
+    value = 20000,
+    yuplay_guid = "706D063D-F508-443B-8900-4A1F1CFFAA6D"
+  },
+  {
+    value = 40000,
+    yuplay_guid = "829BAFD6-9C8C-494A-AAD1-BCFD0D0AEA45"
+  },
+  {
+    value = 60000,
+    yuplay_guid = "E9FB532B-7BC8-40E5-9008-63E91EF7BA3A"
+  },
+  {
+    value = 100000,
+    yuplay_guid = "19ED0059-F36C-4CFC-94B9-F9EC361DA4F4"
+  },
+  {
+    value = 200000,
+    yuplay_guid = "A6A430C3-51CF-44FB-A200-595450104DB7"
+  },
+  {
+    value = 300000,
+    yuplay_guid = "ADC33648-FDAA-48F1-B346-56D0C2B2ED92"
+  },
+  {
+    value = 400000,
+    yuplay_guid = "801C6E89-3D77-4F35-B402-13BE40A0720A"
   }
 }
 GoldPacks_PS4 = {
@@ -540,6 +951,21 @@ GoldPacks_PS4 = {
     bundle = "Bundle_Boar"
   },
   {
+    value = 340000,
+    yuplay_guid = "C500FB31-AA32-4CFD-AE6D-2556A47C991C",
+    bundle = "Bundle_WW1"
+  },
+  {
+    value = 265000,
+    yuplay_guid = "2021B8FD-59C8-44D8-860C-F4BC46D46A81",
+    bundle = "Bundle_Hunter"
+  },
+  {
+    value = 50000,
+    yuplay_guid = "55F9B30A-C935-4C9C-89C4-B51E8C50D7E6",
+    bundle = "Bundle_Football"
+  },
+  {
     value = 0,
     yuplay_guid = "B8980345-C9E6-4B16-98F3-B16CB4154D10",
     premium_duration = 2592000
@@ -649,6 +1075,21 @@ GoldPacks_PS4 = {
     bundle = "Bundle_Boar"
   },
   {
+    value = 340000,
+    yuplay_guid = "DAD4976D-FD58-4142-A046-2907B0F0F7E6",
+    bundle = "Bundle_WW1"
+  },
+  {
+    value = 265000,
+    yuplay_guid = "02257DCB-8860-41F0-862A-9E3FE3FD237D",
+    bundle = "Bundle_Hunter"
+  },
+  {
+    value = 50000,
+    yuplay_guid = "5868C906-F599-4A5A-8D5B-8FC3C4E27D5F",
+    bundle = "Bundle_Football"
+  },
+  {
     value = 0,
     yuplay_guid = "C2DBB716-3F21-405D-97D9-A1BFD157D5C2",
     premium_duration = 2592000
@@ -752,6 +1193,21 @@ GoldPacks_PS4 = {
     value = 100000,
     yuplay_guid = "C030ECE6-B8A4-4B10-8BE3-1F4C5143B096",
     bundle = "Bundle_Boar"
+  },
+  {
+    value = 340000,
+    yuplay_guid = "337FE1B3-A741-4566-AC07-BFB4293F4ECD",
+    bundle = "Bundle_WW1"
+  },
+  {
+    value = 265000,
+    yuplay_guid = "AFE55862-F381-49FD-803E-E07D43D46C7F",
+    bundle = "Bundle_Hunter"
+  },
+  {
+    value = 50000,
+    yuplay_guid = "F65FB93A-D45A-4F9D-8019-757A8B599AFA",
+    bundle = "Bundle_Football"
   },
   {
     value = 0,
@@ -878,6 +1334,24 @@ GoldPacks_XBOX = {
     max_count = 1
   },
   {
+    value = 340000,
+    yuplay_guid = "9390527C-D529-4A12-B197-7724B14C263F",
+    bundle = "Bundle_WW1",
+    max_count = 1
+  },
+  {
+    value = 265000,
+    yuplay_guid = "D2D7C761-9CE9-4EA7-80AE-9218E4C9C4C3",
+    bundle = "Bundle_Hunter",
+    max_count = 1
+  },
+  {
+    value = 50000,
+    yuplay_guid = "74C73121-C01F-4AFD-89C4-F93212016D57",
+    bundle = "Bundle_Football",
+    max_count = 1
+  },
+  {
     value = 0,
     yuplay_guid = "63283EAF-0A50-48E1-9B05-D7CDD470BF03",
     premium_duration = 2592000
@@ -891,140 +1365,6 @@ GoldPacks_XBOX = {
     value = 0,
     yuplay_guid = "EB0F6F67-A4D3-45D1-B989-1E27B7BE0B8E",
     premium_duration = 86400
-  }
-}
-GoldPacks_XBOX_CERT = {
-  {
-    value = 15000,
-    yuplay_guid = "3054E47E-B5CF-458D-A9AB-54C1881F3B83"
-  },
-  {
-    value = 35000,
-    yuplay_guid = "E8EE5036-C0FC-4E95-8728-2601244BE7A2"
-  },
-  {
-    value = 87500,
-    yuplay_guid = "2873ECDE-F52D-40AA-B313-8F55856C6E93"
-  },
-  {
-    value = 165000,
-    yuplay_guid = "D1E217B8-F25B-4A02-B908-C86FA0433129"
-  },
-  {
-    value = 350000,
-    yuplay_guid = "4465B295-E4B4-4B4D-8D4C-169969A4CBEC"
-  },
-  {
-    value = 750000,
-    yuplay_guid = "54959055-D15D-409E-B9D0-5C448959EE8F"
-  },
-  {
-    value = 65000,
-    yuplay_guid = "D58777E4-4DC5-445F-8007-D3B27CD0A759",
-    bundle = "Starter_pack",
-    max_count = 1
-  },
-  {
-    value = 0,
-    yuplay_guid = "7277797A-27C7-46AC-BC99-6A3838E30946",
-    bundle = "XBOX_Gold_pack",
-    max_count = 1
-  },
-  {
-    value = 125000,
-    yuplay_guid = "B54806DE-D991-481C-A378-66865D3DA65A",
-    bundle = "XBOX_Exclusive_pack",
-    max_count = 1
-  },
-  {
-    value = 100000,
-    yuplay_guid = "56CF6BF3-C1C9-4787-B2F0-1128E5BA2D0F",
-    bundle = "Bundle_cbt_1",
-    max_count = 1
-  },
-  {
-    value = 150000,
-    yuplay_guid = "EE75592F-308F-44D2-8267-FE488E2D593F",
-    bundle = "Bundle_cbt_2",
-    max_count = 1
-  },
-  {
-    value = 265000,
-    yuplay_guid = "EAB5AE1E-19EB-40FB-B3A4-6D1515F9F585",
-    bundle = "Bundle_cbt_3",
-    max_count = 1
-  },
-  {
-    value = 340000,
-    yuplay_guid = "9AB461D3-859B-40F8-8BA6-B29375DB9522",
-    bundle = "Bundle_cbt_4",
-    max_count = 1
-  },
-  {
-    value = 0,
-    yuplay_guid = "92118C27-83E1-4366-9E26-C03D9961C551",
-    bundle = "Starter_pack_womoney",
-    max_count = 1
-  },
-  {
-    value = 0,
-    yuplay_guid = "DB77E6B0-B3A0-4566-BCDD-12FCAA17E14C",
-    bundle = "XBOX_Exclusive_pack_womoney",
-    max_count = 1
-  },
-  {
-    value = 0,
-    yuplay_guid = "AA856A2B-CD62-454B-BE37-069EEA83DACA",
-    bundle = "Bundle_cbt_1_womoney",
-    max_count = 1
-  },
-  {
-    value = 0,
-    yuplay_guid = "9D08B8EA-424E-4E8C-B65F-59A1A983C883",
-    bundle = "Bundle_cbt_2_womoney",
-    max_count = 1
-  },
-  {
-    value = 0,
-    yuplay_guid = "9CEB48B2-4621-4020-8844-36C5D8537D1C",
-    bundle = "Bundle_cbt_3_womoney",
-    max_count = 1
-  },
-  {
-    value = 0,
-    yuplay_guid = "B6BF41FD-C0E3-4C72-82E2-C0B85236A878",
-    bundle = "Bundle_cbt_4_womoney",
-    max_count = 1
-  },
-  {
-    value = 380000,
-    yuplay_guid = "6DDE01F2-12B3-4F44-9B55-589F3434F5A5",
-    bundle = "Bundle_Firestarters_womoney",
-    max_count = 1
-  },
-  {
-    value = 420000,
-    yuplay_guid = "0A11528F-895B-4F6A-B9BA-DEF82E6F0B78",
-    bundle = "Bundle_Scientist_womoney",
-    max_count = 1
-  },
-  {
-    value = 420000,
-    yuplay_guid = "2A89AA81-F62A-474F-B270-A2A6EFCC9D98",
-    bundle = "Bundle_Military_womoney",
-    max_count = 1
-  },
-  {
-    value = 210000,
-    yuplay_guid = "58DC92F4-1687-4015-A4D4-D3104AE59CBA",
-    bundle = "Bundle_Xmas17_womoney",
-    max_count = 1
-  },
-  {
-    value = 100000,
-    yuplay_guid = "48E90359-DF77-4417-9B20-8FB6B66155F2",
-    bundle = "Bundle_14feb_18",
-    max_count = 1
   }
 }
 GoldPacks_PWRD = {}

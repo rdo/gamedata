@@ -7,7 +7,7 @@ Perk.Fast_Shooter = {
 }
 Perk.Long_Range_AC = {
   mechanics = "LONG_RANGE",
-  perk_damage_mul = 0.45,
+  perk_damage_mul = 0.35,
   ui_icon = "perk_star",
   ui_desc = "#PERK_LONG_RANGE_DESC"
 }
@@ -209,6 +209,12 @@ Perk.Ammo_Refund_Mammoth = {
   ui_icon = "perk_star",
   ui_desc = "#PERK_AMMO_REFUND_MAMMOTH_DESC"
 }
+Perk.Calc_ExtraDmg = {
+  mechanics = "CALCINATION_DAMAGE",
+  perk_damage_mul = 1.5,
+  ui_icon = "perk_star",
+  ui_desc = "#PERK_AMMO_REFUND_MAMMOTH_DESC"
+}
 Perk.Ammo_Refund_Fusion = {
   mechanics = "AMMO_REFUND",
   max_stack = 3,
@@ -252,7 +258,7 @@ Perk.Piercing_AmmoBelt = {
   mechanics = "PIERCING",
   ui_icon = "perk_star",
   ui_desc = "#PERK_POWER_PIERCING_AMMOBELT_DESC",
-  max_stack = 10
+  max_stack = 7
 }
 Perk.Piercing_AmmoBelt_AGS = {
   mechanics = "PIERCING",
@@ -279,8 +285,22 @@ Perk.Collision_Cabin = {
   perk_param = 100,
   perk_damage_mul = 1,
   max_stack = 3,
-  ui_icon = "perk_star",
-  ui_desc = "#PERK_Collision_DESC"
+  ui_icon = "moduleicon_Collision_skill",
+  ui_hud_icon = "moduleicon_Collision_skill",
+  ui_desc = "#PERK_Collision_DESC",
+  perk_fx1 = "particles/perks/hog_rage",
+  perk_fx2 = "particles/perks/hog_rage2",
+  perk_fx3 = "particles/perks/hog_rage3",
+  perk_sound = "event:/special/hog_perk"
+}
+Perk.Ambusher_Cabin = {
+  mechanics = "AMBUSHER",
+  perk_time = 5,
+  perk_damage_mul = 0.01,
+  perk_max_value = 12,
+  ui_icon = "moduleicon_Ambusher_skill",
+  ui_hud_icon = "moduleicon_Ambusher_skill",
+  ui_desc = "#PERK_Ambusher_DESC"
 }
 Perk.Technology_Cabin_Fusion = {
   skill_cooldown_mul = -0.2,
@@ -334,4 +354,24 @@ Perk.Course_Cabin = {
   nonrotated_weapon_damage_mul = 0.1,
   ui_icon = "perk_star",
   ui_desc = "#PERK_Course_Cabin_DESC"
+}
+Perk.Slow_Aim_Shotgun = {
+  mechanics = "PROJECTILE_SPELL",
+  spell = "Slow_Aim_Shotgun",
+  perk_param = 1,
+  ui_icon = "perk_star",
+  ui_desc = "#PERK_POWER_EXHAUST_DESC",
+  params = {
+    "spell_duration"
+  }
+}
+Perk.Slow_Aim_Grenade = {
+  mechanics = "PROJECTILE_SPELL",
+  spell = "Slow_Aim_Grenade",
+  perk_param = 1,
+  ui_icon = "perk_star",
+  ui_desc = "#PERK_POWER_EXHAUST_DESC",
+  params = {
+    "spell_duration"
+  }
 }

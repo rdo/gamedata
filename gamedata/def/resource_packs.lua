@@ -58,11 +58,41 @@ Def.ResourcePack_Platinum25 = {
   ui_part_type_icon = "type_resource_Platinum",
   ui_part_type = "95_ResourcePack"
 }
+Def.ResourcePack_Platinum45 = {
+  released = true,
+  item_type = "resource_pack",
+  resource_type = "Platinum",
+  resource_count = 45,
+  ui_name = "#ResourcePack_Platinum_Large_Name",
+  ui_icon = "icon_Platinum_huge",
+  ui_part_type_icon = "type_resource_Platinum",
+  ui_part_type = "95_ResourcePack"
+}
 Def.ResourcePack_Platinum50 = {
   released = true,
   item_type = "resource_pack",
   resource_type = "Platinum",
   resource_count = 50,
+  ui_name = "#ResourcePack_Platinum_Large_Name",
+  ui_icon = "icon_Platinum_huge",
+  ui_part_type_icon = "type_resource_Platinum",
+  ui_part_type = "95_ResourcePack"
+}
+Def.ResourcePack_Platinum60 = {
+  released = true,
+  item_type = "resource_pack",
+  resource_type = "Platinum",
+  resource_count = 60,
+  ui_name = "#ResourcePack_Platinum_Large_Name",
+  ui_icon = "icon_Platinum_huge",
+  ui_part_type_icon = "type_resource_Platinum",
+  ui_part_type = "95_ResourcePack"
+}
+Def.ResourcePack_Platinum90 = {
+  released = true,
+  item_type = "resource_pack",
+  resource_type = "Platinum",
+  resource_count = 90,
   ui_name = "#ResourcePack_Platinum_Large_Name",
   ui_icon = "icon_Platinum_huge",
   ui_part_type_icon = "type_resource_Platinum",
@@ -76,6 +106,56 @@ Def.ResourcePack_Platinum100 = {
   ui_name = "#ResourcePack_Platinum_Large_Name",
   ui_icon = "icon_Platinum_huge",
   ui_part_type_icon = "type_resource_Platinum",
+  ui_part_type = "95_ResourcePack"
+}
+Def.ResourcePack_Platinum120 = {
+  released = true,
+  item_type = "resource_pack",
+  resource_type = "Platinum",
+  resource_count = 120,
+  ui_name = "#ResourcePack_Platinum_Large_Name",
+  ui_icon = "icon_Platinum_huge",
+  ui_part_type_icon = "type_resource_Platinum",
+  ui_part_type = "95_ResourcePack"
+}
+Def.ResourcePack_Plastic100 = {
+  released = true,
+  item_type = "resource_pack",
+  resource_type = "Plastic",
+  resource_count = 100,
+  ui_name = "#ResourcePack_Plastic_Medium_Name",
+  ui_icon = "icon_plastic_huge",
+  ui_part_type_icon = "type_resource_Plastic",
+  ui_part_type = "95_ResourcePack"
+}
+Def.ResourcePack_Plastic1000 = {
+  released = true,
+  item_type = "resource_pack",
+  resource_type = "Plastic",
+  resource_count = 1000,
+  ui_name = "#ResourcePack_Plastic_Huge_Name",
+  ui_icon = "icon_plastic_huge",
+  ui_part_type_icon = "type_resource_Plastic",
+  ui_part_type = "95_ResourcePack"
+}
+Def.ResourcePack_Accumulators100 = {
+  released = true,
+  item_type = "resource_pack",
+  resource_type = "Accumulators",
+  resource_count = 100,
+  ui_name = "#ResourcePack_Accumulators_Medium_Name",
+  ui_icon = "icon_accumulators_huge",
+  ui_part_type_icon = "type_resource_Accumulators",
+  ui_part_type = "95_ResourcePack"
+}
+Def.ResourcePack_Accumulators1000 = {
+  released = true,
+  item_type = "resource_pack",
+  resource_type = "Accumulators",
+  resource_count = 1000,
+  ui_name = "#ResourcePack_Accumulators_Huge_Name",
+  ui_icon = "icon_accumulators_huge",
+  ui_part_type_icon = "type_resource_Accumulators",
   ui_part_type = "95_ResourcePack"
 }
 Def.ResourcePack_Scrap_Common1 = {

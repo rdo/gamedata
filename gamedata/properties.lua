@@ -228,23 +228,6 @@ EntityProps.LogicTimer = {
 EntityProps.LogicMapLoad = {
   desc = "Fires event on first Think and removes itself"
 }
-EntityProps.LogicChangeLevel = {
-  desc = "This used to load next level",
-  Properties = {
-    Settings = {
-      {
-        ["Next level name"] = {
-          key = "next_level_name",
-          type = "string",
-          desc = "Next level name"
-        }
-      }
-    }
-  }
-}
-EntityProps.LogicAutoSave = {
-  desc = "This used to trigger auto-save"
-}
 EntityProps.LogicRelay = {
   desc = "Fires events when triggered",
   Properties = {
@@ -1676,6 +1659,27 @@ EntityProps.MobFightArea = {
           key = "relationshipGroup",
           type = "int",
           desc = "Relationship group"
+        }
+      }
+    }
+  }
+}
+EntityProps.DecalEntity = {
+  desc = "Decal entity",
+  Properties = {
+    Decal = {
+      {
+        Decal = {
+          key = "decal",
+          type = "string",
+          desc = "decal id"
+        }
+      },
+      {
+        Flatten = {
+          key = "flatten",
+          type = "bool",
+          desc = ""
         }
       }
     }

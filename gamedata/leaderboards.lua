@@ -61,6 +61,7 @@ function ConfigureLeaderboards()
   table.insert(Leaderboards.Tables, {
     name = "item_sold_dynamic",
     entityType = Leaderboards.LET_DEF_NAME,
+    lastDecay = "1388534400000",
     decayInterval = 1440,
     decayPower = 0.05
   })
@@ -81,6 +82,7 @@ function ConfigureLeaderboards()
   table.insert(Leaderboards.Tables, {
     name = "item_kill_dynamic",
     entityType = Leaderboards.LET_DEF_NAME,
+    lastDecay = "1388534400000",
     decayInterval = 1440,
     decayPower = 0.05
   })
@@ -235,6 +237,25 @@ function ConfigureLeaderboards()
     event = "ladderRating",
     target = "ladder_rating",
     update = Leaderboards.LUT_SET
+  })
+  table.insert(Leaderboards.Tables, {
+    name = "battle_royale_win_weekly",
+    expiresAt = "1514764800000",
+    renewalInterval = 10080,
+    rewards = {
+      {
+        type = Leaderboards.LRT_EMO_ITEM,
+        posMin = 1,
+        posMax = 1,
+        params = {
+          item = "CarPart_MBP_Sign"
+        }
+      }
+    }
+  })
+  table.insert(Leaderboards.Routes, {
+    event = "win_battle_royale",
+    target = "battle_royale_win_weekly"
   })
 end
 ConfigureLeaderboards()

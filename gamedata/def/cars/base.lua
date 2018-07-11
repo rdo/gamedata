@@ -459,13 +459,13 @@ Def.Car_Base = {
   health_fx = {
     {
       bone = "fx01",
-      fx = "particles/gameplay/vehicle_dmg1",
+      fx = "particles/gameplay/lowhp/lowhp_vehicle_dmg1",
       hp_min = 25,
       hp_max = 50
     },
     {
       bone = "fx01",
-      fx = "particles/gameplay/vehicle_dmg2",
+      fx = "particles/gameplay/lowhp/lowhp_vehicle_dmg2",
       hp_min = 0.001,
       hp_max = 25
     },
@@ -479,11 +479,11 @@ Def.Car_Base = {
   health_event_fx = {
     {
       hp = 50,
-      death_effect = "particles/vehicle/vehicle_dmg1"
+      death_effect = "particles/gameplay/lowhp/lowhp_vehicle_event"
     },
     {
       hp = 25,
-      death_effect = "particles/vehicle/vehicle_dmg2"
+      death_effect = "particles/gameplay/lowhp/lowhp_vehicle_event"
     }
   },
   damageable = true,

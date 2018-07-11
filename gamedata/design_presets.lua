@@ -1,4 +1,19 @@
 FactoryBlueprint = {
+  football = {
+    ui_name = "#football_bundle_Vehicle_Name",
+    ui_desc = "#football_bundle_Vehicle_Desc",
+    design_file = "gamedata/car_design/CBT_bundle/football_bundle.xml"
+  },
+  hunter = {
+    ui_name = "#hunter_bundle_Vehicle_Name",
+    ui_desc = "#hunter_bundle_Vehicle_Desc",
+    design_file = "gamedata/car_design/CBT_bundle/hunter_bundle.xml"
+  },
+  ww1_tank = {
+    ui_name = "#ww1_tank_bundle_Vehicle_Name",
+    ui_desc = "#ww1_tank_bundle_Vehicle_Desc",
+    design_file = "gamedata/car_design/CBT_bundle/tank_bundle.xml"
+  },
   boar = {
     ui_name = "#boar_bundle_Vehicle_Name",
     ui_desc = "#boar_bundle_Vehicle_Desc",
@@ -8,6 +23,211 @@ FactoryBlueprint = {
     ui_name = "#ambulance01_bundle_Vehicle_Name",
     ui_desc = "#ambulance01_bundle_Vehicle_Desc",
     design_file = "gamedata/car_design/CBT_bundle/ambulance01.xml"
+  },
+  engineers_3lvl = {
+    ui_name = "#engineers_3lvl_Vehicle_Name",
+    ui_desc = "#engineers_3lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/engineers/engineers_3lvl.xml"
+  },
+  engineers_5lvl = {
+    ui_name = "#engineers_5lvl_Vehicle_Name",
+    ui_desc = "#engineers_5lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/engineers/engineers_5lvl.xml"
+  },
+  engineers_10lvl = {
+    ui_name = "#engineers_10lvl_Vehicle_Name",
+    ui_desc = "#engineers_10lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/engineers/engineers_10lvl.xml"
+  },
+  engineers_15lvl = {
+    ui_name = "#engineers_15lvl_Vehicle_Name",
+    ui_desc = "#engineers_15lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/engineers/engineers_15lvl.xml"
+  },
+  engineers_20lvl = {
+    ui_name = "#engineers_20lvl_Vehicle_Name",
+    ui_desc = "#engineers_20lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/engineers/engineers_20lvl.xml"
+  },
+  frenzied_1lvl = {
+    ui_name = "#frenzied_1lvl_Vehicle_Name",
+    ui_desc = "#frenzied_1lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/frenzied/frenzied_1lvl.xml"
+  },
+  frenzied_5lvl = {
+    ui_name = "#frenzied_5lvl_Vehicle_Name",
+    ui_desc = "#frenzied_5lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/frenzied/frenzied_5lvl.xml"
+  },
+  frenzied_7lvl = {
+    ui_name = "#frenzied_7lvl_Vehicle_Name",
+    ui_desc = "#frenzied_7lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/frenzied/frenzied_7lvl.xml"
+  },
+  frenzied_10lvl = {
+    ui_name = "#frenzied_10lvl_Vehicle_Name",
+    ui_desc = "#frenzied_10lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/frenzied/frenzied_10lvl.xml"
+  },
+  frenzied_13lvl = {
+    ui_name = "#frenzied_13lvl_Vehicle_Name",
+    ui_desc = "#frenzied_13lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/frenzied/frenzied_13lvl.xml"
+  },
+  frenzied_15lvl = {
+    ui_name = "#frenzied_15lvl_Vehicle_Name",
+    ui_desc = "#frenzied_15lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/frenzied/frenzied_15lvl.xml"
+  },
+  firestarters_1lvl = {
+    ui_name = "#firestarters_1lvl_Vehicle_Name",
+    ui_desc = "#firestarters_1lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/firestarters/firestarters_1lvl.xml"
+  },
+  firestarters_5lvl = {
+    ui_name = "#firestarters_5lvl_Vehicle_Name",
+    ui_desc = "#firestarters_5lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/firestarters/firestarters_5lvl.xml"
+  },
+  firestarters_7lvl = {
+    ui_name = "#firestarters_7lvl_Vehicle_Name",
+    ui_desc = "#firestarters_7lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/firestarters/firestarters_7lvl.xml"
+  },
+  firestarters_10lvl = {
+    ui_name = "#firestarters_10lvl_Vehicle_Name",
+    ui_desc = "#firestarters_10lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/firestarters/firestarters_10lvl.xml"
+  },
+  firestarters_13lvl = {
+    ui_name = "#firestarters_13lvl_Vehicle_Name",
+    ui_desc = "#firestarters_13lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/firestarters/firestarters_13lvl.xml"
+  },
+  firestarters_15lvl = {
+    ui_name = "#firestarters_15lvl_Vehicle_Name",
+    ui_desc = "#firestarters_15lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/firestarters/firestarters_15lvl.xml"
+  },
+  traders_1lvl = {
+    ui_name = "#traders_1lvl_Vehicle_Name",
+    ui_desc = "#traders_1lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/traders/traders_1lvl.xml"
+  },
+  traders_5lvl = {
+    ui_name = "#traders_5lvl_Vehicle_Name",
+    ui_desc = "#traders_5lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/traders/traders_5lvl.xml"
+  },
+  traders_7lvl = {
+    ui_name = "#traders_7lvl_Vehicle_Name",
+    ui_desc = "#traders_7lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/traders/traders_7lvl.xml"
+  },
+  traders_10lvl = {
+    ui_name = "#traders_10lvl_Vehicle_Name",
+    ui_desc = "#traders_10lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/traders/traders_10lvl.xml"
+  },
+  traders_13lvl = {
+    ui_name = "#traders_13lvl_Vehicle_Name",
+    ui_desc = "#traders_13lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/traders/traders_13lvl.xml"
+  },
+  traders_15lvl = {
+    ui_name = "#traders_15lvl_Vehicle_Name",
+    ui_desc = "#traders_15lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/traders/traders_15lvl.xml"
+  },
+  scientists_1lvl = {
+    ui_name = "#scientists_1lvl_Vehicle_Name",
+    ui_desc = "#scientists_1lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/scientists/scientists_1lvl.xml"
+  },
+  scientists_5lvl = {
+    ui_name = "#scientists_5lvl_Vehicle_Name",
+    ui_desc = "#scientists_5lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/scientists/scientists_5lvl.xml"
+  },
+  scientists_7lvl = {
+    ui_name = "#scientists_7lvl_Vehicle_Name",
+    ui_desc = "#scientists_7lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/scientists/scientists_7lvl.xml"
+  },
+  scientists_10lvl = {
+    ui_name = "#scientists_10lvl_Vehicle_Name",
+    ui_desc = "#scientists_10lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/scientists/scientists_10lvl.xml"
+  },
+  scientists_13lvl = {
+    ui_name = "#scientists_13lvl_Vehicle_Name",
+    ui_desc = "#scientists_13lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/scientists/scientists_13lvl.xml"
+  },
+  scientists_15lvl = {
+    ui_name = "#scientists_15lvl_Vehicle_Name",
+    ui_desc = "#scientists_15lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/scientists/scientists_15lvl.xml"
+  },
+  scavengers_1lvl = {
+    ui_name = "#scavengers_1lvl_Vehicle_Name",
+    ui_desc = "#scavengers_1lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/scavengers/scavengers_1lvl.xml"
+  },
+  scavengers_5lvl = {
+    ui_name = "#scavengers_5lvl_Vehicle_Name",
+    ui_desc = "#scavengers_5lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/scavengers/scavengers_5lvl.xml"
+  },
+  scavengers_7lvl = {
+    ui_name = "#scavengers_7lvl_Vehicle_Name",
+    ui_desc = "#scavengers_7lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/scavengers/scavengers_7lvl.xml"
+  },
+  scavengers_10lvl = {
+    ui_name = "#scavengers_10lvl_Vehicle_Name",
+    ui_desc = "#scavengers_10lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/scavengers/scavengers_10lvl.xml"
+  },
+  scavengers_13lvl = {
+    ui_name = "#scavengers_13lvl_Vehicle_Name",
+    ui_desc = "#scavengers_13lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/scavengers/scavengers_13lvl.xml"
+  },
+  scavengers_15lvl = {
+    ui_name = "#scavengers_15lvl_Vehicle_Name",
+    ui_desc = "#scavengers_15lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/scavengers/scavengers_15lvl.xml"
+  },
+  military_1lvl = {
+    ui_name = "#military_1lvl_Vehicle_Name",
+    ui_desc = "#military_1lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/military/military_1lvl.xml"
+  },
+  military_5lvl = {
+    ui_name = "#military_5lvl_Vehicle_Name",
+    ui_desc = "#military_5lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/military/military_5lvl.xml"
+  },
+  military_7lvl = {
+    ui_name = "#military_7lvl_Vehicle_Name",
+    ui_desc = "#military_7lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/military/military_7lvl.xml"
+  },
+  military_10lvl = {
+    ui_name = "#military_10lvl_Vehicle_Name",
+    ui_desc = "#military_10lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/military/military_10lvl.xml"
+  },
+  military_13lvl = {
+    ui_name = "#military_13lvl_Vehicle_Name",
+    ui_desc = "#military_13lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/military/military_13lvl.xml"
+  },
+  military_15lvl = {
+    ui_name = "#military_15lvl_Vehicle_Name",
+    ui_desc = "#military_15lvl_Vehicle_Desc",
+    design_file = "gamedata/car_design/faction/new/military/military_15lvl.xml"
   },
   shortford = {
     ui_name = "#Starter_Vehicle_Name",

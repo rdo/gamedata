@@ -8,11 +8,11 @@ Quest.BrawlQuest = {
 }
 Quest.PremiumQuest = {
   type = "GAME_COMPLETE",
-  value = 10,
+  value = 2,
   gamemodes = "all_pve;all_pvp",
   ui_image = "quest_PREMIUM",
   ui_desc = "#PremiumQuest_Desc",
-  money = 2000
+  money = 4000
 }
 Quest.NewYearQuest = {
   type = "WIN",
@@ -20,6 +20,13 @@ Quest.NewYearQuest = {
   gamemodes = "all_pvp",
   require_mission = "NewYear_Pvp",
   NewYearMoney = 500
+}
+Quest.MBPQuest = {
+  type = "WIN",
+  value = 3,
+  gamemodes = "all_pvp",
+  require_mission = "MBP",
+  avatar = "Mask_Ratking"
 }
 SeasonalLayouts = {}
 SeasonalPatterns = {}
