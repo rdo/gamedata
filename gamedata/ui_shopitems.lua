@@ -1,4 +1,51 @@
 UiShopItems = {
+  Bundle_Sportcar = {
+    bundleName = "Bundle_Sportcar",
+    ui_name = "#Bundle_Sportcar_Name",
+    ui_desc = "#Bundle_Sportcar_Desc",
+    ui_icon = "Bundle_Sportcar",
+    ui_icon_big = "Bundle_Sportcar_big",
+    sortId = 78,
+    hidden = false,
+    platforms = {
+      GAIJIN = {
+        id = "7C99EAD5-A334-4A2C-841C-4F07A73896A4",
+        store_link = "https://store.gaijin.net/story.php?id=6269"
+      },
+      STEAM = {
+        id = "887050",
+        store_link = "http://store.steampowered.com/app/887050/"
+      },
+      PS4_EU = {
+        id = "93758A8B-3EF9-4072-BA64-72BA541D541E"
+      },
+      PS4_US = {
+        id = "7562CE9D-0D90-4E1B-93D5-065C9739342F"
+      },
+      PS4_JP = {
+        id = "B4FA872A-DD2B-41B3-8556-48D59C93665B"
+      },
+      XBOX_ONE = {
+        id = "FEBB1E6C-DF3A-44AA-B6B6-CDE1299092C7"
+      },
+      GAMEFLIER = {
+        id = "DC02E02A-679C-42D3-A0C5-8E86F1D54941"
+      }
+    }
+  },
+  Bundle_Sportcar_womoney = {
+    bundleName = "Bundle_Sportcar_womoney",
+    ui_name = "#Bundle_Sportcar_womoney_Name",
+    ui_desc = "#Bundle_Sportcar_womoney_Desc",
+    ui_icon = "Bundle_Sportcar_womoney",
+    sortId = 78,
+    hidden = false,
+    platforms = {
+      PW = {id = "fake"},
+      TDP = {id = "fake"},
+      XBOX_ONE_CERT = {id = "fake"}
+    }
+  },
   Bundle_fiery_claw = {
     bundleName = "Bundle_fiery_claw",
     ui_name = "#Bundle_fiery_claw_Name",

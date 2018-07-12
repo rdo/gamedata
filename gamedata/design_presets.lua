@@ -1,4 +1,9 @@
 FactoryBlueprint = {
+  racer = {
+    ui_name = "#racer_bundle_Vehicle_Name",
+    ui_desc = "#racer_bundle_Vehicle_Desc",
+    design_file = "gamedata/car_design/CBT_bundle/racer_bundle.xml"
+  },
   football = {
     ui_name = "#football_bundle_Vehicle_Name",
     ui_desc = "#football_bundle_Vehicle_Desc",

@@ -66,6 +66,7 @@ ItemUITypes = {
   "structure_mechanics_angle",
   "structure_mechanics_muscle",
   "structure_vagabonds_avia",
+  "structure_supercar",
   "structure_scientists",
   "structure_vagabonds_hotrod",
   "structure_scavengers_truck",

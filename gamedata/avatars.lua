@@ -227,6 +227,10 @@ Avatars.Mask_Football = {
   ui_icon = "avatar_football",
   sortId = 770
 }
+Avatars.Mask_Racer = {
+  ui_icon = "avatar_racer",
+  sortId = 771
+}
 Avatars.Mask_1 = {
   ui_icon = "avatar_Mask_12",
   sortId = 900

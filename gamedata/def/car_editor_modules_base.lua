@@ -216,7 +216,7 @@ Def.Turret_Harpoon_Base = {
   ai_aiming_instant = true,
   no_attach_rope_to_allies = true,
   high_precision = true,
-  suicide_after_harpoon = 15,
+  suicide_after_harpoon = 10,
   no_attach_rope_to_leviathans = true,
   broken_parts = {
     {

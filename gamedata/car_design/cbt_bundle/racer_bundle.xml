@@ -1,0 +1,48 @@
+﻿<?xml version="1.0"?>
+<CarDesign numParts="41">
+  <Chassis def="Cabin_Lambo" pos="0.300 0.750 -0.600" dye="metal_Yellow03">
+    <Part def="CarPart_lambo_r_fender_l" weld_pos="1.200 1.500 1.650" dye="metal_Yellow03" />
+    <Part def="CarPart_lambo_r_fender_r" weld_pos="-0.600 1.500 1.650" dye="metal_Yellow03" />
+    <Part def="CarPart_Engine_epic" weld_pos="0.300 0.750 0.900" dye="metal_Yellow03" />
+    <Part def="CarPart_lambo_nosecut" weld_pos="0.300 1.050 -1.950" dye="metal_Yellow03" />
+    <Part def="CarPart_TruckSlope" weld_pos="-0.300 1.650 0.600" weld_rot_idx="22" dye="metal_Yellow03" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.900 1.650 0.600" weld_rot_idx="18" dye="metal_Yellow03" />
+    <Part def="CarPart_Holder_2x2" weld_pos="0.750 1.200 1.650" weld_rot_idx="6" dye="Dye_Eraser" />
+    <Part def="CarPart_Holder_2x2" weld_pos="-0.150 1.200 1.650" weld_rot_idx="6" dye="Dye_Eraser" />
+    <Part def="CarPart_lambo_f_fender_r" weld_pos="-0.600 1.200 -1.500" dye="metal_Yellow03" />
+    <Part def="CarPart_lambo_f_fender_l" weld_pos="1.200 1.200 -1.500" dye="metal_Yellow03" />
+    <Part def="CarPart_AviaBox2x1x2" weld_pos="-0.300 1.350 0.600" weld_rot_idx="17" dye="metal_Yellow03" />
+    <Part def="CarPart_AviaBox2x1x2" weld_pos="0.900 1.350 0.600" weld_rot_idx="20" dye="metal_Yellow03" />
+    <Part def="CarPart_AutoGuidedCourseGun_epic" weld_pos="0.300 1.950 0.600" weaponGroup="2" dye="metal_Yellow03" />
+    <Part def="CarPart_LightsRear1" weld_pos="1.050 1.800 2.400" weld_rot_idx="4" dye="metal_Yellow03" />
+    <Part def="CarPart_LightsRear1" weld_pos="-0.450 1.800 2.400" weld_rot_idx="10" dye="metal_Yellow03" />
+    <Part def="CarPart_AviaBox2x1x2" weld_pos="0.300 1.050 1.800" weld_rot_idx="7" dye="metal_Yellow03" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.300 0.750 0.900" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.300 0.750 1.800" weld_rot_idx="22" />
+    <Part def="CarPart_WheelDouble_R_epic" weld_pos="0.450 0.450 2.100" weld_rot_idx="4" />
+    <Part def="CarPart_WheelDouble_R_epic" weld_pos="0.150 0.450 2.100" />
+    <Part def="CarPart_WheelSmallChains_S" weld_pos="0.750 0.450 -1.500" weld_rot_idx="4" />
+    <Part def="CarPart_WheelSmallChains_S" weld_pos="-0.150 0.450 -1.500" />
+    <Part def="CarPart_lambo_spoiler" weld_pos="0.300 2.100 2.100" />
+    <Part def="CarPart_lambo_bumper" weld_pos="0.300 0.600 -2.100" />
+    <Part def="CarPart_Grid_3" weld_pos="1.200 0.750 -0.300" weld_rot_idx="23" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="1.050 1.050 1.200" weld_rot_idx="1" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.300 0.750 0.300" />
+    <Part def="CarPart_ChassisLight2" weld_pos="0.300 0.750 -1.500" weld_rot_idx="4" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.900 0.750 0.600" weld_rot_idx="16" />
+    <Part def="CarPart_TruckSlope" weld_pos="-0.300 0.750 0.600" weld_rot_idx="21" />
+    <Part def="CarPart_Grid_3" weld_pos="-0.600 0.750 -0.300" weld_rot_idx="19" />
+    <Part def="CarPart_Buggy_Grid6" weld_pos="-0.450 1.050 1.200" weld_rot_idx="1" />
+    <Part def="CarPart_Exhaust_Dble_Side_R" weld_pos="-0.600 1.350 0.450" />
+    <Part def="CarPart_Exhaust_Dble_Side_L" weld_pos="1.200 1.350 0.450" />
+    <Part def="CarPart_TruckSlope" weld_pos="0.300 1.050 1.800" weld_rot_idx="6" />
+    <Part def="CarPart_Grid_1" weld_pos="0.300 1.350 1.800" />
+    <Part def="CarPart_Buggy_Grid5" weld_pos="0.300 1.650 1.500" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="0.300 1.650 2.100" weld_rot_idx="4" />
+    <Part def="CarPart_Buggy_Grid8" weld_pos="0.300 1.650 2.100" weld_rot_idx="6" dye="metal_Yellow03" />
+    <Part def="CarPart_ModuleAmmo_rare" weld_pos="0.300 0.450 -0.900" weld_rot_idx="18" />
+    <Part def="CarPart_ModuleAmmo_rare" weld_pos="0.300 0.450 -0.300" weld_rot_idx="18" />
+  </Chassis>
+  <Decal def="Decal_bull01" pos="1.246 1.071 -0.070" rot="1.795 0.832 2.825" scale="1.460" />
+  <Decal def="Decal_bull01" pos="-0.641 1.053 -0.055" rot="6.116 0.304 1.490" scale="-1.460" />
+</CarDesign>

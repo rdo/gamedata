@@ -179,4 +179,5 @@
   <Decal Name="number13" AlbedoTexture="textures\stickers\numbers\n13.dds" />
   <Decal Name="number33" AlbedoTexture="textures\stickers\numbers\n33.dds" />
   <Decal Name="number69" AlbedoTexture="textures\stickers\numbers\n69.dds" />
+  <Decal Name="bull01" AlbedoTexture="textures\stickers\bull01.dds" />
 </DecalsLibrary>

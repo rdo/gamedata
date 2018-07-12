@@ -15,7 +15,15 @@ Def.Flare_Brakelight = {
   base_color = "150 45 30 15"
 }
 Def.CarPart_Headlights_base = {is_light = true}
-Def.CarPart_Brakelights_base = {is_stop_light = true}
+Def.CarPart_Brakelights_base = {
+  is_stop_light = true,
+  point_lights = {
+    {
+      point_light = "Lights_StopLight",
+      offset = Vec3(0, 0, -0.2)
+    }
+  }
+}
 Def.CarPart_Headlights.is_light = true
 Def.CarPart_Headlights2.is_light = true
 Def.CarPart_Headlights3.is_light = true
@@ -59,6 +67,18 @@ Def.CarPart_Exhaust3.backfire_effects = {
 Def.CarPart_Exhaust_Quad_01.backfire_effects = {
   {
     effect = "particles/constructor/exhaust_backfire_c",
+    joint = "fx1"
+  }
+}
+Def.CarPart_Exhaust_Dble_Side_R.speed_effects = {
+  {
+    effect = "particles/constructor/exhaust_smoke_racer_r",
+    joint = "fx1"
+  }
+}
+Def.CarPart_Exhaust_Dble_Side_L.speed_effects = {
+  {
+    effect = "particles/constructor/exhaust_smoke_racer_l",
     joint = "fx1"
   }
 }

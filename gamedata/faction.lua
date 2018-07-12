@@ -509,7 +509,13 @@ Faction.Traders = {
   require_faction_level = 10,
   paragon = {
     exp_require = 1070000,
-    item_reward = {Chest_Gift = 1}
+    item_reward = {Chest_Gift = 1},
+    random_unlock = {
+      {CarPart_lambo_bumper = 1},
+      {CarPart_lambo_f_fender_l = 1, CarPart_lambo_f_fender_r = 1},
+      {CarPart_lambo_r_fender_l = 1, CarPart_lambo_r_fender_r = 1},
+      {CarPart_lambo_nosecut = 1}
+    }
   },
   level = {
     [1] = {
@@ -962,7 +968,6 @@ Faction.Scientists = {
   },
   level = {
     [1] = {
-      item_reward = {},
       item_unlock = {
         CarPart_Structure_Syfy_Box_Small = 2,
         CarPart_Structure_Syfy_Slope = 2,
@@ -975,7 +980,6 @@ Faction.Scientists = {
     [2] = {
       exp_require = 34000,
       avatar = "Mask_Scientists_1",
-      item_reward = {},
       item_unlock = {
         CarPart_Structure_Syfy_Slope_Large = 2,
         CarPart_Structure_Syfy_Box_Small = 2,
@@ -1102,7 +1106,6 @@ Faction.Firestarters = {
   },
   level = {
     [1] = {
-      item_reward = {},
       blueprint = {
         "firestarters_1lvl"
       },
@@ -1115,7 +1118,6 @@ Faction.Firestarters = {
     [2] = {
       exp_require = 34000,
       avatar = "Mask_Firestarters_3",
-      item_reward = {},
       item_unlock = {
         CarPart_Structure_bumper1 = 1,
         CarPart_Structure_trunk = 2,

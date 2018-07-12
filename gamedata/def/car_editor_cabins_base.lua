@@ -425,21 +425,21 @@ Def.Chassis_Spider_base = {
 }
 Def.Cabin_Lambo_Base = {
   inherit = "Car_Base",
-  motor_sound = "sound/engine/jeep_cj7/cj7_engine",
-  backfire_sound = "sound/engine/wyvern/backfire",
-  legs_motor_sound = "sound/engine/jeep_cj7/cj7_engine",
+  motor_sound = "event:/engine/lambo/lambo_engine",
+  legs_motor_sound = "event:/engine/lambo/lambo_engine",
+  revs_sound_low = "event:/engine/lambo/lambo_revs_low",
+  backfire_sound = "event:/engine/lambo/backfire",
+  backfire_sound_rpm = 0.25,
   liftingjack_sound = "sound/special/liftingjack",
-  horn_snd = "sound/horn/tribal",
+  horn_snd = "sound/horn/lambo",
   susp_hit_snd = "sound/suspension/common",
   switch_up_start_point = 0.99,
   switch_up_end_point = 0.25,
   post_acceleration_ratio = 0.3,
   susp_hit_snd = "sound/suspension/common",
-  spread_mul = -0.25,
+  spread_mul = -0.35,
   model = "models/constructor/cabins/ford_pickup/pickup",
-  physics = {material = "Metal_Car", mass = 750},
-  collision_damage = 2,
-  subtype = "MeleeBlunt"
+  physics = {material = "Metal_Car", mass = 750}
 }
 Def.Chassis_Mustang_base = {
   inherit = "Car_Base",

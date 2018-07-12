@@ -1,4 +1,16 @@
 Bundle = {}
+Bundle.Bundle_Sportcar = {
+  ingame_shop = true,
+  blueprint = {"racer"},
+  max_gear_level = 55,
+  avatar = "Mask_Racer"
+}
+Bundle.Bundle_Sportcar_womoney = {
+  ingame_shop = true,
+  blueprint = {"racer"},
+  max_gear_level = 55,
+  avatar = "Mask_Racer"
+}
 Bundle.Bundle_fiery_claw = {
   ingame_shop = false,
   blueprint = {

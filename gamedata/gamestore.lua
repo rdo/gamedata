@@ -218,6 +218,13 @@ GoldPacks_GAIJIN = {
     bundle = "Bundle_Football"
   },
   {
+    value = 150000,
+    steam_appid = "887050",
+    yuplay_guid = "7C99EAD5-A334-4A2C-841C-4F07A73896A4",
+    yuplay_guid_present = "DB2A23A3-70EC-4420-BF46-5F8B594E3AB1",
+    bundle = "Bundle_Sportcar"
+  },
+  {
     value = 400000,
     yuplay_guid = "B89ED97C-8412-4FFD-96E7-F5925E4457A3",
     bundle = {
@@ -700,6 +707,11 @@ GoldPacks_GAIJIN = {
     bundle = "Bundle_Football"
   },
   {
+    value = 150000,
+    yuplay_guid = "DC02E02A-679C-42D3-A0C5-8E86F1D54941",
+    bundle = "Bundle_Sportcar"
+  },
+  {
     value = 0,
     yuplay_guid = "DFF92CB2-037A-4461-86FB-27CD9C54891C",
     bundle = "TW_Taiwan_decal"
@@ -966,6 +978,11 @@ GoldPacks_PS4 = {
     bundle = "Bundle_Football"
   },
   {
+    value = 150000,
+    yuplay_guid = "93758A8B-3EF9-4072-BA64-72BA541D541E",
+    bundle = "Bundle_Sportcar"
+  },
+  {
     value = 0,
     yuplay_guid = "B8980345-C9E6-4B16-98F3-B16CB4154D10",
     premium_duration = 2592000
@@ -1090,6 +1107,11 @@ GoldPacks_PS4 = {
     bundle = "Bundle_Football"
   },
   {
+    value = 150000,
+    yuplay_guid = "7562CE9D-0D90-4E1B-93D5-065C9739342F",
+    bundle = "Bundle_Sportcar"
+  },
+  {
     value = 0,
     yuplay_guid = "C2DBB716-3F21-405D-97D9-A1BFD157D5C2",
     premium_duration = 2592000
@@ -1208,6 +1230,11 @@ GoldPacks_PS4 = {
     value = 50000,
     yuplay_guid = "F65FB93A-D45A-4F9D-8019-757A8B599AFA",
     bundle = "Bundle_Football"
+  },
+  {
+    value = 150000,
+    yuplay_guid = "B4FA872A-DD2B-41B3-8556-48D59C93665B",
+    bundle = "Bundle_Sportcar"
   },
   {
     value = 0,
@@ -1349,6 +1376,12 @@ GoldPacks_XBOX = {
     value = 50000,
     yuplay_guid = "74C73121-C01F-4AFD-89C4-F93212016D57",
     bundle = "Bundle_Football",
+    max_count = 1
+  },
+  {
+    value = 150000,
+    yuplay_guid = "FEBB1E6C-DF3A-44AA-B6B6-CDE1299092C7",
+    bundle = "Bundle_Sportcar",
     max_count = 1
   },
   {
