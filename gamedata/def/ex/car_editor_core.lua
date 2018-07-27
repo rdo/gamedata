@@ -2238,6 +2238,7 @@ Def.CarPart_SelfCalc.power_require = 2
 Def.CarPart_SelfCalc.require_faction = "Base"
 Def.CarPart_SelfCalc.require_faction_level = 10
 Def.CarPart_SelfCalc.spell = "FireWorshipers_Module"
+Def.CarPart_SelfCalc.spell2 = "FireWorshipers_Module2"
 Def.CarPart_SelfCalc.work_time = 5
 Def.CarPart_SelfCalc.cooldown = 25
 Def.CarPart_SelfCalc.universal_rating = 385

@@ -437,7 +437,7 @@ Def.Cabin_Lambo_Base = {
   switch_up_end_point = 0.25,
   post_acceleration_ratio = 0.3,
   susp_hit_snd = "sound/suspension/common",
-  spread_mul = -0.35,
+  spread_mul = -0.2,
   model = "models/constructor/cabins/ford_pickup/pickup",
   physics = {material = "Metal_Car", mass = 750}
 }
