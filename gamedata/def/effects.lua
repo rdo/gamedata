@@ -30,11 +30,11 @@ Def.Lights_Welding3 = {
   time = 7,
   flicker = "aaaaaaaaaaaaaaakokokaaaaaaaaaaaaaaaaaokaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaokokokkokooka"
 }
-Def.Lights_StopBigLight = {
+Def.Lights_LampLight = {
   class = "PointLight",
   in_editor = false,
-  rad = 0.85,
-  color = "190 50 50",
+  rad = 1.85,
+  color = "150 150 150",
   time = 0.3,
   flicker = "z"
 }
@@ -73,10 +73,10 @@ Def.Lights_FlameRocket = {
 Def.Lights_StopLight = {
   class = "PointLight",
   in_editor = false,
-  rad = 0.35,
+  rad = 0.6,
   color = "190 50 50",
   time = 0.3,
-  flicker = "a"
+  flicker = "z"
 }
 Def.Lights_PolLightRed = {
   class = "PointLight",

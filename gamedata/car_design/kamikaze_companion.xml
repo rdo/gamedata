@@ -2,9 +2,9 @@
 <CarDesign numParts="5">
   <Chassis def="Cabin_Kamikaze_Companion" pos="1.200 1.050 -0.750">
     <Part def="Car_Part_dronebarrel_wheel" weld_pos="1.445 0.902 -0.072" weld_rot_idx="4" />
-    <Part def="Car_Part_dronebarrel_wheel" weld_pos="0.955 0.902 -1.064" />
+    <Part def="Car_Part_dronebarrel_wheel_S" weld_pos="0.955 0.902 -1.064" />
     <Part def="Car_Part_dronebarrel_wheel_rear" weld_pos="0.955 0.902 -0.072" />
-    <Part def="Car_Part_dronebarrel_wheel_rear" weld_pos="1.445 0.902 -1.064" weld_rot_idx="4" />
+    <Part def="Car_Part_dronebarrel_wheel_rear_S" weld_pos="1.445 0.902 -1.064" weld_rot_idx="4" />
     <Part def="CarPart_Drone_Barrel" weld_pos="1.200 1.481 -0.600" />
   </Chassis>
 </CarDesign>

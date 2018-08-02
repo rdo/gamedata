@@ -7,6 +7,10 @@ UiItemFakePerk.Armor_Piercing = {
     "projectile_piercing_depth"
   }
 }
+UiItemFakePerk.Never_Heat = {
+  ui_icon = "perk_star",
+  ui_desc = "#perk_Never_Heat_desc"
+}
 UiItemFakePerk.Homing = {
   ui_icon = "perk_star",
   ui_desc = "#perk_homing_desc"

@@ -455,4 +455,6 @@
   <item modelName="models\constructor\structure\raider_const\spikes2x1x2" dx="-0.050000" dy="0.100000" dz="0.200000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
   <item modelName="models\constructor\structure\raider_const\spikes_4x1x2" dx="-0.150000" dy="0.050000" dz="-0.400000" dist="0.000000" dYaw="0" dPitch="0" dRoll="0" />
   <item modelName="models\constructor\structure\tribal_const\tribal_spikes" dx="0.000000" dy="0.050000" dz="0.000000" dist="0.000000" dYaw="2" dPitch="3" dRoll="3" />
+  <item modelName="models\constructor\structure\lambo_const\bumper" dx="0.100000" dy="0.050000" dz="-1.000000" dist="0.000000" dYaw="3" dPitch="0" dRoll="0" />
+  <item modelName="models\constructor\decor\exhaust\exhaust_dble_side_02" dx="0.000000" dy="0.000000" dz="0.000000" dist="0.000000" dYaw="3" dPitch="0" dRoll="0" />
 </itemsNode>
